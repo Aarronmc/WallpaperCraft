@@ -174,149 +174,149 @@ tile.SolidGray_14.name=Solid Cool Dark Blue Gray
 
 
 #Diagonally Dotted Red Colours
-tile.DiagonallyDottedRed_0.name=Diagonnaly Dotted Light Warm Pink
-tile.DiagonallyDottedRed_1.name=Diagonnaly Dotted Light Red
-tile.DiagonallyDottedRed_2.name=Diagonnaly Dotted Bright Red
-tile.DiagonallyDottedRed_3.name=Diagonnaly Dotted Red
-tile.DiagonallyDottedRed_4.name=Diagonnaly Dotted Blood Red
-tile.DiagonallyDottedRed_5.name=Diagonnaly Dotted Light Cool Pink
-tile.DiagonallyDottedRed_6.name=Diagonnaly Dotted Pink
-tile.DiagonallyDottedRed_7.name=Diagonnaly Dotted Hot Pink
-tile.DiagonallyDottedRed_8.name=Diagonnaly Dotted Dark Pink
-tile.DiagonallyDottedRed_9.name=Diagonnaly Dotted Hot Pink
-tile.DiagonallyDottedRed_10.name=Diagonnaly Dotted Fuchsia
-tile.DiagonallyDottedRed_11.name=Diagonnaly Dotted Baby Pink
-tile.DiagonallyDottedRed_12.name=Diagonnaly Dotted Light Salmon
-tile.DiagonallyDottedRed_13.name=Diagonnaly Dotted Brown Red
-tile.DiagonallyDottedRed_14.name=Diagonnaly Dotted Dark Brown Red
+tile.DiagonallyDottedRed_0.name=Dotted Light Warm Pink
+tile.DiagonallyDottedRed_1.name=Dotted Light Red
+tile.DiagonallyDottedRed_2.name=Dotted Bright Red
+tile.DiagonallyDottedRed_3.name=Dotted Red
+tile.DiagonallyDottedRed_4.name=Dotted Blood Red
+tile.DiagonallyDottedRed_5.name=Dotted Light Cool Pink
+tile.DiagonallyDottedRed_6.name=Dotted Pink
+tile.DiagonallyDottedRed_7.name=Dotted Hot Pink
+tile.DiagonallyDottedRed_8.name=Dotted Dark Pink
+tile.DiagonallyDottedRed_9.name=Dotted Hot Pink
+tile.DiagonallyDottedRed_10.name=Dotted Fuchsia
+tile.DiagonallyDottedRed_11.name=Dotted Baby Pink
+tile.DiagonallyDottedRed_12.name=Dotted Light Salmon
+tile.DiagonallyDottedRed_13.name=Dotted Brown Red
+tile.DiagonallyDottedRed_14.name=Dotted Dark Brown Red
 
 
 
 #Diagonally Dotted Purple Colours
-tile.DiagonallyDottedPurple_0.name=Diagonnaly Dotted Light Magenta
-tile.DiagonallyDottedPurple_1.name=Diagonnaly Dotted Magenta
-tile.DiagonallyDottedPurple_2.name=Diagonnaly Dotted Dark Magenta
-tile.DiagonallyDottedPurple_3.name=Diagonnaly Dotted Violet
-tile.DiagonallyDottedPurple_4.name=Diagonnaly Dotted Dark Violet
-tile.DiagonallyDottedPurple_5.name=Diagonnaly Dotted Light Violet
-tile.DiagonallyDottedPurple_6.name=Diagonnaly Dotted Light Purple
-tile.DiagonallyDottedPurple_7.name=Diagonnaly Dotted Purple
-tile.DiagonallyDottedPurple_8.name=Diagonnaly Dotted Dark Purple
-tile.DiagonallyDottedPurple_9.name=Diagonnaly Dotted Royal Blue
-tile.DiagonallyDottedPurple_10.name=Diagonnaly Dotted Light Lavender
-tile.DiagonallyDottedPurple_11.name=Diagonnaly Dotted avender
-tile.DiagonallyDottedPurple_12.name=Diagonnaly Dotted Azure Blue
-tile.DiagonallyDottedPurple_13.name=Diagonnaly Dotted Dark Blue
-tile.DiagonallyDottedPurple_14.name=Diagonnaly Dotted Midnight Blue
+tile.DiagonallyDottedPurple_0.name=Dotted Light Magenta
+tile.DiagonallyDottedPurple_1.name=Dotted Magenta
+tile.DiagonallyDottedPurple_2.name=Dotted Dark Magenta
+tile.DiagonallyDottedPurple_3.name=Dotted Violet
+tile.DiagonallyDottedPurple_4.name=Dotted Dark Violet
+tile.DiagonallyDottedPurple_5.name=Dotted Light Violet
+tile.DiagonallyDottedPurple_6.name=Dotted Light Purple
+tile.DiagonallyDottedPurple_7.name=Dotted Purple
+tile.DiagonallyDottedPurple_8.name=Dotted Dark Purple
+tile.DiagonallyDottedPurple_9.name=Dotted Royal Blue
+tile.DiagonallyDottedPurple_10.name=Dotted Light Lavender
+tile.DiagonallyDottedPurple_11.name=Dotted avender
+tile.DiagonallyDottedPurple_12.name=Dotted Azure Blue
+tile.DiagonallyDottedPurple_13.name=Dotted Dark Blue
+tile.DiagonallyDottedPurple_14.name=Dotted Midnight Blue
 
 
 
 #Diagonally Dotted Blue Colours
-tile.DiagonallyDottedBlue_0.name=Diagonnaly Dotted Light Blue
-tile.DiagonallyDottedBlue_1.name=Diagonnaly Dotted Light Sky Blue
-tile.DiagonallyDottedBlue_2.name=Diagonnaly Dotted Sky Blue
-tile.DiagonallyDottedBlue_3.name=Diagonnaly Dotted Dark Sky Blue
-tile.DiagonallyDottedBlue_4.name=Diagonnaly Dotted Navy Blue
-tile.DiagonallyDottedBlue_5.name=Diagonnaly Dotted Light Baby Blue
-tile.DiagonallyDottedBlue_6.name=Diagonnaly Dotted Baby Blue
-tile.DiagonallyDottedBlue_7.name=Diagonnaly Dotted Bright Blue
-tile.DiagonallyDottedBlue_8.name=Diagonnaly Dotted Medium Blue
-tile.DiagonallyDottedBlue_9.name=Diagonnaly Dotted Deep Blue
-tile.DiagonallyDottedBlue_10.name=Diagonnaly Dotted Light Aqua Blue
-tile.DiagonallyDottedBlue_11.name=Diagonnaly Dotted Aqua Blue
-tile.DiagonallyDottedBlue_12.name=Diagonnaly Dotted Dark Aqua Blue
-tile.DiagonallyDottedBlue_13.name=Diagonnaly Dotted Oceon Blue
-tile.DiagonallyDottedBlue_14.name=Diagonnaly Dotted Midnight Blue
+tile.DiagonallyDottedBlue_0.name=Dotted Light Blue
+tile.DiagonallyDottedBlue_1.name=Dotted Light Sky Blue
+tile.DiagonallyDottedBlue_2.name=Dotted Sky Blue
+tile.DiagonallyDottedBlue_3.name=Dotted Dark Sky Blue
+tile.DiagonallyDottedBlue_4.name=Dotted Navy Blue
+tile.DiagonallyDottedBlue_5.name=Dotted Light Baby Blue
+tile.DiagonallyDottedBlue_6.name=Dotted Baby Blue
+tile.DiagonallyDottedBlue_7.name=Dotted Bright Blue
+tile.DiagonallyDottedBlue_8.name=Dotted Medium Blue
+tile.DiagonallyDottedBlue_9.name=Dotted Deep Blue
+tile.DiagonallyDottedBlue_10.name=Dotted Light Aqua Blue
+tile.DiagonallyDottedBlue_11.name=Dotted Aqua Blue
+tile.DiagonallyDottedBlue_12.name=Dotted Dark Aqua Blue
+tile.DiagonallyDottedBlue_13.name=Dotted Oceon Blue
+tile.DiagonallyDottedBlue_14.name=Dotted Midnight Blue
 
 
 
 #Diagonally Dotted Brown Colours
-tile.DiagonallyDottedBrown_0.name=Diagonnaly Dotted Soft Orange
-tile.DiagonallyDottedBrown_1.name=Diagonnaly Dotted Sienna brown
-tile.DiagonallyDottedBrown_2.name=Diagonnaly Dotted Burnt Sienna Brown
-tile.DiagonallyDottedBrown_3.name=Diagonnaly Dotted Earth Brown
-tile.DiagonallyDottedBrown_4.name=Diagonnaly Dotted Soil Brown
-tile.DiagonallyDottedBrown_5.name=Diagonnaly Dotted Light Beige
-tile.DiagonallyDottedBrown_6.name=Diagonnaly Dotted Beige
-tile.DiagonallyDottedBrown_7.name=Diagonnaly Dotted Terracotta Red
-tile.DiagonallyDottedBrown_8.name=Diagonnaly Dotted Brown
-tile.DiagonallyDottedBrown_9.name=Diagonnaly Dotted Saddle Brown
-tile.DiagonallyDottedBrown_10.name=Diagonnaly Dotted Light Gray Brown
-tile.DiagonallyDottedBrown_11.name=Diagonnaly Dotted Gray Brown
-tile.DiagonallyDottedBrown_12.name=Diagonnaly Dotted Middle Gray Brown
-tile.DiagonallyDottedBrown_13.name=Diagonnaly Dotted Gray Brown
-tile.DiagonallyDottedBrown_14.name=Diagonnaly Dotted Dark Gray Brown
+tile.DiagonallyDottedBrown_0.name=Dotted Soft Orange
+tile.DiagonallyDottedBrown_1.name=Dotted Sienna brown
+tile.DiagonallyDottedBrown_2.name=Dotted Burnt Sienna Brown
+tile.DiagonallyDottedBrown_3.name=Dotted Earth Brown
+tile.DiagonallyDottedBrown_4.name=Dotted Soil Brown
+tile.DiagonallyDottedBrown_5.name=Dotted Light Beige
+tile.DiagonallyDottedBrown_6.name=Dotted Beige
+tile.DiagonallyDottedBrown_7.name=Dotted Terracotta Red
+tile.DiagonallyDottedBrown_8.name=Dotted Brown
+tile.DiagonallyDottedBrown_9.name=Dotted Saddle Brown
+tile.DiagonallyDottedBrown_10.name=Dotted Light Gray Brown
+tile.DiagonallyDottedBrown_11.name=Dotted Gray Brown
+tile.DiagonallyDottedBrown_12.name=Dotted Middle Gray Brown
+tile.DiagonallyDottedBrown_13.name=Dotted Gray Brown
+tile.DiagonallyDottedBrown_14.name=Dotted Dark Gray Brown
 
 
 
 #Diagonally Dotted Cyan Colours
-tile.DiagonallyDottedCyan_0.name=Diagonnaly Dotted Light Green Blue
-tile.DiagonallyDottedCyan_1.name=Diagonnaly Dotted Light Turquoise Blue
-tile.DiagonallyDottedCyan_2.name=Diagonnaly Dotted Turquoise Blue
-tile.DiagonallyDottedCyan_3.name=Diagonnaly Dotted Teal Blue
-tile.DiagonallyDottedCyan_4.name=Diagonnaly Dotted Dark Teal Blue
-tile.DiagonallyDottedCyan_5.name=Diagonnaly Dotted Light Seafoam Blue Green
-tile.DiagonallyDottedCyan_6.name=Diagonnaly Dotted Seafoam Blue Green
-tile.DiagonallyDottedCyan_7.name=Diagonnaly Dotted Blue Green
-tile.DiagonallyDottedCyan_8.name=Diagonnaly Dotted Dark Blue Green
-tile.DiagonallyDottedCyan_9.name=Diagonnaly Dotted Dark Pine Blue Green
+tile.DiagonallyDottedCyan_0.name=Dotted Light Green Blue
+tile.DiagonallyDottedCyan_1.name=Dotted Light Turquoise Blue
+tile.DiagonallyDottedCyan_2.name=Dotted Turquoise Blue
+tile.DiagonallyDottedCyan_3.name=Dotted Teal Blue
+tile.DiagonallyDottedCyan_4.name=Dotted Dark Teal Blue
+tile.DiagonallyDottedCyan_5.name=Dotted Light Seafoam Blue Green
+tile.DiagonallyDottedCyan_6.name=Dotted Seafoam Blue Green
+tile.DiagonallyDottedCyan_7.name=Dotted Blue Green
+tile.DiagonallyDottedCyan_8.name=Dotted Dark Blue Green
+tile.DiagonallyDottedCyan_9.name=Dotted Dark Pine Blue Green
 
 
 
 #Diagonally Dotted Green Colours
-tile.DiagonallyDottedGreen_0.name=Diagonnaly Dotted Light Green
-tile.DiagonallyDottedGreen_1.name=Diagonnaly Dotted Light Spring Green
-tile.DiagonallyDottedGreen_2.name=Diagonnaly Dotted Spring Green
-tile.DiagonallyDottedGreen_3.name=Diagonnaly Dotted Green
-tile.DiagonallyDottedGreen_4.name=Diagonnaly Dotted Dark Green
-tile.DiagonallyDottedGreen_5.name=Diagonnaly Dotted Light Summer Green
-tile.DiagonallyDottedGreen_6.name=Diagonnaly Dotted Summer Green
-tile.DiagonallyDottedGreen_7.name=Diagonnaly Dotted Lush Green
-tile.DiagonallyDottedGreen_8.name=Diagonnaly Dotted Deep Lush Green
-tile.DiagonallyDottedGreen_9.name=Diagonnaly Dotted Dark Lush Green
-tile.DiagonallyDottedGreen_10.name=Diagonnaly Dotted Light Spring Green
-tile.DiagonallyDottedGreen_11.name=Diagonnaly Dotted Spring Green
-tile.DiagonallyDottedGreen_12.name=Diagonnaly Dotted Light Olive Green
-tile.DiagonallyDottedGreen_13.name=Diagonnaly Dotted Olive Green
-tile.DiagonallyDottedGreen_14.name=Diagonnaly Dotted Moss Green
+tile.DiagonallyDottedGreen_0.name=Dotted Light Green
+tile.DiagonallyDottedGreen_1.name=Dotted Light Spring Green
+tile.DiagonallyDottedGreen_2.name=Dotted Spring Green
+tile.DiagonallyDottedGreen_3.name=Dotted Green
+tile.DiagonallyDottedGreen_4.name=Dotted Dark Green
+tile.DiagonallyDottedGreen_5.name=Dotted Light Summer Green
+tile.DiagonallyDottedGreen_6.name=Dotted Summer Green
+tile.DiagonallyDottedGreen_7.name=Dotted Lush Green
+tile.DiagonallyDottedGreen_8.name=Dotted Deep Lush Green
+tile.DiagonallyDottedGreen_9.name=Dotted Dark Lush Green
+tile.DiagonallyDottedGreen_10.name=Dotted Light Spring Green
+tile.DiagonallyDottedGreen_11.name=Dotted Spring Green
+tile.DiagonallyDottedGreen_12.name=Dotted Light Olive Green
+tile.DiagonallyDottedGreen_13.name=Dotted Olive Green
+tile.DiagonallyDottedGreen_14.name=Dotted Moss Green
 
 
 
 #Diagonally Dotted Yellow Colours
-tile.DiagonallyDottedYellow_0.name=Diagonnaly Dotted Light Lemon Yellow
-tile.DiagonallyDottedYellow_1.name=Diagonnaly Dotted Lemon Yellow
-tile.DiagonallyDottedYellow_2.name=Diagonnaly Dotted Sunny Yellow
-tile.DiagonallyDottedYellow_3.name=Diagonnaly Dotted Soft Yellow
-tile.DiagonallyDottedYellow_4.name=Diagonnaly Dotted Orange Yellow
-tile.DiagonallyDottedYellow_5.name=Diagonnaly Dotted Light Sand Yellow
-tile.DiagonallyDottedYellow_6.name=Diagonnaly Dotted Light Yellow
-tile.DiagonallyDottedYellow_7.name=Diagonnaly Dotted Yellow
-tile.DiagonallyDottedYellow_8.name=Diagonnaly Dotted Gold Yellow
-tile.DiagonallyDottedYellow_9.name=Diagonnaly Dotted Dark Orange
-tile.DiagonallyDottedYellow_10.name=Diagonnaly Dotted Light Orange
-tile.DiagonallyDottedYellow_11.name=Diagonnaly Dotted Sunny Orange
-tile.DiagonallyDottedYellow_12.name=Diagonnaly Dotted Orange
-tile.DiagonallyDottedYellow_13.name=Diagonnaly Dotted Deep orange
-tile.DiagonallyDottedYellow_14.name=Diagonnaly Dotted Orange Red
+tile.DiagonallyDottedYellow_0.name=Dotted Light Lemon Yellow
+tile.DiagonallyDottedYellow_1.name=Dotted Lemon Yellow
+tile.DiagonallyDottedYellow_2.name=Dotted Sunny Yellow
+tile.DiagonallyDottedYellow_3.name=Dotted Soft Yellow
+tile.DiagonallyDottedYellow_4.name=Dotted Orange Yellow
+tile.DiagonallyDottedYellow_5.name=Dotted Light Sand Yellow
+tile.DiagonallyDottedYellow_6.name=Dotted Light Yellow
+tile.DiagonallyDottedYellow_7.name=Dotted Yellow
+tile.DiagonallyDottedYellow_8.name=Dotted Gold Yellow
+tile.DiagonallyDottedYellow_9.name=Dotted Dark Orange
+tile.DiagonallyDottedYellow_10.name=Dotted Light Orange
+tile.DiagonallyDottedYellow_11.name=Dotted Sunny Orange
+tile.DiagonallyDottedYellow_12.name=Dotted Orange
+tile.DiagonallyDottedYellow_13.name=Dotted Deep orange
+tile.DiagonallyDottedYellow_14.name=Dotted Orange Red
 
 
 
 #Diagonally Dotted Gray Colours
-tile.DiagonallyDottedGray_0.name=Diagonnaly Dotted White Gray
-tile.DiagonallyDottedGray_1.name=Diagonnaly Dotted Light Gray
-tile.DiagonallyDottedGray_2.name=Diagonnaly Dotted Gray
-tile.DiagonallyDottedGray_3.name=Diagonnaly Dotted Dark Gray
-tile.DiagonallyDottedGray_4.name=Diagonnaly Dotted Gray Black
-tile.DiagonallyDottedGray_5.name=Diagonnaly Dotted Light Warm Gray
-tile.DiagonallyDottedGray_6.name=Diagonnaly Dotted Warm Gray
-tile.DiagonallyDottedGray_7.name=Diagonnaly Dotted Middle Warm Gray
-tile.DiagonallyDottedGray_8.name=Diagonnaly Dotted Dark Warm Gray
-tile.DiagonallyDottedGray_9.name=Diagonnaly Dotted Warm Black Gray
-tile.DiagonallyDottedGray_10.name=Diagonnaly Dotted Light Cool gray
-tile.DiagonallyDottedGray_11.name=Diagonnaly Dotted Cool Gray
-tile.DiagonallyDottedGray_12.name=Diagonnaly Dotted Dark Cool Gray
-tile.DiagonallyDottedGray_13.name=Diagonnaly Dotted Cool Blue Gray
-tile.DiagonallyDottedGray_14.name=Diagonnaly Dotted Cool Dark Blue Gray
+tile.DiagonallyDottedGray_0.name=Dotted White Gray
+tile.DiagonallyDottedGray_1.name=Dotted Light Gray
+tile.DiagonallyDottedGray_2.name=Dotted Gray
+tile.DiagonallyDottedGray_3.name=Dotted Dark Gray
+tile.DiagonallyDottedGray_4.name=Dotted Gray Black
+tile.DiagonallyDottedGray_5.name=Dotted Light Warm Gray
+tile.DiagonallyDottedGray_6.name=Dotted Warm Gray
+tile.DiagonallyDottedGray_7.name=Dotted Middle Warm Gray
+tile.DiagonallyDottedGray_8.name=Dotted Dark Warm Gray
+tile.DiagonallyDottedGray_9.name=Dotted Warm Black Gray
+tile.DiagonallyDottedGray_10.name=Dotted Light Cool gray
+tile.DiagonallyDottedGray_11.name=Dotted Cool Gray
+tile.DiagonallyDottedGray_12.name=Dotted Dark Cool Gray
+tile.DiagonallyDottedGray_13.name=Dotted Cool Blue Gray
+tile.DiagonallyDottedGray_14.name=Dotted Cool Dark Blue Gray
 
 
 
@@ -333,149 +333,149 @@ tile.DiagonallyDottedGray_14.name=Diagonnaly Dotted Cool Dark Blue Gray
 
 
 #Striped Red Colours
-tile.StripesRed_0.name=Striped Light Warm Pink
-tile.StripesRed_1.name=Striped Light Red
-tile.StripesRed_2.name=Striped Bright Red
-tile.StripesRed_3.name=Striped Red
-tile.StripesRed_4.name=Striped Blood Red
-tile.StripesRed_5.name=Striped Light Cool Pink
-tile.StripesRed_6.name=Striped Pink
-tile.StripesRed_7.name=Striped Hot Pink
-tile.StripesRed_8.name=Striped Dark Pink
-tile.StripesRed_9.name=Striped Hot Pink
-tile.StripesRed_10.name=Striped Fuchsia
-tile.StripesRed_11.name=Striped Baby Pink
-tile.StripesRed_12.name=Striped Light Salmon
-tile.StripesRed_13.name=Striped Brown Red
-tile.StripesRed_14.name=Striped Dark Brown Red
+tile.StripedRed_0.name=Striped Light Warm Pink
+tile.StripedRed_1.name=Striped Light Red
+tile.StripedRed_2.name=Striped Bright Red
+tile.StripedRed_3.name=Striped Red
+tile.StripedRed_4.name=Striped Blood Red
+tile.StripedRed_5.name=Striped Light Cool Pink
+tile.StripedRed_6.name=Striped Pink
+tile.StripedRed_7.name=Striped Hot Pink
+tile.StripedRed_8.name=Striped Dark Pink
+tile.StripedRed_9.name=Striped Hot Pink
+tile.StripedRed_10.name=Striped Fuchsia
+tile.StripedRed_11.name=Striped Baby Pink
+tile.StripedRed_12.name=Striped Light Salmon
+tile.StripedRed_13.name=Striped Brown Red
+tile.StripedRed_14.name=Striped Dark Brown Red
 
 
 
 #Striped Purple Colours
-tile.StripesPurple_0.name=Striped Light Magenta
-tile.StripesPurple_1.name=Striped Magenta
-tile.StripesPurple_2.name=Striped Dark Magenta
-tile.StripesPurple_3.name=Striped Violet
-tile.StripesPurple_4.name=Striped Dark Violet
-tile.StripesPurple_5.name=Striped Light Violet
-tile.StripesPurple_6.name=Striped Light Purple
-tile.StripesPurple_7.name=Striped Purple
-tile.StripesPurple_8.name=Striped Dark Purple
-tile.StripesPurple_9.name=Striped Royal Blue
-tile.StripesPurple_10.name=Striped Light Lavender
-tile.StripesPurple_11.name=Striped avender
-tile.StripesPurple_12.name=Striped Azure Blue
-tile.StripesPurple_13.name=Striped Dark Blue
-tile.StripesPurple_14.name=Striped Midnight Blue
+tile.StripedPurple_0.name=Striped Light Magenta
+tile.StripedPurple_1.name=Striped Magenta
+tile.StripedPurple_2.name=Striped Dark Magenta
+tile.StripedPurple_3.name=Striped Violet
+tile.StripedPurple_4.name=Striped Dark Violet
+tile.StripedPurple_5.name=Striped Light Violet
+tile.StripedPurple_6.name=Striped Light Purple
+tile.StripedPurple_7.name=Striped Purple
+tile.StripedPurple_8.name=Striped Dark Purple
+tile.StripedPurple_9.name=Striped Royal Blue
+tile.StripedPurple_10.name=Striped Light Lavender
+tile.StripedPurple_11.name=Striped avender
+tile.StripedPurple_12.name=Striped Azure Blue
+tile.StripedPurple_13.name=Striped Dark Blue
+tile.StripedPurple_14.name=Striped Midnight Blue
 
 
 
 #Striped Blue Colours
-tile.StripesBlue_0.name=Striped Light Blue
-tile.StripesBlue_1.name=Striped Light Sky Blue
-tile.StripesBlue_2.name=Striped Sky Blue
-tile.StripesBlue_3.name=Striped Dark Sky Blue
-tile.StripesBlue_4.name=Striped Navy Blue
-tile.StripesBlue_5.name=Striped Light Baby Blue
-tile.StripesBlue_6.name=Striped Baby Blue
-tile.StripesBlue_7.name=Striped Bright Blue
-tile.StripesBlue_8.name=Striped Medium Blue
-tile.StripesBlue_9.name=Striped Deep Blue
-tile.StripesBlue_10.name=Striped Light Aqua Blue
-tile.StripesBlue_11.name=Striped Aqua Blue
-tile.StripesBlue_12.name=Striped Dark Aqua Blue
-tile.StripesBlue_13.name=Striped Oceon Blue
-tile.StripesBlue_14.name=Striped Midnight Blue
+tile.StripedBlue_0.name=Striped Light Blue
+tile.StripedBlue_1.name=Striped Light Sky Blue
+tile.StripedBlue_2.name=Striped Sky Blue
+tile.StripedBlue_3.name=Striped Dark Sky Blue
+tile.StripedBlue_4.name=Striped Navy Blue
+tile.StripedBlue_5.name=Striped Light Baby Blue
+tile.StripedBlue_6.name=Striped Baby Blue
+tile.StripedBlue_7.name=Striped Bright Blue
+tile.StripedBlue_8.name=Striped Medium Blue
+tile.StripedBlue_9.name=Striped Deep Blue
+tile.StripedBlue_10.name=Striped Light Aqua Blue
+tile.StripedBlue_11.name=Striped Aqua Blue
+tile.StripedBlue_12.name=Striped Dark Aqua Blue
+tile.StripedBlue_13.name=Striped Oceon Blue
+tile.StripedBlue_14.name=Striped Midnight Blue
 
 
 
 #Striped Brown Colours
-tile.StripesBrown_0.name=Striped Soft Orange
-tile.StripesBrown_1.name=Striped Sienna brown
-tile.StripesBrown_2.name=Striped Burnt Sienna Brown
-tile.StripesBrown_3.name=Striped Earth Brown
-tile.StripesBrown_4.name=Striped Soil Brown
-tile.StripesBrown_5.name=Striped Light Beige
-tile.StripesBrown_6.name=Striped Beige
-tile.StripesBrown_7.name=Striped Terracotta Red
-tile.StripesBrown_8.name=Striped Brown
-tile.StripesBrown_9.name=Striped Saddle Brown
-tile.StripesBrown_10.name=Striped Light Gray Brown
-tile.StripesBrown_11.name=Striped Gray Brown
-tile.StripesBrown_12.name=Striped Middle Gray Brown
-tile.StripesBrown_13.name=Striped Gray Brown
-tile.StripesBrown_14.name=Striped Dark Gray Brown
+tile.StripedBrown_0.name=Striped Soft Orange
+tile.StripedBrown_1.name=Striped Sienna brown
+tile.StripedBrown_2.name=Striped Burnt Sienna Brown
+tile.StripedBrown_3.name=Striped Earth Brown
+tile.StripedBrown_4.name=Striped Soil Brown
+tile.StripedBrown_5.name=Striped Light Beige
+tile.StripedBrown_6.name=Striped Beige
+tile.StripedBrown_7.name=Striped Terracotta Red
+tile.StripedBrown_8.name=Striped Brown
+tile.StripedBrown_9.name=Striped Saddle Brown
+tile.StripedBrown_10.name=Striped Light Gray Brown
+tile.StripedBrown_11.name=Striped Gray Brown
+tile.StripedBrown_12.name=Striped Middle Gray Brown
+tile.StripedBrown_13.name=Striped Gray Brown
+tile.StripedBrown_14.name=Striped Dark Gray Brown
 
 
 
 #Striped Cyan Colours
-tile.StripesCyan_0.name=Striped Light Green Blue
-tile.StripesCyan_1.name=Striped Light Turquoise Blue
-tile.StripesCyan_2.name=Striped Turquoise Blue
-tile.StripesCyan_3.name=Striped Teal Blue
-tile.StripesCyan_4.name=Striped Dark Teal Blue
-tile.StripesCyan_5.name=Striped Light Seafoam Blue Green
-tile.StripesCyan_6.name=Striped Seafoam Blue Green
-tile.StripesCyan_7.name=Striped Blue Green
-tile.StripesCyan_8.name=Striped Dark Blue Green
-tile.StripesCyan_9.name=Striped Dark Pine Blue Green
+tile.StripedCyan_0.name=Striped Light Green Blue
+tile.StripedCyan_1.name=Striped Light Turquoise Blue
+tile.StripedCyan_2.name=Striped Turquoise Blue
+tile.StripedCyan_3.name=Striped Teal Blue
+tile.StripedCyan_4.name=Striped Dark Teal Blue
+tile.StripedCyan_5.name=Striped Light Seafoam Blue Green
+tile.StripedCyan_6.name=Striped Seafoam Blue Green
+tile.StripedCyan_7.name=Striped Blue Green
+tile.StripedCyan_8.name=Striped Dark Blue Green
+tile.StripedCyan_9.name=Striped Dark Pine Blue Green
 
 
 
 #Striped Green Colours
-tile.StripesGreen_0.name=Striped Light Green
-tile.StripesGreen_1.name=Striped Light Spring Green
-tile.StripesGreen_2.name=Striped Spring Green
-tile.StripesGreen_3.name=Striped Green
-tile.StripesGreen_4.name=Striped Dark Green
-tile.StripesGreen_5.name=Striped Light Summer Green
-tile.StripesGreen_6.name=Striped Summer Green
-tile.StripesGreen_7.name=Striped Lush Green
-tile.StripesGreen_8.name=Striped Deep Lush Green
-tile.StripesGreen_9.name=Striped Dark Lush Green
-tile.StripesGreen_10.name=Striped Light Spring Green
-tile.StripesGreen_11.name=Striped Spring Green
-tile.StripesGreen_12.name=Striped Light Olive Green
-tile.StripesGreen_13.name=Striped Olive Green
-tile.StripesGreen_14.name=Striped Moss Green
+tile.StripedGreen_0.name=Striped Light Green
+tile.StripedGreen_1.name=Striped Light Spring Green
+tile.StripedGreen_2.name=Striped Spring Green
+tile.StripedGreen_3.name=Striped Green
+tile.StripedGreen_4.name=Striped Dark Green
+tile.StripedGreen_5.name=Striped Light Summer Green
+tile.StripedGreen_6.name=Striped Summer Green
+tile.StripedGreen_7.name=Striped Lush Green
+tile.StripedGreen_8.name=Striped Deep Lush Green
+tile.StripedGreen_9.name=Striped Dark Lush Green
+tile.StripedGreen_10.name=Striped Light Spring Green
+tile.StripedGreen_11.name=Striped Spring Green
+tile.StripedGreen_12.name=Striped Light Olive Green
+tile.StripedGreen_13.name=Striped Olive Green
+tile.StripedGreen_14.name=Striped Moss Green
 
 
 
 #Striped Yellow Colours
-tile.StripesYellow_0.name=Striped Light Lemon Yellow
-tile.StripesYellow_1.name=Striped Lemon Yellow
-tile.StripesYellow_2.name=Striped Sunny Yellow
-tile.StripesYellow_3.name=Striped Soft Yellow
-tile.StripesYellow_4.name=Striped Orange Yellow
-tile.StripesYellow_5.name=Striped Light Sand Yellow
-tile.StripesYellow_6.name=Striped Light Yellow
-tile.StripesYellow_7.name=Striped Yellow
-tile.StripesYellow_8.name=Striped Gold Yellow
-tile.StripesYellow_9.name=Striped Dark Orange
-tile.StripesYellow_10.name=Striped Light Orange
-tile.StripesYellow_11.name=Striped Sunny Orange
-tile.StripesYellow_12.name=Striped Orange
-tile.StripesYellow_13.name=Striped Deep orange
-tile.StripesYellow_14.name=Striped Orange Red
+tile.StripedYellow_0.name=Striped Light Lemon Yellow
+tile.StripedYellow_1.name=Striped Lemon Yellow
+tile.StripedYellow_2.name=Striped Sunny Yellow
+tile.StripedYellow_3.name=Striped Soft Yellow
+tile.StripedYellow_4.name=Striped Orange Yellow
+tile.StripedYellow_5.name=Striped Light Sand Yellow
+tile.StripedYellow_6.name=Striped Light Yellow
+tile.StripedYellow_7.name=Striped Yellow
+tile.StripedYellow_8.name=Striped Gold Yellow
+tile.StripedYellow_9.name=Striped Dark Orange
+tile.StripedYellow_10.name=Striped Light Orange
+tile.StripedYellow_11.name=Striped Sunny Orange
+tile.StripedYellow_12.name=Striped Orange
+tile.StripedYellow_13.name=Striped Deep orange
+tile.StripedYellow_14.name=Striped Orange Red
 
 
 
 #Striped Gray Colours
-tile.StripesGray_0.name=Striped White Gray
-tile.StripesGray_1.name=Striped Light Gray
-tile.StripesGray_2.name=Striped Gray
-tile.StripesGray_3.name=Striped Dark Gray
-tile.StripesGray_4.name=Striped Gray Black
-tile.StripesGray_5.name=Striped Light Warm Gray
-tile.StripesGray_6.name=Striped Warm Gray
-tile.StripesGray_7.name=Striped Middle Warm Gray
-tile.StripesGray_8.name=Striped Dark Warm Gray
-tile.StripesGray_9.name=Striped Warm Black Gray
-tile.StripesGray_10.name=Striped Light Cool gray
-tile.StripesGray_11.name=Striped Cool Gray
-tile.StripesGray_12.name=Striped Dark Cool Gray
-tile.StripesGray_13.name=Striped Cool Blue Gray
-tile.StripesGray_14.name=Striped Cool Dark Blue Gray
+tile.StripedGray_0.name=Striped White Gray
+tile.StripedGray_1.name=Striped Light Gray
+tile.StripedGray_2.name=Striped Gray
+tile.StripedGray_3.name=Striped Dark Gray
+tile.StripedGray_4.name=Striped Gray Black
+tile.StripedGray_5.name=Striped Light Warm Gray
+tile.StripedGray_6.name=Striped Warm Gray
+tile.StripedGray_7.name=Striped Middle Warm Gray
+tile.StripedGray_8.name=Striped Dark Warm Gray
+tile.StripedGray_9.name=Striped Warm Black Gray
+tile.StripedGray_10.name=Striped Light Cool gray
+tile.StripedGray_11.name=Striped Cool Gray
+tile.StripedGray_12.name=Striped Dark Cool Gray
+tile.StripedGray_13.name=Striped Cool Blue Gray
+tile.StripedGray_14.name=Striped Cool Dark Blue Gray
 
 
 
@@ -651,146 +651,464 @@ tile.FloralGray_14.name=Floral Cool Dark Blue Gray
 
 
 #Clay Red Colours
-tile.ClayRed_0.name=Light Warm Pink Clay 
-tile.ClayRed_1.name=Light Red Clay 
-tile.ClayRed_2.name=Bright Red Clay 
-tile.ClayRed_3.name=Red Clay 
-tile.ClayRed_4.name=Blood Red Clay 
-tile.ClayRed_5.name=Light Cool Pink Clay 
-tile.ClayRed_6.name=Pink Clay 
-tile.ClayRed_7.name=Hot Pink Clay 
-tile.ClayRed_8.name=Dark Pink Clay 
-tile.ClayRed_9.name=Hot Pink Clay 
-tile.ClayRed_10.name=Fuchsia Clay 
-tile.ClayRed_11.name=Baby Pink Clay 
-tile.ClayRed_12.name=Light Salmon Clay 
-tile.ClayRed_13.name=Brown Red Clay 
-tile.ClayRed_14.name=Dark Brown Red Clay 
+tile.ClayRed_0.name=Clay Light Warm Pink
+tile.ClayRed_1.name=Clay Light Red
+tile.ClayRed_2.name=Clay Bright Red
+tile.ClayRed_3.name=Clay Red
+tile.ClayRed_4.name=Clay Blood Red
+tile.ClayRed_5.name=Clay Light Cool Pink
+tile.ClayRed_6.name=Clay Pink
+tile.ClayRed_7.name=Clay Hot Pink
+tile.ClayRed_8.name=Clay Dark Pink
+tile.ClayRed_9.name=Clay Hot Pink
+tile.ClayRed_10.name=Clay Fuchsia
+tile.ClayRed_11.name=Clay Baby Pink
+tile.ClayRed_12.name=Clay Light Salmon
+tile.ClayRed_13.name=Clay Brown Red
+tile.ClayRed_14.name=Clay Dark Brown Red
 
 
 
 #Clay Purple Colours
-tile.ClayPurple_0.name=Light Magenta Clay 
-tile.ClayPurple_1.name=Magenta Clay 
-tile.ClayPurple_2.name=Dark Magenta Clay 
-tile.ClayPurple_3.name=Violet Clay 
-tile.ClayPurple_4.name=Dark Violet Clay 
-tile.ClayPurple_5.name=Light Violet Clay 
-tile.ClayPurple_6.name=Light Purple Clay 
-tile.ClayPurple_7.name=Purple Clay 
-tile.ClayPurple_8.name=Dark Purple Clay 
-tile.ClayPurple_9.name=Royal Blue Clay 
-tile.ClayPurple_10.name=Light Lavender Clay 
-tile.ClayPurple_11.name=avender Clay 
-tile.ClayPurple_12.name=Azure Blue Clay 
-tile.ClayPurple_13.name=Dark Blue Clay 
-tile.ClayPurple_14.name=Midnight Blue Clay 
+tile.ClayPurple_0.name=Clay Light Magenta
+tile.ClayPurple_1.name=Clay Magenta
+tile.ClayPurple_2.name=Clay Dark Magenta
+tile.ClayPurple_3.name=Clay Violet
+tile.ClayPurple_4.name=Clay Dark Violet
+tile.ClayPurple_5.name=Clay Light Violet
+tile.ClayPurple_6.name=Clay Light Purple
+tile.ClayPurple_7.name=Clay Purple
+tile.ClayPurple_8.name=Clay Dark Purple
+tile.ClayPurple_9.name=Clay Royal Blue
+tile.ClayPurple_10.name=Clay Light Lavender
+tile.ClayPurple_11.name=Clay avender
+tile.ClayPurple_12.name=Clay Azure Blue
+tile.ClayPurple_13.name=Clay Dark Blue
+tile.ClayPurple_14.name=Clay Midnight Blue
 
 
 
 #Clay Blue Colours
-tile.ClayBlue_0.name=Light Blue Clay 
-tile.ClayBlue_1.name=Light Sky Blue Clay 
-tile.ClayBlue_2.name=Sky Blue Clay 
-tile.ClayBlue_3.name=Dark Sky Blue Clay 
-tile.ClayBlue_4.name=Navy Blue Clay 
-tile.ClayBlue_5.name=Light Baby Blue Clay 
-tile.ClayBlue_6.name=Baby Blue Clay 
-tile.ClayBlue_7.name=Bright Blue Clay 
-tile.ClayBlue_8.name=Medium Blue Clay 
-tile.ClayBlue_9.name=Deep Blue Clay 
-tile.ClayBlue_10.name=Light Aqua Blue Clay 
-tile.ClayBlue_11.name=Aqua Blue Clay 
-tile.ClayBlue_12.name=Dark Aqua Blue Clay 
-tile.ClayBlue_13.name=Oceon Blue Clay 
-tile.ClayBlue_14.name=Midnight Blue Clay 
+tile.ClayBlue_0.name=Clay Light Blue
+tile.ClayBlue_1.name=Clay Light Sky Blue
+tile.ClayBlue_2.name=Clay Sky Blue
+tile.ClayBlue_3.name=Clay Dark Sky Blue
+tile.ClayBlue_4.name=Clay Navy Blue
+tile.ClayBlue_5.name=Clay Light Baby Blue
+tile.ClayBlue_6.name=Clay Baby Blue
+tile.ClayBlue_7.name=Clay Bright Blue
+tile.ClayBlue_8.name=Clay Medium Blue
+tile.ClayBlue_9.name=Clay Deep Blue
+tile.ClayBlue_10.name=Clay Light Aqua Blue
+tile.ClayBlue_11.name=Clay Aqua Blue
+tile.ClayBlue_12.name=Clay Dark Aqua Blue
+tile.ClayBlue_13.name=Clay Oceon Blue
+tile.ClayBlue_14.name=Clay Midnight Blue
 
 
 
 #Clay Brown Colours
-tile.ClayBrown_0.name=Soft Orange Clay 
-tile.ClayBrown_1.name=Sienna brown Clay 
-tile.ClayBrown_2.name=Burnt Sienna Brown Clay 
-tile.ClayBrown_3.name=Earth Brown Clay 
-tile.ClayBrown_4.name=Soil Brown Clay 
-tile.ClayBrown_5.name=Light Beige Clay 
-tile.ClayBrown_6.name=Beige Clay 
-tile.ClayBrown_7.name=Terracotta Red Clay 
-tile.ClayBrown_8.name=Brown Clay 
-tile.ClayBrown_9.name=Saddle Brown Clay 
-tile.ClayBrown_10.name=Light Gray Brown Clay 
-tile.ClayBrown_11.name=Gray Brown Clay 
-tile.ClayBrown_12.name=Middle Gray Brown Clay 
-tile.ClayBrown_13.name=Gray Brown Clay 
-tile.ClayBrown_14.name=Dark Gray Brown Clay 
+tile.ClayBrown_0.name=Clay Soft Orange
+tile.ClayBrown_1.name=Clay Sienna brown
+tile.ClayBrown_2.name=Clay Burnt Sienna Brown
+tile.ClayBrown_3.name=Clay Earth Brown
+tile.ClayBrown_4.name=Clay Soil Brown
+tile.ClayBrown_5.name=Clay Light Beige
+tile.ClayBrown_6.name=Clay Beige
+tile.ClayBrown_7.name=Clay Terracotta Red
+tile.ClayBrown_8.name=Clay Brown
+tile.ClayBrown_9.name=Clay Saddle Brown
+tile.ClayBrown_10.name=Clay Light Gray Brown
+tile.ClayBrown_11.name=Clay Gray Brown
+tile.ClayBrown_12.name=Clay Middle Gray Brown
+tile.ClayBrown_13.name=Clay Gray Brown
+tile.ClayBrown_14.name=Clay Dark Gray Brown
 
 
 
 #Clay Cyan Colours
-tile.ClayCyan_0.name=Light Green Blue Clay 
-tile.ClayCyan_1.name=Light Turquoise Blue Clay 
-tile.ClayCyan_2.name=Turquoise Blue Clay 
-tile.ClayCyan_3.name=Teal Blue Clay 
-tile.ClayCyan_4.name=Dark Teal Blue Clay 
-tile.ClayCyan_5.name=Light Seafoam Blue Green Clay 
-tile.ClayCyan_6.name=Seafoam Blue Green Clay 
-tile.ClayCyan_7.name=Blue Green Clay 
-tile.ClayCyan_8.name=Dark Blue Green Clay 
-tile.ClayCyan_9.name=Dark Pine Blue Green Clay 
+tile.ClayCyan_0.name=Clay Light Green Blue
+tile.ClayCyan_1.name=Clay Light Turquoise Blue
+tile.ClayCyan_2.name=Clay Turquoise Blue
+tile.ClayCyan_3.name=Clay Teal Blue
+tile.ClayCyan_4.name=Clay Dark Teal Blue
+tile.ClayCyan_5.name=Clay Light Seafoam Blue Green
+tile.ClayCyan_6.name=Clay Seafoam Blue Green
+tile.ClayCyan_7.name=Clay Blue Green
+tile.ClayCyan_8.name=Clay Dark Blue Green
+tile.ClayCyan_9.name=Clay Dark Pine Blue Green
 
 
 
 #Clay Green Colours
-tile.ClayGreen_0.name=Light Green Clay 
-tile.ClayGreen_1.name=Light Spring Green Clay 
-tile.ClayGreen_2.name=Spring Green Clay 
-tile.ClayGreen_3.name=Green Clay 
-tile.ClayGreen_4.name=Dark Green Clay 
-tile.ClayGreen_5.name=Light Summer Green Clay 
-tile.ClayGreen_6.name=Summer Green Clay 
-tile.ClayGreen_7.name=Lush Green Clay 
-tile.ClayGreen_8.name=Deep Lush Green Clay 
-tile.ClayGreen_9.name=Dark Lush Green Clay 
-tile.ClayGreen_10.name=Light Spring Green Clay 
-tile.ClayGreen_11.name=Spring Green Clay 
-tile.ClayGreen_12.name=Light Olive Green Clay 
-tile.ClayGreen_13.name=Olive Green Clay 
-tile.ClayGreen_14.name=Moss Green Clay 
+tile.ClayGreen_0.name=Clay Light Green
+tile.ClayGreen_1.name=Clay Light Spring Green
+tile.ClayGreen_2.name=Clay Spring Green
+tile.ClayGreen_3.name=Clay Green
+tile.ClayGreen_4.name=Clay Dark Green
+tile.ClayGreen_5.name=Clay Light Summer Green
+tile.ClayGreen_6.name=Clay Summer Green
+tile.ClayGreen_7.name=Clay Lush Green
+tile.ClayGreen_8.name=Clay Deep Lush Green
+tile.ClayGreen_9.name=Clay Dark Lush Green
+tile.ClayGreen_10.name=Clay Light Spring Green
+tile.ClayGreen_11.name=Clay Spring Green
+tile.ClayGreen_12.name=Clay Light Olive Green
+tile.ClayGreen_13.name=Clay Olive Green
+tile.ClayGreen_14.name=Clay Moss Green
 
 
 
 #Clay Yellow Colours
-tile.ClayYellow_0.name=Light Lemon Yellow Clay 
-tile.ClayYellow_1.name=Lemon Yellow Clay 
-tile.ClayYellow_2.name=Sunny Yellow Clay 
-tile.ClayYellow_3.name=Soft Yellow Clay 
-tile.ClayYellow_4.name=Orange Yellow Clay 
-tile.ClayYellow_5.name=Light Sand Yellow Clay 
-tile.ClayYellow_6.name=Light Yellow Clay 
-tile.ClayYellow_7.name=Yellow Clay 
-tile.ClayYellow_8.name=Gold Yellow Clay 
-tile.ClayYellow_9.name=Dark Orange Clay 
-tile.ClayYellow_10.name=Light Orange Clay 
-tile.ClayYellow_11.name=Sunny Orange Clay 
-tile.ClayYellow_12.name=Orange Clay 
-tile.ClayYellow_13.name=Deep orange Clay 
-tile.ClayYellow_14.name=Orange Red Clay 
+tile.ClayYellow_0.name=Clay Light Lemon Yellow
+tile.ClayYellow_1.name=Clay Lemon Yellow
+tile.ClayYellow_2.name=Clay Sunny Yellow
+tile.ClayYellow_3.name=Clay Soft Yellow
+tile.ClayYellow_4.name=Clay Orange Yellow
+tile.ClayYellow_5.name=Clay Light Sand Yellow
+tile.ClayYellow_6.name=Clay Light Yellow
+tile.ClayYellow_7.name=Clay Yellow
+tile.ClayYellow_8.name=Clay Gold Yellow
+tile.ClayYellow_9.name=Clay Dark Orange
+tile.ClayYellow_10.name=Clay Light Orange
+tile.ClayYellow_11.name=Clay Sunny Orange
+tile.ClayYellow_12.name=Clay Orange
+tile.ClayYellow_13.name=Clay Deep orange
+tile.ClayYellow_14.name=Clay Orange Red
 
 
 
 #Clay Gray Colours
-tile.ClayGray_0.name=White Gray Clay 
-tile.ClayGray_1.name=Light Gray Clay 
-tile.ClayGray_2.name=Gray Clay 
-tile.ClayGray_3.name=Dark Gray Clay 
-tile.ClayGray_4.name=Gray Black Clay 
-tile.ClayGray_5.name=Light Warm Gray Clay 
-tile.ClayGray_6.name=Warm Gray Clay 
-tile.ClayGray_7.name=Middle Warm Gray Clay 
-tile.ClayGray_8.name=Dark Warm Gray Clay 
-tile.ClayGray_9.name=Warm Black Gray Clay 
-tile.ClayGray_10.name=Light Cool gray Clay 
-tile.ClayGray_11.name=Cool Gray Clay 
-tile.ClayGray_12.name=Dark Cool Gray Clay 
-tile.ClayGray_13.name=Cool Blue Gray Clay 
-tile.ClayGray_14.name=Cool Dark Blue Gray Clay 
+tile.ClayGray_0.name=Clay White Gray
+tile.ClayGray_1.name=Clay Light Gray
+tile.ClayGray_2.name=Clay Gray
+tile.ClayGray_3.name=Clay Dark Gray
+tile.ClayGray_4.name=Clay Gray Black
+tile.ClayGray_5.name=Clay Light Warm Gray
+tile.ClayGray_6.name=Clay Warm Gray
+tile.ClayGray_7.name=Clay Middle Warm Gray
+tile.ClayGray_8.name=Clay Dark Warm Gray
+tile.ClayGray_9.name=Clay Warm Black Gray
+tile.ClayGray_10.name=Clay Light Cool gray
+tile.ClayGray_11.name=Clay Cool Gray
+tile.ClayGray_12.name=Clay Dark Cool Gray
+tile.ClayGray_13.name=Clay Cool Blue Gray
+tile.ClayGray_14.name=Clay Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########         STARTING NAMING OF CLAY COLOURS        ###########
+###########									     	       ###########
+######################################################################
+
+
+#Clay Red Colours
+tile.ClayRed_0.name=Clay Light Warm Pink
+tile.ClayRed_1.name=Clay Light Red
+tile.ClayRed_2.name=Clay Bright Red
+tile.ClayRed_3.name=Clay Red
+tile.ClayRed_4.name=Clay Blood Red
+tile.ClayRed_5.name=Clay Light Cool Pink
+tile.ClayRed_6.name=Clay Pink
+tile.ClayRed_7.name=Clay Hot Pink
+tile.ClayRed_8.name=Clay Dark Pink
+tile.ClayRed_9.name=Clay Hot Pink
+tile.ClayRed_10.name=Clay Fuchsia
+tile.ClayRed_11.name=Clay Baby Pink
+tile.ClayRed_12.name=Clay Light Salmon
+tile.ClayRed_13.name=Clay Brown Red
+tile.ClayRed_14.name=Clay Dark Brown Red
+
+
+
+#Clay Purple Colours
+tile.ClayPurple_0.name=Clay Light Magenta
+tile.ClayPurple_1.name=Clay Magenta
+tile.ClayPurple_2.name=Clay Dark Magenta
+tile.ClayPurple_3.name=Clay Violet
+tile.ClayPurple_4.name=Clay Dark Violet
+tile.ClayPurple_5.name=Clay Light Violet
+tile.ClayPurple_6.name=Clay Light Purple
+tile.ClayPurple_7.name=Clay Purple
+tile.ClayPurple_8.name=Clay Dark Purple
+tile.ClayPurple_9.name=Clay Royal Blue
+tile.ClayPurple_10.name=Clay Light Lavender
+tile.ClayPurple_11.name=Clay avender
+tile.ClayPurple_12.name=Clay Azure Blue
+tile.ClayPurple_13.name=Clay Dark Blue
+tile.ClayPurple_14.name=Clay Midnight Blue
+
+
+
+#Clay Blue Colours
+tile.ClayBlue_0.name=Clay Light Blue
+tile.ClayBlue_1.name=Clay Light Sky Blue
+tile.ClayBlue_2.name=Clay Sky Blue
+tile.ClayBlue_3.name=Clay Dark Sky Blue
+tile.ClayBlue_4.name=Clay Navy Blue
+tile.ClayBlue_5.name=Clay Light Baby Blue
+tile.ClayBlue_6.name=Clay Baby Blue
+tile.ClayBlue_7.name=Clay Bright Blue
+tile.ClayBlue_8.name=Clay Medium Blue
+tile.ClayBlue_9.name=Clay Deep Blue
+tile.ClayBlue_10.name=Clay Light Aqua Blue
+tile.ClayBlue_11.name=Clay Aqua Blue
+tile.ClayBlue_12.name=Clay Dark Aqua Blue
+tile.ClayBlue_13.name=Clay Oceon Blue
+tile.ClayBlue_14.name=Clay Midnight Blue
+
+
+
+#Clay Brown Colours
+tile.ClayBrown_0.name=Clay Soft Orange
+tile.ClayBrown_1.name=Clay Sienna brown
+tile.ClayBrown_2.name=Clay Burnt Sienna Brown
+tile.ClayBrown_3.name=Clay Earth Brown
+tile.ClayBrown_4.name=Clay Soil Brown
+tile.ClayBrown_5.name=Clay Light Beige
+tile.ClayBrown_6.name=Clay Beige
+tile.ClayBrown_7.name=Clay Terracotta Red
+tile.ClayBrown_8.name=Clay Brown
+tile.ClayBrown_9.name=Clay Saddle Brown
+tile.ClayBrown_10.name=Clay Light Gray Brown
+tile.ClayBrown_11.name=Clay Gray Brown
+tile.ClayBrown_12.name=Clay Middle Gray Brown
+tile.ClayBrown_13.name=Clay Gray Brown
+tile.ClayBrown_14.name=Clay Dark Gray Brown
+
+
+
+#Clay Cyan Colours
+tile.ClayCyan_0.name=Clay Light Green Blue
+tile.ClayCyan_1.name=Clay Light Turquoise Blue
+tile.ClayCyan_2.name=Clay Turquoise Blue
+tile.ClayCyan_3.name=Clay Teal Blue
+tile.ClayCyan_4.name=Clay Dark Teal Blue
+tile.ClayCyan_5.name=Clay Light Seafoam Blue Green
+tile.ClayCyan_6.name=Clay Seafoam Blue Green
+tile.ClayCyan_7.name=Clay Blue Green
+tile.ClayCyan_8.name=Clay Dark Blue Green
+tile.ClayCyan_9.name=Clay Dark Pine Blue Green
+
+
+
+#Clay Green Colours
+tile.ClayGreen_0.name=Clay Light Green
+tile.ClayGreen_1.name=Clay Light Spring Green
+tile.ClayGreen_2.name=Clay Spring Green
+tile.ClayGreen_3.name=Clay Green
+tile.ClayGreen_4.name=Clay Dark Green
+tile.ClayGreen_5.name=Clay Light Summer Green
+tile.ClayGreen_6.name=Clay Summer Green
+tile.ClayGreen_7.name=Clay Lush Green
+tile.ClayGreen_8.name=Clay Deep Lush Green
+tile.ClayGreen_9.name=Clay Dark Lush Green
+tile.ClayGreen_10.name=Clay Light Spring Green
+tile.ClayGreen_11.name=Clay Spring Green
+tile.ClayGreen_12.name=Clay Light Olive Green
+tile.ClayGreen_13.name=Clay Olive Green
+tile.ClayGreen_14.name=Clay Moss Green
+
+
+
+#Clay Yellow Colours
+tile.ClayYellow_0.name=Clay Light Lemon Yellow
+tile.ClayYellow_1.name=Clay Lemon Yellow
+tile.ClayYellow_2.name=Clay Sunny Yellow
+tile.ClayYellow_3.name=Clay Soft Yellow
+tile.ClayYellow_4.name=Clay Orange Yellow
+tile.ClayYellow_5.name=Clay Light Sand Yellow
+tile.ClayYellow_6.name=Clay Light Yellow
+tile.ClayYellow_7.name=Clay Yellow
+tile.ClayYellow_8.name=Clay Gold Yellow
+tile.ClayYellow_9.name=Clay Dark Orange
+tile.ClayYellow_10.name=Clay Light Orange
+tile.ClayYellow_11.name=Clay Sunny Orange
+tile.ClayYellow_12.name=Clay Orange
+tile.ClayYellow_13.name=Clay Deep orange
+tile.ClayYellow_14.name=Clay Orange Red
+
+
+
+#Clay Gray Colours
+tile.ClayGray_0.name=Clay White Gray
+tile.ClayGray_1.name=Clay Light Gray
+tile.ClayGray_2.name=Clay Gray
+tile.ClayGray_3.name=Clay Dark Gray
+tile.ClayGray_4.name=Clay Gray Black
+tile.ClayGray_5.name=Clay Light Warm Gray
+tile.ClayGray_6.name=Clay Warm Gray
+tile.ClayGray_7.name=Clay Middle Warm Gray
+tile.ClayGray_8.name=Clay Dark Warm Gray
+tile.ClayGray_9.name=Clay Warm Black Gray
+tile.ClayGray_10.name=Clay Light Cool gray
+tile.ClayGray_11.name=Clay Cool Gray
+tile.ClayGray_12.name=Clay Dark Cool Gray
+tile.ClayGray_13.name=Clay Cool Blue Gray
+tile.ClayGray_14.name=Clay Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########        STARTING NAMING OF GLASS COLOURS        ###########
+###########									     	       ###########
+######################################################################
+
+
+#Glass Red Colours
+tile.GlassRed_0.name=Glass Light Warm Pink
+tile.GlassRed_1.name=Glass Light Red
+tile.GlassRed_2.name=Glass Bright Red
+tile.GlassRed_3.name=Glass Red
+tile.GlassRed_4.name=Glass Blood Red
+tile.GlassRed_5.name=Glass Light Cool Pink
+tile.GlassRed_6.name=Glass Pink
+tile.GlassRed_7.name=Glass Hot Pink
+tile.GlassRed_8.name=Glass Dark Pink
+tile.GlassRed_9.name=Glass Hot Pink
+tile.GlassRed_10.name=Glass Fuchsia
+tile.GlassRed_11.name=Glass Baby Pink
+tile.GlassRed_12.name=Glass Light Salmon
+tile.GlassRed_13.name=Glass Brown Red
+tile.GlassRed_14.name=Glass Dark Brown Red
+
+
+
+#Glass Purple Colours
+tile.GlassPurple_0.name=Glass Light Magenta
+tile.GlassPurple_1.name=Glass Magenta
+tile.GlassPurple_2.name=Glass Dark Magenta
+tile.GlassPurple_3.name=Glass Violet
+tile.GlassPurple_4.name=Glass Dark Violet
+tile.GlassPurple_5.name=Glass Light Violet
+tile.GlassPurple_6.name=Glass Light Purple
+tile.GlassPurple_7.name=Glass Purple
+tile.GlassPurple_8.name=Glass Dark Purple
+tile.GlassPurple_9.name=Glass Royal Blue
+tile.GlassPurple_10.name=Glass Light Lavender
+tile.GlassPurple_11.name=Glass avender
+tile.GlassPurple_12.name=Glass Azure Blue
+tile.GlassPurple_13.name=Glass Dark Blue
+tile.GlassPurple_14.name=Glass Midnight Blue
+
+
+
+#Glass Blue Colours
+tile.GlassBlue_0.name=Glass Light Blue
+tile.GlassBlue_1.name=Glass Light Sky Blue
+tile.GlassBlue_2.name=Glass Sky Blue
+tile.GlassBlue_3.name=Glass Dark Sky Blue
+tile.GlassBlue_4.name=Glass Navy Blue
+tile.GlassBlue_5.name=Glass Light Baby Blue
+tile.GlassBlue_6.name=Glass Baby Blue
+tile.GlassBlue_7.name=Glass Bright Blue
+tile.GlassBlue_8.name=Glass Medium Blue
+tile.GlassBlue_9.name=Glass Deep Blue
+tile.GlassBlue_10.name=Glass Light Aqua Blue
+tile.GlassBlue_11.name=Glass Aqua Blue
+tile.GlassBlue_12.name=Glass Dark Aqua Blue
+tile.GlassBlue_13.name=Glass Oceon Blue
+tile.GlassBlue_14.name=Glass Midnight Blue
+
+
+
+#Glass Brown Colours
+tile.GlassBrown_0.name=Glass Soft Orange
+tile.GlassBrown_1.name=Glass Sienna brown
+tile.GlassBrown_2.name=Glass Burnt Sienna Brown
+tile.GlassBrown_3.name=Glass Earth Brown
+tile.GlassBrown_4.name=Glass Soil Brown
+tile.GlassBrown_5.name=Glass Light Beige
+tile.GlassBrown_6.name=Glass Beige
+tile.GlassBrown_7.name=Glass Terracotta Red
+tile.GlassBrown_8.name=Glass Brown
+tile.GlassBrown_9.name=Glass Saddle Brown
+tile.GlassBrown_10.name=Glass Light Gray Brown
+tile.GlassBrown_11.name=Glass Gray Brown
+tile.GlassBrown_12.name=Glass Middle Gray Brown
+tile.GlassBrown_13.name=Glass Gray Brown
+tile.GlassBrown_14.name=Glass Dark Gray Brown
+
+
+
+#Glass Cyan Colours
+tile.GlassCyan_0.name=Glass Light Green Blue
+tile.GlassCyan_1.name=Glass Light Turquoise Blue
+tile.GlassCyan_2.name=Glass Turquoise Blue
+tile.GlassCyan_3.name=Glass Teal Blue
+tile.GlassCyan_4.name=Glass Dark Teal Blue
+tile.GlassCyan_5.name=Glass Light Seafoam Blue Green
+tile.GlassCyan_6.name=Glass Seafoam Blue Green
+tile.GlassCyan_7.name=Glass Blue Green
+tile.GlassCyan_8.name=Glass Dark Blue Green
+tile.GlassCyan_9.name=Glass Dark Pine Blue Green
+
+
+
+#Glass Green Colours
+tile.GlassGreen_0.name=Glass Light Green
+tile.GlassGreen_1.name=Glass Light Spring Green
+tile.GlassGreen_2.name=Glass Spring Green
+tile.GlassGreen_3.name=Glass Green
+tile.GlassGreen_4.name=Glass Dark Green
+tile.GlassGreen_5.name=Glass Light Summer Green
+tile.GlassGreen_6.name=Glass Summer Green
+tile.GlassGreen_7.name=Glass Lush Green
+tile.GlassGreen_8.name=Glass Deep Lush Green
+tile.GlassGreen_9.name=Glass Dark Lush Green
+tile.GlassGreen_10.name=Glass Light Spring Green
+tile.GlassGreen_11.name=Glass Spring Green
+tile.GlassGreen_12.name=Glass Light Olive Green
+tile.GlassGreen_13.name=Glass Olive Green
+tile.GlassGreen_14.name=Glass Moss Green
+
+
+
+#Glass Yellow Colours
+tile.GlassYellow_0.name=Glass Light Lemon Yellow
+tile.GlassYellow_1.name=Glass Lemon Yellow
+tile.GlassYellow_2.name=Glass Sunny Yellow
+tile.GlassYellow_3.name=Glass Soft Yellow
+tile.GlassYellow_4.name=Glass Orange Yellow
+tile.GlassYellow_5.name=Glass Light Sand Yellow
+tile.GlassYellow_6.name=Glass Light Yellow
+tile.GlassYellow_7.name=Glass Yellow
+tile.GlassYellow_8.name=Glass Gold Yellow
+tile.GlassYellow_9.name=Glass Dark Orange
+tile.GlassYellow_10.name=Glass Light Orange
+tile.GlassYellow_11.name=Glass Sunny Orange
+tile.GlassYellow_12.name=Glass Orange
+tile.GlassYellow_13.name=Glass Deep orange
+tile.GlassYellow_14.name=Glass Orange Red
+
+
+
+#Glass Gray Colours
+tile.GlassGray_0.name=Glass White Gray
+tile.GlassGray_1.name=Glass Light Gray
+tile.GlassGray_2.name=Glass Gray
+tile.GlassGray_3.name=Glass Dark Gray
+tile.GlassGray_4.name=Glass Gray Black
+tile.GlassGray_5.name=Glass Light Warm Gray
+tile.GlassGray_6.name=Glass Warm Gray
+tile.GlassGray_7.name=Glass Middle Warm Gray
+tile.GlassGray_8.name=Glass Dark Warm Gray
+tile.GlassGray_9.name=Glass Warm Black Gray
+tile.GlassGray_10.name=Glass Light Cool gray
+tile.GlassGray_11.name=Glass Cool Gray
+tile.GlassGray_12.name=Glass Dark Cool Gray
+tile.GlassGray_13.name=Glass Cool Blue Gray
+tile.GlassGray_14.name=Glass Cool Dark Blue Gray

@@ -230,7 +230,7 @@ public class Recipies {
     	
     	
         //Recipes For Stripes Red Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesRed, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedRed, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -238,11 +238,11 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 14; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesRed, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripesRed, 1, i%14)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedRed, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripedRed, 1, i%14)});
         }
         
         //Recipes For Stripes Purple Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesPurple, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedPurple, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -250,11 +250,11 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 14; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesPurple, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripesPurple, 1, i%14)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedPurple, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripedPurple, 1, i%14)});
         }
         
         //Recipes For Stripes Blue Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesBlue, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedBlue, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -262,11 +262,11 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 14; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesBlue, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripesBlue, 1, i%14)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedBlue, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripedBlue, 1, i%14)});
         }
         
         //Recipes For Stripes Brown Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesBrown, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedBrown, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -274,11 +274,11 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 14; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesBrown, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripesBrown, 1, i%14)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedBrown, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripedBrown, 1, i%14)});
         }
         
         //Recipes For Stripes Cyan Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesCyan, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedCyan, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -286,11 +286,11 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 9; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesCyan, 1, (i+1)%9), new Object[] {new ItemStack(CoreBlock.StripesCyan, 1, i%9)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedCyan, 1, (i+1)%9), new Object[] {new ItemStack(CoreBlock.StripedCyan, 1, i%9)});
         }
         
         //Recipes For Stripes Green Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesGreen, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedGreen, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -298,11 +298,11 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 14; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesGreen, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripesGreen, 1, i%14)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedGreen, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripedGreen, 1, i%14)});
         }
         
         //Recipes For Stripes Yellow Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesYellow, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedYellow, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -310,11 +310,11 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 14; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesYellow, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripesYellow, 1, i%14)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedYellow, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripedYellow, 1, i%14)});
         }
         
         //Recipes For Stripes Gray Blocks
-    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripesGray, 4, 0), 
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.StripedGray, 4, 0), 
         		"SPS",
         		"PCP",
         		"SPS",
@@ -322,7 +322,7 @@ public class Recipies {
             );
     	
         for (int i = 0; i < 14; i++) {
-            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripesGray, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripesGray, 1, i%14)});
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.StripedGray, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.StripedGray, 1, i%14)});
         }
         
         
@@ -446,7 +446,7 @@ public class Recipies {
         		"SPS",
         		"PCP",
         		"SPS",
-        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE)
+        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidRed, 1, OreDictionary.WILDCARD_VALUE)
         );
     	
         for (int i = 0; i < 14; i++) {
@@ -458,7 +458,7 @@ public class Recipies {
         		"SPS",
         		"PCP",
         		"SPS",
-        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE)
+        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidPurple, 1, OreDictionary.WILDCARD_VALUE)
         );
     	
         for (int i = 0; i < 14; i++) {
@@ -470,7 +470,7 @@ public class Recipies {
         		"SPS",
         		"PCP",
         		"SPS",
-        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE)
+        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidBlue, 1, OreDictionary.WILDCARD_VALUE)
             );
     	
         for (int i = 0; i < 14; i++) {
@@ -482,7 +482,7 @@ public class Recipies {
         		"SPS",
         		"PCP",
         		"SPS",
-        	 	 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE)
+        	 	 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidBrown, 1, OreDictionary.WILDCARD_VALUE)
             );
     	
         for (int i = 0; i < 14; i++) {
@@ -494,7 +494,7 @@ public class Recipies {
         		"SPS",
         		"PCP",
         		"SPS",
-        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE)
+        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidCyan, 1, OreDictionary.WILDCARD_VALUE)
             );
     	
         for (int i = 0; i < 9; i++) {
@@ -506,7 +506,7 @@ public class Recipies {
         		"SPS",
         		"PCP",
         		"SPS",
-        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE)
+        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGreen, 1, OreDictionary.WILDCARD_VALUE)
             );
     	
         for (int i = 0; i < 14; i++) {
@@ -518,7 +518,7 @@ public class Recipies {
         		"SPS",
         		"PCP",
         		"SPS",
-        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE)
+        		 'S', Items.clay_ball, 'P', Items.paper, 'C', new ItemStack(CoreBlock.SolidYellow, 1, OreDictionary.WILDCARD_VALUE)
             );
     	
         for (int i = 0; i < 14; i++) {
@@ -536,7 +536,115 @@ public class Recipies {
         for (int i = 0; i < 14; i++) {
             GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.ClayGray, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.ClayGray, 1, i%14)});
         }
-    
+        
+        
+        
+        
+        
+    	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+    	
+    	
+    	
+    	
+		//Recipes for Red Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassRed, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidRed, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 14; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassRed, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.GlassRed, 1, i%14)});
+        }
+        
+		//Recipes for Purple Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassPurple, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidPurple, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 14; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassPurple, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.GlassPurple, 1, i%14)});
+        }
+        
+		//Recipes for Blue Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassBlue, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidBlue, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 14; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassBlue, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.GlassBlue, 1, i%14)});
+        }
+        
+		//Recipes for Cyan Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassCyan, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidCyan, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 9; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassCyan, 1, (i+1)%9), new Object[] {new ItemStack(CoreBlock.GlassCyan, 1, i%9)});
+        }
+        
+		//Recipes for Green Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassGreen, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidGreen, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 14; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassGreen, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.GlassGreen, 1, i%14)});
+        }
+        
+		//Recipes for Yellow Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassYellow, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidYellow, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 14; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassYellow, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.GlassYellow, 1, i%14)});
+        }
+        
+		//Recipes for Brown Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassBrown, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidBrown, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 14; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassBrown, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.GlassBrown, 1, i%14)});
+        }
+        
+		//Recipes for Gray Glass Blocks
+    	GameRegistry.addRecipe(new ItemStack(CoreBlock.GlassGray, 9, 0), 
+        		"GGG",
+        		"GCG",
+        		"GGG",
+        		 'C', new ItemStack(CoreBlock.SolidGray, 1, OreDictionary.WILDCARD_VALUE), 'G', Blocks.glass
+        	);
+    	
+        for (int i = 0; i < 14; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(CoreBlock.GlassGray, 1, (i+1)%14), new Object[] {new ItemStack(CoreBlock.GlassGray, 1, i%14)});
+        }
+        
+        
+        
     	
     	}
     }
