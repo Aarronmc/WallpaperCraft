@@ -963,152 +963,470 @@ tile.ClayGray_14.name=Clay Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########        STARTING NAMING OF GLASS COLOURS        ###########
+###########    STARTING NAMING OF TINTED GLASS COLOURS     ###########
 ###########									     	       ###########
 ######################################################################
 
 
-#Glass Red Colours
-tile.GlassRed_0.name=Glass Light Warm Pink
-tile.GlassRed_1.name=Glass Light Red
-tile.GlassRed_2.name=Glass Bright Red
-tile.GlassRed_3.name=Glass Red
-tile.GlassRed_4.name=Glass Blood Red
-tile.GlassRed_5.name=Glass Light Cool Pink
-tile.GlassRed_6.name=Glass Pink
-tile.GlassRed_7.name=Glass Hot Pink
-tile.GlassRed_8.name=Glass Dark Pink
-tile.GlassRed_9.name=Glass Hot Pink
-tile.GlassRed_10.name=Glass Fuchsia
-tile.GlassRed_11.name=Glass Baby Pink
-tile.GlassRed_12.name=Glass Light Salmon
-tile.GlassRed_13.name=Glass Brown Red
-tile.GlassRed_14.name=Glass Dark Brown Red
+#Tinted Glass Red Colours
+tile.TintedGlassRed_0.name=Tinted Glass Light Warm Pink
+tile.TintedGlassRed_1.name=Tinted Glass Light Red
+tile.TintedGlassRed_2.name=Tinted Glass Bright Red
+tile.TintedGlassRed_3.name=Tinted Glass Red
+tile.TintedGlassRed_4.name=Tinted Glass Blood Red
+tile.TintedGlassRed_5.name=Tinted Glass Light Cool Pink
+tile.TintedGlassRed_6.name=Tinted Glass Pink
+tile.TintedGlassRed_7.name=Tinted Glass Hot Pink
+tile.TintedGlassRed_8.name=Tinted Glass Dark Pink
+tile.TintedGlassRed_9.name=Tinted Glass Hot Pink
+tile.TintedGlassRed_10.name=Tinted Glass Fuchsia
+tile.TintedGlassRed_11.name=Tinted Glass Baby Pink
+tile.TintedGlassRed_12.name=Tinted Glass Light Salmon
+tile.TintedGlassRed_13.name=Tinted Glass Brown Red
+tile.TintedGlassRed_14.name=Tinted Glass Dark Brown Red
 
 
 
-#Glass Purple Colours
-tile.GlassPurple_0.name=Glass Light Magenta
-tile.GlassPurple_1.name=Glass Magenta
-tile.GlassPurple_2.name=Glass Dark Magenta
-tile.GlassPurple_3.name=Glass Violet
-tile.GlassPurple_4.name=Glass Dark Violet
-tile.GlassPurple_5.name=Glass Light Violet
-tile.GlassPurple_6.name=Glass Light Purple
-tile.GlassPurple_7.name=Glass Purple
-tile.GlassPurple_8.name=Glass Dark Purple
-tile.GlassPurple_9.name=Glass Royal Blue
-tile.GlassPurple_10.name=Glass Light Lavender
-tile.GlassPurple_11.name=Glass avender
-tile.GlassPurple_12.name=Glass Azure Blue
-tile.GlassPurple_13.name=Glass Dark Blue
-tile.GlassPurple_14.name=Glass Midnight Blue
+#Tinted Glass Purple Colours
+tile.TintedGlassPurple_0.name=Tinted Glass Light Magenta
+tile.TintedGlassPurple_1.name=Tinted Glass Magenta
+tile.TintedGlassPurple_2.name=Tinted Glass Dark Magenta
+tile.TintedGlassPurple_3.name=Tinted Glass Violet
+tile.TintedGlassPurple_4.name=Tinted Glass Dark Violet
+tile.TintedGlassPurple_5.name=Tinted Glass Light Violet
+tile.TintedGlassPurple_6.name=Tinted Glass Light Purple
+tile.TintedGlassPurple_7.name=Tinted Glass Purple
+tile.TintedGlassPurple_8.name=Tinted Glass Dark Purple
+tile.TintedGlassPurple_9.name=Tinted Glass Royal Blue
+tile.TintedGlassPurple_10.name=Tinted Glass Light Lavender
+tile.TintedGlassPurple_11.name=Tinted Glass avender
+tile.TintedGlassPurple_12.name=Tinted Glass Azure Blue
+tile.TintedGlassPurple_13.name=Tinted Glass Dark Blue
+tile.TintedGlassPurple_14.name=Tinted Glass Midnight Blue
 
 
 
-#Glass Blue Colours
-tile.GlassBlue_0.name=Glass Light Blue
-tile.GlassBlue_1.name=Glass Light Sky Blue
-tile.GlassBlue_2.name=Glass Sky Blue
-tile.GlassBlue_3.name=Glass Dark Sky Blue
-tile.GlassBlue_4.name=Glass Navy Blue
-tile.GlassBlue_5.name=Glass Light Baby Blue
-tile.GlassBlue_6.name=Glass Baby Blue
-tile.GlassBlue_7.name=Glass Bright Blue
-tile.GlassBlue_8.name=Glass Medium Blue
-tile.GlassBlue_9.name=Glass Deep Blue
-tile.GlassBlue_10.name=Glass Light Aqua Blue
-tile.GlassBlue_11.name=Glass Aqua Blue
-tile.GlassBlue_12.name=Glass Dark Aqua Blue
-tile.GlassBlue_13.name=Glass Oceon Blue
-tile.GlassBlue_14.name=Glass Midnight Blue
+#Tinted Glass Blue Colours
+tile.TintedGlassBlue_0.name=Tinted Glass Light Blue
+tile.TintedGlassBlue_1.name=Tinted Glass Light Sky Blue
+tile.TintedGlassBlue_2.name=Tinted Glass Sky Blue
+tile.TintedGlassBlue_3.name=Tinted Glass Dark Sky Blue
+tile.TintedGlassBlue_4.name=Tinted Glass Navy Blue
+tile.TintedGlassBlue_5.name=Tinted Glass Light Baby Blue
+tile.TintedGlassBlue_6.name=Tinted Glass Baby Blue
+tile.TintedGlassBlue_7.name=Tinted Glass Bright Blue
+tile.TintedGlassBlue_8.name=Tinted Glass Medium Blue
+tile.TintedGlassBlue_9.name=Tinted Glass Deep Blue
+tile.TintedGlassBlue_10.name=Tinted Glass Light Aqua Blue
+tile.TintedGlassBlue_11.name=Tinted Glass Aqua Blue
+tile.TintedGlassBlue_12.name=Tinted Glass Dark Aqua Blue
+tile.TintedGlassBlue_13.name=Tinted Glass Oceon Blue
+tile.TintedGlassBlue_14.name=Tinted Glass Midnight Blue
 
 
 
-#Glass Brown Colours
-tile.GlassBrown_0.name=Glass Soft Orange
-tile.GlassBrown_1.name=Glass Sienna brown
-tile.GlassBrown_2.name=Glass Burnt Sienna Brown
-tile.GlassBrown_3.name=Glass Earth Brown
-tile.GlassBrown_4.name=Glass Soil Brown
-tile.GlassBrown_5.name=Glass Light Beige
-tile.GlassBrown_6.name=Glass Beige
-tile.GlassBrown_7.name=Glass Terracotta Red
-tile.GlassBrown_8.name=Glass Brown
-tile.GlassBrown_9.name=Glass Saddle Brown
-tile.GlassBrown_10.name=Glass Light Gray Brown
-tile.GlassBrown_11.name=Glass Gray Brown
-tile.GlassBrown_12.name=Glass Middle Gray Brown
-tile.GlassBrown_13.name=Glass Gray Brown
-tile.GlassBrown_14.name=Glass Dark Gray Brown
+#Tinted Glass Brown Colours
+tile.TintedGlassBrown_0.name=Tinted Glass Soft Orange
+tile.TintedGlassBrown_1.name=Tinted Glass Sienna brown
+tile.TintedGlassBrown_2.name=Tinted Glass Burnt Sienna Brown
+tile.TintedGlassBrown_3.name=Tinted Glass Earth Brown
+tile.TintedGlassBrown_4.name=Tinted Glass Soil Brown
+tile.TintedGlassBrown_5.name=Tinted Glass Light Beige
+tile.TintedGlassBrown_6.name=Tinted Glass Beige
+tile.TintedGlassBrown_7.name=Tinted Glass Terracotta Red
+tile.TintedGlassBrown_8.name=Tinted Glass Brown
+tile.TintedGlassBrown_9.name=Tinted Glass Saddle Brown
+tile.TintedGlassBrown_10.name=Tinted Glass Light Gray Brown
+tile.TintedGlassBrown_11.name=Tinted Glass Gray Brown
+tile.TintedGlassBrown_12.name=Tinted Glass Middle Gray Brown
+tile.TintedGlassBrown_13.name=Tinted Glass Gray Brown
+tile.TintedGlassBrown_14.name=Tinted Glass Dark Gray Brown
 
 
 
-#Glass Cyan Colours
-tile.GlassCyan_0.name=Glass Light Green Blue
-tile.GlassCyan_1.name=Glass Light Turquoise Blue
-tile.GlassCyan_2.name=Glass Turquoise Blue
-tile.GlassCyan_3.name=Glass Teal Blue
-tile.GlassCyan_4.name=Glass Dark Teal Blue
-tile.GlassCyan_5.name=Glass Light Seafoam Blue Green
-tile.GlassCyan_6.name=Glass Seafoam Blue Green
-tile.GlassCyan_7.name=Glass Blue Green
-tile.GlassCyan_8.name=Glass Dark Blue Green
-tile.GlassCyan_9.name=Glass Dark Pine Blue Green
+#Tinted Glass Cyan Colours
+tile.TintedGlassCyan_0.name=Tinted Glass Light Green Blue
+tile.TintedGlassCyan_1.name=Tinted Glass Light Turquoise Blue
+tile.TintedGlassCyan_2.name=Tinted Glass Turquoise Blue
+tile.TintedGlassCyan_3.name=Tinted Glass Teal Blue
+tile.TintedGlassCyan_4.name=Tinted Glass Dark Teal Blue
+tile.TintedGlassCyan_5.name=Tinted Glass Light Seafoam Blue Green
+tile.TintedGlassCyan_6.name=Tinted Glass Seafoam Blue Green
+tile.TintedGlassCyan_7.name=Tinted Glass Blue Green
+tile.TintedGlassCyan_8.name=Tinted Glass Dark Blue Green
+tile.TintedGlassCyan_9.name=Tinted Glass Dark Pine Blue Green
 
 
 
-#Glass Green Colours
-tile.GlassGreen_0.name=Glass Light Green
-tile.GlassGreen_1.name=Glass Light Spring Green
-tile.GlassGreen_2.name=Glass Spring Green
-tile.GlassGreen_3.name=Glass Green
-tile.GlassGreen_4.name=Glass Dark Green
-tile.GlassGreen_5.name=Glass Light Summer Green
-tile.GlassGreen_6.name=Glass Summer Green
-tile.GlassGreen_7.name=Glass Lush Green
-tile.GlassGreen_8.name=Glass Deep Lush Green
-tile.GlassGreen_9.name=Glass Dark Lush Green
-tile.GlassGreen_10.name=Glass Light Spring Green
-tile.GlassGreen_11.name=Glass Spring Green
-tile.GlassGreen_12.name=Glass Light Olive Green
-tile.GlassGreen_13.name=Glass Olive Green
-tile.GlassGreen_14.name=Glass Moss Green
+#Tinted Glass Green Colours
+tile.TintedGlassGreen_0.name=Tinted Glass Light Green
+tile.TintedGlassGreen_1.name=Tinted Glass Light Spring Green
+tile.TintedGlassGreen_2.name=Tinted Glass Spring Green
+tile.TintedGlassGreen_3.name=Tinted Glass Green
+tile.TintedGlassGreen_4.name=Tinted Glass Dark Green
+tile.TintedGlassGreen_5.name=Tinted Glass Light Summer Green
+tile.TintedGlassGreen_6.name=Tinted Glass Summer Green
+tile.TintedGlassGreen_7.name=Tinted Glass Lush Green
+tile.TintedGlassGreen_8.name=Tinted Glass Deep Lush Green
+tile.TintedGlassGreen_9.name=Tinted Glass Dark Lush Green
+tile.TintedGlassGreen_10.name=Tinted Glass Light Spring Green
+tile.TintedGlassGreen_11.name=Tinted Glass Spring Green
+tile.TintedGlassGreen_12.name=Tinted Glass Light Olive Green
+tile.TintedGlassGreen_13.name=Tinted Glass Olive Green
+tile.TintedGlassGreen_14.name=Tinted Glass Moss Green
 
 
 
-#Glass Yellow Colours
-tile.GlassYellow_0.name=Glass Light Lemon Yellow
-tile.GlassYellow_1.name=Glass Lemon Yellow
-tile.GlassYellow_2.name=Glass Sunny Yellow
-tile.GlassYellow_3.name=Glass Soft Yellow
-tile.GlassYellow_4.name=Glass Orange Yellow
-tile.GlassYellow_5.name=Glass Light Sand Yellow
-tile.GlassYellow_6.name=Glass Light Yellow
-tile.GlassYellow_7.name=Glass Yellow
-tile.GlassYellow_8.name=Glass Gold Yellow
-tile.GlassYellow_9.name=Glass Dark Orange
-tile.GlassYellow_10.name=Glass Light Orange
-tile.GlassYellow_11.name=Glass Sunny Orange
-tile.GlassYellow_12.name=Glass Orange
-tile.GlassYellow_13.name=Glass Deep orange
-tile.GlassYellow_14.name=Glass Orange Red
+#Tinted Glass Yellow Colours
+tile.TintedGlassYellow_0.name=Tinted Glass Light Lemon Yellow
+tile.TintedGlassYellow_1.name=Tinted Glass Lemon Yellow
+tile.TintedGlassYellow_2.name=Tinted Glass Sunny Yellow
+tile.TintedGlassYellow_3.name=Tinted Glass Soft Yellow
+tile.TintedGlassYellow_4.name=Tinted Glass Orange Yellow
+tile.TintedGlassYellow_5.name=Tinted Glass Light Sand Yellow
+tile.TintedGlassYellow_6.name=Tinted Glass Light Yellow
+tile.TintedGlassYellow_7.name=Tinted Glass Yellow
+tile.TintedGlassYellow_8.name=Tinted Glass Gold Yellow
+tile.TintedGlassYellow_9.name=Tinted Glass Dark Orange
+tile.TintedGlassYellow_10.name=Tinted Glass Light Orange
+tile.TintedGlassYellow_11.name=Tinted Glass Sunny Orange
+tile.TintedGlassYellow_12.name=Tinted Glass Orange
+tile.TintedGlassYellow_13.name=Tinted Glass Deep orange
+tile.TintedGlassYellow_14.name=Tinted Glass Orange Red
 
 
 
-#Glass Gray Colours
-tile.GlassGray_0.name=Glass White Gray
-tile.GlassGray_1.name=Glass Light Gray
-tile.GlassGray_2.name=Glass Gray
-tile.GlassGray_3.name=Glass Dark Gray
-tile.GlassGray_4.name=Glass Gray Black
-tile.GlassGray_5.name=Glass Light Warm Gray
-tile.GlassGray_6.name=Glass Warm Gray
-tile.GlassGray_7.name=Glass Middle Warm Gray
-tile.GlassGray_8.name=Glass Dark Warm Gray
-tile.GlassGray_9.name=Glass Warm Black Gray
-tile.GlassGray_10.name=Glass Light Cool gray
-tile.GlassGray_11.name=Glass Cool Gray
-tile.GlassGray_12.name=Glass Dark Cool Gray
-tile.GlassGray_13.name=Glass Cool Blue Gray
-tile.GlassGray_14.name=Glass Cool Dark Blue Gray
+#Tinted Glass Gray Colours
+tile.TintedGlassGray_0.name=Tinted Glass White Gray
+tile.TintedGlassGray_1.name=Tinted Glass Light Gray
+tile.TintedGlassGray_2.name=Tinted Glass Gray
+tile.TintedGlassGray_3.name=Tinted Glass Dark Gray
+tile.TintedGlassGray_4.name=Tinted Glass Gray Black
+tile.TintedGlassGray_5.name=Tinted Glass Light Warm Gray
+tile.TintedGlassGray_6.name=Tinted Glass Warm Gray
+tile.TintedGlassGray_7.name=Tinted Glass Middle Warm Gray
+tile.TintedGlassGray_8.name=Tinted Glass Dark Warm Gray
+tile.TintedGlassGray_9.name=Tinted Glass Warm Black Gray
+tile.TintedGlassGray_10.name=Tinted Glass Light Cool gray
+tile.TintedGlassGray_11.name=Tinted Glass Cool Gray
+tile.TintedGlassGray_12.name=Tinted Glass Dark Cool Gray
+tile.TintedGlassGray_13.name=Tinted Glass Cool Blue Gray
+tile.TintedGlassGray_14.name=Tinted Glass Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########   STARTING NAMING OF TEXTURED GLASS COLOURS    ###########
+###########									     	       ###########
+######################################################################
+
+
+#Textured Glass Red Colours
+tile.TexGlassRed_0.name=Textured Glass Light Warm Pink
+tile.TexGlassRed_1.name=Textured Glass Light Red
+tile.TexGlassRed_2.name=Textured Glass Bright Red
+tile.TexGlassRed_3.name=Textured Glass Red
+tile.TexGlassRed_4.name=Textured Glass Blood Red
+tile.TexGlassRed_5.name=Textured Glass Light Cool Pink
+tile.TexGlassRed_6.name=Textured Glass Pink
+tile.TexGlassRed_7.name=Textured Glass Hot Pink
+tile.TexGlassRed_8.name=Textured Glass Dark Pink
+tile.TexGlassRed_9.name=Textured Glass Hot Pink
+tile.TexGlassRed_10.name=Textured Glass Fuchsia
+tile.TexGlassRed_11.name=Textured Glass Baby Pink
+tile.TexGlassRed_12.name=Textured Glass Light Salmon
+tile.TexGlassRed_13.name=Textured Glass Brown Red
+tile.TexGlassRed_14.name=Textured Glass Dark Brown Red
+
+
+
+#Textured Glass Purple Colours
+tile.TexGlassPurple_0.name=Textured Glass Light Magenta
+tile.TexGlassPurple_1.name=Textured Glass Magenta
+tile.TexGlassPurple_2.name=Textured Glass Dark Magenta
+tile.TexGlassPurple_3.name=Textured Glass Violet
+tile.TexGlassPurple_4.name=Textured Glass Dark Violet
+tile.TexGlassPurple_5.name=Textured Glass Light Violet
+tile.TexGlassPurple_6.name=Textured Glass Light Purple
+tile.TexGlassPurple_7.name=Textured Glass Purple
+tile.TexGlassPurple_8.name=Textured Glass Dark Purple
+tile.TexGlassPurple_9.name=Textured Glass Royal Blue
+tile.TexGlassPurple_10.name=Textured Glass Light Lavender
+tile.TexGlassPurple_11.name=Textured Glass avender
+tile.TexGlassPurple_12.name=Textured Glass Azure Blue
+tile.TexGlassPurple_13.name=Textured Glass Dark Blue
+tile.TexGlassPurple_14.name=Textured Glass Midnight Blue
+
+
+
+#Textured Glass Blue Colours
+tile.TexGlassBlue_0.name=Textured Glass Light Blue
+tile.TexGlassBlue_1.name=Textured Glass Light Sky Blue
+tile.TexGlassBlue_2.name=Textured Glass Sky Blue
+tile.TexGlassBlue_3.name=Textured Glass Dark Sky Blue
+tile.TexGlassBlue_4.name=Textured Glass Navy Blue
+tile.TexGlassBlue_5.name=Textured Glass Light Baby Blue
+tile.TexGlassBlue_6.name=Textured Glass Baby Blue
+tile.TexGlassBlue_7.name=Textured Glass Bright Blue
+tile.TexGlassBlue_8.name=Textured Glass Medium Blue
+tile.TexGlassBlue_9.name=Textured Glass Deep Blue
+tile.TexGlassBlue_10.name=Textured Glass Light Aqua Blue
+tile.TexGlassBlue_11.name=Textured Glass Aqua Blue
+tile.TexGlassBlue_12.name=Textured Glass Dark Aqua Blue
+tile.TexGlassBlue_13.name=Textured Glass Oceon Blue
+tile.TexGlassBlue_14.name=Textured Glass Midnight Blue
+
+
+
+#Textured Glass Brown Colours
+tile.TexGlassBrown_0.name=Textured Glass Soft Orange
+tile.TexGlassBrown_1.name=Textured Glass Sienna brown
+tile.TexGlassBrown_2.name=Textured Glass Burnt Sienna Brown
+tile.TexGlassBrown_3.name=Textured Glass Earth Brown
+tile.TexGlassBrown_4.name=Textured Glass Soil Brown
+tile.TexGlassBrown_5.name=Textured Glass Light Beige
+tile.TexGlassBrown_6.name=Textured Glass Beige
+tile.TexGlassBrown_7.name=Textured Glass Terracotta Red
+tile.TexGlassBrown_8.name=Textured Glass Brown
+tile.TexGlassBrown_9.name=Textured Glass Saddle Brown
+tile.TexGlassBrown_10.name=Textured Glass Light Gray Brown
+tile.TexGlassBrown_11.name=Textured Glass Gray Brown
+tile.TexGlassBrown_12.name=Textured Glass Middle Gray Brown
+tile.TexGlassBrown_13.name=Textured Glass Gray Brown
+tile.TexGlassBrown_14.name=Textured Glass Dark Gray Brown
+
+
+
+#Textured Glass Cyan Colours
+tile.TexGlassCyan_0.name=Textured Glass Light Green Blue
+tile.TexGlassCyan_1.name=Textured Glass Light Turquoise Blue
+tile.TexGlassCyan_2.name=Textured Glass Turquoise Blue
+tile.TexGlassCyan_3.name=Textured Glass Teal Blue
+tile.TexGlassCyan_4.name=Textured Glass Dark Teal Blue
+tile.TexGlassCyan_5.name=Textured Glass Light Seafoam Blue Green
+tile.TexGlassCyan_6.name=Textured Glass Seafoam Blue Green
+tile.TexGlassCyan_7.name=Textured Glass Blue Green
+tile.TexGlassCyan_8.name=Textured Glass Dark Blue Green
+tile.TexGlassCyan_9.name=Textured Glass Dark Pine Blue Green
+
+
+
+#Textured Glass Green Colours
+tile.TexGlassGreen_0.name=Textured Glass Light Green
+tile.TexGlassGreen_1.name=Textured Glass Light Spring Green
+tile.TexGlassGreen_2.name=Textured Glass Spring Green
+tile.TexGlassGreen_3.name=Textured Glass Green
+tile.TexGlassGreen_4.name=Textured Glass Dark Green
+tile.TexGlassGreen_5.name=Textured Glass Light Summer Green
+tile.TexGlassGreen_6.name=Textured Glass Summer Green
+tile.TexGlassGreen_7.name=Textured Glass Lush Green
+tile.TexGlassGreen_8.name=Textured Glass Deep Lush Green
+tile.TexGlassGreen_9.name=Textured Glass Dark Lush Green
+tile.TexGlassGreen_10.name=Textured Glass Light Spring Green
+tile.TexGlassGreen_11.name=Textured Glass Spring Green
+tile.TexGlassGreen_12.name=Textured Glass Light Olive Green
+tile.TexGlassGreen_13.name=Textured Glass Olive Green
+tile.TexGlassGreen_14.name=Textured Glass Moss Green
+
+
+
+#Textured Glass Yellow Colours
+tile.TexGlassYellow_0.name=Textured Glass Light Lemon Yellow
+tile.TexGlassYellow_1.name=Textured Glass Lemon Yellow
+tile.TexGlassYellow_2.name=Textured Glass Sunny Yellow
+tile.TexGlassYellow_3.name=Textured Glass Soft Yellow
+tile.TexGlassYellow_4.name=Textured Glass Orange Yellow
+tile.TexGlassYellow_5.name=Textured Glass Light Sand Yellow
+tile.TexGlassYellow_6.name=Textured Glass Light Yellow
+tile.TexGlassYellow_7.name=Textured Glass Yellow
+tile.TexGlassYellow_8.name=Textured Glass Gold Yellow
+tile.TexGlassYellow_9.name=Textured Glass Dark Orange
+tile.TexGlassYellow_10.name=Textured Glass Light Orange
+tile.TexGlassYellow_11.name=Textured Glass Sunny Orange
+tile.TexGlassYellow_12.name=Textured Glass Orange
+tile.TexGlassYellow_13.name=Textured Glass Deep orange
+tile.TexGlassYellow_14.name=Textured Glass Orange Red
+
+
+
+#Textured Glass Gray Colours
+tile.TexGlassGray_0.name=Textured Glass White Gray
+tile.TexGlassGray_1.name=Textured Glass Light Gray
+tile.TexGlassGray_2.name=Textured Glass Gray
+tile.TexGlassGray_3.name=Textured Glass Dark Gray
+tile.TexGlassGray_4.name=Textured Glass Gray Black
+tile.TexGlassGray_5.name=Textured Glass Light Warm Gray
+tile.TexGlassGray_6.name=Textured Glass Warm Gray
+tile.TexGlassGray_7.name=Textured Glass Middle Warm Gray
+tile.TexGlassGray_8.name=Textured Glass Dark Warm Gray
+tile.TexGlassGray_9.name=Textured Glass Warm Black Gray
+tile.TexGlassGray_10.name=Textured Glass Light Cool gray
+tile.TexGlassGray_11.name=Textured Glass Cool Gray
+tile.TexGlassGray_12.name=Textured Glass Dark Cool Gray
+tile.TexGlassGray_13.name=Textured Glass Cool Blue Gray
+tile.TexGlassGray_14.name=Textured Glass Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########    STARTING NAMING OF FROSTED GLASS COLOURS    ###########
+###########									     	       ###########
+######################################################################
+
+
+#Frosted Glass Red Colours
+tile.FrostedGlassRed_0.name=Frosted Glass Light Warm Pink
+tile.FrostedGlassRed_1.name=Frosted Glass Light Red
+tile.FrostedGlassRed_2.name=Frosted Glass Bright Red
+tile.FrostedGlassRed_3.name=Frosted Glass Red
+tile.FrostedGlassRed_4.name=Frosted Glass Blood Red
+tile.FrostedGlassRed_5.name=Frosted Glass Light Cool Pink
+tile.FrostedGlassRed_6.name=Frosted Glass Pink
+tile.FrostedGlassRed_7.name=Frosted Glass Hot Pink
+tile.FrostedGlassRed_8.name=Frosted Glass Dark Pink
+tile.FrostedGlassRed_9.name=Frosted Glass Hot Pink
+tile.FrostedGlassRed_10.name=Frosted Glass Fuchsia
+tile.FrostedGlassRed_11.name=Frosted Glass Baby Pink
+tile.FrostedGlassRed_12.name=Frosted Glass Light Salmon
+tile.FrostedGlassRed_13.name=Frosted Glass Brown Red
+tile.FrostedGlassRed_14.name=Frosted Glass Dark Brown Red
+
+
+
+#Frosted Glass Purple Colours
+tile.FrostedGlassPurple_0.name=Frosted Glass Light Magenta
+tile.FrostedGlassPurple_1.name=Frosted Glass Magenta
+tile.FrostedGlassPurple_2.name=Frosted Glass Dark Magenta
+tile.FrostedGlassPurple_3.name=Frosted Glass Violet
+tile.FrostedGlassPurple_4.name=Frosted Glass Dark Violet
+tile.FrostedGlassPurple_5.name=Frosted Glass Light Violet
+tile.FrostedGlassPurple_6.name=Frosted Glass Light Purple
+tile.FrostedGlassPurple_7.name=Frosted Glass Purple
+tile.FrostedGlassPurple_8.name=Frosted Glass Dark Purple
+tile.FrostedGlassPurple_9.name=Frosted Glass Royal Blue
+tile.FrostedGlassPurple_10.name=Frosted Glass Light Lavender
+tile.FrostedGlassPurple_11.name=Frosted Glass avender
+tile.FrostedGlassPurple_12.name=Frosted Glass Azure Blue
+tile.FrostedGlassPurple_13.name=Frosted Glass Dark Blue
+tile.FrostedGlassPurple_14.name=Frosted Glass Midnight Blue
+
+
+
+#Frosted Glass Blue Colours
+tile.FrostedGlassBlue_0.name=Frosted Glass Light Blue
+tile.FrostedGlassBlue_1.name=Frosted Glass Light Sky Blue
+tile.FrostedGlassBlue_2.name=Frosted Glass Sky Blue
+tile.FrostedGlassBlue_3.name=Frosted Glass Dark Sky Blue
+tile.FrostedGlassBlue_4.name=Frosted Glass Navy Blue
+tile.FrostedGlassBlue_5.name=Frosted Glass Light Baby Blue
+tile.FrostedGlassBlue_6.name=Frosted Glass Baby Blue
+tile.FrostedGlassBlue_7.name=Frosted Glass Bright Blue
+tile.FrostedGlassBlue_8.name=Frosted Glass Medium Blue
+tile.FrostedGlassBlue_9.name=Frosted Glass Deep Blue
+tile.FrostedGlassBlue_10.name=Frosted Glass Light Aqua Blue
+tile.FrostedGlassBlue_11.name=Frosted Glass Aqua Blue
+tile.FrostedGlassBlue_12.name=Frosted Glass Dark Aqua Blue
+tile.FrostedGlassBlue_13.name=Frosted Glass Oceon Blue
+tile.FrostedGlassBlue_14.name=Frosted Glass Midnight Blue
+
+
+
+#Frosted Glass Brown Colours
+tile.FrostedGlassBrown_0.name=Frosted Glass Soft Orange
+tile.FrostedGlassBrown_1.name=Frosted Glass Sienna brown
+tile.FrostedGlassBrown_2.name=Frosted Glass Burnt Sienna Brown
+tile.FrostedGlassBrown_3.name=Frosted Glass Earth Brown
+tile.FrostedGlassBrown_4.name=Frosted Glass Soil Brown
+tile.FrostedGlassBrown_5.name=Frosted Glass Light Beige
+tile.FrostedGlassBrown_6.name=Frosted Glass Beige
+tile.FrostedGlassBrown_7.name=Frosted Glass Terracotta Red
+tile.FrostedGlassBrown_8.name=Frosted Glass Brown
+tile.FrostedGlassBrown_9.name=Frosted Glass Saddle Brown
+tile.FrostedGlassBrown_10.name=Frosted Glass Light Gray Brown
+tile.FrostedGlassBrown_11.name=Frosted Glass Gray Brown
+tile.FrostedGlassBrown_12.name=Frosted Glass Middle Gray Brown
+tile.FrostedGlassBrown_13.name=Frosted Glass Gray Brown
+tile.FrostedGlassBrown_14.name=Frosted Glass Dark Gray Brown
+
+
+
+#Frosted Glass Cyan Colours
+tile.FrostedGlassCyan_0.name=Frosted Glass Light Green Blue
+tile.FrostedGlassCyan_1.name=Frosted Glass Light Turquoise Blue
+tile.FrostedGlassCyan_2.name=Frosted Glass Turquoise Blue
+tile.FrostedGlassCyan_3.name=Frosted Glass Teal Blue
+tile.FrostedGlassCyan_4.name=Frosted Glass Dark Teal Blue
+tile.FrostedGlassCyan_5.name=Frosted Glass Light Seafoam Blue Green
+tile.FrostedGlassCyan_6.name=Frosted Glass Seafoam Blue Green
+tile.FrostedGlassCyan_7.name=Frosted Glass Blue Green
+tile.FrostedGlassCyan_8.name=Frosted Glass Dark Blue Green
+tile.FrostedGlassCyan_9.name=Frosted Glass Dark Pine Blue Green
+
+
+
+#Frosted Glass Green Colours
+tile.FrostedGlassGreen_0.name=Frosted Glass Light Green
+tile.FrostedGlassGreen_1.name=Frosted Glass Light Spring Green
+tile.FrostedGlassGreen_2.name=Frosted Glass Spring Green
+tile.FrostedGlassGreen_3.name=Frosted Glass Green
+tile.FrostedGlassGreen_4.name=Frosted Glass Dark Green
+tile.FrostedGlassGreen_5.name=Frosted Glass Light Summer Green
+tile.FrostedGlassGreen_6.name=Frosted Glass Summer Green
+tile.FrostedGlassGreen_7.name=Frosted Glass Lush Green
+tile.FrostedGlassGreen_8.name=Frosted Glass Deep Lush Green
+tile.FrostedGlassGreen_9.name=Frosted Glass Dark Lush Green
+tile.FrostedGlassGreen_10.name=Frosted Glass Light Spring Green
+tile.FrostedGlassGreen_11.name=Frosted Glass Spring Green
+tile.FrostedGlassGreen_12.name=Frosted Glass Light Olive Green
+tile.FrostedGlassGreen_13.name=Frosted Glass Olive Green
+tile.FrostedGlassGreen_14.name=Frosted Glass Moss Green
+
+
+
+#Frosted Glass Yellow Colours
+tile.FrostedGlassYellow_0.name=Frosted Glass Light Lemon Yellow
+tile.FrostedGlassYellow_1.name=Frosted Glass Lemon Yellow
+tile.FrostedGlassYellow_2.name=Frosted Glass Sunny Yellow
+tile.FrostedGlassYellow_3.name=Frosted Glass Soft Yellow
+tile.FrostedGlassYellow_4.name=Frosted Glass Orange Yellow
+tile.FrostedGlassYellow_5.name=Frosted Glass Light Sand Yellow
+tile.FrostedGlassYellow_6.name=Frosted Glass Light Yellow
+tile.FrostedGlassYellow_7.name=Frosted Glass Yellow
+tile.FrostedGlassYellow_8.name=Frosted Glass Gold Yellow
+tile.FrostedGlassYellow_9.name=Frosted Glass Dark Orange
+tile.FrostedGlassYellow_10.name=Frosted Glass Light Orange
+tile.FrostedGlassYellow_11.name=Frosted Glass Sunny Orange
+tile.FrostedGlassYellow_12.name=Frosted Glass Orange
+tile.FrostedGlassYellow_13.name=Frosted Glass Deep orange
+tile.FrostedGlassYellow_14.name=Frosted Glass Orange Red
+
+
+
+#Frosted Glass Gray Colours
+tile.FrostedGlassGray_0.name=Frosted Glass White Gray
+tile.FrostedGlassGray_1.name=Frosted Glass Light Gray
+tile.FrostedGlassGray_2.name=Frosted Glass Gray
+tile.FrostedGlassGray_3.name=Frosted Glass Dark Gray
+tile.FrostedGlassGray_4.name=Frosted Glass Gray Black
+tile.FrostedGlassGray_5.name=Frosted Glass Light Warm Gray
+tile.FrostedGlassGray_6.name=Frosted Glass Warm Gray
+tile.FrostedGlassGray_7.name=Frosted Glass Middle Warm Gray
+tile.FrostedGlassGray_8.name=Frosted Glass Dark Warm Gray
+tile.FrostedGlassGray_9.name=Frosted Glass Warm Black Gray
+tile.FrostedGlassGray_10.name=Frosted Glass Light Cool gray
+tile.FrostedGlassGray_11.name=Frosted Glass Cool Gray
+tile.FrostedGlassGray_12.name=Frosted Glass Dark Cool Gray
+tile.FrostedGlassGray_13.name=Frosted Glass Cool Blue Gray
+tile.FrostedGlassGray_14.name=Frosted Glass Cool Dark Blue Gray

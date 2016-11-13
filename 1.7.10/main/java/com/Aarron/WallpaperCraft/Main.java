@@ -14,9 +14,9 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid = Main.MODID, name = Main.MODNAME, version = Main.VERSION)
 public class Main {
 
-    public static final String MODID = "wp";
+    public static final String MODID = "WallpaperCraft";
     public static final String MODNAME = "WallpaperCraft";
-    public static final String VERSION = "1.0.0";
+    public static final String VERSION = "1.7.10";
     
     @SidedProxy(clientSide="com.Aarron.WallpaperCraft.Proxy.ClientProxy", serverSide="com.Aarron.WallpaperCraft.Proxy.ServerProxy")
     public static CommonProxy proxy;

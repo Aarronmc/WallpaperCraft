@@ -236,45 +236,140 @@ public class MicroblocksSupport {
 		
 		
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassRed, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassRed, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassRed, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassRed, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassPurple, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassPurple, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassPurple, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassPurple, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassBlue, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassBlue, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassBlue, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassBlue, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassCyan, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassCyan, 0);
 		for (int i = 0; i < 9; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassCyan, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassCyan, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassGreen, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassGreen, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassGreen, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassGreen, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassYellow, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassYellow, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassYellow, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassYellow, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassBrown, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassBrown, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassBrown, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassBrown, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(CoreBlock.GlassGray, 0);
+		BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassGray, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(CoreBlock.GlassGray, i);
+			BlockMicroMaterial.createAndRegister(CoreBlock.TintedGlassGray, i);
 		}
+		
+		
+		
+		
+		
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.TexGlassGray, i);
+		}
+		
+		
+		
+		
+		
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.FrostedGlassGray, i);
+		}
+		
+		
+		
+		
+		
 		
 		
 
