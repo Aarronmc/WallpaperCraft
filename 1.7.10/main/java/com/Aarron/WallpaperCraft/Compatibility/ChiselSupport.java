@@ -101,6 +101,15 @@ public class ChiselSupport {
 		addToChisle("Dotted Carpet Brown Blocks", CoreBlock.DottedCarpetBrown, 14);
 		addToChisle("Dotted Carpet Gray Blocks", CoreBlock.DottedCarpetGray, 14);
 		
+		addToChisle("Checkered Carpet Red Blocks", CoreBlock.CheckeredCarpetRed, 14);
+		addToChisle("Checkered Carpet Purple Blocks", CoreBlock.CheckeredCarpetPurple, 14);
+		addToChisle("Checkered Carpet Blue Blocks", CoreBlock.CheckeredCarpetBlue, 14);
+		addToChisle("Checkered Carpet Cyan Blocks", CoreBlock.CheckeredCarpetCyan, 9);
+		addToChisle("Checkered Carpet Green Blocks", CoreBlock.CheckeredCarpetGreen, 14);
+		addToChisle("Checkered Carpet Yellow Blocks", CoreBlock.CheckeredCarpetYellow, 14);
+		addToChisle("Checkered Carpet Brown Blocks", CoreBlock.CheckeredCarpetBrown, 14);
+		addToChisle("Checkered Carpet Gray Blocks", CoreBlock.CheckeredCarpetGray, 14);
+		
 		addToChisle("Dotted Red Rugs", CoreBlock.DottedRugRed, 14);
 		addToChisle("Dotted Purple Rugs", CoreBlock.DottedRugPurple, 14);
 		addToChisle("Dotted Blue Rugs", CoreBlock.DottedRugBlue, 14);
@@ -109,6 +118,15 @@ public class ChiselSupport {
 		addToChisle("Dotted Yellow Rugs", CoreBlock.DottedRugYellow, 14);
 		addToChisle("Dotted Brown Rugs", CoreBlock.DottedRugBrown, 14);
 		addToChisle("Dotted Gray Rugs", CoreBlock.DottedRugGray, 14);
+		
+		addToChisle("Checkered Red Rugs", CoreBlock.CheckeredRugRed, 14);
+		addToChisle("Checkered Purple Rugs", CoreBlock.CheckeredRugPurple, 14);
+		addToChisle("Checkered Blue Rugs", CoreBlock.CheckeredRugBlue, 14);
+		addToChisle("Checkered Cyan Rugs", CoreBlock.CheckeredRugCyan, 9);
+		addToChisle("Checkered Green Rugs", CoreBlock.CheckeredRugGreen, 14);
+		addToChisle("Checkered Yellow Rugs", CoreBlock.CheckeredRugYellow, 14);
+		addToChisle("Checkered Brown Rugs", CoreBlock.CheckeredRugBrown, 14);
+		addToChisle("Checkered Gray Rugs", CoreBlock.CheckeredRugGray, 14);
 		
 		
 		
