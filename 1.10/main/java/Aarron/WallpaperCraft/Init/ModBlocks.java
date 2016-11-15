@@ -4,87 +4,18 @@ package Aarron.WallpaperCraft.Init;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickBlue;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickBrown;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickCyan;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickGray;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickGreen;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickPurple;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickRed;
-import Aarron.WallpaperCraft.Blocks.Bricks.BrickYellow;
+import Aarron.WallpaperCraft.Blocks.Bricks.*;
+import Aarron.WallpaperCraft.Blocks.Carpets.Checkered.*;
 import Aarron.WallpaperCraft.Blocks.Carpets.Dotted.*;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayBlue;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayBrown;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayCyan;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayGray;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayGreen;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayPurple;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayRed;
-import Aarron.WallpaperCraft.Blocks.Clay.ClayYellow;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedBlue;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedBrown;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedCyan;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedGray;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedGreen;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedPurple;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedRed;
-import Aarron.WallpaperCraft.Blocks.Dotted.DiagonallyDottedYellow;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralBlue;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralBrown;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralCyan;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralGray;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralGreen;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralPurple;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralRed;
-import Aarron.WallpaperCraft.Blocks.Floral.FloralYellow;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassBlue;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassBrown;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassCyan;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassGray;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassGreen;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassPurple;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassRed;
-import Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassYellow;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassBlue;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassBrown;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassCyan;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassGray;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassGreen;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassPurple;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassRed;
-import Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassYellow;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBlue;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBrown;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassCyan;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassGray;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassGreen;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassPurple;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassRed;
-import Aarron.WallpaperCraft.Blocks.Glass.TintedGlassYellow;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugBlue;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugBrown;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugCyan;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugGray;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugGreen;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugPurple;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugRed;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugYellow;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidBlue;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidBrown;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidCyan;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidGray;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidGreen;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidPurple;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidRed;
-import Aarron.WallpaperCraft.Blocks.Solid.SolidYellow;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedBlue;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedBrown;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedCyan;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedGray;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedGreen;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedPurple;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedRed;
-import Aarron.WallpaperCraft.Blocks.Striped.StripedYellow;
+import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.*;
+import Aarron.WallpaperCraft.Blocks.Rugs.Checkered.*;
+import Aarron.WallpaperCraft.Blocks.Clay.*;
+import Aarron.WallpaperCraft.Blocks.Dotted.*;
+import Aarron.WallpaperCraft.Blocks.Floral.*;
+import Aarron.WallpaperCraft.Blocks.Glass.*;
+import Aarron.WallpaperCraft.Blocks.Solid.*;
+import Aarron.WallpaperCraft.Blocks.Striped.*;
+
 
 public class ModBlocks {
 	
@@ -155,7 +86,7 @@ public class ModBlocks {
 	public static DottedCarpetYellow DottedCarpetYellow = new DottedCarpetYellow();
 	public static DottedCarpetBrown DottedCarpetBrown = new DottedCarpetBrown();
 	public static DottedCarpetGray DottedCarpetGray = new DottedCarpetGray();
-
+	
 	public static DottedRugRed DottedRugRed = new DottedRugRed();
 	public static DottedRugPurple DottedRugPurple = new DottedRugPurple();
 	public static DottedRugBlue DottedRugBlue = new DottedRugBlue();
@@ -164,6 +95,24 @@ public class ModBlocks {
 	public static DottedRugYellow DottedRugYellow = new DottedRugYellow();
 	public static DottedRugBrown DottedRugBrown = new DottedRugBrown();
 	public static DottedRugGray DottedRugGray = new DottedRugGray();
+	
+	public static CheckeredCarpetRed CheckeredCarpetRed = new CheckeredCarpetRed();
+	public static CheckeredCarpetPurple CheckeredCarpetPurple = new CheckeredCarpetPurple();
+	public static CheckeredCarpetBlue CheckeredCarpetBlue = new CheckeredCarpetBlue();
+	public static CheckeredCarpetCyan CheckeredCarpetCyan = new CheckeredCarpetCyan();
+	public static CheckeredCarpetGreen CheckeredCarpetGreen = new CheckeredCarpetGreen();
+	public static CheckeredCarpetYellow CheckeredCarpetYellow = new CheckeredCarpetYellow();
+	public static CheckeredCarpetBrown CheckeredCarpetBrown = new CheckeredCarpetBrown();
+	public static CheckeredCarpetGray CheckeredCarpetGray = new CheckeredCarpetGray();
+
+	public static CheckeredRugRed CheckeredRugRed = new CheckeredRugRed();
+	public static CheckeredRugPurple CheckeredRugPurple = new CheckeredRugPurple();
+	public static CheckeredRugBlue CheckeredRugBlue = new CheckeredRugBlue();
+	public static CheckeredRugCyan CheckeredRugCyan = new CheckeredRugCyan();
+	public static CheckeredRugGreen CheckeredRugGreen = new CheckeredRugGreen();
+	public static CheckeredRugYellow CheckeredRugYellow = new CheckeredRugYellow();
+	public static CheckeredRugBrown CheckeredRugBrown = new CheckeredRugBrown();
+	public static CheckeredRugGray CheckeredRugGray = new CheckeredRugGray();
 
 	public static TintedGlassRed TintedGlassRed = new TintedGlassRed();
 	public static TintedGlassPurple TintedGlassPurple = new TintedGlassPurple();
@@ -261,7 +210,7 @@ public class ModBlocks {
 		DottedCarpetYellow.initModel();
 		DottedCarpetBrown.initModel();
 		DottedCarpetGray.initModel();
-
+		
 		DottedRugRed.initModel();
 		DottedRugPurple.initModel();
 		DottedRugBlue.initModel();
@@ -270,6 +219,24 @@ public class ModBlocks {
 		DottedRugYellow.initModel();
 		DottedRugBrown.initModel();
 		DottedRugGray.initModel();
+		
+		CheckeredCarpetRed.initModel();
+		CheckeredCarpetPurple.initModel();
+		CheckeredCarpetBlue.initModel();
+		CheckeredCarpetCyan.initModel();
+		CheckeredCarpetGreen.initModel();
+		CheckeredCarpetYellow.initModel();
+		CheckeredCarpetBrown.initModel();
+		CheckeredCarpetGray.initModel();
+
+		CheckeredRugRed.initModel();
+		CheckeredRugPurple.initModel();
+		CheckeredRugBlue.initModel();
+		CheckeredRugCyan.initModel();
+		CheckeredRugGreen.initModel();
+		CheckeredRugYellow.initModel();
+		CheckeredRugBrown.initModel();
+		CheckeredRugGray.initModel();
 	
 		TintedGlassRed.initModel();
 		TintedGlassPurple.initModel();
@@ -365,6 +332,15 @@ public class ModBlocks {
 		GameRegistry.register(DottedCarpetYellow);
 		GameRegistry.register(DottedCarpetBrown);
 		GameRegistry.register(DottedCarpetGray);
+		
+		GameRegistry.register(CheckeredCarpetRed);
+		GameRegistry.register(CheckeredCarpetPurple);
+		GameRegistry.register(CheckeredCarpetBlue);
+		GameRegistry.register(CheckeredCarpetCyan);
+		GameRegistry.register(CheckeredCarpetGreen);
+		GameRegistry.register(CheckeredCarpetYellow);
+		GameRegistry.register(CheckeredCarpetBrown);
+		GameRegistry.register(CheckeredCarpetGray);
 	
 		GameRegistry.register(DottedRugRed);
 		GameRegistry.register(DottedRugPurple);

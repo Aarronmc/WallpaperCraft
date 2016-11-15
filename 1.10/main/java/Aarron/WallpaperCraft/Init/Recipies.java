@@ -962,6 +962,400 @@ public class Recipies {
             GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.BrickGray, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.BrickGray, 1, i%15)});
         }
         
+        
+        
+        
+        
+    	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+    	
+    	
+    	
+    	
+		//Recipes for Red Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetRed, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidRed, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetRed, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedCarpetRed, 1, i%15)});
+        }
+        
+		//Recipes for Purple Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetPurple, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidPurple, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetPurple, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedCarpetPurple, 1, i%15)});
+        }
+        
+		//Recipes for Blue Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetBlue, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidBlue, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetBlue, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedCarpetBlue, 1, i%15)});
+        }
+        
+		//Recipes for Cyan Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetCyan, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidCyan, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 10; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetCyan, 1, (i+1)%10), new Object[] {new ItemStack(ModBlocks.DottedCarpetCyan, 1, i%10)});
+        }
+        
+		//Recipes for Green Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetGreen, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidGreen, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetGreen, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedCarpetGreen, 1, i%15)});
+        }
+        
+		//Recipes for Yellow Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetYellow, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidYellow, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetYellow, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedCarpetYellow, 1, i%15)});
+        }
+        
+		//Recipes for Brown Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetBrown, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidBrown, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetBrown, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedCarpetBrown, 1, i%15)});
+        }
+        
+		//Recipes for Gray Dotted Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedCarpetGray, 8, 0), 
+        		"WWW",
+        		"WCW",
+        		"WWW",
+        		 'C', new ItemStack(ModBlocks.SolidGray, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedCarpetGray, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedCarpetGray, 1, i%15)});
+        }
+    	
+    	
+    	   	    	
+    	
+    	
+    	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+    	
+    	
+    	
+    	
+		//Recipes for Red Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugRed, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetRed, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugRed, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedRugRed, 1, i%15)});
+        }
+        
+		//Recipes for Purple Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugPurple, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetPurple, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugPurple, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedRugPurple, 1, i%15)});
+        }
+        
+		//Recipes for Blue Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugBlue, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetBlue, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugBlue, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedRugBlue, 1, i%15)});
+        }
+        
+		//Recipes for Cyan Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugCyan, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetCyan, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 10; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugCyan, 1, (i+1)%10), new Object[] {new ItemStack(ModBlocks.DottedRugCyan, 1, i%10)});
+        }
+        
+		//Recipes for Green Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugGreen, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetGreen, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugGreen, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedRugGreen, 1, i%15)});
+        }
+        
+		//Recipes for Yellow Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugYellow, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetYellow, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugYellow, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedRugYellow, 1, i%15)});
+        }
+        
+		//Recipes for Brown Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugBrown, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetBrown, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugBrown, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedRugBrown, 1, i%15)});
+        }
+        
+		//Recipes for Gray Dotted Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.DottedRugGray, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.DottedCarpetGray, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DottedRugGray, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.DottedRugGray, 1, i%15)});
+        }
+
+        
+        
+        
+        
+        
+        
+    	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+    	
+    	
+    	
+    	
+		//Recipes for Red Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetRed, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidRed, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetRed, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetRed, 1, i%15)});
+        }
+        
+		//Recipes for Purple Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetPurple, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidPurple, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetPurple, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetPurple, 1, i%15)});
+        }
+        
+		//Recipes for Blue Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetBlue, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidBlue, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetBlue, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetBlue, 1, i%15)});
+        }
+        
+		//Recipes for Cyan Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetCyan, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidCyan, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 10; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetCyan, 1, (i+1)%10), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetCyan, 1, i%10)});
+        }
+        
+		//Recipes for Green Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetGreen, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidGreen, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetGreen, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetGreen, 1, i%15)});
+        }
+        
+		//Recipes for Yellow Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetYellow, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidYellow, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetYellow, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetYellow, 1, i%15)});
+        }
+        
+		//Recipes for Brown Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetBrown, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidBrown, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetBrown, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetBrown, 1, i%15)});
+        }
+        
+		//Recipes for Gray Checkered Carpet Blocks
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredCarpetGray, 4, 0), 
+        		" W ",
+        		"WCW",
+        		" W ",
+        		 'C', new ItemStack(ModBlocks.SolidGray, 1, OreDictionary.WILDCARD_VALUE), 'W', new ItemStack(Blocks.WOOL, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetGray, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetGray, 1, i%15)});
+        }
+
+    	
+    	   	    	
+    	
+    	
+    	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+    	
+    	
+    	
+    	
+		//Recipes for Red Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugRed, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetRed, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugRed, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredRugRed, 1, i%15)});
+        }
+        
+		//Recipes for Purple Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugPurple, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetPurple, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugPurple, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredRugPurple, 1, i%15)});
+        }
+        
+		//Recipes for Blue Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugBlue, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetBlue, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugBlue, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredRugBlue, 1, i%15)});
+        }
+        
+		//Recipes for Cyan Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugCyan, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetCyan, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 10; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugCyan, 1, (i+1)%10), new Object[] {new ItemStack(ModBlocks.CheckeredRugCyan, 1, i%10)});
+        }
+        
+		//Recipes for Green Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugGreen, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetGreen, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugGreen, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredRugGreen, 1, i%15)});
+        }
+        
+		//Recipes for Yellow Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugYellow, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetYellow, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugYellow, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredRugYellow, 1, i%15)});
+        }
+        
+		//Recipes for Brown Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugBrown, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetBrown, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugBrown, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredRugBrown, 1, i%15)});
+        }
+        
+		//Recipes for Gray Checkered Rugs
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.CheckeredRugGray, 3, 0), 
+        		"WW",
+        		 'W', new ItemStack(ModBlocks.CheckeredCarpetGray, 1,OreDictionary.WILDCARD_VALUE)
+        	);
+    	
+        for (int i = 0; i < 15; i++) {
+            GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredRugGray, 1, (i+1)%15), new Object[] {new ItemStack(ModBlocks.CheckeredRugGray, 1, i%15)});
+        }
+        
     	
     	}
     }
