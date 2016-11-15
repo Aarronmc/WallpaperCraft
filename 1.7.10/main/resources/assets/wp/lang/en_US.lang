@@ -1430,3 +1430,483 @@ tile.FrostedGlassGray_11.name=Frosted Glass Cool Gray
 tile.FrostedGlassGray_12.name=Frosted Glass Dark Cool Gray
 tile.FrostedGlassGray_13.name=Frosted Glass Cool Blue Gray
 tile.FrostedGlassGray_14.name=Frosted Glass Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########        STARTING NAMING OF BRICK COLOURS        ###########
+###########									     	       ###########
+######################################################################
+
+
+#Brick Red Colours
+tile.BrickRed_0.name=Brick Light Warm Pink
+tile.BrickRed_1.name=Brick Light Red
+tile.BrickRed_2.name=Brick Bright Red
+tile.BrickRed_3.name=Brick Red
+tile.BrickRed_4.name=Brick Blood Red
+tile.BrickRed_5.name=Brick Light Cool Pink
+tile.BrickRed_6.name=Brick Pink
+tile.BrickRed_7.name=Brick Hot Pink
+tile.BrickRed_8.name=Brick Dark Pink
+tile.BrickRed_9.name=Brick Hot Pink
+tile.BrickRed_10.name=Brick Fuchsia
+tile.BrickRed_11.name=Brick Baby Pink
+tile.BrickRed_12.name=Brick Light Salmon
+tile.BrickRed_13.name=Brick Brown Red
+tile.BrickRed_14.name=Brick Dark Brown Red
+
+
+
+#Brick Purple Colours
+tile.BrickPurple_0.name=Brick Light Magenta
+tile.BrickPurple_1.name=Brick Magenta
+tile.BrickPurple_2.name=Brick Dark Magenta
+tile.BrickPurple_3.name=Brick Violet
+tile.BrickPurple_4.name=Brick Dark Violet
+tile.BrickPurple_5.name=Brick Light Violet
+tile.BrickPurple_6.name=Brick Light Purple
+tile.BrickPurple_7.name=Brick Purple
+tile.BrickPurple_8.name=Brick Dark Purple
+tile.BrickPurple_9.name=Brick Royal Blue
+tile.BrickPurple_10.name=Brick Light Lavender
+tile.BrickPurple_11.name=Brick avender
+tile.BrickPurple_12.name=Brick Azure Blue
+tile.BrickPurple_13.name=Brick Dark Blue
+tile.BrickPurple_14.name=Brick Midnight Blue
+
+
+
+#Brick Blue Colours
+tile.BrickBlue_0.name=Brick Light Blue
+tile.BrickBlue_1.name=Brick Light Sky Blue
+tile.BrickBlue_2.name=Brick Sky Blue
+tile.BrickBlue_3.name=Brick Dark Sky Blue
+tile.BrickBlue_4.name=Brick Navy Blue
+tile.BrickBlue_5.name=Brick Light Baby Blue
+tile.BrickBlue_6.name=Brick Baby Blue
+tile.BrickBlue_7.name=Brick Bright Blue
+tile.BrickBlue_8.name=Brick Medium Blue
+tile.BrickBlue_9.name=Brick Deep Blue
+tile.BrickBlue_10.name=Brick Light Aqua Blue
+tile.BrickBlue_11.name=Brick Aqua Blue
+tile.BrickBlue_12.name=Brick Dark Aqua Blue
+tile.BrickBlue_13.name=Brick Oceon Blue
+tile.BrickBlue_14.name=Brick Midnight Blue
+
+
+
+#Brick Brown Colours
+tile.BrickBrown_0.name=Brick Soft Orange
+tile.BrickBrown_1.name=Brick Sienna brown
+tile.BrickBrown_2.name=Brick Burnt Sienna Brown
+tile.BrickBrown_3.name=Brick Earth Brown
+tile.BrickBrown_4.name=Brick Soil Brown
+tile.BrickBrown_5.name=Brick Light Beige
+tile.BrickBrown_6.name=Brick Beige
+tile.BrickBrown_7.name=Brick Terracotta Red
+tile.BrickBrown_8.name=Brick Brown
+tile.BrickBrown_9.name=Brick Saddle Brown
+tile.BrickBrown_10.name=Brick Light Gray Brown
+tile.BrickBrown_11.name=Brick Gray Brown
+tile.BrickBrown_12.name=Brick Middle Gray Brown
+tile.BrickBrown_13.name=Brick Gray Brown
+tile.BrickBrown_14.name=Brick Dark Gray Brown
+
+
+
+#Brick Cyan Colours
+tile.BrickCyan_0.name=Brick Light Green Blue
+tile.BrickCyan_1.name=Brick Light Turquoise Blue
+tile.BrickCyan_2.name=Brick Turquoise Blue
+tile.BrickCyan_3.name=Brick Teal Blue
+tile.BrickCyan_4.name=Brick Dark Teal Blue
+tile.BrickCyan_5.name=Brick Light Seafoam Blue Green
+tile.BrickCyan_6.name=Brick Seafoam Blue Green
+tile.BrickCyan_7.name=Brick Blue Green
+tile.BrickCyan_8.name=Brick Dark Blue Green
+tile.BrickCyan_9.name=Brick Dark Pine Blue Green
+
+
+
+#Brick Green Colours
+tile.BrickGreen_0.name=Brick Light Green
+tile.BrickGreen_1.name=Brick Light Spring Green
+tile.BrickGreen_2.name=Brick Spring Green
+tile.BrickGreen_3.name=Brick Green
+tile.BrickGreen_4.name=Brick Dark Green
+tile.BrickGreen_5.name=Brick Light Summer Green
+tile.BrickGreen_6.name=Brick Summer Green
+tile.BrickGreen_7.name=Brick Lush Green
+tile.BrickGreen_8.name=Brick Deep Lush Green
+tile.BrickGreen_9.name=Brick Dark Lush Green
+tile.BrickGreen_10.name=Brick Light Spring Green
+tile.BrickGreen_11.name=Brick Spring Green
+tile.BrickGreen_12.name=Brick Light Olive Green
+tile.BrickGreen_13.name=Brick Olive Green
+tile.BrickGreen_14.name=Brick Moss Green
+
+
+
+#Brick Yellow Colours
+tile.BrickYellow_0.name=Brick Light Lemon Yellow
+tile.BrickYellow_1.name=Brick Lemon Yellow
+tile.BrickYellow_2.name=Brick Sunny Yellow
+tile.BrickYellow_3.name=Brick Soft Yellow
+tile.BrickYellow_4.name=Brick Orange Yellow
+tile.BrickYellow_5.name=Brick Light Sand Yellow
+tile.BrickYellow_6.name=Brick Light Yellow
+tile.BrickYellow_7.name=Brick Yellow
+tile.BrickYellow_8.name=Brick Gold Yellow
+tile.BrickYellow_9.name=Brick Dark Orange
+tile.BrickYellow_10.name=Brick Light Orange
+tile.BrickYellow_11.name=Brick Sunny Orange
+tile.BrickYellow_12.name=Brick Orange
+tile.BrickYellow_13.name=Brick Deep orange
+tile.BrickYellow_14.name=Brick Orange Red
+
+
+
+#Brick Gray Colours
+tile.BrickGray_0.name=Brick White Gray
+tile.BrickGray_1.name=Brick Light Gray
+tile.BrickGray_2.name=Brick Gray
+tile.BrickGray_3.name=Brick Dark Gray
+tile.BrickGray_4.name=Brick Gray Black
+tile.BrickGray_5.name=Brick Light Warm Gray
+tile.BrickGray_6.name=Brick Warm Gray
+tile.BrickGray_7.name=Brick Middle Warm Gray
+tile.BrickGray_8.name=Brick Dark Warm Gray
+tile.BrickGray_9.name=Brick Warm Black Gray
+tile.BrickGray_10.name=Brick Light Cool gray
+tile.BrickGray_11.name=Brick Cool Gray
+tile.BrickGray_12.name=Brick Dark Cool Gray
+tile.BrickGray_13.name=Brick Cool Blue Gray
+tile.BrickGray_14.name=Brick Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########    STARTING NAMING OF DOTTED CARPET COLOURS    ###########
+###########									     	       ###########
+######################################################################
+
+
+#Dotted Carpet Red Colours
+tile.DottedCarpetRed_0.name=Dotted Carpet Light Warm Pink
+tile.DottedCarpetRed_1.name=Dotted Carpet Light Red
+tile.DottedCarpetRed_2.name=Dotted Carpet Bright Red
+tile.DottedCarpetRed_3.name=Dotted Carpet Red
+tile.DottedCarpetRed_4.name=Dotted Carpet Blood Red
+tile.DottedCarpetRed_5.name=Dotted Carpet Light Cool Pink
+tile.DottedCarpetRed_6.name=Dotted Carpet Pink
+tile.DottedCarpetRed_7.name=Dotted Carpet Hot Pink
+tile.DottedCarpetRed_8.name=Dotted Carpet Dark Pink
+tile.DottedCarpetRed_9.name=Dotted Carpet Hot Pink
+tile.DottedCarpetRed_10.name=Dotted Carpet Fuchsia
+tile.DottedCarpetRed_11.name=Dotted Carpet Baby Pink
+tile.DottedCarpetRed_12.name=Dotted Carpet Light Salmon
+tile.DottedCarpetRed_13.name=Dotted Carpet Brown Red
+tile.DottedCarpetRed_14.name=Dotted Carpet Dark Brown Red
+
+
+
+#Dotted Carpet Purple Colours
+tile.DottedCarpetPurple_0.name=Dotted Carpet Light Magenta
+tile.DottedCarpetPurple_1.name=Dotted Carpet Magenta
+tile.DottedCarpetPurple_2.name=Dotted Carpet Dark Magenta
+tile.DottedCarpetPurple_3.name=Dotted Carpet Violet
+tile.DottedCarpetPurple_4.name=Dotted Carpet Dark Violet
+tile.DottedCarpetPurple_5.name=Dotted Carpet Light Violet
+tile.DottedCarpetPurple_6.name=Dotted Carpet Light Purple
+tile.DottedCarpetPurple_7.name=Dotted Carpet Purple
+tile.DottedCarpetPurple_8.name=Dotted Carpet Dark Purple
+tile.DottedCarpetPurple_9.name=Dotted Carpet Royal Blue
+tile.DottedCarpetPurple_10.name=Dotted Carpet Light Lavender
+tile.DottedCarpetPurple_11.name=Dotted Carpet avender
+tile.DottedCarpetPurple_12.name=Dotted Carpet Azure Blue
+tile.DottedCarpetPurple_13.name=Dotted Carpet Dark Blue
+tile.DottedCarpetPurple_14.name=Dotted Carpet Midnight Blue
+
+
+
+#Dotted Carpet Blue Colours
+tile.DottedCarpetBlue_0.name=Dotted Carpet Light Blue
+tile.DottedCarpetBlue_1.name=Dotted Carpet Light Sky Blue
+tile.DottedCarpetBlue_2.name=Dotted Carpet Sky Blue
+tile.DottedCarpetBlue_3.name=Dotted Carpet Dark Sky Blue
+tile.DottedCarpetBlue_4.name=Dotted Carpet Navy Blue
+tile.DottedCarpetBlue_5.name=Dotted Carpet Light Baby Blue
+tile.DottedCarpetBlue_6.name=Dotted Carpet Baby Blue
+tile.DottedCarpetBlue_7.name=Dotted Carpet Bright Blue
+tile.DottedCarpetBlue_8.name=Dotted Carpet Medium Blue
+tile.DottedCarpetBlue_9.name=Dotted Carpet Deep Blue
+tile.DottedCarpetBlue_10.name=Dotted Carpet Light Aqua Blue
+tile.DottedCarpetBlue_11.name=Dotted Carpet Aqua Blue
+tile.DottedCarpetBlue_12.name=Dotted Carpet Dark Aqua Blue
+tile.DottedCarpetBlue_13.name=Dotted Carpet Oceon Blue
+tile.DottedCarpetBlue_14.name=Dotted Carpet Midnight Blue
+
+
+
+#Dotted Carpet Brown Colours
+tile.DottedCarpetBrown_0.name=Dotted Carpet Soft Orange
+tile.DottedCarpetBrown_1.name=Dotted Carpet Sienna brown
+tile.DottedCarpetBrown_2.name=Dotted Carpet Burnt Sienna Brown
+tile.DottedCarpetBrown_3.name=Dotted Carpet Earth Brown
+tile.DottedCarpetBrown_4.name=Dotted Carpet Soil Brown
+tile.DottedCarpetBrown_5.name=Dotted Carpet Light Beige
+tile.DottedCarpetBrown_6.name=Dotted Carpet Beige
+tile.DottedCarpetBrown_7.name=Dotted Carpet Terracotta Red
+tile.DottedCarpetBrown_8.name=Dotted Carpet Brown
+tile.DottedCarpetBrown_9.name=Dotted Carpet Saddle Brown
+tile.DottedCarpetBrown_10.name=Dotted Carpet Light Gray Brown
+tile.DottedCarpetBrown_11.name=Dotted Carpet Gray Brown
+tile.DottedCarpetBrown_12.name=Dotted Carpet Middle Gray Brown
+tile.DottedCarpetBrown_13.name=Dotted Carpet Gray Brown
+tile.DottedCarpetBrown_14.name=Dotted Carpet Dark Gray Brown
+
+
+
+#Dotted Carpet Cyan Colours
+tile.DottedCarpetCyan_0.name=Dotted Carpet Light Green Blue
+tile.DottedCarpetCyan_1.name=Dotted Carpet Light Turquoise Blue
+tile.DottedCarpetCyan_2.name=Dotted Carpet Turquoise Blue
+tile.DottedCarpetCyan_3.name=Dotted Carpet Teal Blue
+tile.DottedCarpetCyan_4.name=Dotted Carpet Dark Teal Blue
+tile.DottedCarpetCyan_5.name=Dotted Carpet Light Seafoam Blue Green
+tile.DottedCarpetCyan_6.name=Dotted Carpet Seafoam Blue Green
+tile.DottedCarpetCyan_7.name=Dotted Carpet Blue Green
+tile.DottedCarpetCyan_8.name=Dotted Carpet Dark Blue Green
+tile.DottedCarpetCyan_9.name=Dotted Carpet Dark Pine Blue Green
+
+
+
+#Dotted Carpet Green Colours
+tile.DottedCarpetGreen_0.name=Dotted Carpet Light Green
+tile.DottedCarpetGreen_1.name=Dotted Carpet Light Spring Green
+tile.DottedCarpetGreen_2.name=Dotted Carpet Spring Green
+tile.DottedCarpetGreen_3.name=Dotted Carpet Green
+tile.DottedCarpetGreen_4.name=Dotted Carpet Dark Green
+tile.DottedCarpetGreen_5.name=Dotted Carpet Light Summer Green
+tile.DottedCarpetGreen_6.name=Dotted Carpet Summer Green
+tile.DottedCarpetGreen_7.name=Dotted Carpet Lush Green
+tile.DottedCarpetGreen_8.name=Dotted Carpet Deep Lush Green
+tile.DottedCarpetGreen_9.name=Dotted Carpet Dark Lush Green
+tile.DottedCarpetGreen_10.name=Dotted Carpet Light Spring Green
+tile.DottedCarpetGreen_11.name=Dotted Carpet Spring Green
+tile.DottedCarpetGreen_12.name=Dotted Carpet Light Olive Green
+tile.DottedCarpetGreen_13.name=Dotted Carpet Olive Green
+tile.DottedCarpetGreen_14.name=Dotted Carpet Moss Green
+
+
+
+#Dotted Carpet Yellow Colours
+tile.DottedCarpetYellow_0.name=Dotted Carpet Light Lemon Yellow
+tile.DottedCarpetYellow_1.name=Dotted Carpet Lemon Yellow
+tile.DottedCarpetYellow_2.name=Dotted Carpet Sunny Yellow
+tile.DottedCarpetYellow_3.name=Dotted Carpet Soft Yellow
+tile.DottedCarpetYellow_4.name=Dotted Carpet Orange Yellow
+tile.DottedCarpetYellow_5.name=Dotted Carpet Light Sand Yellow
+tile.DottedCarpetYellow_6.name=Dotted Carpet Light Yellow
+tile.DottedCarpetYellow_7.name=Dotted Carpet Yellow
+tile.DottedCarpetYellow_8.name=Dotted Carpet Gold Yellow
+tile.DottedCarpetYellow_9.name=Dotted Carpet Dark Orange
+tile.DottedCarpetYellow_10.name=Dotted Carpet Light Orange
+tile.DottedCarpetYellow_11.name=Dotted Carpet Sunny Orange
+tile.DottedCarpetYellow_12.name=Dotted Carpet Orange
+tile.DottedCarpetYellow_13.name=Dotted Carpet Deep orange
+tile.DottedCarpetYellow_14.name=Dotted Carpet Orange Red
+
+
+
+#Dotted Carpet Gray Colours
+tile.DottedCarpetGray_0.name=Dotted Carpet White Gray
+tile.DottedCarpetGray_1.name=Dotted Carpet Light Gray
+tile.DottedCarpetGray_2.name=Dotted Carpet Gray
+tile.DottedCarpetGray_3.name=Dotted Carpet Dark Gray
+tile.DottedCarpetGray_4.name=Dotted Carpet Gray Black
+tile.DottedCarpetGray_5.name=Dotted Carpet Light Warm Gray
+tile.DottedCarpetGray_6.name=Dotted Carpet Warm Gray
+tile.DottedCarpetGray_7.name=Dotted Carpet Middle Warm Gray
+tile.DottedCarpetGray_8.name=Dotted Carpet Dark Warm Gray
+tile.DottedCarpetGray_9.name=Dotted Carpet Warm Black Gray
+tile.DottedCarpetGray_10.name=Dotted Carpet Light Cool gray
+tile.DottedCarpetGray_11.name=Dotted Carpet Cool Gray
+tile.DottedCarpetGray_12.name=Dotted Carpet Dark Cool Gray
+tile.DottedCarpetGray_13.name=Dotted Carpet Cool Blue Gray
+tile.DottedCarpetGray_14.name=Dotted Carpet Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########     STARTING NAMING OF DOTTED RUGS COLOURS     ###########
+###########									     	       ###########
+######################################################################
+
+
+#Dotted Rug Red Colours
+tile.DottedRugRed_0.name=Dotted Rug Light Warm Pink
+tile.DottedRugRed_1.name=Dotted Rug Light Red
+tile.DottedRugRed_2.name=Dotted Rug Bright Red
+tile.DottedRugRed_3.name=Dotted Rug Red
+tile.DottedRugRed_4.name=Dotted Rug Blood Red
+tile.DottedRugRed_5.name=Dotted Rug Light Cool Pink
+tile.DottedRugRed_6.name=Dotted Rug Pink
+tile.DottedRugRed_7.name=Dotted Rug Hot Pink
+tile.DottedRugRed_8.name=Dotted Rug Dark Pink
+tile.DottedRugRed_9.name=Dotted Rug Hot Pink
+tile.DottedRugRed_10.name=Dotted Rug Fuchsia
+tile.DottedRugRed_11.name=Dotted Rug Baby Pink
+tile.DottedRugRed_12.name=Dotted Rug Light Salmon
+tile.DottedRugRed_13.name=Dotted Rug Brown Red
+tile.DottedRugRed_14.name=Dotted Rug Dark Brown Red
+
+
+
+#Dotted Rug Purple Colours
+tile.DottedRugPurple_0.name=Dotted Rug Light Magenta
+tile.DottedRugPurple_1.name=Dotted Rug Magenta
+tile.DottedRugPurple_2.name=Dotted Rug Dark Magenta
+tile.DottedRugPurple_3.name=Dotted Rug Violet
+tile.DottedRugPurple_4.name=Dotted Rug Dark Violet
+tile.DottedRugPurple_5.name=Dotted Rug Light Violet
+tile.DottedRugPurple_6.name=Dotted Rug Light Purple
+tile.DottedRugPurple_7.name=Dotted Rug Purple
+tile.DottedRugPurple_8.name=Dotted Rug Dark Purple
+tile.DottedRugPurple_9.name=Dotted Rug Royal Blue
+tile.DottedRugPurple_10.name=Dotted Rug Light Lavender
+tile.DottedRugPurple_11.name=Dotted Rug avender
+tile.DottedRugPurple_12.name=Dotted Rug Azure Blue
+tile.DottedRugPurple_13.name=Dotted Rug Dark Blue
+tile.DottedRugPurple_14.name=Dotted Rug Midnight Blue
+
+
+
+#Dotted Rug Blue Colours
+tile.DottedRugBlue_0.name=Dotted Rug Light Blue
+tile.DottedRugBlue_1.name=Dotted Rug Light Sky Blue
+tile.DottedRugBlue_2.name=Dotted Rug Sky Blue
+tile.DottedRugBlue_3.name=Dotted Rug Dark Sky Blue
+tile.DottedRugBlue_4.name=Dotted Rug Navy Blue
+tile.DottedRugBlue_5.name=Dotted Rug Light Baby Blue
+tile.DottedRugBlue_6.name=Dotted Rug Baby Blue
+tile.DottedRugBlue_7.name=Dotted Rug Bright Blue
+tile.DottedRugBlue_8.name=Dotted Rug Medium Blue
+tile.DottedRugBlue_9.name=Dotted Rug Deep Blue
+tile.DottedRugBlue_10.name=Dotted Rug Light Aqua Blue
+tile.DottedRugBlue_11.name=Dotted Rug Aqua Blue
+tile.DottedRugBlue_12.name=Dotted Rug Dark Aqua Blue
+tile.DottedRugBlue_13.name=Dotted Rug Oceon Blue
+tile.DottedRugBlue_14.name=Dotted Rug Midnight Blue
+
+
+
+#Dotted Rug Brown Colours
+tile.DottedRugBrown_0.name=Dotted Rug Soft Orange
+tile.DottedRugBrown_1.name=Dotted Rug Sienna brown
+tile.DottedRugBrown_2.name=Dotted Rug Burnt Sienna Brown
+tile.DottedRugBrown_3.name=Dotted Rug Earth Brown
+tile.DottedRugBrown_4.name=Dotted Rug Soil Brown
+tile.DottedRugBrown_5.name=Dotted Rug Light Beige
+tile.DottedRugBrown_6.name=Dotted Rug Beige
+tile.DottedRugBrown_7.name=Dotted Rug Terracotta Red
+tile.DottedRugBrown_8.name=Dotted Rug Brown
+tile.DottedRugBrown_9.name=Dotted Rug Saddle Brown
+tile.DottedRugBrown_10.name=Dotted Rug Light Gray Brown
+tile.DottedRugBrown_11.name=Dotted Rug Gray Brown
+tile.DottedRugBrown_12.name=Dotted Rug Middle Gray Brown
+tile.DottedRugBrown_13.name=Dotted Rug Gray Brown
+tile.DottedRugBrown_14.name=Dotted Rug Dark Gray Brown
+
+
+
+#Dotted Rug Cyan Colours
+tile.DottedRugCyan_0.name=Dotted Rug Light Green Blue
+tile.DottedRugCyan_1.name=Dotted Rug Light Turquoise Blue
+tile.DottedRugCyan_2.name=Dotted Rug Turquoise Blue
+tile.DottedRugCyan_3.name=Dotted Rug Teal Blue
+tile.DottedRugCyan_4.name=Dotted Rug Dark Teal Blue
+tile.DottedRugCyan_5.name=Dotted Rug Light Seafoam Blue Green
+tile.DottedRugCyan_6.name=Dotted Rug Seafoam Blue Green
+tile.DottedRugCyan_7.name=Dotted Rug Blue Green
+tile.DottedRugCyan_8.name=Dotted Rug Dark Blue Green
+tile.DottedRugCyan_9.name=Dotted Rug Dark Pine Blue Green
+
+
+
+#Dotted Rug Green Colours
+tile.DottedRugGreen_0.name=Dotted Rug Light Green
+tile.DottedRugGreen_1.name=Dotted Rug Light Spring Green
+tile.DottedRugGreen_2.name=Dotted Rug Spring Green
+tile.DottedRugGreen_3.name=Dotted Rug Green
+tile.DottedRugGreen_4.name=Dotted Rug Dark Green
+tile.DottedRugGreen_5.name=Dotted Rug Light Summer Green
+tile.DottedRugGreen_6.name=Dotted Rug Summer Green
+tile.DottedRugGreen_7.name=Dotted Rug Lush Green
+tile.DottedRugGreen_8.name=Dotted Rug Deep Lush Green
+tile.DottedRugGreen_9.name=Dotted Rug Dark Lush Green
+tile.DottedRugGreen_10.name=Dotted Rug Light Spring Green
+tile.DottedRugGreen_11.name=Dotted Rug Spring Green
+tile.DottedRugGreen_12.name=Dotted Rug Light Olive Green
+tile.DottedRugGreen_13.name=Dotted Rug Olive Green
+tile.DottedRugGreen_14.name=Dotted Rug Moss Green
+
+
+
+#Dotted Rug Yellow Colours
+tile.DottedRugYellow_0.name=Dotted Rug Light Lemon Yellow
+tile.DottedRugYellow_1.name=Dotted Rug Lemon Yellow
+tile.DottedRugYellow_2.name=Dotted Rug Sunny Yellow
+tile.DottedRugYellow_3.name=Dotted Rug Soft Yellow
+tile.DottedRugYellow_4.name=Dotted Rug Orange Yellow
+tile.DottedRugYellow_5.name=Dotted Rug Light Sand Yellow
+tile.DottedRugYellow_6.name=Dotted Rug Light Yellow
+tile.DottedRugYellow_7.name=Dotted Rug Yellow
+tile.DottedRugYellow_8.name=Dotted Rug Gold Yellow
+tile.DottedRugYellow_9.name=Dotted Rug Dark Orange
+tile.DottedRugYellow_10.name=Dotted Rug Light Orange
+tile.DottedRugYellow_11.name=Dotted Rug Sunny Orange
+tile.DottedRugYellow_12.name=Dotted Rug Orange
+tile.DottedRugYellow_13.name=Dotted Rug Deep orange
+tile.DottedRugYellow_14.name=Dotted Rug Orange Red
+
+
+
+#Dotted Rug Gray Colours
+tile.DottedRugGray_0.name=Dotted Rug White Gray
+tile.DottedRugGray_1.name=Dotted Rug Light Gray
+tile.DottedRugGray_2.name=Dotted Rug Gray
+tile.DottedRugGray_3.name=Dotted Rug Dark Gray
+tile.DottedRugGray_4.name=Dotted Rug Gray Black
+tile.DottedRugGray_5.name=Dotted Rug Light Warm Gray
+tile.DottedRugGray_6.name=Dotted Rug Warm Gray
+tile.DottedRugGray_7.name=Dotted Rug Middle Warm Gray
+tile.DottedRugGray_8.name=Dotted Rug Dark Warm Gray
+tile.DottedRugGray_9.name=Dotted Rug Warm Black Gray
+tile.DottedRugGray_10.name=Dotted Rug Light Cool gray
+tile.DottedRugGray_11.name=Dotted Rug Cool Gray
+tile.DottedRugGray_12.name=Dotted Rug Dark Cool Gray
+tile.DottedRugGray_13.name=Dotted Rug Cool Blue Gray
+tile.DottedRugGray_14.name=Dotted Rug Cool Dark Blue Gray

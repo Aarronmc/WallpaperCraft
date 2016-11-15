@@ -371,6 +371,95 @@ public class MicroblocksSupport {
 		
 		
 		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.BrickGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.BrickGray, i);
+		}
+		
+		
+		
+		
+		
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(CoreBlock.DottedCarpetGray, i);
+		}
+		
+		
+		
+		
+		
 		
 
 	}

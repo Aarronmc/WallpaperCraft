@@ -1,8 +1,23 @@
 package com.Aarron.WallpaperCraft.Blocks;
 
-import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickBlue;
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickBrown;
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickCyan;
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickGray;
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickGreen;
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickPurple;
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickRed;
+import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickYellow;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetBlue;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetBrown;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetCyan;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetGray;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetGreen;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetPurple;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetRed;
+import com.Aarron.WallpaperCraft.Blocks.Carpets.Dotted.DottedCarpetYellow;
 import com.Aarron.WallpaperCraft.Blocks.Clay.ClayBlue;
 import com.Aarron.WallpaperCraft.Blocks.Clay.ClayBrown;
 import com.Aarron.WallpaperCraft.Blocks.Clay.ClayCyan;
@@ -35,14 +50,6 @@ import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassGreen;
 import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassPurple;
 import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassRed;
 import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassYellow;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBlue;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBrown;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassCyan;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassGray;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassGreen;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassPurple;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassRed;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassYellow;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassBlue;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassBrown;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassCyan;
@@ -51,6 +58,22 @@ import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassGreen;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassPurple;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassRed;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassYellow;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBlue;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBrown;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassCyan;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassGray;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassGreen;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassPurple;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassRed;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassYellow;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugBlue;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugBrown;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugCyan;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugGray;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugGreen;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugPurple;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugRed;
+import com.Aarron.WallpaperCraft.Blocks.Rugs.Dotted.DottedRugYellow;
 import com.Aarron.WallpaperCraft.Blocks.Solid.SolidBlueBlocks;
 import com.Aarron.WallpaperCraft.Blocks.Solid.SolidBrownBlocks;
 import com.Aarron.WallpaperCraft.Blocks.Solid.SolidCyanBlocks;
@@ -74,6 +97,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public final class CoreBlock {
 
 	
+
 	//Creating The Solid Coloured Blocks
     public static SolidRedBlocks SolidRed;
     public static SolidPurpleBlocks SolidPurple;
@@ -134,7 +158,7 @@ public final class CoreBlock {
     public static TintedGlassBrown TintedGlassBrown;
     public static TintedGlassGray TintedGlassGray;
     
-    //Creating The Textured Coloured Blocks
+    //Creating The Textured Glass Coloured Blocks
     public static TexGlassRed TexGlassRed;
     public static TexGlassPurple TexGlassPurple;
     public static TexGlassBlue TexGlassBlue;
@@ -144,7 +168,7 @@ public final class CoreBlock {
     public static TexGlassBrown TexGlassBrown;
     public static TexGlassGray TexGlassGray;
     
-    //Creating The Frosted Coloured Blocks
+    //Creating The Frosted Glass Coloured Blocks
     public static FrostedGlassRed FrostedGlassRed;
     public static FrostedGlassPurple FrostedGlassPurple;
     public static FrostedGlassBlue FrostedGlassBlue;
@@ -153,6 +177,36 @@ public final class CoreBlock {
     public static FrostedGlassYellow FrostedGlassYellow;
     public static FrostedGlassBrown FrostedGlassBrown;
     public static FrostedGlassGray FrostedGlassGray;
+    
+    //Creating The Brick Coloured Blocks
+    public static BrickRed BrickRed;
+    public static BrickPurple BrickPurple;
+    public static BrickBlue BrickBlue;
+    public static BrickCyan BrickCyan;
+    public static BrickGreen BrickGreen;
+    public static BrickYellow BrickYellow;
+    public static BrickBrown BrickBrown;
+    public static BrickGray BrickGray;
+    
+    //Creating The Dotted Carpet Coloured Blocks
+    public static DottedCarpetRed DottedCarpetRed;
+    public static DottedCarpetPurple DottedCarpetPurple;
+    public static DottedCarpetBlue DottedCarpetBlue;
+    public static DottedCarpetCyan DottedCarpetCyan;
+    public static DottedCarpetGreen DottedCarpetGreen;
+    public static DottedCarpetYellow DottedCarpetYellow;
+    public static DottedCarpetBrown DottedCarpetBrown;
+    public static DottedCarpetGray DottedCarpetGray;
+    
+    //Creating The Dotted Coloured Rugs
+    public static DottedRugRed DottedRugRed;
+    public static DottedRugPurple DottedRugPurple;
+    public static DottedRugBlue DottedRugBlue;
+    public static DottedRugCyan DottedRugCyan;
+    public static DottedRugGreen DottedRugGreen;
+    public static DottedRugYellow DottedRugYellow;
+    public static DottedRugBrown DottedRugBrown;
+    public static DottedRugGray DottedRugGray;
     
     
     
@@ -246,7 +300,7 @@ public final class CoreBlock {
         
         
         
-        // Registering The FrostedGlass Coloured Blocks
+        // Registering The Frosted Glass Coloured Blocks
         GameRegistry.registerBlock(FrostedGlassRed = new FrostedGlassRed("FrostedGlassRed", Material.glass), ItemSolidBlock.class, "FrostedGlassRed");
         GameRegistry.registerBlock(FrostedGlassPurple = new FrostedGlassPurple("FrostedGlassPurple", Material.glass), ItemSolidBlock.class, "FrostedGlassPurple");
         GameRegistry.registerBlock(FrostedGlassBlue = new FrostedGlassBlue("FrostedGlassBlue", Material.glass), ItemSolidBlock.class, "FrostedGlassBlue");
@@ -255,6 +309,37 @@ public final class CoreBlock {
         GameRegistry.registerBlock(FrostedGlassYellow = new FrostedGlassYellow("FrostedGlassYellow", Material.glass), ItemSolidBlock.class, "FrostedGlassYellow");
         GameRegistry.registerBlock(FrostedGlassBrown = new FrostedGlassBrown("FrostedGlassBrown", Material.glass), ItemSolidBlock.class, "FrostedGlassBrown");
         GameRegistry.registerBlock(FrostedGlassGray = new FrostedGlassGray("FrostedGlassGray", Material.glass), ItemSolidBlock.class, "FrostedGlassGray");
+        
+        // Registering The Brick Coloured Blocks
+        GameRegistry.registerBlock(BrickRed = new BrickRed("BrickRed", Material.glass), ItemSolidBlock.class, "BrickRed");
+        GameRegistry.registerBlock(BrickPurple = new BrickPurple("BrickPurple", Material.glass), ItemSolidBlock.class, "BrickPurple");
+        GameRegistry.registerBlock(BrickBlue = new BrickBlue("BrickBlue", Material.glass), ItemSolidBlock.class, "BrickBlue");
+        GameRegistry.registerBlock(BrickCyan = new BrickCyan("BrickCyan", Material.glass), ItemSolidBlock.class, "BrickCyan");
+        GameRegistry.registerBlock(BrickGreen = new BrickGreen("BrickGreen", Material.glass), ItemSolidBlock.class, "BrickGreen");
+        GameRegistry.registerBlock(BrickYellow = new BrickYellow("BrickYellow", Material.glass), ItemSolidBlock.class, "BrickYellow");
+        GameRegistry.registerBlock(BrickBrown = new BrickBrown("BrickBrown", Material.glass), ItemSolidBlock.class, "BrickBrown");
+        GameRegistry.registerBlock(BrickGray = new BrickGray("BrickGray", Material.glass), ItemSolidBlock.class, "BrickGray");
+        
+        // Registering The Dotted Carpet Coloured Blocks
+        GameRegistry.registerBlock(DottedCarpetRed = new DottedCarpetRed("DottedCarpetRed", Material.glass), ItemSolidBlock.class, "DottedCarpetRed");
+        GameRegistry.registerBlock(DottedCarpetPurple = new DottedCarpetPurple("DottedCarpetPurple", Material.glass), ItemSolidBlock.class, "DottedCarpetPurple");
+        GameRegistry.registerBlock(DottedCarpetBlue = new DottedCarpetBlue("DottedCarpetBlue", Material.glass), ItemSolidBlock.class, "DottedCarpetBlue");
+        GameRegistry.registerBlock(DottedCarpetCyan = new DottedCarpetCyan("DottedCarpetCyan", Material.glass), ItemSolidBlock.class, "DottedCarpetCyan");
+        GameRegistry.registerBlock(DottedCarpetGreen = new DottedCarpetGreen("DottedCarpetGreen", Material.glass), ItemSolidBlock.class, "DottedCarpetGreen");
+        GameRegistry.registerBlock(DottedCarpetYellow = new DottedCarpetYellow("DottedCarpetYellow", Material.glass), ItemSolidBlock.class, "DottedCarpetYellow");
+        GameRegistry.registerBlock(DottedCarpetBrown = new DottedCarpetBrown("DottedCarpetBrown", Material.glass), ItemSolidBlock.class, "DottedCarpetBrown");
+        GameRegistry.registerBlock(DottedCarpetGray = new DottedCarpetGray("DottedCarpetGray", Material.glass), ItemSolidBlock.class, "DottedCarpetGray");
+        
+        // Registering The Dotted Coloured Rugs
+        GameRegistry.registerBlock(DottedRugRed = new DottedRugRed("DottedRugRed", Material.glass), ItemSolidBlock.class, "DottedRugRed");
+        GameRegistry.registerBlock(DottedRugPurple = new DottedRugPurple("DottedRugPurple", Material.glass), ItemSolidBlock.class, "DottedRugPurple");
+        GameRegistry.registerBlock(DottedRugBlue = new DottedRugBlue("DottedRugBlue", Material.glass), ItemSolidBlock.class, "DottedRugBlue");
+        GameRegistry.registerBlock(DottedRugCyan = new DottedRugCyan("DottedRugCyan", Material.glass), ItemSolidBlock.class, "DottedRugCyan");
+        GameRegistry.registerBlock(DottedRugGreen = new DottedRugGreen("DottedRugGreen", Material.glass), ItemSolidBlock.class, "DottedRugGreen");
+        GameRegistry.registerBlock(DottedRugYellow = new DottedRugYellow("DottedRugYellow", Material.glass), ItemSolidBlock.class, "DottedRugYellow");
+        GameRegistry.registerBlock(DottedRugBrown = new DottedRugBrown("DottedRugBrown", Material.glass), ItemSolidBlock.class, "DottedRugBrown");
+        GameRegistry.registerBlock(DottedRugGray = new DottedRugGray("DottedRugGray", Material.glass), ItemSolidBlock.class, "DottedRugGray");
+
 
 
       
