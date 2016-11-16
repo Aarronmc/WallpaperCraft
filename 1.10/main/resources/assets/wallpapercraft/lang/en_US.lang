@@ -1904,4 +1904,325 @@ tile.WallpaperCraft:DottedRugGray_5.name=Dotted Rug Light Warm Gray
 tile.WallpaperCraft:DottedRugGray_6.name=Dotted Rug Warm Gray
 tile.WallpaperCraft:DottedRugGray_7.name=Dotted Rug Middle Warm Gray
 tile.WallpaperCraft:DottedRugGray_8.name=Dotted Rug Dark Warm Gray
-tile.WallpaperCraft:DottedRugGray_9.name=Dotted Rug 
+tile.WallpaperCraft:DottedRugGray_9.name=Dotted Rug
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########  STARTING NAMING OF CHECKERED CARPET COLOURS   ###########
+###########									     	       ###########
+######################################################################
+
+
+#Checkered Carpet Red Colours
+tile.WallpaperCraft:CheckeredCarpetRed_0.name=Checkered Carpet Light Warm Pink
+tile.WallpaperCraft:CheckeredCarpetRed_1.name=Checkered Carpet Light Red
+tile.WallpaperCraft:CheckeredCarpetRed_2.name=Checkered Carpet Bright Red
+tile.WallpaperCraft:CheckeredCarpetRed_3.name=Checkered Carpet Red
+tile.WallpaperCraft:CheckeredCarpetRed_4.name=Checkered Carpet Blood Red
+tile.WallpaperCraft:CheckeredCarpetRed_5.name=Checkered Carpet Light Cool Pink
+tile.WallpaperCraft:CheckeredCarpetRed_6.name=Checkered Carpet Pink
+tile.WallpaperCraft:CheckeredCarpetRed_7.name=Checkered Carpet Hot Pink
+tile.WallpaperCraft:CheckeredCarpetRed_8.name=Checkered Carpet Dark Pink
+tile.WallpaperCraft:CheckeredCarpetRed_9.name=Checkered Carpet Hot Pink
+tile.WallpaperCraft:CheckeredCarpetRed_10.name=Checkered Carpet Fuchsia
+tile.WallpaperCraft:CheckeredCarpetRed_11.name=Checkered Carpet Baby Pink
+tile.WallpaperCraft:CheckeredCarpetRed_12.name=Checkered Carpet Light Salmon
+tile.WallpaperCraft:CheckeredCarpetRed_13.name=Checkered Carpet Brown Red
+tile.WallpaperCraft:CheckeredCarpetRed_14.name=Checkered Carpet Dark Brown Red
+
+
+
+#Checkered Carpet Purple Colours
+tile.WallpaperCraft:CheckeredCarpetPurple_0.name=Checkered Carpet Light Magenta
+tile.WallpaperCraft:CheckeredCarpetPurple_1.name=Checkered Carpet Magenta
+tile.WallpaperCraft:CheckeredCarpetPurple_2.name=Checkered Carpet Dark Magenta
+tile.WallpaperCraft:CheckeredCarpetPurple_3.name=Checkered Carpet Violet
+tile.WallpaperCraft:CheckeredCarpetPurple_4.name=Checkered Carpet Dark Violet
+tile.WallpaperCraft:CheckeredCarpetPurple_5.name=Checkered Carpet Light Violet
+tile.WallpaperCraft:CheckeredCarpetPurple_6.name=Checkered Carpet Light Purple
+tile.WallpaperCraft:CheckeredCarpetPurple_7.name=Checkered Carpet Purple
+tile.WallpaperCraft:CheckeredCarpetPurple_8.name=Checkered Carpet Dark Purple
+tile.WallpaperCraft:CheckeredCarpetPurple_9.name=Checkered Carpet Royal Blue
+tile.WallpaperCraft:CheckeredCarpetPurple_10.name=Checkered Carpet Light Lavender
+tile.WallpaperCraft:CheckeredCarpetPurple_11.name=Checkered Carpet avender
+tile.WallpaperCraft:CheckeredCarpetPurple_12.name=Checkered Carpet Azure Blue
+tile.WallpaperCraft:CheckeredCarpetPurple_13.name=Checkered Carpet Dark Blue
+tile.WallpaperCraft:CheckeredCarpetPurple_14.name=Checkered Carpet Midnight Blue
+
+
+
+#Checkered Carpet Blue Colours
+tile.WallpaperCraft:CheckeredCarpetBlue_0.name=Checkered Carpet Light Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_1.name=Checkered Carpet Light Sky Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_2.name=Checkered Carpet Sky Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_3.name=Checkered Carpet Dark Sky Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_4.name=Checkered Carpet Navy Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_5.name=Checkered Carpet Light Baby Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_6.name=Checkered Carpet Baby Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_7.name=Checkered Carpet Bright Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_8.name=Checkered Carpet Medium Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_9.name=Checkered Carpet Deep Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_10.name=Checkered Carpet Light Aqua Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_11.name=Checkered Carpet Aqua Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_12.name=Checkered Carpet Dark Aqua Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_13.name=Checkered Carpet Oceon Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_14.name=Checkered Carpet Midnight Blue
+
+
+
+#Checkered Carpet Brown Colours
+tile.WallpaperCraft:CheckeredCarpetBrown_0.name=Checkered Carpet Soft Orange
+tile.WallpaperCraft:CheckeredCarpetBrown_1.name=Checkered Carpet Sienna brown
+tile.WallpaperCraft:CheckeredCarpetBrown_2.name=Checkered Carpet Burnt Sienna Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_3.name=Checkered Carpet Earth Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_4.name=Checkered Carpet Soil Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_5.name=Checkered Carpet Light Beige
+tile.WallpaperCraft:CheckeredCarpetBrown_6.name=Checkered Carpet Beige
+tile.WallpaperCraft:CheckeredCarpetBrown_7.name=Checkered Carpet Terracotta Red
+tile.WallpaperCraft:CheckeredCarpetBrown_8.name=Checkered Carpet Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_9.name=Checkered Carpet Saddle Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_10.name=Checkered Carpet Light Gray Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_11.name=Checkered Carpet Gray Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_12.name=Checkered Carpet Middle Gray Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_13.name=Checkered Carpet Gray Brown
+tile.WallpaperCraft:CheckeredCarpetBrown_14.name=Checkered Carpet Dark Gray Brown
+
+
+
+#Checkered Carpet Cyan Colours
+tile.WallpaperCraft:CheckeredCarpetCyan_0.name=Checkered Carpet Light Green Blue
+tile.WallpaperCraft:CheckeredCarpetCyan_1.name=Checkered Carpet Light Turquoise Blue
+tile.WallpaperCraft:CheckeredCarpetCyan_2.name=Checkered Carpet Turquoise Blue
+tile.WallpaperCraft:CheckeredCarpetCyan_3.name=Checkered Carpet Teal Blue
+tile.WallpaperCraft:CheckeredCarpetCyan_4.name=Checkered Carpet Dark Teal Blue
+tile.WallpaperCraft:CheckeredCarpetCyan_5.name=Checkered Carpet Light Seafoam Blue Green
+tile.WallpaperCraft:CheckeredCarpetCyan_6.name=Checkered Carpet Seafoam Blue Green
+tile.WallpaperCraft:CheckeredCarpetCyan_7.name=Checkered Carpet Blue Green
+tile.WallpaperCraft:CheckeredCarpetCyan_8.name=Checkered Carpet Dark Blue Green
+tile.WallpaperCraft:CheckeredCarpetCyan_9.name=Checkered Carpet Dark Pine Blue Green
+
+
+
+#Checkered Carpet Green Colours
+tile.WallpaperCraft:CheckeredCarpetGreen_0.name=Checkered Carpet Light Green
+tile.WallpaperCraft:CheckeredCarpetGreen_1.name=Checkered Carpet Light Spring Green
+tile.WallpaperCraft:CheckeredCarpetGreen_2.name=Checkered Carpet Spring Green
+tile.WallpaperCraft:CheckeredCarpetGreen_3.name=Checkered Carpet Green
+tile.WallpaperCraft:CheckeredCarpetGreen_4.name=Checkered Carpet Dark Green
+tile.WallpaperCraft:CheckeredCarpetGreen_5.name=Checkered Carpet Light Summer Green
+tile.WallpaperCraft:CheckeredCarpetGreen_6.name=Checkered Carpet Summer Green
+tile.WallpaperCraft:CheckeredCarpetGreen_7.name=Checkered Carpet Lush Green
+tile.WallpaperCraft:CheckeredCarpetGreen_8.name=Checkered Carpet Deep Lush Green
+tile.WallpaperCraft:CheckeredCarpetGreen_9.name=Checkered Carpet Dark Lush Green
+tile.WallpaperCraft:CheckeredCarpetGreen_10.name=Checkered Carpet Light Spring Green
+tile.WallpaperCraft:CheckeredCarpetGreen_11.name=Checkered Carpet Spring Green
+tile.WallpaperCraft:CheckeredCarpetGreen_12.name=Checkered Carpet Light Olive Green
+tile.WallpaperCraft:CheckeredCarpetGreen_13.name=Checkered Carpet Olive Green
+tile.WallpaperCraft:CheckeredCarpetGreen_14.name=Checkered Carpet Moss Green
+
+
+
+#Checkered Carpet Yellow Colours
+tile.WallpaperCraft:CheckeredCarpetYellow_0.name=Checkered Carpet Light Lemon Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_1.name=Checkered Carpet Lemon Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_2.name=Checkered Carpet Sunny Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_3.name=Checkered Carpet Soft Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_4.name=Checkered Carpet Orange Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_5.name=Checkered Carpet Light Sand Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_6.name=Checkered Carpet Light Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_7.name=Checkered Carpet Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_8.name=Checkered Carpet Gold Yellow
+tile.WallpaperCraft:CheckeredCarpetYellow_9.name=Checkered Carpet Dark Orange
+tile.WallpaperCraft:CheckeredCarpetYellow_10.name=Checkered Carpet Light Orange
+tile.WallpaperCraft:CheckeredCarpetYellow_11.name=Checkered Carpet Sunny Orange
+tile.WallpaperCraft:CheckeredCarpetYellow_12.name=Checkered Carpet Orange
+tile.WallpaperCraft:CheckeredCarpetYellow_13.name=Checkered Carpet Deep orange
+tile.WallpaperCraft:CheckeredCarpetYellow_14.name=Checkered Carpet Orange Red
+
+
+
+#Checkered Carpet Gray Colours
+tile.WallpaperCraft:CheckeredCarpetGray_0.name=Checkered Carpet White Gray
+tile.WallpaperCraft:CheckeredCarpetGray_1.name=Checkered Carpet Light Gray
+tile.WallpaperCraft:CheckeredCarpetGray_2.name=Checkered Carpet Gray
+tile.WallpaperCraft:CheckeredCarpetGray_3.name=Checkered Carpet Dark Gray
+tile.WallpaperCraft:CheckeredCarpetGray_4.name=Checkered Carpet Gray Black
+tile.WallpaperCraft:CheckeredCarpetGray_5.name=Checkered Carpet Light Warm Gray
+tile.WallpaperCraft:CheckeredCarpetGray_6.name=Checkered Carpet Warm Gray
+tile.WallpaperCraft:CheckeredCarpetGray_7.name=Checkered Carpet Middle Warm Gray
+tile.WallpaperCraft:CheckeredCarpetGray_8.name=Checkered Carpet Dark Warm Gray
+tile.WallpaperCraft:CheckeredCarpetGray_9.name=Checkered Carpet Warm Black Gray
+tile.WallpaperCraft:CheckeredCarpetGray_10.name=Checkered Carpet Light Cool gray
+tile.WallpaperCraft:CheckeredCarpetGray_11.name=Checkered Carpet Cool Gray
+tile.WallpaperCraft:CheckeredCarpetGray_12.name=Checkered Carpet Dark Cool Gray
+tile.WallpaperCraft:CheckeredCarpetGray_13.name=Checkered Carpet Cool Blue Gray
+tile.WallpaperCraft:CheckeredCarpetGray_14.name=Checkered Carpet Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########   STARTING NAMING OF CHECKERED RUGS COLOURS    ###########
+###########									     	       ###########
+######################################################################
+
+
+#Checkered Rug Red Colours
+tile.WallpaperCraft:CheckeredRugRed_0.name=Checkered Rug Light Warm Pink
+tile.WallpaperCraft:CheckeredRugRed_1.name=Checkered Rug Light Red
+tile.WallpaperCraft:CheckeredRugRed_2.name=Checkered Rug Bright Red
+tile.WallpaperCraft:CheckeredRugRed_3.name=Checkered Rug Red
+tile.WallpaperCraft:CheckeredRugRed_4.name=Checkered Rug Blood Red
+tile.WallpaperCraft:CheckeredRugRed_5.name=Checkered Rug Light Cool Pink
+tile.WallpaperCraft:CheckeredRugRed_6.name=Checkered Rug Pink
+tile.WallpaperCraft:CheckeredRugRed_7.name=Checkered Rug Hot Pink
+tile.WallpaperCraft:CheckeredRugRed_8.name=Checkered Rug Dark Pink
+tile.WallpaperCraft:CheckeredRugRed_9.name=Checkered Rug Hot Pink
+tile.WallpaperCraft:CheckeredRugRed_10.name=Checkered Rug Fuchsia
+tile.WallpaperCraft:CheckeredRugRed_11.name=Checkered Rug Baby Pink
+tile.WallpaperCraft:CheckeredRugRed_12.name=Checkered Rug Light Salmon
+tile.WallpaperCraft:CheckeredRugRed_13.name=Checkered Rug Brown Red
+tile.WallpaperCraft:CheckeredRugRed_14.name=Checkered Rug Dark Brown Red
+
+
+
+#Checkered Rug Purple Colours
+tile.WallpaperCraft:CheckeredRugPurple_0.name=Checkered Rug Light Magenta
+tile.WallpaperCraft:CheckeredRugPurple_1.name=Checkered Rug Magenta
+tile.WallpaperCraft:CheckeredRugPurple_2.name=Checkered Rug Dark Magenta
+tile.WallpaperCraft:CheckeredRugPurple_3.name=Checkered Rug Violet
+tile.WallpaperCraft:CheckeredRugPurple_4.name=Checkered Rug Dark Violet
+tile.WallpaperCraft:CheckeredRugPurple_5.name=Checkered Rug Light Violet
+tile.WallpaperCraft:CheckeredRugPurple_6.name=Checkered Rug Light Purple
+tile.WallpaperCraft:CheckeredRugPurple_7.name=Checkered Rug Purple
+tile.WallpaperCraft:CheckeredRugPurple_8.name=Checkered Rug Dark Purple
+tile.WallpaperCraft:CheckeredRugPurple_9.name=Checkered Rug Royal Blue
+tile.WallpaperCraft:CheckeredRugPurple_10.name=Checkered Rug Light Lavender
+tile.WallpaperCraft:CheckeredRugPurple_11.name=Checkered Rug avender
+tile.WallpaperCraft:CheckeredRugPurple_12.name=Checkered Rug Azure Blue
+tile.WallpaperCraft:CheckeredRugPurple_13.name=Checkered Rug Dark Blue
+tile.WallpaperCraft:CheckeredRugPurple_14.name=Checkered Rug Midnight Blue
+
+
+
+#Checkered Rug Blue Colours
+tile.WallpaperCraft:CheckeredRugBlue_0.name=Checkered Rug Light Blue
+tile.WallpaperCraft:CheckeredRugBlue_1.name=Checkered Rug Light Sky Blue
+tile.WallpaperCraft:CheckeredRugBlue_2.name=Checkered Rug Sky Blue
+tile.WallpaperCraft:CheckeredRugBlue_3.name=Checkered Rug Dark Sky Blue
+tile.WallpaperCraft:CheckeredRugBlue_4.name=Checkered Rug Navy Blue
+tile.WallpaperCraft:CheckeredRugBlue_5.name=Checkered Rug Light Baby Blue
+tile.WallpaperCraft:CheckeredRugBlue_6.name=Checkered Rug Baby Blue
+tile.WallpaperCraft:CheckeredRugBlue_7.name=Checkered Rug Bright Blue
+tile.WallpaperCraft:CheckeredRugBlue_8.name=Checkered Rug Medium Blue
+tile.WallpaperCraft:CheckeredRugBlue_9.name=Checkered Rug Deep Blue
+tile.WallpaperCraft:CheckeredRugBlue_10.name=Checkered Rug Light Aqua Blue
+tile.WallpaperCraft:CheckeredRugBlue_11.name=Checkered Rug Aqua Blue
+tile.WallpaperCraft:CheckeredRugBlue_12.name=Checkered Rug Dark Aqua Blue
+tile.WallpaperCraft:CheckeredRugBlue_13.name=Checkered Rug Oceon Blue
+tile.WallpaperCraft:CheckeredRugBlue_14.name=Checkered Rug Midnight Blue
+
+
+
+#Checkered Rug Brown Colours
+tile.WallpaperCraft:CheckeredRugBrown_0.name=Checkered Rug Soft Orange
+tile.WallpaperCraft:CheckeredRugBrown_1.name=Checkered Rug Sienna brown
+tile.WallpaperCraft:CheckeredRugBrown_2.name=Checkered Rug Burnt Sienna Brown
+tile.WallpaperCraft:CheckeredRugBrown_3.name=Checkered Rug Earth Brown
+tile.WallpaperCraft:CheckeredRugBrown_4.name=Checkered Rug Soil Brown
+tile.WallpaperCraft:CheckeredRugBrown_5.name=Checkered Rug Light Beige
+tile.WallpaperCraft:CheckeredRugBrown_6.name=Checkered Rug Beige
+tile.WallpaperCraft:CheckeredRugBrown_7.name=Checkered Rug Terracotta Red
+tile.WallpaperCraft:CheckeredRugBrown_8.name=Checkered Rug Brown
+tile.WallpaperCraft:CheckeredRugBrown_9.name=Checkered Rug Saddle Brown
+tile.WallpaperCraft:CheckeredRugBrown_10.name=Checkered Rug Light Gray Brown
+tile.WallpaperCraft:CheckeredRugBrown_11.name=Checkered Rug Gray Brown
+tile.WallpaperCraft:CheckeredRugBrown_12.name=Checkered Rug Middle Gray Brown
+tile.WallpaperCraft:CheckeredRugBrown_13.name=Checkered Rug Gray Brown
+tile.WallpaperCraft:CheckeredRugBrown_14.name=Checkered Rug Dark Gray Brown
+
+
+
+#Checkered Rug Cyan Colours
+tile.WallpaperCraft:CheckeredRugCyan_0.name=Checkered Rug Light Green Blue
+tile.WallpaperCraft:CheckeredRugCyan_1.name=Checkered Rug Light Turquoise Blue
+tile.WallpaperCraft:CheckeredRugCyan_2.name=Checkered Rug Turquoise Blue
+tile.WallpaperCraft:CheckeredRugCyan_3.name=Checkered Rug Teal Blue
+tile.WallpaperCraft:CheckeredRugCyan_4.name=Checkered Rug Dark Teal Blue
+tile.WallpaperCraft:CheckeredRugCyan_5.name=Checkered Rug Light Seafoam Blue Green
+tile.WallpaperCraft:CheckeredRugCyan_6.name=Checkered Rug Seafoam Blue Green
+tile.WallpaperCraft:CheckeredRugCyan_7.name=Checkered Rug Blue Green
+tile.WallpaperCraft:CheckeredRugCyan_8.name=Checkered Rug Dark Blue Green
+tile.WallpaperCraft:CheckeredRugCyan_9.name=Checkered Rug Dark Pine Blue Green
+
+
+
+#Checkered Rug Green Colours
+tile.WallpaperCraft:CheckeredRugGreen_0.name=Checkered Rug Light Green
+tile.WallpaperCraft:CheckeredRugGreen_1.name=Checkered Rug Light Spring Green
+tile.WallpaperCraft:CheckeredRugGreen_2.name=Checkered Rug Spring Green
+tile.WallpaperCraft:CheckeredRugGreen_3.name=Checkered Rug Green
+tile.WallpaperCraft:CheckeredRugGreen_4.name=Checkered Rug Dark Green
+tile.WallpaperCraft:CheckeredRugGreen_5.name=Checkered Rug Light Summer Green
+tile.WallpaperCraft:CheckeredRugGreen_6.name=Checkered Rug Summer Green
+tile.WallpaperCraft:CheckeredRugGreen_7.name=Checkered Rug Lush Green
+tile.WallpaperCraft:CheckeredRugGreen_8.name=Checkered Rug Deep Lush Green
+tile.WallpaperCraft:CheckeredRugGreen_9.name=Checkered Rug Dark Lush Green
+tile.WallpaperCraft:CheckeredRugGreen_10.name=Checkered Rug Light Spring Green
+tile.WallpaperCraft:CheckeredRugGreen_11.name=Checkered Rug Spring Green
+tile.WallpaperCraft:CheckeredRugGreen_12.name=Checkered Rug Light Olive Green
+tile.WallpaperCraft:CheckeredRugGreen_13.name=Checkered Rug Olive Green
+tile.WallpaperCraft:CheckeredRugGreen_14.name=Checkered Rug Moss Green
+
+
+
+#Checkered Rug Yellow Colours
+tile.WallpaperCraft:CheckeredRugYellow_0.name=Checkered Rug Light Lemon Yellow
+tile.WallpaperCraft:CheckeredRugYellow_1.name=Checkered Rug Lemon Yellow
+tile.WallpaperCraft:CheckeredRugYellow_2.name=Checkered Rug Sunny Yellow
+tile.WallpaperCraft:CheckeredRugYellow_3.name=Checkered Rug Soft Yellow
+tile.WallpaperCraft:CheckeredRugYellow_4.name=Checkered Rug Orange Yellow
+tile.WallpaperCraft:CheckeredRugYellow_5.name=Checkered Rug Light Sand Yellow
+tile.WallpaperCraft:CheckeredRugYellow_6.name=Checkered Rug Light Yellow
+tile.WallpaperCraft:CheckeredRugYellow_7.name=Checkered Rug Yellow
+tile.WallpaperCraft:CheckeredRugYellow_8.name=Checkered Rug Gold Yellow
+tile.WallpaperCraft:CheckeredRugYellow_9.name=Checkered Rug Dark Orange
+tile.WallpaperCraft:CheckeredRugYellow_10.name=Checkered Rug Light Orange
+tile.WallpaperCraft:CheckeredRugYellow_11.name=Checkered Rug Sunny Orange
+tile.WallpaperCraft:CheckeredRugYellow_12.name=Checkered Rug Orange
+tile.WallpaperCraft:CheckeredRugYellow_13.name=Checkered Rug Deep orange
+tile.WallpaperCraft:CheckeredRugYellow_14.name=Checkered Rug Orange Red
+
+
+
+#Checkered Rug Gray Colours
+tile.WallpaperCraft:CheckeredRugGray_0.name=Checkered Rug White Gray
+tile.WallpaperCraft:CheckeredRugGray_1.name=Checkered Rug Light Gray
+tile.WallpaperCraft:CheckeredRugGray_2.name=Checkered Rug Gray
+tile.WallpaperCraft:CheckeredRugGray_3.name=Checkered Rug Dark Gray
+tile.WallpaperCraft:CheckeredRugGray_4.name=Checkered Rug Gray Black
+tile.WallpaperCraft:CheckeredRugGray_5.name=Checkered Rug Light Warm Gray
+tile.WallpaperCraft:CheckeredRugGray_6.name=Checkered Rug Warm Gray
+tile.WallpaperCraft:CheckeredRugGray_7.name=Checkered Rug Middle Warm Gray
+tile.WallpaperCraft:CheckeredRugGray_8.name=Checkered Rug Dark Warm Gray
+tile.WallpaperCraft:CheckeredRugGray_9.name=Checkered Rug Warm Black Gray
+tile.WallpaperCraft:CheckeredRugGray_10.name=Checkered Rug Light Cool gray
+tile.WallpaperCraft:CheckeredRugGray_11.name=Checkered Rug Cool Gray
+tile.WallpaperCraft:CheckeredRugGray_12.name=Checkered Rug Dark Cool Gray
+tile.WallpaperCraft:CheckeredRugGray_13.name=Checkered Rug Cool Blue Gray
+tile.WallpaperCraft:CheckeredRugGray_14.name=Checkered Rug Cool Dark Blue Gray

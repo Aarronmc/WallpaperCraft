@@ -87,15 +87,6 @@ public class ModBlocks {
 	public static DottedCarpetBrown DottedCarpetBrown = new DottedCarpetBrown();
 	public static DottedCarpetGray DottedCarpetGray = new DottedCarpetGray();
 	
-	public static DottedRugRed DottedRugRed = new DottedRugRed();
-	public static DottedRugPurple DottedRugPurple = new DottedRugPurple();
-	public static DottedRugBlue DottedRugBlue = new DottedRugBlue();
-	public static DottedRugCyan DottedRugCyan = new DottedRugCyan();
-	public static DottedRugGreen DottedRugGreen = new DottedRugGreen();
-	public static DottedRugYellow DottedRugYellow = new DottedRugYellow();
-	public static DottedRugBrown DottedRugBrown = new DottedRugBrown();
-	public static DottedRugGray DottedRugGray = new DottedRugGray();
-	
 	public static CheckeredCarpetRed CheckeredCarpetRed = new CheckeredCarpetRed();
 	public static CheckeredCarpetPurple CheckeredCarpetPurple = new CheckeredCarpetPurple();
 	public static CheckeredCarpetBlue CheckeredCarpetBlue = new CheckeredCarpetBlue();
@@ -104,15 +95,6 @@ public class ModBlocks {
 	public static CheckeredCarpetYellow CheckeredCarpetYellow = new CheckeredCarpetYellow();
 	public static CheckeredCarpetBrown CheckeredCarpetBrown = new CheckeredCarpetBrown();
 	public static CheckeredCarpetGray CheckeredCarpetGray = new CheckeredCarpetGray();
-
-	public static CheckeredRugRed CheckeredRugRed = new CheckeredRugRed();
-	public static CheckeredRugPurple CheckeredRugPurple = new CheckeredRugPurple();
-	public static CheckeredRugBlue CheckeredRugBlue = new CheckeredRugBlue();
-	public static CheckeredRugCyan CheckeredRugCyan = new CheckeredRugCyan();
-	public static CheckeredRugGreen CheckeredRugGreen = new CheckeredRugGreen();
-	public static CheckeredRugYellow CheckeredRugYellow = new CheckeredRugYellow();
-	public static CheckeredRugBrown CheckeredRugBrown = new CheckeredRugBrown();
-	public static CheckeredRugGray CheckeredRugGray = new CheckeredRugGray();
 
 	public static TintedGlassRed TintedGlassRed = new TintedGlassRed();
 	public static TintedGlassPurple TintedGlassPurple = new TintedGlassPurple();
@@ -140,6 +122,24 @@ public class ModBlocks {
 	public static FrostedGlassYellow FrostedGlassYellow = new FrostedGlassYellow();
 	public static FrostedGlassBrown FrostedGlassBrown = new FrostedGlassBrown();
 	public static FrostedGlassGray FrostedGlassGray = new FrostedGlassGray();
+	
+	public static CheckeredRugRed CheckeredRugRed = new CheckeredRugRed();
+	public static CheckeredRugPurple CheckeredRugPurple = new CheckeredRugPurple();
+	public static CheckeredRugBlue CheckeredRugBlue = new CheckeredRugBlue();
+	public static CheckeredRugCyan CheckeredRugCyan = new CheckeredRugCyan();
+	public static CheckeredRugGreen CheckeredRugGreen = new CheckeredRugGreen();
+	public static CheckeredRugYellow CheckeredRugYellow = new CheckeredRugYellow();
+	public static CheckeredRugBrown CheckeredRugBrown = new CheckeredRugBrown();
+	public static CheckeredRugGray CheckeredRugGray = new CheckeredRugGray();
+	
+	public static DottedRugRed DottedRugRed = new DottedRugRed();
+	public static DottedRugPurple DottedRugPurple = new DottedRugPurple();
+	public static DottedRugBlue DottedRugBlue = new DottedRugBlue();
+	public static DottedRugCyan DottedRugCyan = new DottedRugCyan();
+	public static DottedRugGreen DottedRugGreen = new DottedRugGreen();
+	public static DottedRugYellow DottedRugYellow = new DottedRugYellow();
+	public static DottedRugBrown DottedRugBrown = new DottedRugBrown();
+	public static DottedRugGray DottedRugGray = new DottedRugGray();
 	
 	
 	
@@ -211,15 +211,6 @@ public class ModBlocks {
 		DottedCarpetBrown.initModel();
 		DottedCarpetGray.initModel();
 		
-		DottedRugRed.initModel();
-		DottedRugPurple.initModel();
-		DottedRugBlue.initModel();
-		DottedRugCyan.initModel();
-		DottedRugGreen.initModel();
-		DottedRugYellow.initModel();
-		DottedRugBrown.initModel();
-		DottedRugGray.initModel();
-		
 		CheckeredCarpetRed.initModel();
 		CheckeredCarpetPurple.initModel();
 		CheckeredCarpetBlue.initModel();
@@ -228,15 +219,6 @@ public class ModBlocks {
 		CheckeredCarpetYellow.initModel();
 		CheckeredCarpetBrown.initModel();
 		CheckeredCarpetGray.initModel();
-
-		CheckeredRugRed.initModel();
-		CheckeredRugPurple.initModel();
-		CheckeredRugBlue.initModel();
-		CheckeredRugCyan.initModel();
-		CheckeredRugGreen.initModel();
-		CheckeredRugYellow.initModel();
-		CheckeredRugBrown.initModel();
-		CheckeredRugGray.initModel();
 	
 		TintedGlassRed.initModel();
 		TintedGlassPurple.initModel();
@@ -264,6 +246,24 @@ public class ModBlocks {
 		FrostedGlassYellow.initModel();
 		FrostedGlassBrown.initModel();
 		FrostedGlassGray.initModel();
+		
+		DottedRugRed.initModel();
+		DottedRugPurple.initModel();
+		DottedRugBlue.initModel();
+		DottedRugCyan.initModel();
+		DottedRugGreen.initModel();
+		DottedRugYellow.initModel();
+		DottedRugBrown.initModel();
+		DottedRugGray.initModel();	
+
+		CheckeredRugRed.initModel();
+		CheckeredRugPurple.initModel();
+		CheckeredRugBlue.initModel();
+		CheckeredRugCyan.initModel();
+		CheckeredRugGreen.initModel();
+		CheckeredRugYellow.initModel();
+		CheckeredRugBrown.initModel();
+		CheckeredRugGray.initModel();
 
 		
 
@@ -341,15 +341,6 @@ public class ModBlocks {
 		GameRegistry.register(CheckeredCarpetYellow);
 		GameRegistry.register(CheckeredCarpetBrown);
 		GameRegistry.register(CheckeredCarpetGray);
-	
-		GameRegistry.register(DottedRugRed);
-		GameRegistry.register(DottedRugPurple);
-		GameRegistry.register(DottedRugBlue);
-		GameRegistry.register(DottedRugCyan);
-		GameRegistry.register(DottedRugGreen);
-		GameRegistry.register(DottedRugYellow);
-		GameRegistry.register(DottedRugBrown);
-		GameRegistry.register(DottedRugGray);
 
 		GameRegistry.register(TintedGlassRed);
 		GameRegistry.register(TintedGlassPurple);
@@ -376,7 +367,25 @@ public class ModBlocks {
 		GameRegistry.register(FrostedGlassGreen);
 		GameRegistry.register(FrostedGlassYellow);
 		GameRegistry.register(FrostedGlassBrown);
-		GameRegistry.register(FrostedGlassGray);
+		GameRegistry.register(FrostedGlassGray);		
+		
+		GameRegistry.register(DottedRugRed);
+		GameRegistry.register(DottedRugPurple);
+		GameRegistry.register(DottedRugBlue);
+		GameRegistry.register(DottedRugCyan);
+		GameRegistry.register(DottedRugGreen);
+		GameRegistry.register(DottedRugYellow);
+		GameRegistry.register(DottedRugBrown);
+		GameRegistry.register(DottedRugGray);
+		
+		GameRegistry.register(CheckeredRugRed);
+		GameRegistry.register(CheckeredRugPurple);
+		GameRegistry.register(CheckeredRugBlue);
+		GameRegistry.register(CheckeredRugCyan);
+		GameRegistry.register(CheckeredRugGreen);
+		GameRegistry.register(CheckeredRugYellow);
+		GameRegistry.register(CheckeredRugBrown);
+		GameRegistry.register(CheckeredRugGray);
 
 		
 
