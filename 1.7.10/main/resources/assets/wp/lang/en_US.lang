@@ -1910,3 +1910,324 @@ tile.DottedRugGray_11.name=Dotted Rug Cool Gray
 tile.DottedRugGray_12.name=Dotted Rug Dark Cool Gray
 tile.DottedRugGray_13.name=Dotted Rug Cool Blue Gray
 tile.DottedRugGray_14.name=Dotted Rug Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########  STARTING NAMING OF CHECKERED CARPET COLOURS   ###########
+###########									     	       ###########
+######################################################################
+
+
+#Checkered Carpet Red Colours
+tile.CheckeredCarpetRed_0.name=Checkered Carpet Light Warm Pink
+tile.CheckeredCarpetRed_1.name=Checkered Carpet Light Red
+tile.CheckeredCarpetRed_2.name=Checkered Carpet Bright Red
+tile.CheckeredCarpetRed_3.name=Checkered Carpet Red
+tile.CheckeredCarpetRed_4.name=Checkered Carpet Blood Red
+tile.CheckeredCarpetRed_5.name=Checkered Carpet Light Cool Pink
+tile.CheckeredCarpetRed_6.name=Checkered Carpet Pink
+tile.CheckeredCarpetRed_7.name=Checkered Carpet Hot Pink
+tile.CheckeredCarpetRed_8.name=Checkered Carpet Dark Pink
+tile.CheckeredCarpetRed_9.name=Checkered Carpet Hot Pink
+tile.CheckeredCarpetRed_10.name=Checkered Carpet Fuchsia
+tile.CheckeredCarpetRed_11.name=Checkered Carpet Baby Pink
+tile.CheckeredCarpetRed_12.name=Checkered Carpet Light Salmon
+tile.CheckeredCarpetRed_13.name=Checkered Carpet Brown Red
+tile.CheckeredCarpetRed_14.name=Checkered Carpet Dark Brown Red
+
+
+
+#Checkered Carpet Purple Colours
+tile.CheckeredCarpetPurple_0.name=Checkered Carpet Light Magenta
+tile.CheckeredCarpetPurple_1.name=Checkered Carpet Magenta
+tile.CheckeredCarpetPurple_2.name=Checkered Carpet Dark Magenta
+tile.CheckeredCarpetPurple_3.name=Checkered Carpet Violet
+tile.CheckeredCarpetPurple_4.name=Checkered Carpet Dark Violet
+tile.CheckeredCarpetPurple_5.name=Checkered Carpet Light Violet
+tile.CheckeredCarpetPurple_6.name=Checkered Carpet Light Purple
+tile.CheckeredCarpetPurple_7.name=Checkered Carpet Purple
+tile.CheckeredCarpetPurple_8.name=Checkered Carpet Dark Purple
+tile.CheckeredCarpetPurple_9.name=Checkered Carpet Royal Blue
+tile.CheckeredCarpetPurple_10.name=Checkered Carpet Light Lavender
+tile.CheckeredCarpetPurple_11.name=Checkered Carpet avender
+tile.CheckeredCarpetPurple_12.name=Checkered Carpet Azure Blue
+tile.CheckeredCarpetPurple_13.name=Checkered Carpet Dark Blue
+tile.CheckeredCarpetPurple_14.name=Checkered Carpet Midnight Blue
+
+
+
+#Checkered Carpet Blue Colours
+tile.CheckeredCarpetBlue_0.name=Checkered Carpet Light Blue
+tile.CheckeredCarpetBlue_1.name=Checkered Carpet Light Sky Blue
+tile.CheckeredCarpetBlue_2.name=Checkered Carpet Sky Blue
+tile.CheckeredCarpetBlue_3.name=Checkered Carpet Dark Sky Blue
+tile.CheckeredCarpetBlue_4.name=Checkered Carpet Navy Blue
+tile.CheckeredCarpetBlue_5.name=Checkered Carpet Light Baby Blue
+tile.CheckeredCarpetBlue_6.name=Checkered Carpet Baby Blue
+tile.CheckeredCarpetBlue_7.name=Checkered Carpet Bright Blue
+tile.CheckeredCarpetBlue_8.name=Checkered Carpet Medium Blue
+tile.CheckeredCarpetBlue_9.name=Checkered Carpet Deep Blue
+tile.CheckeredCarpetBlue_10.name=Checkered Carpet Light Aqua Blue
+tile.CheckeredCarpetBlue_11.name=Checkered Carpet Aqua Blue
+tile.CheckeredCarpetBlue_12.name=Checkered Carpet Dark Aqua Blue
+tile.CheckeredCarpetBlue_13.name=Checkered Carpet Oceon Blue
+tile.CheckeredCarpetBlue_14.name=Checkered Carpet Midnight Blue
+
+
+
+#Checkered Carpet Brown Colours
+tile.CheckeredCarpetBrown_0.name=Checkered Carpet Soft Orange
+tile.CheckeredCarpetBrown_1.name=Checkered Carpet Sienna brown
+tile.CheckeredCarpetBrown_2.name=Checkered Carpet Burnt Sienna Brown
+tile.CheckeredCarpetBrown_3.name=Checkered Carpet Earth Brown
+tile.CheckeredCarpetBrown_4.name=Checkered Carpet Soil Brown
+tile.CheckeredCarpetBrown_5.name=Checkered Carpet Light Beige
+tile.CheckeredCarpetBrown_6.name=Checkered Carpet Beige
+tile.CheckeredCarpetBrown_7.name=Checkered Carpet Terracotta Red
+tile.CheckeredCarpetBrown_8.name=Checkered Carpet Brown
+tile.CheckeredCarpetBrown_9.name=Checkered Carpet Saddle Brown
+tile.CheckeredCarpetBrown_10.name=Checkered Carpet Light Gray Brown
+tile.CheckeredCarpetBrown_11.name=Checkered Carpet Gray Brown
+tile.CheckeredCarpetBrown_12.name=Checkered Carpet Middle Gray Brown
+tile.CheckeredCarpetBrown_13.name=Checkered Carpet Gray Brown
+tile.CheckeredCarpetBrown_14.name=Checkered Carpet Dark Gray Brown
+
+
+
+#Checkered Carpet Cyan Colours
+tile.CheckeredCarpetCyan_0.name=Checkered Carpet Light Green Blue
+tile.CheckeredCarpetCyan_1.name=Checkered Carpet Light Turquoise Blue
+tile.CheckeredCarpetCyan_2.name=Checkered Carpet Turquoise Blue
+tile.CheckeredCarpetCyan_3.name=Checkered Carpet Teal Blue
+tile.CheckeredCarpetCyan_4.name=Checkered Carpet Dark Teal Blue
+tile.CheckeredCarpetCyan_5.name=Checkered Carpet Light Seafoam Blue Green
+tile.CheckeredCarpetCyan_6.name=Checkered Carpet Seafoam Blue Green
+tile.CheckeredCarpetCyan_7.name=Checkered Carpet Blue Green
+tile.CheckeredCarpetCyan_8.name=Checkered Carpet Dark Blue Green
+tile.CheckeredCarpetCyan_9.name=Checkered Carpet Dark Pine Blue Green
+
+
+
+#Checkered Carpet Green Colours
+tile.CheckeredCarpetGreen_0.name=Checkered Carpet Light Green
+tile.CheckeredCarpetGreen_1.name=Checkered Carpet Light Spring Green
+tile.CheckeredCarpetGreen_2.name=Checkered Carpet Spring Green
+tile.CheckeredCarpetGreen_3.name=Checkered Carpet Green
+tile.CheckeredCarpetGreen_4.name=Checkered Carpet Dark Green
+tile.CheckeredCarpetGreen_5.name=Checkered Carpet Light Summer Green
+tile.CheckeredCarpetGreen_6.name=Checkered Carpet Summer Green
+tile.CheckeredCarpetGreen_7.name=Checkered Carpet Lush Green
+tile.CheckeredCarpetGreen_8.name=Checkered Carpet Deep Lush Green
+tile.CheckeredCarpetGreen_9.name=Checkered Carpet Dark Lush Green
+tile.CheckeredCarpetGreen_10.name=Checkered Carpet Light Spring Green
+tile.CheckeredCarpetGreen_11.name=Checkered Carpet Spring Green
+tile.CheckeredCarpetGreen_12.name=Checkered Carpet Light Olive Green
+tile.CheckeredCarpetGreen_13.name=Checkered Carpet Olive Green
+tile.CheckeredCarpetGreen_14.name=Checkered Carpet Moss Green
+
+
+
+#Checkered Carpet Yellow Colours
+tile.CheckeredCarpetYellow_0.name=Checkered Carpet Light Lemon Yellow
+tile.CheckeredCarpetYellow_1.name=Checkered Carpet Lemon Yellow
+tile.CheckeredCarpetYellow_2.name=Checkered Carpet Sunny Yellow
+tile.CheckeredCarpetYellow_3.name=Checkered Carpet Soft Yellow
+tile.CheckeredCarpetYellow_4.name=Checkered Carpet Orange Yellow
+tile.CheckeredCarpetYellow_5.name=Checkered Carpet Light Sand Yellow
+tile.CheckeredCarpetYellow_6.name=Checkered Carpet Light Yellow
+tile.CheckeredCarpetYellow_7.name=Checkered Carpet Yellow
+tile.CheckeredCarpetYellow_8.name=Checkered Carpet Gold Yellow
+tile.CheckeredCarpetYellow_9.name=Checkered Carpet Dark Orange
+tile.CheckeredCarpetYellow_10.name=Checkered Carpet Light Orange
+tile.CheckeredCarpetYellow_11.name=Checkered Carpet Sunny Orange
+tile.CheckeredCarpetYellow_12.name=Checkered Carpet Orange
+tile.CheckeredCarpetYellow_13.name=Checkered Carpet Deep orange
+tile.CheckeredCarpetYellow_14.name=Checkered Carpet Orange Red
+
+
+
+#Checkered Carpet Gray Colours
+tile.CheckeredCarpetGray_0.name=Checkered Carpet White Gray
+tile.CheckeredCarpetGray_1.name=Checkered Carpet Light Gray
+tile.CheckeredCarpetGray_2.name=Checkered Carpet Gray
+tile.CheckeredCarpetGray_3.name=Checkered Carpet Dark Gray
+tile.CheckeredCarpetGray_4.name=Checkered Carpet Gray Black
+tile.CheckeredCarpetGray_5.name=Checkered Carpet Light Warm Gray
+tile.CheckeredCarpetGray_6.name=Checkered Carpet Warm Gray
+tile.CheckeredCarpetGray_7.name=Checkered Carpet Middle Warm Gray
+tile.CheckeredCarpetGray_8.name=Checkered Carpet Dark Warm Gray
+tile.CheckeredCarpetGray_9.name=Checkered Carpet Warm Black Gray
+tile.CheckeredCarpetGray_10.name=Checkered Carpet Light Cool gray
+tile.CheckeredCarpetGray_11.name=Checkered Carpet Cool Gray
+tile.CheckeredCarpetGray_12.name=Checkered Carpet Dark Cool Gray
+tile.CheckeredCarpetGray_13.name=Checkered Carpet Cool Blue Gray
+tile.CheckeredCarpetGray_14.name=Checkered Carpet Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########   STARTING NAMING OF CHECKERED RUGS COLOURS    ###########
+###########									     	       ###########
+######################################################################
+
+
+#Checkered Rug Red Colours
+tile.CheckeredRugRed_0.name=Checkered Rug Light Warm Pink
+tile.CheckeredRugRed_1.name=Checkered Rug Light Red
+tile.CheckeredRugRed_2.name=Checkered Rug Bright Red
+tile.CheckeredRugRed_3.name=Checkered Rug Red
+tile.CheckeredRugRed_4.name=Checkered Rug Blood Red
+tile.CheckeredRugRed_5.name=Checkered Rug Light Cool Pink
+tile.CheckeredRugRed_6.name=Checkered Rug Pink
+tile.CheckeredRugRed_7.name=Checkered Rug Hot Pink
+tile.CheckeredRugRed_8.name=Checkered Rug Dark Pink
+tile.CheckeredRugRed_9.name=Checkered Rug Hot Pink
+tile.CheckeredRugRed_10.name=Checkered Rug Fuchsia
+tile.CheckeredRugRed_11.name=Checkered Rug Baby Pink
+tile.CheckeredRugRed_12.name=Checkered Rug Light Salmon
+tile.CheckeredRugRed_13.name=Checkered Rug Brown Red
+tile.CheckeredRugRed_14.name=Checkered Rug Dark Brown Red
+
+
+
+#Checkered Rug Purple Colours
+tile.CheckeredRugPurple_0.name=Checkered Rug Light Magenta
+tile.CheckeredRugPurple_1.name=Checkered Rug Magenta
+tile.CheckeredRugPurple_2.name=Checkered Rug Dark Magenta
+tile.CheckeredRugPurple_3.name=Checkered Rug Violet
+tile.CheckeredRugPurple_4.name=Checkered Rug Dark Violet
+tile.CheckeredRugPurple_5.name=Checkered Rug Light Violet
+tile.CheckeredRugPurple_6.name=Checkered Rug Light Purple
+tile.CheckeredRugPurple_7.name=Checkered Rug Purple
+tile.CheckeredRugPurple_8.name=Checkered Rug Dark Purple
+tile.CheckeredRugPurple_9.name=Checkered Rug Royal Blue
+tile.CheckeredRugPurple_10.name=Checkered Rug Light Lavender
+tile.CheckeredRugPurple_11.name=Checkered Rug avender
+tile.CheckeredRugPurple_12.name=Checkered Rug Azure Blue
+tile.CheckeredRugPurple_13.name=Checkered Rug Dark Blue
+tile.CheckeredRugPurple_14.name=Checkered Rug Midnight Blue
+
+
+
+#Checkered Rug Blue Colours
+tile.CheckeredRugBlue_0.name=Checkered Rug Light Blue
+tile.CheckeredRugBlue_1.name=Checkered Rug Light Sky Blue
+tile.CheckeredRugBlue_2.name=Checkered Rug Sky Blue
+tile.CheckeredRugBlue_3.name=Checkered Rug Dark Sky Blue
+tile.CheckeredRugBlue_4.name=Checkered Rug Navy Blue
+tile.CheckeredRugBlue_5.name=Checkered Rug Light Baby Blue
+tile.CheckeredRugBlue_6.name=Checkered Rug Baby Blue
+tile.CheckeredRugBlue_7.name=Checkered Rug Bright Blue
+tile.CheckeredRugBlue_8.name=Checkered Rug Medium Blue
+tile.CheckeredRugBlue_9.name=Checkered Rug Deep Blue
+tile.CheckeredRugBlue_10.name=Checkered Rug Light Aqua Blue
+tile.CheckeredRugBlue_11.name=Checkered Rug Aqua Blue
+tile.CheckeredRugBlue_12.name=Checkered Rug Dark Aqua Blue
+tile.CheckeredRugBlue_13.name=Checkered Rug Oceon Blue
+tile.CheckeredRugBlue_14.name=Checkered Rug Midnight Blue
+
+
+
+#Checkered Rug Brown Colours
+tile.CheckeredRugBrown_0.name=Checkered Rug Soft Orange
+tile.CheckeredRugBrown_1.name=Checkered Rug Sienna brown
+tile.CheckeredRugBrown_2.name=Checkered Rug Burnt Sienna Brown
+tile.CheckeredRugBrown_3.name=Checkered Rug Earth Brown
+tile.CheckeredRugBrown_4.name=Checkered Rug Soil Brown
+tile.CheckeredRugBrown_5.name=Checkered Rug Light Beige
+tile.CheckeredRugBrown_6.name=Checkered Rug Beige
+tile.CheckeredRugBrown_7.name=Checkered Rug Terracotta Red
+tile.CheckeredRugBrown_8.name=Checkered Rug Brown
+tile.CheckeredRugBrown_9.name=Checkered Rug Saddle Brown
+tile.CheckeredRugBrown_10.name=Checkered Rug Light Gray Brown
+tile.CheckeredRugBrown_11.name=Checkered Rug Gray Brown
+tile.CheckeredRugBrown_12.name=Checkered Rug Middle Gray Brown
+tile.CheckeredRugBrown_13.name=Checkered Rug Gray Brown
+tile.CheckeredRugBrown_14.name=Checkered Rug Dark Gray Brown
+
+
+
+#Checkered Rug Cyan Colours
+tile.CheckeredRugCyan_0.name=Checkered Rug Light Green Blue
+tile.CheckeredRugCyan_1.name=Checkered Rug Light Turquoise Blue
+tile.CheckeredRugCyan_2.name=Checkered Rug Turquoise Blue
+tile.CheckeredRugCyan_3.name=Checkered Rug Teal Blue
+tile.CheckeredRugCyan_4.name=Checkered Rug Dark Teal Blue
+tile.CheckeredRugCyan_5.name=Checkered Rug Light Seafoam Blue Green
+tile.CheckeredRugCyan_6.name=Checkered Rug Seafoam Blue Green
+tile.CheckeredRugCyan_7.name=Checkered Rug Blue Green
+tile.CheckeredRugCyan_8.name=Checkered Rug Dark Blue Green
+tile.CheckeredRugCyan_9.name=Checkered Rug Dark Pine Blue Green
+
+
+
+#Checkered Rug Green Colours
+tile.CheckeredRugGreen_0.name=Checkered Rug Light Green
+tile.CheckeredRugGreen_1.name=Checkered Rug Light Spring Green
+tile.CheckeredRugGreen_2.name=Checkered Rug Spring Green
+tile.CheckeredRugGreen_3.name=Checkered Rug Green
+tile.CheckeredRugGreen_4.name=Checkered Rug Dark Green
+tile.CheckeredRugGreen_5.name=Checkered Rug Light Summer Green
+tile.CheckeredRugGreen_6.name=Checkered Rug Summer Green
+tile.CheckeredRugGreen_7.name=Checkered Rug Lush Green
+tile.CheckeredRugGreen_8.name=Checkered Rug Deep Lush Green
+tile.CheckeredRugGreen_9.name=Checkered Rug Dark Lush Green
+tile.CheckeredRugGreen_10.name=Checkered Rug Light Spring Green
+tile.CheckeredRugGreen_11.name=Checkered Rug Spring Green
+tile.CheckeredRugGreen_12.name=Checkered Rug Light Olive Green
+tile.CheckeredRugGreen_13.name=Checkered Rug Olive Green
+tile.CheckeredRugGreen_14.name=Checkered Rug Moss Green
+
+
+
+#Checkered Rug Yellow Colours
+tile.CheckeredRugYellow_0.name=Checkered Rug Light Lemon Yellow
+tile.CheckeredRugYellow_1.name=Checkered Rug Lemon Yellow
+tile.CheckeredRugYellow_2.name=Checkered Rug Sunny Yellow
+tile.CheckeredRugYellow_3.name=Checkered Rug Soft Yellow
+tile.CheckeredRugYellow_4.name=Checkered Rug Orange Yellow
+tile.CheckeredRugYellow_5.name=Checkered Rug Light Sand Yellow
+tile.CheckeredRugYellow_6.name=Checkered Rug Light Yellow
+tile.CheckeredRugYellow_7.name=Checkered Rug Yellow
+tile.CheckeredRugYellow_8.name=Checkered Rug Gold Yellow
+tile.CheckeredRugYellow_9.name=Checkered Rug Dark Orange
+tile.CheckeredRugYellow_10.name=Checkered Rug Light Orange
+tile.CheckeredRugYellow_11.name=Checkered Rug Sunny Orange
+tile.CheckeredRugYellow_12.name=Checkered Rug Orange
+tile.CheckeredRugYellow_13.name=Checkered Rug Deep orange
+tile.CheckeredRugYellow_14.name=Checkered Rug Orange Red
+
+
+
+#Checkered Rug Gray Colours
+tile.CheckeredRugGray_0.name=Checkered Rug White Gray
+tile.CheckeredRugGray_1.name=Checkered Rug Light Gray
+tile.CheckeredRugGray_2.name=Checkered Rug Gray
+tile.CheckeredRugGray_3.name=Checkered Rug Dark Gray
+tile.CheckeredRugGray_4.name=Checkered Rug Gray Black
+tile.CheckeredRugGray_5.name=Checkered Rug Light Warm Gray
+tile.CheckeredRugGray_6.name=Checkered Rug Warm Gray
+tile.CheckeredRugGray_7.name=Checkered Rug Middle Warm Gray
+tile.CheckeredRugGray_8.name=Checkered Rug Dark Warm Gray
+tile.CheckeredRugGray_9.name=Checkered Rug Warm Black Gray
+tile.CheckeredRugGray_10.name=Checkered Rug Light Cool gray
+tile.CheckeredRugGray_11.name=Checkered Rug Cool Gray
+tile.CheckeredRugGray_12.name=Checkered Rug Dark Cool Gray
+tile.CheckeredRugGray_13.name=Checkered Rug Cool Blue Gray
+tile.CheckeredRugGray_14.name=Checkered Rug Cool Dark Blue Gray
