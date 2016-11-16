@@ -1904,7 +1904,12 @@ tile.WallpaperCraft:DottedRugGray_5.name=Dotted Rug Light Warm Gray
 tile.WallpaperCraft:DottedRugGray_6.name=Dotted Rug Warm Gray
 tile.WallpaperCraft:DottedRugGray_7.name=Dotted Rug Middle Warm Gray
 tile.WallpaperCraft:DottedRugGray_8.name=Dotted Rug Dark Warm Gray
-tile.WallpaperCraft:DottedRugGray_9.name=Dotted Rug
+tile.WallpaperCraft:DottedRugGray_9.name=Dotted Rug Warm Black Gray
+tile.WallpaperCraft:DottedRugGray_10.name=Dotted Carpet Light Cool gray
+tile.WallpaperCraft:DottedRugGray_11.name=Dotted Carpet Cool Gray
+tile.WallpaperCraft:DottedRugGray_12.name=Dotted Carpet Dark Cool Gray
+tile.WallpaperCraft:DottedRugGray_13.name=Dotted Carpet Cool Blue Gray
+tile.WallpaperCraft:DottedRugGray_14.name=Dotted Carpet Cool Dark Blue Gray
 
 
 

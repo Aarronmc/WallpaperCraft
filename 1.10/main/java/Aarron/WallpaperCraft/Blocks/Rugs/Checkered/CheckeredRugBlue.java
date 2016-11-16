@@ -56,10 +56,10 @@ public class CheckeredRugBlue extends MetaBlock<BlockTypes> {
         return !worldIn.isAirBlock(pos.down());
     }
     
-	@Override
-	public boolean isVisuallyOpaque() {
-		return false;
-	}
+    public boolean isVisuallyOpaque()
+    {
+        return this.blockMaterial.blocksMovement() && this.getDefaultState().isFullCube();
+    }
 	
 	@Override
 	public boolean isOpaqueCube(IBlockState state)

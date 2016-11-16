@@ -12,6 +12,7 @@ import net.minecraftforge.oredict.ShapelessOreRecipe;
 
 
 
+
 public class Recipies {
 	
 	
@@ -23,7 +24,7 @@ public class Recipies {
         		"CCC",
         		"CCC",
         		"CCC",
-        		 'C', new ItemStack(Blocks.STAINED_HARDENED_CLAY, 1, 14)    	
+        	 	 'C', new ItemStack(Blocks.STAINED_HARDENED_CLAY, 1, 12)
         	);
     	
         for (int i = 0; i < 15; i++) {

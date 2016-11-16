@@ -7,6 +7,7 @@ import net.minecraftforge.oredict.OreDictionary;
 import net.minecraftforge.oredict.ShapedOreRecipe;
 import net.minecraftforge.oredict.ShapelessOreRecipe;
 
+
 import com.Aarron.WallpaperCraft.Blocks.CoreBlock;
 
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -22,7 +23,7 @@ public class Recipies {
         		"CCC",
         		"CCC",
         		"CCC",
-        		 'C', new ItemStack(Blocks.stained_hardened_clay, 1, 14)    	
+        		 'C', new ItemStack(Blocks.stained_hardened_clay, 1, 12)
         	);
     	
         for (int i = 0; i < 15; i++) {
