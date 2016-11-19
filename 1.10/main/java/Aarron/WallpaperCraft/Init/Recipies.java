@@ -7,6 +7,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.oredict.OreDictionary;
 import net.minecraftforge.oredict.ShapedOreRecipe;
 
+import Araron.WallpaperCraft.Recipes.RecipeBlankPress;
 
 
 
@@ -18,6 +19,7 @@ public class Recipies {
 	
 	public static void init() {
 		
+       GameRegistry.addRecipe(new RecipeBlankPress());
 		
        GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.PressBlank, 4),
     		   " P ", "PWP", " P ", 'P', Items.PAPER, 'W', "plankWood"));
