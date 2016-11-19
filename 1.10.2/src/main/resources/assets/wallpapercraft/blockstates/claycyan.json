@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/claycyan-9"}}]
+  }
+}
