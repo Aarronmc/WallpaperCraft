@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.Blocks;
+package com.Aarron.WallpaperCraft.Init;
 
 import net.minecraft.block.material.Material;
 import com.Aarron.WallpaperCraft.Blocks.Bricks.BrickBlue;
@@ -57,14 +57,14 @@ import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassGreen;
 import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassPurple;
 import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassRed;
 import com.Aarron.WallpaperCraft.Blocks.Glass.FrostedGlassYellow;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassBlue;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassBrown;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassCyan;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassGray;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassGreen;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassPurple;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassRed;
-import com.Aarron.WallpaperCraft.Blocks.Glass.TexGlassYellow;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassBlue;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassBrown;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassCyan;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassGray;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassGreen;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassPurple;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassRed;
+import com.Aarron.WallpaperCraft.Blocks.Glass.TexturedGlassYellow;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBlue;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassBrown;
 import com.Aarron.WallpaperCraft.Blocks.Glass.TintedGlassCyan;
@@ -108,7 +108,7 @@ import com.Aarron.WallpaperCraft.Blocks.Striped.StripedYellow;
 import com.Aarron.WallpaperCraft.Items.ItemSolidBlock;
 import cpw.mods.fml.common.registry.GameRegistry;
 
-public final class CoreBlock {
+public final class ModBlocks {
 
 	
 
@@ -173,14 +173,14 @@ public final class CoreBlock {
     public static TintedGlassGray TintedGlassGray;
     
     //Creating The Textured Glass Coloured Blocks
-    public static TexGlassRed TexGlassRed;
-    public static TexGlassPurple TexGlassPurple;
-    public static TexGlassBlue TexGlassBlue;
-    public static TexGlassCyan TexGlassCyan;
-    public static TexGlassGreen TexGlassGreen;
-    public static TexGlassYellow TexGlassYellow;
-    public static TexGlassBrown TexGlassBrown;
-    public static TexGlassGray TexGlassGray;
+    public static TexturedGlassRed TexturedGlassRed;
+    public static TexturedGlassPurple TexturedGlassPurple;
+    public static TexturedGlassBlue TexturedGlassBlue;
+    public static TexturedGlassCyan TexturedGlassCyan;
+    public static TexturedGlassGreen TexturedGlassGreen;
+    public static TexturedGlassYellow TexturedGlassYellow;
+    public static TexturedGlassBrown TexturedGlassBrown;
+    public static TexturedGlassGray TexturedGlassGray;
     
     //Creating The Frosted Glass Coloured Blocks
     public static FrostedGlassRed FrostedGlassRed;
@@ -323,14 +323,14 @@ public final class CoreBlock {
         
         
         // Registering The Textured Glass Coloured Blocks
-        GameRegistry.registerBlock(TexGlassRed = new TexGlassRed("TexGlassRed", Material.glass), ItemSolidBlock.class, "TexGlassRed");
-        GameRegistry.registerBlock(TexGlassPurple = new TexGlassPurple("TexGlassPurple", Material.glass), ItemSolidBlock.class, "TexGlassPurple");
-        GameRegistry.registerBlock(TexGlassBlue = new TexGlassBlue("TexGlassBlue", Material.glass), ItemSolidBlock.class, "TexGlassBlue");
-        GameRegistry.registerBlock(TexGlassCyan = new TexGlassCyan("TexGlassCyan", Material.glass), ItemSolidBlock.class, "TexGlassCyan");
-        GameRegistry.registerBlock(TexGlassGreen = new TexGlassGreen("TexGlassGreen", Material.glass), ItemSolidBlock.class, "TexGlassGreen");
-        GameRegistry.registerBlock(TexGlassYellow = new TexGlassYellow("TexGlassYellow", Material.glass), ItemSolidBlock.class, "TexGlassYellow");
-        GameRegistry.registerBlock(TexGlassBrown = new TexGlassBrown("TexGlassBrown", Material.glass), ItemSolidBlock.class, "TexGlassBrown");
-        GameRegistry.registerBlock(TexGlassGray = new TexGlassGray("TexGlassGray", Material.glass), ItemSolidBlock.class, "TexGlassGray");
+        GameRegistry.registerBlock(TexturedGlassRed = new TexturedGlassRed("TexturedGlassRed", Material.glass), ItemSolidBlock.class, "TexturedGlassRed");
+        GameRegistry.registerBlock(TexturedGlassPurple = new TexturedGlassPurple("TexturedGlassPurple", Material.glass), ItemSolidBlock.class, "TexturedGlassPurple");
+        GameRegistry.registerBlock(TexturedGlassBlue = new TexturedGlassBlue("TexturedGlassBlue", Material.glass), ItemSolidBlock.class, "TexturedGlassBlue");
+        GameRegistry.registerBlock(TexturedGlassCyan = new TexturedGlassCyan("TexturedGlassCyan", Material.glass), ItemSolidBlock.class, "TexturedGlassCyan");
+        GameRegistry.registerBlock(TexturedGlassGreen = new TexturedGlassGreen("TexturedGlassGreen", Material.glass), ItemSolidBlock.class, "TexturedGlassGreen");
+        GameRegistry.registerBlock(TexturedGlassYellow = new TexturedGlassYellow("TexturedGlassYellow", Material.glass), ItemSolidBlock.class, "TexturedGlassYellow");
+        GameRegistry.registerBlock(TexturedGlassBrown = new TexturedGlassBrown("TexturedGlassBrown", Material.glass), ItemSolidBlock.class, "TexturedGlassBrown");
+        GameRegistry.registerBlock(TexturedGlassGray = new TexturedGlassGray("TexturedGlassGray", Material.glass), ItemSolidBlock.class, "TexturedGlassGray");
         
         
         

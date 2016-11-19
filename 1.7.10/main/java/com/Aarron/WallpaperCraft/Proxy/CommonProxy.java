@@ -1,11 +1,14 @@
 package com.Aarron.WallpaperCraft.Proxy;
 
 import java.io.File;
-import com.Aarron.WallpaperCraft.Blocks.CoreBlock;
+
 import com.Aarron.WallpaperCraft.Compatibility.ChiselSupport;
 import com.Aarron.WallpaperCraft.Compatibility.MicroblocksSupport;
 import com.Aarron.WallpaperCraft.Crafting.Recipies;
 import com.Aarron.WallpaperCraft.Handler.ConfigHandler;
+import com.Aarron.WallpaperCraft.Init.ModBlocks;
+import com.Aarron.WallpaperCraft.Init.ModItems;
+
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Loader;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -17,7 +20,8 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 public class CommonProxy {
 
     public void preInit(FMLPreInitializationEvent e) {
-    	CoreBlock.init();
+    	ModBlocks.init();
+    	ModItems.registerItems();
         ConfigHandler.init(e.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigHandler());
 

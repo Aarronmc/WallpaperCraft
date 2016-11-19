@@ -4,6 +4,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import Aarron.WallpaperCraft.Init.ModBlocks;
+import Aarron.WallpaperCraft.Init.ModItems;
 
 public class ClientProxy extends CommonProxy{
 
@@ -12,6 +13,7 @@ public class ClientProxy extends CommonProxy{
 		super.preInit(event);
 		
 		ModBlocks.initModels();
+		ModItems.initModels();
 		}
 
 	@Override

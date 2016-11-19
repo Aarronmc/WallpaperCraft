@@ -1,0 +1,49 @@
+
+{
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "wallpapercraft:items/spectrum"
+    },
+"display": {
+    "thirdperson_righthand": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0.00, 0.00, 0.00 ],
+        "scale": [ 0.50, 0.50, 1.00 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0.00, 0.00, 0.00 ],
+        "scale": [ 0.50, 0.50, 1.00 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 330, 300, 20 ],
+        "translation": [ 0.25, 2.00, 1.50 ],
+        "scale": [ 0.50, 0.50, 0.00 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 330, 300, 20 ],
+        "translation": [ 0.25, 2.00, 1.50 ],
+        "scale": [ 0.50, 0.50, 0.00 ]
+    },
+    "gui": {
+        "rotation": [ 0, 0, 354 ],
+        "translation": [ 0.00, 0.00, 0.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    },
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0.00, 0.00, 0.00 ],
+        "scale": [ 1.06, 1.00, 1.00 ]
+    },
+    "fixed": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0.00, 0.00, 0.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    },
+    "ground": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0.00, 0.00, 0.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    }
+}
+}

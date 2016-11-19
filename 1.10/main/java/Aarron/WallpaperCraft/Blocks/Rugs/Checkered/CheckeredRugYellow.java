@@ -16,10 +16,10 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 
 
-public class CheckeredRugYellow extends MetaBlock<BlockTypes> {
+public class CheckeredRugYellow extends IMetaBlock<BlockTypes> {
 
 	public CheckeredRugYellow() {
 		super(Material.CARPET, "CheckeredRugYellow");

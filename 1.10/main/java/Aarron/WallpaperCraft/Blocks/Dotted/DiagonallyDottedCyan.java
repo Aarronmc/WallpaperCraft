@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes2;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 
 
-public class DiagonallyDottedCyan extends MetaBlock<BlockTypes2> {
+public class DiagonallyDottedCyan extends IMetaBlock<BlockTypes2> {
 
 	public DiagonallyDottedCyan() {
 		super(Material.WOOD, "DiagonallyDottedCyan");

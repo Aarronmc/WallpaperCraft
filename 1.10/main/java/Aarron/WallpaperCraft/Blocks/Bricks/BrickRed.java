@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 
 
-public class BrickRed extends MetaBlock<BlockTypes> {
+public class BrickRed extends IMetaBlock<BlockTypes> {
 
 	public BrickRed() {
 		super(Material.ROCK, "BrickRed");

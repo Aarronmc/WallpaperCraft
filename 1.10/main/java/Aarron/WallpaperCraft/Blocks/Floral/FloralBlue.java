@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 
 
-public class FloralBlue extends MetaBlock<BlockTypes> {
+public class FloralBlue extends IMetaBlock<BlockTypes> {
 
 	public FloralBlue() {
 		super(Material.WOOD, "FloralBlue");

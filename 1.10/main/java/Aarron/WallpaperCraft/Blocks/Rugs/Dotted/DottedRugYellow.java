@@ -16,10 +16,10 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 
 
-public class DottedRugYellow extends MetaBlock<BlockTypes> {
+public class DottedRugYellow extends IMetaBlock<BlockTypes> {
 
 	public DottedRugYellow() {
 		super(Material.CARPET, "DottedRugYellow");

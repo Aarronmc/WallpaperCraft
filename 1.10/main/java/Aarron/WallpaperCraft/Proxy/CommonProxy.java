@@ -10,6 +10,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import Aarron.WallpaperCraft.Compatability.ChiselSupport;
 import Aarron.WallpaperCraft.Handler.ConfigHandler;
 import Aarron.WallpaperCraft.Init.ModBlocks;
+import Aarron.WallpaperCraft.Init.ModItems;
 import Aarron.WallpaperCraft.Init.Recipies;
 
 public class CommonProxy {
@@ -28,6 +29,7 @@ public class CommonProxy {
 	    		}
 				
 		ModBlocks.init();
+		ModItems.init();
 	}
 
 	public void init(FMLInitializationEvent event) {

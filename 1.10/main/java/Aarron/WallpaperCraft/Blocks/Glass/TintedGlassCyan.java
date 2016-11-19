@@ -1,7 +1,6 @@
 package Aarron.WallpaperCraft.Blocks.Glass;
 
 import net.minecraft.block.Block;
-import net.minecraft.block.BlockBreakable;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
@@ -15,11 +14,11 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes2;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 import Aarron.WallpaperCraft.Init.ModBlocks;
 
 
-public class TintedGlassCyan extends MetaBlock<BlockTypes2> {
+public class TintedGlassCyan extends IMetaBlock<BlockTypes2> {
 private boolean ignoreSimilarity;
 	
 

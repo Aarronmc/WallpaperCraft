@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes2;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 
 
-public class SolidCyan extends MetaBlock<BlockTypes2> {
+public class SolidCyan extends IMetaBlock<BlockTypes2> {
 
 	public SolidCyan() {
 		super(Material.WOOD, "SolidCyan");

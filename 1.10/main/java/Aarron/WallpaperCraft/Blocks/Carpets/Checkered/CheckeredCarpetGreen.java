@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.BlockStates.BlockStates;
 import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.MetaBlock;
+import Aarron.WallpaperCraft.Blocks.IMetaBlock;
 
 
-public class CheckeredCarpetGreen extends MetaBlock<BlockTypes> {
+public class CheckeredCarpetGreen extends IMetaBlock<BlockTypes> {
 
 	public CheckeredCarpetGreen() {
 		super(Material.CLOTH, "CheckeredCarpetGreen");

@@ -14,8 +14,8 @@ import net.minecraft.util.Facing;
 import net.minecraft.util.IIcon;
 import net.minecraft.world.IBlockAccess;
 
-import com.Aarron.WallpaperCraft.Blocks.CoreBlock;
 import com.Aarron.WallpaperCraft.CreativeTab.Tab;
+import com.Aarron.WallpaperCraft.Init.ModBlocks;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -23,7 +23,7 @@ import cpw.mods.fml.relauncher.SideOnly;
 
 
 
-public class TexGlassBlue extends BlockBreakable {
+public class TexturedGlassCyan extends BlockBreakable {
 private boolean field_149996_a;
 
 public IIcon[] icons = new IIcon[15];
@@ -39,7 +39,7 @@ public IIcon[] icons = new IIcon[15];
     {
         Block block = world.getBlock(x, y, z);
 
-        if (this == CoreBlock.TexGlassBlue)
+        if (this == ModBlocks.TexturedGlassCyan)
         {
             if (world.getBlockMetadata(x, y, z) != world.getBlockMetadata(x - Facing.offsetsXForSide[face], y - Facing.offsetsYForSide[face], z - Facing.offsetsZForSide[face]))
             {
@@ -69,9 +69,9 @@ public IIcon[] icons = new IIcon[15];
    }
 
 
-	public TexGlassBlue(String unlocalizedName, Material material) {
+	public TexturedGlassCyan(String unlocalizedName, Material material) {
 		super(unlocalizedName, material.glass, false);
-		this.setBlockName("TexGlassBlue");
+		this.setBlockName("TexturedGlassCyan");
 		this.setHardness(1.25F);
 		this.setResistance(6.0F);
 		this.setHarvestLevel("pickaxe", 0);
@@ -81,7 +81,7 @@ public IIcon[] icons = new IIcon[15];
 
 	@Override //Sets how many variations there are
 	public IIcon getIcon(int side, int meta) {
-		if (meta > 15)
+		if (meta > 11)
 			meta = 0;
 		return this.icons[meta];
 
@@ -89,8 +89,8 @@ public IIcon[] icons = new IIcon[15];
 
 	@Override //Registers the textures for each block. This is where I set the texture name.
 	public void registerBlockIcons(IIconRegister reg) {
-		for (int i = 0; i < 15; i ++) {
-			this.icons[i] = reg.registerIcon("wp:TexGlassBlue-" + i);
+		for (int i = 0; i < 10; i ++) {
+			this.icons[i] = reg.registerIcon("wp:TexturedGlassCyan-" + i);
 		}
 }
 
@@ -101,7 +101,7 @@ public IIcon[] icons = new IIcon[15];
 
 	@Override //Tells Minecraft to assign a creative tab for each meta value of the block
 	public void getSubBlocks(Item item, CreativeTabs tab, List list) {
-		for (int i = 0; i < 15; i ++) {
+		for (int i = 0; i < 10; i ++) {
 			list.add(new ItemStack(item, 1, i));
 		}
 		

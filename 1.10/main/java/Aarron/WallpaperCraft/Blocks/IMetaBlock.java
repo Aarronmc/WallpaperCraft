@@ -24,11 +24,11 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
-public abstract class MetaBlock<T extends Enum<T> & IStringSerializable & IVariantDefinition> extends Block implements IMetaBlockName{
+public abstract class IMetaBlock<T extends Enum<T> & IStringSerializable & IVariantDefinition> extends Block implements IMetaBlockName{
 
 	private final Collection<T> variantValues;
 	
-	protected MetaBlock(Material materialIn, String registryName) {
+	protected IMetaBlock(Material materialIn, String registryName) {
 		super(materialIn);
 		
 		variantValues = getVariantEnum().getAllowedValues();

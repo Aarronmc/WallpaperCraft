@@ -14,8 +14,8 @@ import net.minecraft.util.Facing;
 import net.minecraft.util.IIcon;
 import net.minecraft.world.IBlockAccess;
 
-import com.Aarron.WallpaperCraft.Blocks.CoreBlock;
 import com.Aarron.WallpaperCraft.CreativeTab.Tab;
+import com.Aarron.WallpaperCraft.Init.ModBlocks;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -39,7 +39,7 @@ public IIcon[] icons = new IIcon[15];
     {
         Block block = world.getBlock(x, y, z);
 
-        if (this == CoreBlock.FrostedGlassGreen)
+        if (this == ModBlocks.FrostedGlassGreen)
         {
             if (world.getBlockMetadata(x, y, z) != world.getBlockMetadata(x - Facing.offsetsXForSide[face], y - Facing.offsetsYForSide[face], z - Facing.offsetsZForSide[face]))
             {
