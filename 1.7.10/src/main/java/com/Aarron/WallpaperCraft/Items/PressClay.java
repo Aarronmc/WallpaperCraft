@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.Items;
+package com.Aarron.WallpaperCraft.items;
 
 import java.util.List;
 
@@ -6,11 +6,11 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
-import com.Aarron.WallpaperCraft.CreativeTab.Tab;
+import com.Aarron.WallpaperCraft.creativeTab.Tab;
 
 	public class PressClay extends Item {
 		public PressClay() {
-			setUnlocalizedName("PressClay");
+			setUnlocalizedName("pressclay");
 			setTextureName("wp:pressclay");
 			setContainerItem(this);
 			setCreativeTab(Tab.WPtab);
@@ -18,7 +18,7 @@ import com.Aarron.WallpaperCraft.CreativeTab.Tab;
 
 		@Override
 		public void addInformation(ItemStack itemStack, EntityPlayer player, List tooltipLines, boolean advancedTooltips) {
-			tooltipLines.add("Changes the patern on blocks");
+			tooltipLines.add("Combine this with any solid coloured block to apply the Clay pattern.");
 		
 		}
 

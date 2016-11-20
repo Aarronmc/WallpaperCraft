@@ -1,16 +1,17 @@
-package Aarron.WallpaperCraft.Recipes;
+package Aarron.WallpaperCraft.recipes;
 
 import java.util.List;
 
-import net.minecraft.block.*;
+import net.minecraft.block.Block;
+import net.minecraft.block.BlockPlanks;
 import net.minecraft.inventory.InventoryCrafting;
-import net.minecraft.item.*;
+import net.minecraft.item.ItemAxe;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.crafting.IRecipe;
 import net.minecraft.world.World;
 import net.minecraftforge.common.ForgeHooks;
 import net.minecraftforge.oredict.OreDictionary;
-
-import Aarron.WallpaperCraft.Init.ModItems;
+import Aarron.WallpaperCraft.init.ModItems;
 
 public class RecipeBlankPress implements IRecipe {
 

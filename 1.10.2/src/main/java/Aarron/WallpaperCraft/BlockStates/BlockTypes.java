@@ -1,7 +1,7 @@
-package Aarron.WallpaperCraft.BlockStates;
+package Aarron.WallpaperCraft.blockStates;
 
-import Aarron.WallpaperCraft.Blocks.IVariantDefinition;
 import net.minecraft.util.IStringSerializable;
+import Aarron.WallpaperCraft.blocks.IVariantDefinition;
 
 public enum BlockTypes implements IStringSerializable, IVariantDefinition {
 	Zero(0, "0"),

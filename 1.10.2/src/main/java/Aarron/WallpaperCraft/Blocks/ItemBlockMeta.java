@@ -1,4 +1,4 @@
-package Aarron.WallpaperCraft.Blocks;
+package Aarron.WallpaperCraft.blocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.ItemBlock;

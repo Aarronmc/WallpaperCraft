@@ -1,10 +1,10 @@
-package com.Aarron.WallpaperCraft.CreativeTab;
+package com.Aarron.WallpaperCraft.creativeTab;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
-import com.Aarron.WallpaperCraft.Init.ModBlocks;
+import com.Aarron.WallpaperCraft.init.ModBlocks;
 
 public class Tab {
 

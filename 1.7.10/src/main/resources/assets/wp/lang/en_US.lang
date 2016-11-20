@@ -5,6 +5,28 @@ itemGroup.WPtab=WallpaperCraft!
 
 
 
+################################################################
+###########											 ###########
+###########      STARTING NAMING OF PRESS ITEMS      ###########
+###########											 ###########
+################################################################
+
+item.pressblank.name=Blank Pattern Press
+item.pressbrick.name=Brick Pattern Press
+item.presscheckered.name=Checkered Pattern Press
+item.pressclay.name=Clay Pattern Press
+item.pressdiagonallydotted.name=Diagonally Dotted Pattern Press
+item.pressdotted.name=Dotted Pattern Press
+item.pressfloral.name=Floral Pattern Press
+item.pressstriped.name=Striped Pattern Press
+item.pressfrostedglass.name=Frosted Glass Pattern Press
+item.presstexturedglass.name=Textured Glass Pattern Press
+item.presstintedglass.name=Tinted Glass Pattern Press
+
+
+
+
+
 
 
 
@@ -1128,149 +1150,149 @@ tile.TintedGlassGray_14.name=Tinted Glass Cool Dark Blue Gray
 
 
 #Textured Glass Red Colours
-tile.TexGlassRed_0.name=Textured Glass Light Warm Pink
-tile.TexGlassRed_1.name=Textured Glass Light Red
-tile.TexGlassRed_2.name=Textured Glass Bright Red
-tile.TexGlassRed_3.name=Textured Glass Red
-tile.TexGlassRed_4.name=Textured Glass Blood Red
-tile.TexGlassRed_5.name=Textured Glass Light Cool Pink
-tile.TexGlassRed_6.name=Textured Glass Pink
-tile.TexGlassRed_7.name=Textured Glass Hot Pink
-tile.TexGlassRed_8.name=Textured Glass Dark Pink
-tile.TexGlassRed_9.name=Textured Glass Hot Pink
-tile.TexGlassRed_10.name=Textured Glass Fuchsia
-tile.TexGlassRed_11.name=Textured Glass Baby Pink
-tile.TexGlassRed_12.name=Textured Glass Light Salmon
-tile.TexGlassRed_13.name=Textured Glass Brown Red
-tile.TexGlassRed_14.name=Textured Glass Dark Brown Red
+tile.TexturedGlassRed_0.name=Textured Glass Light Warm Pink
+tile.TexturedGlassRed_1.name=Textured Glass Light Red
+tile.TexturedGlassRed_2.name=Textured Glass Bright Red
+tile.TexturedGlassRed_3.name=Textured Glass Red
+tile.TexturedGlassRed_4.name=Textured Glass Blood Red
+tile.TexturedGlassRed_5.name=Textured Glass Light Cool Pink
+tile.TexturedGlassRed_6.name=Textured Glass Pink
+tile.TexturedGlassRed_7.name=Textured Glass Hot Pink
+tile.TexturedGlassRed_8.name=Textured Glass Dark Pink
+tile.TexturedGlassRed_9.name=Textured Glass Hot Pink
+tile.TexturedGlassRed_10.name=Textured Glass Fuchsia
+tile.TexturedGlassRed_11.name=Textured Glass Baby Pink
+tile.TexturedGlassRed_12.name=Textured Glass Light Salmon
+tile.TexturedGlassRed_13.name=Textured Glass Brown Red
+tile.TexturedGlassRed_14.name=Textured Glass Dark Brown Red
 
 
 
 #Textured Glass Purple Colours
-tile.TexGlassPurple_0.name=Textured Glass Light Magenta
-tile.TexGlassPurple_1.name=Textured Glass Magenta
-tile.TexGlassPurple_2.name=Textured Glass Dark Magenta
-tile.TexGlassPurple_3.name=Textured Glass Violet
-tile.TexGlassPurple_4.name=Textured Glass Dark Violet
-tile.TexGlassPurple_5.name=Textured Glass Light Violet
-tile.TexGlassPurple_6.name=Textured Glass Light Purple
-tile.TexGlassPurple_7.name=Textured Glass Purple
-tile.TexGlassPurple_8.name=Textured Glass Dark Purple
-tile.TexGlassPurple_9.name=Textured Glass Royal Blue
-tile.TexGlassPurple_10.name=Textured Glass Light Lavender
-tile.TexGlassPurple_11.name=Textured Glass avender
-tile.TexGlassPurple_12.name=Textured Glass Azure Blue
-tile.TexGlassPurple_13.name=Textured Glass Dark Blue
-tile.TexGlassPurple_14.name=Textured Glass Midnight Blue
+tile.TexturedGlassPurple_0.name=Textured Glass Light Magenta
+tile.TexturedGlassPurple_1.name=Textured Glass Magenta
+tile.TexturedGlassPurple_2.name=Textured Glass Dark Magenta
+tile.TexturedGlassPurple_3.name=Textured Glass Violet
+tile.TexturedGlassPurple_4.name=Textured Glass Dark Violet
+tile.TexturedGlassPurple_5.name=Textured Glass Light Violet
+tile.TexturedGlassPurple_6.name=Textured Glass Light Purple
+tile.TexturedGlassPurple_7.name=Textured Glass Purple
+tile.TexturedGlassPurple_8.name=Textured Glass Dark Purple
+tile.TexturedGlassPurple_9.name=Textured Glass Royal Blue
+tile.TexturedGlassPurple_10.name=Textured Glass Light Lavender
+tile.TexturedGlassPurple_11.name=Textured Glass avender
+tile.TexturedGlassPurple_12.name=Textured Glass Azure Blue
+tile.TexturedGlassPurple_13.name=Textured Glass Dark Blue
+tile.TexturedGlassPurple_14.name=Textured Glass Midnight Blue
 
 
 
 #Textured Glass Blue Colours
-tile.TexGlassBlue_0.name=Textured Glass Light Blue
-tile.TexGlassBlue_1.name=Textured Glass Light Sky Blue
-tile.TexGlassBlue_2.name=Textured Glass Sky Blue
-tile.TexGlassBlue_3.name=Textured Glass Dark Sky Blue
-tile.TexGlassBlue_4.name=Textured Glass Navy Blue
-tile.TexGlassBlue_5.name=Textured Glass Light Baby Blue
-tile.TexGlassBlue_6.name=Textured Glass Baby Blue
-tile.TexGlassBlue_7.name=Textured Glass Bright Blue
-tile.TexGlassBlue_8.name=Textured Glass Medium Blue
-tile.TexGlassBlue_9.name=Textured Glass Deep Blue
-tile.TexGlassBlue_10.name=Textured Glass Light Aqua Blue
-tile.TexGlassBlue_11.name=Textured Glass Aqua Blue
-tile.TexGlassBlue_12.name=Textured Glass Dark Aqua Blue
-tile.TexGlassBlue_13.name=Textured Glass Oceon Blue
-tile.TexGlassBlue_14.name=Textured Glass Midnight Blue
+tile.TexturedGlassBlue_0.name=Textured Glass Light Blue
+tile.TexturedGlassBlue_1.name=Textured Glass Light Sky Blue
+tile.TexturedGlassBlue_2.name=Textured Glass Sky Blue
+tile.TexturedGlassBlue_3.name=Textured Glass Dark Sky Blue
+tile.TexturedGlassBlue_4.name=Textured Glass Navy Blue
+tile.TexturedGlassBlue_5.name=Textured Glass Light Baby Blue
+tile.TexturedGlassBlue_6.name=Textured Glass Baby Blue
+tile.TexturedGlassBlue_7.name=Textured Glass Bright Blue
+tile.TexturedGlassBlue_8.name=Textured Glass Medium Blue
+tile.TexturedGlassBlue_9.name=Textured Glass Deep Blue
+tile.TexturedGlassBlue_10.name=Textured Glass Light Aqua Blue
+tile.TexturedGlassBlue_11.name=Textured Glass Aqua Blue
+tile.TexturedGlassBlue_12.name=Textured Glass Dark Aqua Blue
+tile.TexturedGlassBlue_13.name=Textured Glass Oceon Blue
+tile.TexturedGlassBlue_14.name=Textured Glass Midnight Blue
 
 
 
 #Textured Glass Brown Colours
-tile.TexGlassBrown_0.name=Textured Glass Soft Orange
-tile.TexGlassBrown_1.name=Textured Glass Sienna brown
-tile.TexGlassBrown_2.name=Textured Glass Burnt Sienna Brown
-tile.TexGlassBrown_3.name=Textured Glass Earth Brown
-tile.TexGlassBrown_4.name=Textured Glass Soil Brown
-tile.TexGlassBrown_5.name=Textured Glass Light Beige
-tile.TexGlassBrown_6.name=Textured Glass Beige
-tile.TexGlassBrown_7.name=Textured Glass Terracotta Red
-tile.TexGlassBrown_8.name=Textured Glass Brown
-tile.TexGlassBrown_9.name=Textured Glass Saddle Brown
-tile.TexGlassBrown_10.name=Textured Glass Light Gray Brown
-tile.TexGlassBrown_11.name=Textured Glass Gray Brown
-tile.TexGlassBrown_12.name=Textured Glass Middle Gray Brown
-tile.TexGlassBrown_13.name=Textured Glass Gray Brown
-tile.TexGlassBrown_14.name=Textured Glass Dark Gray Brown
+tile.TexturedGlassBrown_0.name=Textured Glass Soft Orange
+tile.TexturedGlassBrown_1.name=Textured Glass Sienna brown
+tile.TexturedGlassBrown_2.name=Textured Glass Burnt Sienna Brown
+tile.TexturedGlassBrown_3.name=Textured Glass Earth Brown
+tile.TexturedGlassBrown_4.name=Textured Glass Soil Brown
+tile.TexturedGlassBrown_5.name=Textured Glass Light Beige
+tile.TexturedGlassBrown_6.name=Textured Glass Beige
+tile.TexturedGlassBrown_7.name=Textured Glass Terracotta Red
+tile.TexturedGlassBrown_8.name=Textured Glass Brown
+tile.TexturedGlassBrown_9.name=Textured Glass Saddle Brown
+tile.TexturedGlassBrown_10.name=Textured Glass Light Gray Brown
+tile.TexturedGlassBrown_11.name=Textured Glass Gray Brown
+tile.TexturedGlassBrown_12.name=Textured Glass Middle Gray Brown
+tile.TexturedGlassBrown_13.name=Textured Glass Gray Brown
+tile.TexturedGlassBrown_14.name=Textured Glass Dark Gray Brown
 
 
 
 #Textured Glass Cyan Colours
-tile.TexGlassCyan_0.name=Textured Glass Light Green Blue
-tile.TexGlassCyan_1.name=Textured Glass Light Turquoise Blue
-tile.TexGlassCyan_2.name=Textured Glass Turquoise Blue
-tile.TexGlassCyan_3.name=Textured Glass Teal Blue
-tile.TexGlassCyan_4.name=Textured Glass Dark Teal Blue
-tile.TexGlassCyan_5.name=Textured Glass Light Seafoam Blue Green
-tile.TexGlassCyan_6.name=Textured Glass Seafoam Blue Green
-tile.TexGlassCyan_7.name=Textured Glass Blue Green
-tile.TexGlassCyan_8.name=Textured Glass Dark Blue Green
-tile.TexGlassCyan_9.name=Textured Glass Dark Pine Blue Green
+tile.TexturedGlassCyan_0.name=Textured Glass Light Green Blue
+tile.TexturedGlassCyan_1.name=Textured Glass Light Turquoise Blue
+tile.TexturedGlassCyan_2.name=Textured Glass Turquoise Blue
+tile.TexturedGlassCyan_3.name=Textured Glass Teal Blue
+tile.TexturedGlassCyan_4.name=Textured Glass Dark Teal Blue
+tile.TexturedGlassCyan_5.name=Textured Glass Light Seafoam Blue Green
+tile.TexturedGlassCyan_6.name=Textured Glass Seafoam Blue Green
+tile.TexturedGlassCyan_7.name=Textured Glass Blue Green
+tile.TexturedGlassCyan_8.name=Textured Glass Dark Blue Green
+tile.TexturedGlassCyan_9.name=Textured Glass Dark Pine Blue Green
 
 
 
 #Textured Glass Green Colours
-tile.TexGlassGreen_0.name=Textured Glass Light Green
-tile.TexGlassGreen_1.name=Textured Glass Light Spring Green
-tile.TexGlassGreen_2.name=Textured Glass Spring Green
-tile.TexGlassGreen_3.name=Textured Glass Green
-tile.TexGlassGreen_4.name=Textured Glass Dark Green
-tile.TexGlassGreen_5.name=Textured Glass Light Summer Green
-tile.TexGlassGreen_6.name=Textured Glass Summer Green
-tile.TexGlassGreen_7.name=Textured Glass Lush Green
-tile.TexGlassGreen_8.name=Textured Glass Deep Lush Green
-tile.TexGlassGreen_9.name=Textured Glass Dark Lush Green
-tile.TexGlassGreen_10.name=Textured Glass Light Spring Green
-tile.TexGlassGreen_11.name=Textured Glass Spring Green
-tile.TexGlassGreen_12.name=Textured Glass Light Olive Green
-tile.TexGlassGreen_13.name=Textured Glass Olive Green
-tile.TexGlassGreen_14.name=Textured Glass Moss Green
+tile.TexturedGlassGreen_0.name=Textured Glass Light Green
+tile.TexturedGlassGreen_1.name=Textured Glass Light Spring Green
+tile.TexturedGlassGreen_2.name=Textured Glass Spring Green
+tile.TexturedGlassGreen_3.name=Textured Glass Green
+tile.TexturedGlassGreen_4.name=Textured Glass Dark Green
+tile.TexturedGlassGreen_5.name=Textured Glass Light Summer Green
+tile.TexturedGlassGreen_6.name=Textured Glass Summer Green
+tile.TexturedGlassGreen_7.name=Textured Glass Lush Green
+tile.TexturedGlassGreen_8.name=Textured Glass Deep Lush Green
+tile.TexturedGlassGreen_9.name=Textured Glass Dark Lush Green
+tile.TexturedGlassGreen_10.name=Textured Glass Light Spring Green
+tile.TexturedGlassGreen_11.name=Textured Glass Spring Green
+tile.TexturedGlassGreen_12.name=Textured Glass Light Olive Green
+tile.TexturedGlassGreen_13.name=Textured Glass Olive Green
+tile.TexturedGlassGreen_14.name=Textured Glass Moss Green
 
 
 
 #Textured Glass Yellow Colours
-tile.TexGlassYellow_0.name=Textured Glass Light Lemon Yellow
-tile.TexGlassYellow_1.name=Textured Glass Lemon Yellow
-tile.TexGlassYellow_2.name=Textured Glass Sunny Yellow
-tile.TexGlassYellow_3.name=Textured Glass Soft Yellow
-tile.TexGlassYellow_4.name=Textured Glass Orange Yellow
-tile.TexGlassYellow_5.name=Textured Glass Light Sand Yellow
-tile.TexGlassYellow_6.name=Textured Glass Light Yellow
-tile.TexGlassYellow_7.name=Textured Glass Yellow
-tile.TexGlassYellow_8.name=Textured Glass Gold Yellow
-tile.TexGlassYellow_9.name=Textured Glass Dark Orange
-tile.TexGlassYellow_10.name=Textured Glass Light Orange
-tile.TexGlassYellow_11.name=Textured Glass Sunny Orange
-tile.TexGlassYellow_12.name=Textured Glass Orange
-tile.TexGlassYellow_13.name=Textured Glass Deep orange
-tile.TexGlassYellow_14.name=Textured Glass Orange Red
+tile.TexturedGlassYellow_0.name=Textured Glass Light Lemon Yellow
+tile.TexturedGlassYellow_1.name=Textured Glass Lemon Yellow
+tile.TexturedGlassYellow_2.name=Textured Glass Sunny Yellow
+tile.TexturedGlassYellow_3.name=Textured Glass Soft Yellow
+tile.TexturedGlassYellow_4.name=Textured Glass Orange Yellow
+tile.TexturedGlassYellow_5.name=Textured Glass Light Sand Yellow
+tile.TexturedGlassYellow_6.name=Textured Glass Light Yellow
+tile.TexturedGlassYellow_7.name=Textured Glass Yellow
+tile.TexturedGlassYellow_8.name=Textured Glass Gold Yellow
+tile.TexturedGlassYellow_9.name=Textured Glass Dark Orange
+tile.TexturedGlassYellow_10.name=Textured Glass Light Orange
+tile.TexturedGlassYellow_11.name=Textured Glass Sunny Orange
+tile.TexturedGlassYellow_12.name=Textured Glass Orange
+tile.TexturedGlassYellow_13.name=Textured Glass Deep orange
+tile.TexturedGlassYellow_14.name=Textured Glass Orange Red
 
 
 
 #Textured Glass Gray Colours
-tile.TexGlassGray_0.name=Textured Glass White Gray
-tile.TexGlassGray_1.name=Textured Glass Light Gray
-tile.TexGlassGray_2.name=Textured Glass Gray
-tile.TexGlassGray_3.name=Textured Glass Dark Gray
-tile.TexGlassGray_4.name=Textured Glass Gray Black
-tile.TexGlassGray_5.name=Textured Glass Light Warm Gray
-tile.TexGlassGray_6.name=Textured Glass Warm Gray
-tile.TexGlassGray_7.name=Textured Glass Middle Warm Gray
-tile.TexGlassGray_8.name=Textured Glass Dark Warm Gray
-tile.TexGlassGray_9.name=Textured Glass Warm Black Gray
-tile.TexGlassGray_10.name=Textured Glass Light Cool gray
-tile.TexGlassGray_11.name=Textured Glass Cool Gray
-tile.TexGlassGray_12.name=Textured Glass Dark Cool Gray
-tile.TexGlassGray_13.name=Textured Glass Cool Blue Gray
-tile.TexGlassGray_14.name=Textured Glass Cool Dark Blue Gray
+tile.TexturedGlassGray_0.name=Textured Glass White Gray
+tile.TexturedGlassGray_1.name=Textured Glass Light Gray
+tile.TexturedGlassGray_2.name=Textured Glass Gray
+tile.TexturedGlassGray_3.name=Textured Glass Dark Gray
+tile.TexturedGlassGray_4.name=Textured Glass Gray Black
+tile.TexturedGlassGray_5.name=Textured Glass Light Warm Gray
+tile.TexturedGlassGray_6.name=Textured Glass Warm Gray
+tile.TexturedGlassGray_7.name=Textured Glass Middle Warm Gray
+tile.TexturedGlassGray_8.name=Textured Glass Dark Warm Gray
+tile.TexturedGlassGray_9.name=Textured Glass Warm Black Gray
+tile.TexturedGlassGray_10.name=Textured Glass Light Cool gray
+tile.TexturedGlassGray_11.name=Textured Glass Cool Gray
+tile.TexturedGlassGray_12.name=Textured Glass Dark Cool Gray
+tile.TexturedGlassGray_13.name=Textured Glass Cool Blue Gray
+tile.TexturedGlassGray_14.name=Textured Glass Cool Dark Blue Gray
 
 
 

@@ -1,13 +1,13 @@
-package com.Aarron.WallpaperCraft.Proxy;
+package com.Aarron.WallpaperCraft.proxy;
 
 import java.io.File;
 
-import com.Aarron.WallpaperCraft.Compatibility.ChiselSupport;
-import com.Aarron.WallpaperCraft.Compatibility.MicroblocksSupport;
-import com.Aarron.WallpaperCraft.Crafting.Recipies;
-import com.Aarron.WallpaperCraft.Handler.ConfigHandler;
-import com.Aarron.WallpaperCraft.Init.ModBlocks;
-import com.Aarron.WallpaperCraft.Init.ModItems;
+import com.Aarron.WallpaperCraft.compatibility.ChiselSupport;
+import com.Aarron.WallpaperCraft.compatibility.MicroblocksSupport;
+import com.Aarron.WallpaperCraft.crafting.Recipies;
+import com.Aarron.WallpaperCraft.handler.ConfigHandler;
+import com.Aarron.WallpaperCraft.init.ModBlocks;
+import com.Aarron.WallpaperCraft.init.ModItems;
 
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Loader;

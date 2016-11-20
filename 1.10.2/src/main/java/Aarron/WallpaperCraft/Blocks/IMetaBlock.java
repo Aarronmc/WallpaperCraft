@@ -1,9 +1,8 @@
-package Aarron.WallpaperCraft.Blocks;
+package Aarron.WallpaperCraft.blocks;
 
 import java.util.Collection;
 import java.util.List;
 
-import Aarron.WallpaperCraft.Init.ModCreativeTabs;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.IProperty;
@@ -23,6 +22,7 @@ import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
+import Aarron.WallpaperCraft.init.ModCreativeTabs;
 
 public abstract class IMetaBlock<T extends Enum<T> & IStringSerializable & IVariantDefinition> extends Block implements IMetaBlockName{
 

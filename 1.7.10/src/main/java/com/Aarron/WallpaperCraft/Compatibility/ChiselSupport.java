@@ -1,8 +1,8 @@
-package com.Aarron.WallpaperCraft.Compatibility;
+package com.Aarron.WallpaperCraft.compatibility;
 
 import net.minecraft.block.Block;
 
-import com.Aarron.WallpaperCraft.Init.ModBlocks;
+import com.Aarron.WallpaperCraft.init.ModBlocks;
 import com.cricketcraft.chisel.api.carving.CarvingUtils;
 
 public class ChiselSupport {

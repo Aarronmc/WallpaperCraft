@@ -1,20 +1,20 @@
-package Aarron.WallpaperCraft.Init;
+package Aarron.WallpaperCraft.init;
 
 
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
-import Aarron.WallpaperCraft.Blocks.Bricks.*;
-import Aarron.WallpaperCraft.Blocks.Carpets.Checkered.*;
-import Aarron.WallpaperCraft.Blocks.Carpets.Dotted.*;
-import Aarron.WallpaperCraft.Blocks.Rugs.Dotted.*;
-import Aarron.WallpaperCraft.Blocks.Rugs.Checkered.*;
-import Aarron.WallpaperCraft.Blocks.Clay.*;
-import Aarron.WallpaperCraft.Blocks.Dotted.*;
-import Aarron.WallpaperCraft.Blocks.Floral.*;
-import Aarron.WallpaperCraft.Blocks.Glass.*;
-import Aarron.WallpaperCraft.Blocks.Solid.*;
-import Aarron.WallpaperCraft.Blocks.Striped.*;
+import Aarron.WallpaperCraft.blocks.bricks.*;
+import Aarron.WallpaperCraft.blocks.carpets.checkered.*;
+import Aarron.WallpaperCraft.blocks.carpets.dotted.*;
+import Aarron.WallpaperCraft.blocks.rugs.dotted.*;
+import Aarron.WallpaperCraft.blocks.rugs.checkered.*;
+import Aarron.WallpaperCraft.blocks.clay.*;
+import Aarron.WallpaperCraft.blocks.dotted.*;
+import Aarron.WallpaperCraft.blocks.floral.*;
+import Aarron.WallpaperCraft.blocks.glass.*;
+import Aarron.WallpaperCraft.blocks.solid.*;
+import Aarron.WallpaperCraft.blocks.striped.*;
 
 
 public class ModBlocks {

@@ -1,10 +1,11 @@
 
-package com.Aarron.WallpaperCraft.Init;
+package com.Aarron.WallpaperCraft.init;
 
 import net.minecraft.item.Item;
-import com.Aarron.WallpaperCraft.CreativeTab.Tab;
 import cpw.mods.fml.common.registry.GameRegistry;
-import com.Aarron.WallpaperCraft.Items.*;
+
+import com.Aarron.WallpaperCraft.creativeTab.Tab;
+import com.Aarron.WallpaperCraft.items.*;
 
 public final class ModItems {
 	

@@ -1,7 +1,7 @@
-package Aarron.WallpaperCraft.Handler;
+package Aarron.WallpaperCraft.handler;
 
-import Aarron.WallpaperCraft.Proxy.CommonProxy;
 import net.minecraftforge.common.config.Configuration;
+import Aarron.WallpaperCraft.proxy.CommonProxy;
 
 public class ConfigHandler {
 	

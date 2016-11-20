@@ -1,4 +1,4 @@
-package Aarron.WallpaperCraft.Blocks.Rugs.Dotted;
+package Aarron.WallpaperCraft.blocks.rugs.dotted;
 
 import javax.annotation.Nonnull;
 
@@ -14,9 +14,9 @@ import net.minecraft.world.IBlockAccess;
 import net.minecraft.world.World;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
-import Aarron.WallpaperCraft.BlockStates.BlockStates;
-import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.IMetaBlock;
+import Aarron.WallpaperCraft.blockStates.BlockStates;
+import Aarron.WallpaperCraft.blockStates.BlockTypes;
+import Aarron.WallpaperCraft.blocks.IMetaBlock;
 
 
 public class DottedRugBlue extends IMetaBlock<BlockTypes> {

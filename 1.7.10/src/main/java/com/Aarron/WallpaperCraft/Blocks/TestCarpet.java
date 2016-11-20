@@ -1,9 +1,9 @@
-package com.Aarron.WallpaperCraft.Blocks;
+package com.Aarron.WallpaperCraft.blocks;
 
 import java.util.List;
 
 import com.Aarron.WallpaperCraft.Main;
-import com.Aarron.WallpaperCraft.CreativeTab.Tab;
+import com.Aarron.WallpaperCraft.creativeTab.Tab;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

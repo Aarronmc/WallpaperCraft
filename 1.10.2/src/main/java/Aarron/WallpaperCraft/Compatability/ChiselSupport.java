@@ -1,12 +1,12 @@
-package Aarron.WallpaperCraft.Compatability;
+package Aarron.WallpaperCraft.compatability;
 
-import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.BlockStates.BlockTypes2;
-import Aarron.WallpaperCraft.Init.ModBlocks;
 import net.minecraft.block.state.IBlockState;
 import team.chisel.api.carving.CarvingUtils;
 import team.chisel.api.carving.ICarvingGroup;
 import team.chisel.api.carving.ICarvingRegistry;
+import Aarron.WallpaperCraft.blockStates.BlockTypes;
+import Aarron.WallpaperCraft.blockStates.BlockTypes2;
+import Aarron.WallpaperCraft.init.ModBlocks;
 
 
 

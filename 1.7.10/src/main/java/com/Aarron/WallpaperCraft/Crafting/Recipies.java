@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.Crafting;
+package com.Aarron.WallpaperCraft.crafting;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
@@ -7,8 +7,8 @@ import net.minecraftforge.oredict.OreDictionary;
 import net.minecraftforge.oredict.ShapedOreRecipe;
 import net.minecraftforge.oredict.ShapelessOreRecipe;
 
-import com.Aarron.WallpaperCraft.Init.ModBlocks;
-import com.Aarron.WallpaperCraft.Init.ModItems;
+import com.Aarron.WallpaperCraft.init.ModBlocks;
+import com.Aarron.WallpaperCraft.init.ModItems;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -18,6 +18,8 @@ public class Recipies {
 	
 	public static void init() {
 		
+		
+
 		
        GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.PressBlank, 4),
     		   " P ", "PWP", " P ", 'P', Items.paper, 'W', "plankWood"));

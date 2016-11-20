@@ -1,11 +1,11 @@
-package com.Aarron.WallpaperCraft.Compatibility;
+package com.Aarron.WallpaperCraft.compatibility;
 
 
 import net.minecraft.item.ItemStack;
 import codechicken.microblock.BlockMicroMaterial;
 import codechicken.microblock.MicroMaterialRegistry;
 
-import com.Aarron.WallpaperCraft.Init.ModBlocks;
+import com.Aarron.WallpaperCraft.init.ModBlocks;
 
 public class MicroblocksSupport {
 

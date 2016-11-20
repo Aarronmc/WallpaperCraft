@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.Proxy;
+package com.Aarron.WallpaperCraft.proxy;
 
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;

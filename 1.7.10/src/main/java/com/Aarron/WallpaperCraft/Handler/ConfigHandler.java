@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.Handler;
+package com.Aarron.WallpaperCraft.handler;
 
 import java.io.File;
 

@@ -3,6 +3,25 @@ itemGroup.WPtab=WallpaperCraft!
 
 
 
+################################################################
+###########											 ###########
+###########      STARTING NAMING OF PRESS ITEMS      ###########
+###########											 ###########
+################################################################
+
+item.pressblank.name=Blank Pattern Press
+item.pressbrick.name=Brick Pattern Press
+item.presscheckered.name=Checkered Pattern Press
+item.pressclay.name=Clay Pattern Press
+item.pressdiagonallydotted.name=Diagonally Dotted Pattern Press
+item.pressdotted.name=Dotted Pattern Press
+item.pressfloral.name=Floral Pattern Press
+item.pressstriped.name=Striped Pattern Press
+item.pressfrostedglass.name=Frosted Glass Pattern Press
+item.presstexturedglass.name=Textured Glass Pattern Press
+item.presstintedglass.name=Tinted Glass Pattern Press
+
+
 
 
 

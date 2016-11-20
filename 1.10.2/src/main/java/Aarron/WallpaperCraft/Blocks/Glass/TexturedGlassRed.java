@@ -1,4 +1,4 @@
-package Aarron.WallpaperCraft.Blocks.Glass;
+package Aarron.WallpaperCraft.blocks.glass;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
@@ -12,10 +12,10 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.IBlockAccess;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
-import Aarron.WallpaperCraft.BlockStates.BlockStates;
-import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.IMetaBlock;
-import Aarron.WallpaperCraft.Init.ModBlocks;
+import Aarron.WallpaperCraft.blockStates.BlockStates;
+import Aarron.WallpaperCraft.blockStates.BlockTypes;
+import Aarron.WallpaperCraft.blocks.IMetaBlock;
+import Aarron.WallpaperCraft.init.ModBlocks;
 
 
 public class TexturedGlassRed extends IMetaBlock<BlockTypes> {

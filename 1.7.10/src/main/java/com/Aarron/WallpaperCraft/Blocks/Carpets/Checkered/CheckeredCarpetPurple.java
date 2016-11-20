@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.Blocks.Carpets.Checkered;
+package com.Aarron.WallpaperCraft.blocks.carpets.checkered;
 
 import java.util.List;
 
@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.IIcon;
 
-import com.Aarron.WallpaperCraft.CreativeTab.Tab;
+import com.Aarron.WallpaperCraft.creativeTab.Tab;
 
 
 public class CheckeredCarpetPurple extends Block {

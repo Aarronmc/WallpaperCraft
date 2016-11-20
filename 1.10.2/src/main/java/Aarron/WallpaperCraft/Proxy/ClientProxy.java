@@ -1,10 +1,10 @@
-package Aarron.WallpaperCraft.Proxy;
+package Aarron.WallpaperCraft.proxy;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import Aarron.WallpaperCraft.Init.ModBlocks;
-import Aarron.WallpaperCraft.Init.ModItems;
+import Aarron.WallpaperCraft.init.ModBlocks;
+import Aarron.WallpaperCraft.init.ModItems;
 
 public class ClientProxy extends CommonProxy{
 

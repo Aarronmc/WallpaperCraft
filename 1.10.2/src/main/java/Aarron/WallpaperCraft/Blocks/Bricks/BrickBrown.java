@@ -1,11 +1,11 @@
-package Aarron.WallpaperCraft.Blocks.Bricks;
+package Aarron.WallpaperCraft.blocks.bricks;
 
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
-import Aarron.WallpaperCraft.BlockStates.BlockStates;
-import Aarron.WallpaperCraft.BlockStates.BlockTypes;
-import Aarron.WallpaperCraft.Blocks.IMetaBlock;
+import Aarron.WallpaperCraft.blockStates.BlockStates;
+import Aarron.WallpaperCraft.blockStates.BlockTypes;
+import Aarron.WallpaperCraft.blocks.IMetaBlock;
 
 
 public class BrickBrown extends IMetaBlock<BlockTypes> {

@@ -1,6 +1,6 @@
 package com.Aarron.WallpaperCraft;
 
-import com.Aarron.WallpaperCraft.Proxy.CommonProxy;
+import com.Aarron.WallpaperCraft.proxy.CommonProxy;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -18,7 +18,7 @@ public class Main {
     public static final String MODNAME = "WallpaperCraft";
     public static final String VERSION = "1.7.10";
     
-    @SidedProxy(clientSide="com.Aarron.WallpaperCraft.Proxy.ClientProxy", serverSide="com.Aarron.WallpaperCraft.Proxy.ServerProxy")
+    @SidedProxy(clientSide="com.Aarron.WallpaperCraft.proxy.ClientProxy", serverSide="com.Aarron.WallpaperCraft.proxy.ServerProxy")
     public static CommonProxy proxy;
     
 

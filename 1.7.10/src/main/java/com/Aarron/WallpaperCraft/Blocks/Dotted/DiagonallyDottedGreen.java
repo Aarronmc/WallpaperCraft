@@ -1,9 +1,9 @@
-package com.Aarron.WallpaperCraft.Blocks.Dotted;
+package com.Aarron.WallpaperCraft.blocks.dotted;
 
 import java.util.List;
 
 import com.Aarron.WallpaperCraft.Main;
-import com.Aarron.WallpaperCraft.CreativeTab.Tab;
+import com.Aarron.WallpaperCraft.creativeTab.Tab;
 
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;

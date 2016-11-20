@@ -1,4 +1,4 @@
-package Aarron.WallpaperCraft.Items;
+package Aarron.WallpaperCraft.items;
 
 import java.util.List;
 
@@ -27,7 +27,7 @@ public class PressBlank extends Item {
     
 	@Override
 	public void addInformation(ItemStack itemStack, EntityPlayer player, List tooltipLines, boolean advancedTooltips) {
-		tooltipLines.add("Changes the patern on blocks");
+		tooltipLines.add("Combine this with a relevant item to get a pattern press.");
 	}
 
 }

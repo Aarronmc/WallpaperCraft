@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.Blocks.Glass;
+package com.Aarron.WallpaperCraft.blocks.glass;
 
 import java.util.List;
 
@@ -14,8 +14,8 @@ import net.minecraft.util.Facing;
 import net.minecraft.util.IIcon;
 import net.minecraft.world.IBlockAccess;
 
-import com.Aarron.WallpaperCraft.CreativeTab.Tab;
-import com.Aarron.WallpaperCraft.Init.ModBlocks;
+import com.Aarron.WallpaperCraft.creativeTab.Tab;
+import com.Aarron.WallpaperCraft.init.ModBlocks;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

@@ -1,6 +1,5 @@
-package Aarron.WallpaperCraft.BlockStates;
+package Aarron.WallpaperCraft.blockStates;
 
-import Aarron.WallpaperCraft.BlockStates.BlockTypes;
 import net.minecraft.block.properties.PropertyEnum;
 
 public class BlockStates {

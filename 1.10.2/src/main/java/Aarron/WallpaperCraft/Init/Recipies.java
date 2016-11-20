@@ -1,4 +1,4 @@
-package Aarron.WallpaperCraft.Init;
+package Aarron.WallpaperCraft.init;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
@@ -6,7 +6,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.oredict.OreDictionary;
 import net.minecraftforge.oredict.ShapedOreRecipe;
-import Aarron.WallpaperCraft.Recipes.RecipeBlankPress;
+import Aarron.WallpaperCraft.recipes.RecipeBlankPress;
 
 
 

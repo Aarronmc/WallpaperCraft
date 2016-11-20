@@ -1,17 +1,13 @@
-package Aarron.WallpaperCraft.Compatability;
-
-import java.io.File;
+package Aarron.WallpaperCraft.compatability;
 
 import javax.annotation.Nonnull;
 
-import Aarron.WallpaperCraft.Handler.ConfigHandler;
-import Aarron.WallpaperCraft.Init.ModBlocks;
-import net.minecraft.item.ItemStack;
-import net.minecraftforge.common.config.Configuration;
-import net.minecraftforge.fml.common.Loader;
 import mezz.jei.api.BlankModPlugin;
 import mezz.jei.api.IJeiHelpers;
 import mezz.jei.api.IModRegistry;
+import net.minecraft.item.ItemStack;
+import Aarron.WallpaperCraft.handler.ConfigHandler;
+import Aarron.WallpaperCraft.init.ModBlocks;
 
 @mezz.jei.api.JEIPlugin
 public class JEIPlugin extends BlankModPlugin {
