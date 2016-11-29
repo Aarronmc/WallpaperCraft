@@ -1,19 +1,21 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "minecraft:cube_all",
-    "transform": "forge:default-block"
-  },
-  "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetcyan-9"}}]
-  }
-}
+    "forge_marker": 1,
+    "defaults": {
+        "model": "carpet",
+        "transform": "forge:default-block"
+    },
+    "variants": {
+		"inventory": [{}],
+		"normal": [{}],
+    	"type=0": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-0", "particle": "#wool" } }],
+    	"type=1": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-1", "particle": "#wool" } }],
+    	"type=2": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-2", "particle": "#wool" } }],
+    	"type=3": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-3", "particle": "#wool" } }],
+    	"type=4": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-4", "particle": "#wool" } }],
+    	"type=5": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-5", "particle": "#wool" } }],
+    	"type=6": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-6", "particle": "#wool" } }],
+		"type=7": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-7", "particle": "#wool" } }],
+		"type=8": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-8", "particle": "#wool" } }],
+		"type=9": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolcyan-9", "particle": "#wool" } }]
+    	}
+} 

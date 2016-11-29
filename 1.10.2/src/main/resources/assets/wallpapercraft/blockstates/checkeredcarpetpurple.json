@@ -1,24 +1,26 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "minecraft:cube_all",
-    "transform": "forge:default-block"
-  },
-  "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredcarpetpurple-14"}}]
-  }
-}
+    "forge_marker": 1,
+    "defaults": {
+        "model": "carpet",
+        "transform": "forge:default-block"
+    },
+    "variants": {
+		"inventory": [{}],
+		"normal": [{}],
+    	"type=0": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-0", "particle": "#wool" } }],
+    	"type=1": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-1", "particle": "#wool" } }],
+    	"type=2": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-2", "particle": "#wool" } }],
+    	"type=3": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-3", "particle": "#wool" } }],
+    	"type=4": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-4", "particle": "#wool" } }],
+    	"type=5": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-5", "particle": "#wool" } }],
+    	"type=6": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-6", "particle": "#wool" } }],
+		"type=7": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-7", "particle": "#wool" } }],
+		"type=8": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-8", "particle": "#wool" } }],
+		"type=9": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-9", "particle": "#wool" } }],
+		"type=10": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-10", "particle": "#wool" } }],
+		"type=11": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-11", "particle": "#wool" } }],
+		"type=12": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-12", "particle": "#wool" } }],
+		"type=13": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-13", "particle": "#wool" } }],
+		"type=14": [{ "textures": { "wool": "wallpapercraft:blocks/checkeredwoolpurple-14", "particle": "#wool" } }]
+    	}
+} 

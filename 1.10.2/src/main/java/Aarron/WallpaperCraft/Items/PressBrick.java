@@ -16,8 +16,8 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 public class PressBrick extends Item {
 
     public PressBrick() {
-        setRegistryName("bressbrick");
-        setUnlocalizedName("bressbrick");
+        setRegistryName("pressbrick");
+        setUnlocalizedName("pressbrick");
         setContainerItem(this);
         GameRegistry.register(this);
     }
@@ -29,7 +29,7 @@ public class PressBrick extends Item {
     
 	@Override
 	public void addInformation(ItemStack itemStack, EntityPlayer player, List tooltipLines, boolean advancedTooltips) {
-		tooltipLines.add("Combine this with any solid coloured block to apply the Brick pattern.");
+		tooltipLines.add("Combine this with any solid colored block to apply the Brick pattern.");
 	}
 
 }

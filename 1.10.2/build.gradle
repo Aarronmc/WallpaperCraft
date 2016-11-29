@@ -11,7 +11,7 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 //Only edit below this line, the above code adds and enables the nessasary things for Forge to be setup.
 
 
-version = "${mod_version}"
+version = "${mc_version}-${mod_version}"
 group= "Aarron.WallpaperCraft" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "WallpaperCraft"
 
@@ -47,7 +47,7 @@ repositories {
 dependencies {
 
 	
-	compile "team.chisel:Chisel:MC1.10.2-0.0.7.3:api"
+	compile "team.chisel:Chisel:${chisel_version}:api"
 	 // compile against the JEI API
 	deobfCompile "mezz.jei:jei_${mc_version}:${jei_version}:api"
 	// at runtime, use the full JEI jar

@@ -11,8 +11,8 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class SolidBlue extends IMetaBlock<BlockTypes> {
 
 	public SolidBlue() {
-		super(Material.WOOD, "SolidBlue");
-		this.setSoundType(SoundType.WOOD);
+		super(Material.ROCK, "SolidBlue");
+		this.setSoundType(SoundType.STONE);
 	}
 
 	@Override

@@ -101,6 +101,51 @@ public class MicroblocksSupport {
 		
 		
 		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DottedGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DottedGray, i);
+		}
+		
+		
+		
+		
+		
+		
 		BlockMicroMaterial.createAndRegister(ModBlocks.StripedRed, 0);
 		for (int i = 0; i < 15; i ++) {
 			BlockMicroMaterial.createAndRegister(ModBlocks.StripedRed, i);
@@ -410,95 +455,236 @@ public class MicroblocksSupport {
 		for (int i = 0; i < 15; i ++) {
 			BlockMicroMaterial.createAndRegister(ModBlocks.BrickGray, i);
 		}
+				
 		
 		
 		
 		
 		
-		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetRed, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickRed, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetRed, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickRed, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetPurple, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickPurple, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetPurple, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickPurple, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetBlue, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickBlue, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetBlue, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickBlue, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetCyan, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickCyan, 0);
 		for (int i = 0; i < 9; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetCyan, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickCyan, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetGreen, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickGreen, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetGreen, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickGreen, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetYellow, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickYellow, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetYellow, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickYellow, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetBrown, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickBrown, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetBrown, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickBrown, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetGray, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickGray, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.DottedCarpetGray, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickGray, i);
 		}
+				
+				
 		
 		
 		
-		
-		
-		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetRed, 0);
+				
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledRed, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetRed, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledRed, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetPurple, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledPurple, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetPurple, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledPurple, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetBlue, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledBlue, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetBlue, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledBlue, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetCyan, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledCyan, 0);
 		for (int i = 0; i < 9; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetCyan, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledCyan, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetGreen, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledGreen, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetGreen, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledGreen, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetYellow, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledYellow, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetYellow, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledYellow, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetBrown, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledBrown, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetBrown, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledBrown, i);
 		}
 		
-		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetGray, 0);
+		BlockMicroMaterial.createAndRegister(ModBlocks.RippledGray, 0);
 		for (int i = 0; i < 15; i ++) {
-			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredCarpetGray, i);
+			BlockMicroMaterial.createAndRegister(ModBlocks.RippledGray, i);
+		}
+		
+				
+		
+		
+		
+				
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoodPlankGray, i);
+		}
+		
+		
+		
+		
+		
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.WoolGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.WoolGray, i);
+		}
+		
+		
+		
+		
+		
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.CheckeredWoolGray, i);
+		}
+		
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.Stamp, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.Stamp, i);
 		}
 		
 		

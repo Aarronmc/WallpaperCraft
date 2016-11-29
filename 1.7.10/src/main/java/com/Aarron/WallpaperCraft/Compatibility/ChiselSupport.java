@@ -29,6 +29,15 @@ public class ChiselSupport {
 		addToChisle("Diagonally Dotted Brown Blocks", ModBlocks.DiagonallyDottedBrown, 14);
 		addToChisle("Diagonally Dotted Gray Blocks", ModBlocks.DiagonallyDottedGray, 14);
 		
+		addToChisle("Dotted Red Blocks", ModBlocks.DottedRed, 14);
+		addToChisle("Dotted Purple Blocks", ModBlocks.DottedPurple, 14);
+		addToChisle("Dotted Blue Blocks", ModBlocks.DottedBlue, 14);
+		addToChisle("Dotted Cyan Blocks", ModBlocks.DottedCyan, 9);
+		addToChisle("Dotted Green Blocks", ModBlocks.DottedGreen, 14);
+		addToChisle("Dotted Yellow Blocks", ModBlocks.DottedYellow, 14);
+		addToChisle("Dotted Brown Blocks", ModBlocks.DottedBrown, 14);
+		addToChisle("Dotted Gray Blocks", ModBlocks.DottedGray, 14);
+		
 		addToChisle("Striped Red Blocks", ModBlocks.StripedRed, 14);
 		addToChisle("Striped Purple Blocks", ModBlocks.StripedPurple, 14);
 		addToChisle("Striped Blue Blocks", ModBlocks.StripedBlue, 14);
@@ -92,41 +101,70 @@ public class ChiselSupport {
 		addToChisle("Brick Brown Blocks", ModBlocks.BrickBrown, 14);
 		addToChisle("Brick Gray Blocks", ModBlocks.BrickGray, 14);
 		
-		addToChisle("Dotted Carpet Red Blocks", ModBlocks.DottedCarpetRed, 14);
-		addToChisle("Dotted Carpet Purple Blocks", ModBlocks.DottedCarpetPurple, 14);
-		addToChisle("Dotted Carpet Blue Blocks", ModBlocks.DottedCarpetBlue, 14);
-		addToChisle("Dotted Carpet Cyan Blocks", ModBlocks.DottedCarpetCyan, 9);
-		addToChisle("Dotted Carpet Green Blocks", ModBlocks.DottedCarpetGreen, 14);
-		addToChisle("Dotted Carpet Yellow Blocks", ModBlocks.DottedCarpetYellow, 14);
-		addToChisle("Dotted Carpet Brown Blocks", ModBlocks.DottedCarpetBrown, 14);
-		addToChisle("Dotted Carpet Gray Blocks", ModBlocks.DottedCarpetGray, 14);
+		addToChisle("Stone Brick Red Blocks", ModBlocks.StoneBrickRed, 14);
+		addToChisle("Stone Brick Purple Blocks", ModBlocks.StoneBrickPurple, 14);
+		addToChisle("Stone Brick Blue Blocks", ModBlocks.StoneBrickBlue, 14);
+		addToChisle("Stone Brick Cyan Blocks", ModBlocks.StoneBrickCyan, 9);
+		addToChisle("Stone Brick Green Blocks", ModBlocks.StoneBrickGreen, 14);
+		addToChisle("Stone Brick Yellow Blocks", ModBlocks.StoneBrickYellow, 14);
+		addToChisle("Stone Brick Brown Blocks", ModBlocks.StoneBrickBrown, 14);
+		addToChisle("Stone Brick Gray Blocks", ModBlocks.StoneBrickGray, 14);
 		
-		addToChisle("Checkered Carpet Red Blocks", ModBlocks.CheckeredCarpetRed, 14);
-		addToChisle("Checkered Carpet Purple Blocks", ModBlocks.CheckeredCarpetPurple, 14);
-		addToChisle("Checkered Carpet Blue Blocks", ModBlocks.CheckeredCarpetBlue, 14);
-		addToChisle("Checkered Carpet Cyan Blocks", ModBlocks.CheckeredCarpetCyan, 9);
-		addToChisle("Checkered Carpet Green Blocks", ModBlocks.CheckeredCarpetGreen, 14);
-		addToChisle("Checkered Carpet Yellow Blocks", ModBlocks.CheckeredCarpetYellow, 14);
-		addToChisle("Checkered Carpet Brown Blocks", ModBlocks.CheckeredCarpetBrown, 14);
-		addToChisle("Checkered Carpet Gray Blocks", ModBlocks.CheckeredCarpetGray, 14);
+		addToChisle("Red Rippled Blocks", ModBlocks.RippledRed, 14);
+		addToChisle("Purple Rippled Blocks", ModBlocks.RippledPurple, 14);
+		addToChisle("Blue Rippled Blocks", ModBlocks.RippledBlue, 14);
+		addToChisle("Cyan Rippled Blocks", ModBlocks.RippledCyan, 9);
+		addToChisle("Green Rippled Blocks", ModBlocks.RippledGreen, 14);
+		addToChisle("Yellow Rippled Blocks", ModBlocks.RippledYellow, 14);
+		addToChisle("Brown Rippled Blocks", ModBlocks.RippledBrown, 14);
+		addToChisle("Gray Rippled Blocks", ModBlocks.RippledGray, 14);
 		
-		addToChisle("Dotted Red Rugs", ModBlocks.DottedRugRed, 14);
-		addToChisle("Dotted Purple Rugs", ModBlocks.DottedRugPurple, 14);
-		addToChisle("Dotted Blue Rugs", ModBlocks.DottedRugBlue, 14);
-		addToChisle("Dotted Cyan Rugs", ModBlocks.DottedRugCyan, 9);
-		addToChisle("Dotted Green Rugs", ModBlocks.DottedRugGreen, 14);
-		addToChisle("Dotted Yellow Rugs", ModBlocks.DottedRugYellow, 14);
-		addToChisle("Dotted Brown Rugs", ModBlocks.DottedRugBrown, 14);
-		addToChisle("Dotted Gray Rugs", ModBlocks.DottedRugGray, 14);
+		addToChisle("Wood Planks Red Blocks", ModBlocks.WoodPlankRed, 14);
+		addToChisle("Wood Planks Purple Blocks", ModBlocks.WoodPlankPurple, 14);
+		addToChisle("Wood Planks Blue Blocks", ModBlocks.WoodPlankBlue, 14);
+		addToChisle("Wood Planks Cyan Blocks", ModBlocks.WoodPlankCyan, 9);
+		addToChisle("Wood Planks Green Blocks", ModBlocks.WoodPlankGreen, 14);
+		addToChisle("Wood Planks Yellow Blocks", ModBlocks.WoodPlankYellow, 14);
+		addToChisle("Wood Planks Brown Blocks", ModBlocks.WoodPlankBrown, 14);
+		addToChisle("Wood Planks Gray Blocks", ModBlocks.WoodPlankGray, 14);
 		
-		addToChisle("Checkered Red Rugs", ModBlocks.CheckeredRugRed, 14);
-		addToChisle("Checkered Purple Rugs", ModBlocks.CheckeredRugPurple, 14);
-		addToChisle("Checkered Blue Rugs", ModBlocks.CheckeredRugBlue, 14);
-		addToChisle("Checkered Cyan Rugs", ModBlocks.CheckeredRugCyan, 9);
-		addToChisle("Checkered Green Rugs", ModBlocks.CheckeredRugGreen, 14);
-		addToChisle("Checkered Yellow Rugs", ModBlocks.CheckeredRugYellow, 14);
-		addToChisle("Checkered Brown Rugs", ModBlocks.CheckeredRugBrown, 14);
-		addToChisle("Checkered Gray Rugs", ModBlocks.CheckeredRugGray, 14);
+		addToChisle("Wool Red Blocks", ModBlocks.WoolRed, 14);
+		addToChisle("Wool Purple Blocks", ModBlocks.WoolPurple, 14);
+		addToChisle("Wool Blue Blocks", ModBlocks.WoolBlue, 14);
+		addToChisle("Wool Cyan Blocks", ModBlocks.WoolCyan, 9);
+		addToChisle("Wool Green Blocks", ModBlocks.WoolGreen, 14);
+		addToChisle("Wool Yellow Blocks", ModBlocks.WoolYellow, 14);
+		addToChisle("Wool Brown Blocks", ModBlocks.WoolBrown, 14);
+		addToChisle("Wool Gray Blocks", ModBlocks.WoolGray, 14);
+		
+		addToChisle("Wool Red Carpets", ModBlocks.WoolCarpetRed, 14);
+		addToChisle("Wool Purple Carpets", ModBlocks.WoolCarpetPurple, 14);
+		addToChisle("Wool Blue Carpets", ModBlocks.WoolCarpetBlue, 14);
+		addToChisle("Wool Cyan Carpets", ModBlocks.WoolCarpetCyan, 9);
+		addToChisle("Wool Green Carpets", ModBlocks.WoolCarpetGreen, 14);
+		addToChisle("Wool Yellow Carpets", ModBlocks.WoolCarpetYellow, 14);
+		addToChisle("Wool Brown Carpets", ModBlocks.WoolCarpetBrown, 14);
+		addToChisle("Wool Gray Carpets", ModBlocks.WoolCarpetGray, 14);
+			
+		addToChisle("Checkered Red Wool", ModBlocks.CheckeredWoolRed, 14);
+		addToChisle("Checkered Purple Wool", ModBlocks.CheckeredWoolPurple, 14);
+		addToChisle("Checkered Blue Wool", ModBlocks.CheckeredWoolBlue, 14);
+		addToChisle("Checkered Cyan Wool", ModBlocks.CheckeredWoolCyan, 9);
+		addToChisle("Checkered Green Wool", ModBlocks.CheckeredWoolGreen, 14);
+		addToChisle("Checkered Yellow Wool", ModBlocks.CheckeredWoolYellow, 14);
+		addToChisle("Checkered Brown Wool", ModBlocks.CheckeredWoolBrown, 14);
+		addToChisle("Checkered Gray Wool", ModBlocks.CheckeredWoolGray, 14);
+		
+		addToChisle("Checkered Red Carpets", ModBlocks.CheckeredCarpetRed, 14);
+		addToChisle("Checkered Purple Carpets", ModBlocks.CheckeredCarpetPurple, 14);
+		addToChisle("Checkered Blue Carpets", ModBlocks.CheckeredCarpetBlue, 14);
+		addToChisle("Checkered Cyan Carpets", ModBlocks.CheckeredCarpetCyan, 9);
+		addToChisle("Checkered Green Carpets", ModBlocks.CheckeredCarpetGreen, 14);
+		addToChisle("Checkered Yellow Carpets", ModBlocks.CheckeredCarpetYellow, 14);
+		addToChisle("Checkered Brown Carpets", ModBlocks.CheckeredCarpetBrown, 14);
+		addToChisle("Checkered Gray Carpets", ModBlocks.CheckeredCarpetGray, 14);
+		
+		addToChisle("Stamp Blocks", ModBlocks.Stamp, 15);
 		
 		
 		

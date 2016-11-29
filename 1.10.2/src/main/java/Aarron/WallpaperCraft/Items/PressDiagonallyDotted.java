@@ -29,7 +29,7 @@ public class PressDiagonallyDotted extends Item {
     
 	@Override
 	public void addInformation(ItemStack itemStack, EntityPlayer player, List tooltipLines, boolean advancedTooltips) {
-		tooltipLines.add("Combine this with any solid coloured block to apply the Diagonally Dotted pattern.");
+		tooltipLines.add("Combine this with any solid colored block to apply the Diagonally Dotted pattern.");
 	}
 
 }

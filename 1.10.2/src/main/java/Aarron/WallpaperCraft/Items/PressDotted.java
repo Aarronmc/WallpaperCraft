@@ -29,7 +29,7 @@ public class PressDotted extends Item {
     
 	@Override
 	public void addInformation(ItemStack itemStack, EntityPlayer player, List tooltipLines, boolean advancedTooltips) {
-		tooltipLines.add("Combine this any wool block to apply the Dotted pattern.");
+		tooltipLines.add("Combine this with any solid colored block to apply the Dotted pattern.");
 	}
 
 }

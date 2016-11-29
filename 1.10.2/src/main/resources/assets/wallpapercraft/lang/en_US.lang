@@ -11,6 +11,7 @@ itemGroup.WPtab=WallpaperCraft!
 
 item.pressblank.name=Blank Pattern Press
 item.pressbrick.name=Brick Pattern Press
+item.presswool.name=Wool Pattern Press
 item.presscheckered.name=Checkered Pattern Press
 item.pressclay.name=Clay Pattern Press
 item.pressdiagonallydotted.name=Diagonally Dotted Pattern Press
@@ -20,6 +21,12 @@ item.pressstriped.name=Striped Pattern Press
 item.pressfrostedglass.name=Frosted Glass Pattern Press
 item.presstexturedglass.name=Textured Glass Pattern Press
 item.presstintedglass.name=Tinted Glass Pattern Press
+item.presswoodplank.name=Wooden Plank Pattern Press
+item.pressstonebrick.name=Stone Brick Pattern Press
+item.pressrippled.name=Rippled Pattern Press
+item.pressstamp.name=Stamp Pattern Press
+
+
 
 
 
@@ -29,7 +36,36 @@ item.presstintedglass.name=Tinted Glass Pattern Press
 
 ################################################################
 ###########											 ###########
-###########  STARTING NAMING OF SOLID BLOCK COLOURS  ###########
+###########      STARTING NAMING OF STAMP BLOCKS      ###########
+###########											 ###########
+################################################################
+
+tile.WallpaperCraft:Stamp_0.name=Stamp Pink
+tile.WallpaperCraft:Stamp_1.name=Stamp Red
+tile.WallpaperCraft:Stamp_2.name=Stamp Hot Pink
+tile.WallpaperCraft:Stamp_3.name=Stamp Purple
+tile.WallpaperCraft:Stamp_4.name=Stamp Light Blue
+tile.WallpaperCraft:Stamp_5.name=Stamp Blue
+tile.WallpaperCraft:Stamp_6.name=Stamp Dark Blue
+tile.WallpaperCraft:Stamp_7.name=Stamp Light Green
+tile.WallpaperCraft:Stamp_8.name=Stamp Green
+tile.WallpaperCraft:Stamp_9.name=Stamp Dark Green
+tile.WallpaperCraft:Stamp_10.name=Stamp Yellow
+tile.WallpaperCraft:Stamp_11.name=Stamp Orange
+tile.WallpaperCraft:Stamp_12.name=Stamp Brown
+tile.WallpaperCraft:Stamp_13.name=Stamp Light Gray
+tile.WallpaperCraft:Stamp_14.name=Stamp Gray
+tile.WallpaperCraft:Stamp_15.name=Stamp Dark Gray
+
+
+
+
+
+
+
+################################################################
+###########											 ###########
+########### STARTING NAMING OF SOLID COLORED BLOCKS  ###########
 ###########											 ###########
 ################################################################
 
@@ -156,7 +192,7 @@ tile.WallpaperCraft:SolidYellow_9.name=Solid Dark Orange
 tile.WallpaperCraft:SolidYellow_10.name=Solid Light Orange
 tile.WallpaperCraft:SolidYellow_11.name=Solid Sunny Orange
 tile.WallpaperCraft:SolidYellow_12.name=Solid Orange
-tile.WallpaperCraft:SolidYellow_13.name=Solid Deep orange
+tile.WallpaperCraft:SolidYellow_13.name=Solid Deep Orange
 tile.WallpaperCraft:SolidYellow_14.name=Solid Orange Red
 
 
@@ -187,155 +223,155 @@ tile.WallpaperCraft:SolidGray_14.name=Solid Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########  STARTING NAMING OF DIAGONALlY DOTTED COLOURS  ###########
+###########  STARTING NAMING OF DIAGONALlY DOTTED BLOCKS   ###########
 ###########									     	       ###########
 ######################################################################
 
 
 #Diagonally Dotted Red Colours
-tile.WallpaperCraft:DiagonallyDottedRed_0.name=Dotted Light Warm Pink
-tile.WallpaperCraft:DiagonallyDottedRed_1.name=Dotted Light Red
-tile.WallpaperCraft:DiagonallyDottedRed_2.name=Dotted Bright Red
-tile.WallpaperCraft:DiagonallyDottedRed_3.name=Dotted Red
-tile.WallpaperCraft:DiagonallyDottedRed_4.name=Dotted Blood Red
-tile.WallpaperCraft:DiagonallyDottedRed_5.name=Dotted Light Cool Pink
-tile.WallpaperCraft:DiagonallyDottedRed_6.name=Dotted Pink
-tile.WallpaperCraft:DiagonallyDottedRed_7.name=Dotted Hot Pink
-tile.WallpaperCraft:DiagonallyDottedRed_8.name=Dotted Dark Pink
-tile.WallpaperCraft:DiagonallyDottedRed_9.name=Dotted Hot Pink
-tile.WallpaperCraft:DiagonallyDottedRed_10.name=Dotted Fuchsia
-tile.WallpaperCraft:DiagonallyDottedRed_11.name=Dotted Baby Pink
-tile.WallpaperCraft:DiagonallyDottedRed_12.name=Dotted Light Salmon
-tile.WallpaperCraft:DiagonallyDottedRed_13.name=Dotted Brown Red
-tile.WallpaperCraft:DiagonallyDottedRed_14.name=Dotted Dark Brown Red
+tile.WallpaperCraft:DiagonallyDottedRed_0.name=Diagonally Dotted Light Warm Pink
+tile.WallpaperCraft:DiagonallyDottedRed_1.name=Diagonally Dotted Light Red
+tile.WallpaperCraft:DiagonallyDottedRed_2.name=Diagonally Dotted Bright Red
+tile.WallpaperCraft:DiagonallyDottedRed_3.name=Diagonally Dotted Red
+tile.WallpaperCraft:DiagonallyDottedRed_4.name=Diagonally Dotted Blood Red
+tile.WallpaperCraft:DiagonallyDottedRed_5.name=Diagonally Dotted Light Cool Pink
+tile.WallpaperCraft:DiagonallyDottedRed_6.name=Diagonally Dotted Pink
+tile.WallpaperCraft:DiagonallyDottedRed_7.name=Diagonally Dotted Hot Pink
+tile.WallpaperCraft:DiagonallyDottedRed_8.name=Diagonally Dotted Dark Pink
+tile.WallpaperCraft:DiagonallyDottedRed_9.name=Diagonally Dotted Hot Pink
+tile.WallpaperCraft:DiagonallyDottedRed_10.name=Diagonally Dotted Fuchsia
+tile.WallpaperCraft:DiagonallyDottedRed_11.name=Diagonally Dotted Baby Pink
+tile.WallpaperCraft:DiagonallyDottedRed_12.name=Diagonally Dotted Light Salmon
+tile.WallpaperCraft:DiagonallyDottedRed_13.name=Diagonally Dotted Brown Red
+tile.WallpaperCraft:DiagonallyDottedRed_14.name=Diagonally Dotted Dark Brown Red
 
 
 
 #Diagonally Dotted Purple Colours
-tile.WallpaperCraft:DiagonallyDottedPurple_0.name=Dotted Light Magenta
-tile.WallpaperCraft:DiagonallyDottedPurple_1.name=Dotted Magenta
-tile.WallpaperCraft:DiagonallyDottedPurple_2.name=Dotted Dark Magenta
-tile.WallpaperCraft:DiagonallyDottedPurple_3.name=Dotted Violet
-tile.WallpaperCraft:DiagonallyDottedPurple_4.name=Dotted Dark Violet
-tile.WallpaperCraft:DiagonallyDottedPurple_5.name=Dotted Light Violet
-tile.WallpaperCraft:DiagonallyDottedPurple_6.name=Dotted Light Purple
-tile.WallpaperCraft:DiagonallyDottedPurple_7.name=Dotted Purple
-tile.WallpaperCraft:DiagonallyDottedPurple_8.name=Dotted Dark Purple
-tile.WallpaperCraft:DiagonallyDottedPurple_9.name=Dotted Royal Blue
-tile.WallpaperCraft:DiagonallyDottedPurple_10.name=Dotted Light Lavender
-tile.WallpaperCraft:DiagonallyDottedPurple_11.name=Dotted avender
-tile.WallpaperCraft:DiagonallyDottedPurple_12.name=Dotted Azure Blue
-tile.WallpaperCraft:DiagonallyDottedPurple_13.name=Dotted Dark Blue
-tile.WallpaperCraft:DiagonallyDottedPurple_14.name=Dotted Midnight Blue
+tile.WallpaperCraft:DiagonallyDottedPurple_0.name=Diagonally Dotted Light Magenta
+tile.WallpaperCraft:DiagonallyDottedPurple_1.name=Diagonally Dotted Magenta
+tile.WallpaperCraft:DiagonallyDottedPurple_2.name=Diagonally Dotted Dark Magenta
+tile.WallpaperCraft:DiagonallyDottedPurple_3.name=Diagonally Dotted Violet
+tile.WallpaperCraft:DiagonallyDottedPurple_4.name=Diagonally Dotted Dark Violet
+tile.WallpaperCraft:DiagonallyDottedPurple_5.name=Diagonally Dotted Light Violet
+tile.WallpaperCraft:DiagonallyDottedPurple_6.name=Diagonally Dotted Light Purple
+tile.WallpaperCraft:DiagonallyDottedPurple_7.name=Diagonally Dotted Purple
+tile.WallpaperCraft:DiagonallyDottedPurple_8.name=Diagonally Dotted Dark Purple
+tile.WallpaperCraft:DiagonallyDottedPurple_9.name=Diagonally Dotted Royal Blue
+tile.WallpaperCraft:DiagonallyDottedPurple_10.name=Diagonally Dotted Light Lavender
+tile.WallpaperCraft:DiagonallyDottedPurple_11.name=Diagonally Dotted Lavender
+tile.WallpaperCraft:DiagonallyDottedPurple_12.name=Diagonally Dotted Azure Blue
+tile.WallpaperCraft:DiagonallyDottedPurple_13.name=Diagonally Dotted Dark Blue
+tile.WallpaperCraft:DiagonallyDottedPurple_14.name=Diagonally Dotted Midnight Blue
 
 
 
 #Diagonally Dotted Blue Colours
-tile.WallpaperCraft:DiagonallyDottedBlue_0.name=Dotted Light Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_1.name=Dotted Light Sky Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_2.name=Dotted Sky Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_3.name=Dotted Dark Sky Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_4.name=Dotted Navy Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_5.name=Dotted Light Baby Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_6.name=Dotted Baby Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_7.name=Dotted Bright Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_8.name=Dotted Medium Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_9.name=Dotted Deep Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_10.name=Dotted Light Aqua Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_11.name=Dotted Aqua Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_12.name=Dotted Dark Aqua Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_13.name=Dotted Oceon Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_14.name=Dotted Midnight Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_0.name=Diagonally Dotted Light Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_1.name=Diagonally Dotted Light Sky Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_2.name=Diagonally Dotted Sky Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_3.name=Diagonally Dotted Dark Sky Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_4.name=Diagonally Dotted Navy Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_5.name=Diagonally Dotted Light Baby Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_6.name=Diagonally Dotted Baby Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_7.name=Diagonally Dotted Bright Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_8.name=Diagonally Dotted Medium Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_9.name=Diagonally Dotted Deep Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_10.name=Diagonally Dotted Light Aqua Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_11.name=Diagonally Dotted Aqua Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_12.name=Diagonally Dotted Dark Aqua Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_13.name=Diagonally Dotted Oceon Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_14.name=Diagonally Dotted Midnight Blue
 
 
 
 #Diagonally Dotted Brown Colours
-tile.WallpaperCraft:DiagonallyDottedBrown_0.name=Dotted Soft Orange
-tile.WallpaperCraft:DiagonallyDottedBrown_1.name=Dotted Sienna brown
-tile.WallpaperCraft:DiagonallyDottedBrown_2.name=Dotted Burnt Sienna Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_3.name=Dotted Earth Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_4.name=Dotted Soil Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_5.name=Dotted Light Beige
-tile.WallpaperCraft:DiagonallyDottedBrown_6.name=Dotted Beige
-tile.WallpaperCraft:DiagonallyDottedBrown_7.name=Dotted Terracotta Red
-tile.WallpaperCraft:DiagonallyDottedBrown_8.name=Dotted Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_9.name=Dotted Saddle Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_10.name=Dotted Light Gray Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_11.name=Dotted Gray Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_12.name=Dotted Middle Gray Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_13.name=Dotted Gray Brown
-tile.WallpaperCraft:DiagonallyDottedBrown_14.name=Dotted Dark Gray Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_0.name=Diagonally Dotted Soft Orange
+tile.WallpaperCraft:DiagonallyDottedBrown_1.name=Diagonally Dotted Sienna brown
+tile.WallpaperCraft:DiagonallyDottedBrown_2.name=Diagonally Dotted Burnt Sienna Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_3.name=Diagonally Dotted Earth Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_4.name=Diagonally Dotted Soil Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_5.name=Diagonally Dotted Light Beige
+tile.WallpaperCraft:DiagonallyDottedBrown_6.name=Diagonally Dotted Beige
+tile.WallpaperCraft:DiagonallyDottedBrown_7.name=Diagonally Dotted Terracotta Red
+tile.WallpaperCraft:DiagonallyDottedBrown_8.name=Diagonally Dotted Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_9.name=Diagonally Dotted Saddle Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_10.name=Diagonally Dotted Light Gray Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_11.name=Diagonally Dotted Gray Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_12.name=Diagonally Dotted Middle Gray Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_13.name=Diagonally Dotted Gray Brown
+tile.WallpaperCraft:DiagonallyDottedBrown_14.name=Diagonally Dotted Dark Gray Brown
 
 
 
 #Diagonally Dotted Cyan Colours
-tile.WallpaperCraft:DiagonallyDottedCyan_0.name=Dotted Light Green Blue
-tile.WallpaperCraft:DiagonallyDottedCyan_1.name=Dotted Light Turquoise Blue
-tile.WallpaperCraft:DiagonallyDottedCyan_2.name=Dotted Turquoise Blue
-tile.WallpaperCraft:DiagonallyDottedCyan_3.name=Dotted Teal Blue
-tile.WallpaperCraft:DiagonallyDottedCyan_4.name=Dotted Dark Teal Blue
-tile.WallpaperCraft:DiagonallyDottedCyan_5.name=Dotted Light Seafoam Blue Green
-tile.WallpaperCraft:DiagonallyDottedCyan_6.name=Dotted Seafoam Blue Green
-tile.WallpaperCraft:DiagonallyDottedCyan_7.name=Dotted Blue Green
-tile.WallpaperCraft:DiagonallyDottedCyan_8.name=Dotted Dark Blue Green
-tile.WallpaperCraft:DiagonallyDottedCyan_9.name=Dotted Dark Pine Blue Green
+tile.WallpaperCraft:DiagonallyDottedCyan_0.name=Diagonally Dotted Light Green Blue
+tile.WallpaperCraft:DiagonallyDottedCyan_1.name=Diagonally Dotted Light Turquoise Blue
+tile.WallpaperCraft:DiagonallyDottedCyan_2.name=Diagonally Dotted Turquoise Blue
+tile.WallpaperCraft:DiagonallyDottedCyan_3.name=Diagonally Dotted Teal Blue
+tile.WallpaperCraft:DiagonallyDottedCyan_4.name=Diagonally Dotted Dark Teal Blue
+tile.WallpaperCraft:DiagonallyDottedCyan_5.name=Diagonally Dotted Light Seafoam Blue Green
+tile.WallpaperCraft:DiagonallyDottedCyan_6.name=Diagonally Dotted Seafoam Blue Green
+tile.WallpaperCraft:DiagonallyDottedCyan_7.name=Diagonally Dotted Blue Green
+tile.WallpaperCraft:DiagonallyDottedCyan_8.name=Diagonally Dotted Dark Blue Green
+tile.WallpaperCraft:DiagonallyDottedCyan_9.name=Diagonally Dotted Dark Pine Blue Green
 
 
 
 #Diagonally Dotted Green Colours
-tile.WallpaperCraft:DiagonallyDottedGreen_0.name=Dotted Light Green
-tile.WallpaperCraft:DiagonallyDottedGreen_1.name=Dotted Light Spring Green
-tile.WallpaperCraft:DiagonallyDottedGreen_2.name=Dotted Spring Green
-tile.WallpaperCraft:DiagonallyDottedGreen_3.name=Dotted Green
-tile.WallpaperCraft:DiagonallyDottedGreen_4.name=Dotted Dark Green
-tile.WallpaperCraft:DiagonallyDottedGreen_5.name=Dotted Light Summer Green
-tile.WallpaperCraft:DiagonallyDottedGreen_6.name=Dotted Summer Green
-tile.WallpaperCraft:DiagonallyDottedGreen_7.name=Dotted Lush Green
-tile.WallpaperCraft:DiagonallyDottedGreen_8.name=Dotted Deep Lush Green
-tile.WallpaperCraft:DiagonallyDottedGreen_9.name=Dotted Dark Lush Green
-tile.WallpaperCraft:DiagonallyDottedGreen_10.name=Dotted Light Spring Green
-tile.WallpaperCraft:DiagonallyDottedGreen_11.name=Dotted Spring Green
-tile.WallpaperCraft:DiagonallyDottedGreen_12.name=Dotted Light Olive Green
-tile.WallpaperCraft:DiagonallyDottedGreen_13.name=Dotted Olive Green
-tile.WallpaperCraft:DiagonallyDottedGreen_14.name=Dotted Moss Green
+tile.WallpaperCraft:DiagonallyDottedGreen_0.name=Diagonally Dotted Light Green
+tile.WallpaperCraft:DiagonallyDottedGreen_1.name=Diagonally Dotted Light Spring Green
+tile.WallpaperCraft:DiagonallyDottedGreen_2.name=Diagonally Dotted Spring Green
+tile.WallpaperCraft:DiagonallyDottedGreen_3.name=Diagonally Dotted Green
+tile.WallpaperCraft:DiagonallyDottedGreen_4.name=Diagonally Dotted Dark Green
+tile.WallpaperCraft:DiagonallyDottedGreen_5.name=Diagonally Dotted Light Summer Green
+tile.WallpaperCraft:DiagonallyDottedGreen_6.name=Diagonally Dotted Summer Green
+tile.WallpaperCraft:DiagonallyDottedGreen_7.name=Diagonally Dotted Lush Green
+tile.WallpaperCraft:DiagonallyDottedGreen_8.name=Diagonally Dotted Deep Lush Green
+tile.WallpaperCraft:DiagonallyDottedGreen_9.name=Diagonally Dotted Dark Lush Green
+tile.WallpaperCraft:DiagonallyDottedGreen_10.name=Diagonally Dotted Light Spring Green
+tile.WallpaperCraft:DiagonallyDottedGreen_11.name=Diagonally Dotted Spring Green
+tile.WallpaperCraft:DiagonallyDottedGreen_12.name=Diagonally Dotted Light Olive Green
+tile.WallpaperCraft:DiagonallyDottedGreen_13.name=Diagonally Dotted Olive Green
+tile.WallpaperCraft:DiagonallyDottedGreen_14.name=Diagonally Dotted Moss Green
 
 
 
 #Diagonally Dotted Yellow Colours
-tile.WallpaperCraft:DiagonallyDottedYellow_0.name=Dotted Light Lemon Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_1.name=Dotted Lemon Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_2.name=Dotted Sunny Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_3.name=Dotted Soft Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_4.name=Dotted Orange Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_5.name=Dotted Light Sand Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_6.name=Dotted Light Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_7.name=Dotted Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_8.name=Dotted Gold Yellow
-tile.WallpaperCraft:DiagonallyDottedYellow_9.name=Dotted Dark Orange
-tile.WallpaperCraft:DiagonallyDottedYellow_10.name=Dotted Light Orange
-tile.WallpaperCraft:DiagonallyDottedYellow_11.name=Dotted Sunny Orange
-tile.WallpaperCraft:DiagonallyDottedYellow_12.name=Dotted Orange
-tile.WallpaperCraft:DiagonallyDottedYellow_13.name=Dotted Deep orange
-tile.WallpaperCraft:DiagonallyDottedYellow_14.name=Dotted Orange Red
+tile.WallpaperCraft:DiagonallyDottedYellow_0.name=Diagonally Dotted Light Lemon Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_1.name=Diagonally Dotted Lemon Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_2.name=Diagonally Dotted Sunny Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_3.name=Diagonally Dotted Soft Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_4.name=Diagonally Dotted Orange Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_5.name=Diagonally Dotted Light Sand Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_6.name=Diagonally Dotted Light Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_7.name=Diagonally Dotted Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_8.name=Diagonally Dotted Gold Yellow
+tile.WallpaperCraft:DiagonallyDottedYellow_9.name=Diagonally Dotted Dark Orange
+tile.WallpaperCraft:DiagonallyDottedYellow_10.name=Diagonally Dotted Light Orange
+tile.WallpaperCraft:DiagonallyDottedYellow_11.name=Diagonally Dotted Sunny Orange
+tile.WallpaperCraft:DiagonallyDottedYellow_12.name=Diagonally Dotted Orange
+tile.WallpaperCraft:DiagonallyDottedYellow_13.name=Diagonally Dotted Deep Orange
+tile.WallpaperCraft:DiagonallyDottedYellow_14.name=Diagonally Dotted Orange Red
 
 
 
 #Diagonally Dotted Gray Colours
-tile.WallpaperCraft:DiagonallyDottedGray_0.name=Dotted White Gray
-tile.WallpaperCraft:DiagonallyDottedGray_1.name=Dotted Light Gray
-tile.WallpaperCraft:DiagonallyDottedGray_2.name=Dotted Gray
-tile.WallpaperCraft:DiagonallyDottedGray_3.name=Dotted Dark Gray
-tile.WallpaperCraft:DiagonallyDottedGray_4.name=Dotted Gray Black
-tile.WallpaperCraft:DiagonallyDottedGray_5.name=Dotted Light Warm Gray
-tile.WallpaperCraft:DiagonallyDottedGray_6.name=Dotted Warm Gray
-tile.WallpaperCraft:DiagonallyDottedGray_7.name=Dotted Middle Warm Gray
-tile.WallpaperCraft:DiagonallyDottedGray_8.name=Dotted Dark Warm Gray
-tile.WallpaperCraft:DiagonallyDottedGray_9.name=Dotted Warm Black Gray
-tile.WallpaperCraft:DiagonallyDottedGray_10.name=Dotted Light Cool gray
-tile.WallpaperCraft:DiagonallyDottedGray_11.name=Dotted Cool Gray
-tile.WallpaperCraft:DiagonallyDottedGray_12.name=Dotted Dark Cool Gray
-tile.WallpaperCraft:DiagonallyDottedGray_13.name=Dotted Cool Blue Gray
-tile.WallpaperCraft:DiagonallyDottedGray_14.name=Dotted Cool Dark Blue Gray
+tile.WallpaperCraft:DiagonallyDottedGray_0.name=Diagonally Dotted White Gray
+tile.WallpaperCraft:DiagonallyDottedGray_1.name=Diagonally Dotted Light Gray
+tile.WallpaperCraft:DiagonallyDottedGray_2.name=Diagonally Dotted Gray
+tile.WallpaperCraft:DiagonallyDottedGray_3.name=Diagonally Dotted Dark Gray
+tile.WallpaperCraft:DiagonallyDottedGray_4.name=Diagonally Dotted Gray Black
+tile.WallpaperCraft:DiagonallyDottedGray_5.name=Diagonally Dotted Light Warm Gray
+tile.WallpaperCraft:DiagonallyDottedGray_6.name=Diagonally Dotted Warm Gray
+tile.WallpaperCraft:DiagonallyDottedGray_7.name=Diagonally Dotted Middle Warm Gray
+tile.WallpaperCraft:DiagonallyDottedGray_8.name=Diagonally Dotted Dark Warm Gray
+tile.WallpaperCraft:DiagonallyDottedGray_9.name=Diagonally Dotted Warm Black Gray
+tile.WallpaperCraft:DiagonallyDottedGray_10.name=Diagonally Dotted Light Cool gray
+tile.WallpaperCraft:DiagonallyDottedGray_11.name=Diagonally Dotted Cool Gray
+tile.WallpaperCraft:DiagonallyDottedGray_12.name=Diagonally Dotted Dark Cool Gray
+tile.WallpaperCraft:DiagonallyDottedGray_13.name=Diagonally Dotted Cool Blue Gray
+tile.WallpaperCraft:DiagonallyDottedGray_14.name=Diagonally Dotted Cool Dark Blue Gray
 
 
 
@@ -346,7 +382,166 @@ tile.WallpaperCraft:DiagonallyDottedGray_14.name=Dotted Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########       STARTING NAMING OF Floral COLOURS       ###########
+###########        STARTING NAMING OF DOTTED BLOCKS        ###########
+###########									     	       ###########
+######################################################################
+
+
+#Dotted Red Colours
+tile.WallpaperCraft:DottedRed_0.name=Dotted Light Warm Pink
+tile.WallpaperCraft:DottedRed_1.name=Dotted Light Red
+tile.WallpaperCraft:DottedRed_2.name=Dotted Bright Red
+tile.WallpaperCraft:DottedRed_3.name=Dotted Red
+tile.WallpaperCraft:DottedRed_4.name=Dotted Blood Red
+tile.WallpaperCraft:DottedRed_5.name=Dotted Light Cool Pink
+tile.WallpaperCraft:DottedRed_6.name=Dotted Pink
+tile.WallpaperCraft:DottedRed_7.name=Dotted Hot Pink
+tile.WallpaperCraft:DottedRed_8.name=Dotted Dark Pink
+tile.WallpaperCraft:DottedRed_9.name=Dotted Hot Pink
+tile.WallpaperCraft:DottedRed_10.name=Dotted Fuchsia
+tile.WallpaperCraft:DottedRed_11.name=Dotted Baby Pink
+tile.WallpaperCraft:DottedRed_12.name=Dotted Light Salmon
+tile.WallpaperCraft:DottedRed_13.name=Dotted Brown Red
+tile.WallpaperCraft:DottedRed_14.name=Dotted Dark Brown Red
+
+
+
+#Dotted Purple Colours
+tile.WallpaperCraft:DottedPurple_0.name=Dotted Light Magenta
+tile.WallpaperCraft:DottedPurple_1.name=Dotted Magenta
+tile.WallpaperCraft:DottedPurple_2.name=Dotted Dark Magenta
+tile.WallpaperCraft:DottedPurple_3.name=Dotted Violet
+tile.WallpaperCraft:DottedPurple_4.name=Dotted Dark Violet
+tile.WallpaperCraft:DottedPurple_5.name=Dotted Light Violet
+tile.WallpaperCraft:DottedPurple_6.name=Dotted Light Purple
+tile.WallpaperCraft:DottedPurple_7.name=Dotted Purple
+tile.WallpaperCraft:DottedPurple_8.name=Dotted Dark Purple
+tile.WallpaperCraft:DottedPurple_9.name=Dotted Royal Blue
+tile.WallpaperCraft:DottedPurple_10.name=Dotted Light Lavender
+tile.WallpaperCraft:DottedPurple_11.name=Dotted Lavender
+tile.WallpaperCraft:DottedPurple_12.name=Dotted Azure Blue
+tile.WallpaperCraft:DottedPurple_13.name=Dotted Dark Blue
+tile.WallpaperCraft:DottedPurple_14.name=Dotted Midnight Blue
+
+
+
+#Dotted Blue Colours
+tile.WallpaperCraft:DottedBlue_0.name=Dotted Light Blue
+tile.WallpaperCraft:DottedBlue_1.name=Dotted Light Sky Blue
+tile.WallpaperCraft:DottedBlue_2.name=Dotted Sky Blue
+tile.WallpaperCraft:DottedBlue_3.name=Dotted Dark Sky Blue
+tile.WallpaperCraft:DottedBlue_4.name=Dotted Navy Blue
+tile.WallpaperCraft:DottedBlue_5.name=Dotted Light Baby Blue
+tile.WallpaperCraft:DottedBlue_6.name=Dotted Baby Blue
+tile.WallpaperCraft:DottedBlue_7.name=Dotted Bright Blue
+tile.WallpaperCraft:DottedBlue_8.name=Dotted Medium Blue
+tile.WallpaperCraft:DottedBlue_9.name=Dotted Deep Blue
+tile.WallpaperCraft:DottedBlue_10.name=Dotted Light Aqua Blue
+tile.WallpaperCraft:DottedBlue_11.name=Dotted Aqua Blue
+tile.WallpaperCraft:DottedBlue_12.name=Dotted Dark Aqua Blue
+tile.WallpaperCraft:DottedBlue_13.name=Dotted Oceon Blue
+tile.WallpaperCraft:DottedBlue_14.name=Dotted Midnight Blue
+
+
+
+#Dotted Brown Colours
+tile.WallpaperCraft:DottedBrown_0.name=Dotted Soft Orange
+tile.WallpaperCraft:DottedBrown_1.name=Dotted Sienna brown
+tile.WallpaperCraft:DottedBrown_2.name=Dotted Burnt Sienna Brown
+tile.WallpaperCraft:DottedBrown_3.name=Dotted Earth Brown
+tile.WallpaperCraft:DottedBrown_4.name=Dotted Soil Brown
+tile.WallpaperCraft:DottedBrown_5.name=Dotted Light Beige
+tile.WallpaperCraft:DottedBrown_6.name=Dotted Beige
+tile.WallpaperCraft:DottedBrown_7.name=Dotted Terracotta Red
+tile.WallpaperCraft:DottedBrown_8.name=Dotted Brown
+tile.WallpaperCraft:DottedBrown_9.name=Dotted Saddle Brown
+tile.WallpaperCraft:DottedBrown_10.name=Dotted Light Gray Brown
+tile.WallpaperCraft:DottedBrown_11.name=Dotted Gray Brown
+tile.WallpaperCraft:DottedBrown_12.name=Dotted Middle Gray Brown
+tile.WallpaperCraft:DottedBrown_13.name=Dotted Gray Brown
+tile.WallpaperCraft:DottedBrown_14.name=Dotted Dark Gray Brown
+
+
+
+#Dotted Cyan Colours
+tile.WallpaperCraft:DottedCyan_0.name=Dotted Light Green Blue
+tile.WallpaperCraft:DottedCyan_1.name=Dotted Light Turquoise Blue
+tile.WallpaperCraft:DottedCyan_2.name=Dotted Turquoise Blue
+tile.WallpaperCraft:DottedCyan_3.name=Dotted Teal Blue
+tile.WallpaperCraft:DottedCyan_4.name=Dotted Dark Teal Blue
+tile.WallpaperCraft:DottedCyan_5.name=Dotted Light Seafoam Blue Green
+tile.WallpaperCraft:DottedCyan_6.name=Dotted Seafoam Blue Green
+tile.WallpaperCraft:DottedCyan_7.name=Dotted Blue Green
+tile.WallpaperCraft:DottedCyan_8.name=Dotted Dark Blue Green
+tile.WallpaperCraft:DottedCyan_9.name=Dotted Dark Pine Blue Green
+
+
+
+#Dotted Green Colours
+tile.WallpaperCraft:DottedGreen_0.name=Dotted Light Green
+tile.WallpaperCraft:DottedGreen_1.name=Dotted Light Spring Green
+tile.WallpaperCraft:DottedGreen_2.name=Dotted Spring Green
+tile.WallpaperCraft:DottedGreen_3.name=Dotted Green
+tile.WallpaperCraft:DottedGreen_4.name=Dotted Dark Green
+tile.WallpaperCraft:DottedGreen_5.name=Dotted Light Summer Green
+tile.WallpaperCraft:DottedGreen_6.name=Dotted Summer Green
+tile.WallpaperCraft:DottedGreen_7.name=Dotted Lush Green
+tile.WallpaperCraft:DottedGreen_8.name=Dotted Deep Lush Green
+tile.WallpaperCraft:DottedGreen_9.name=Dotted Dark Lush Green
+tile.WallpaperCraft:DottedGreen_10.name=Dotted Light Spring Green
+tile.WallpaperCraft:DottedGreen_11.name=Dotted Spring Green
+tile.WallpaperCraft:DottedGreen_12.name=Dotted Light Olive Green
+tile.WallpaperCraft:DottedGreen_13.name=Dotted Olive Green
+tile.WallpaperCraft:DottedGreen_14.name=Dotted Moss Green
+
+
+
+#Dotted Yellow Colours
+tile.WallpaperCraft:DottedYellow_0.name=Dotted Light Lemon Yellow
+tile.WallpaperCraft:DottedYellow_1.name=Dotted Lemon Yellow
+tile.WallpaperCraft:DottedYellow_2.name=Dotted Sunny Yellow
+tile.WallpaperCraft:DottedYellow_3.name=Dotted Soft Yellow
+tile.WallpaperCraft:DottedYellow_4.name=Dotted Orange Yellow
+tile.WallpaperCraft:DottedYellow_5.name=Dotted Light Sand Yellow
+tile.WallpaperCraft:DottedYellow_6.name=Dotted Light Yellow
+tile.WallpaperCraft:DottedYellow_7.name=Dotted Yellow
+tile.WallpaperCraft:DottedYellow_8.name=Dotted Gold Yellow
+tile.WallpaperCraft:DottedYellow_9.name=Dotted Dark Orange
+tile.WallpaperCraft:DottedYellow_10.name=Dotted Light Orange
+tile.WallpaperCraft:DottedYellow_11.name=Dotted Sunny Orange
+tile.WallpaperCraft:DottedYellow_12.name=Dotted Orange
+tile.WallpaperCraft:DottedYellow_13.name=Dotted Deep Orange
+tile.WallpaperCraft:DottedYellow_14.name=Dotted Orange Red
+
+
+
+#Dotted Gray Colours
+tile.WallpaperCraft:DottedGray_0.name=Dotted White Gray
+tile.WallpaperCraft:DottedGray_1.name=Dotted Light Gray
+tile.WallpaperCraft:DottedGray_2.name=Dotted Gray
+tile.WallpaperCraft:DottedGray_3.name=Dotted Dark Gray
+tile.WallpaperCraft:DottedGray_4.name=Dotted Gray Black
+tile.WallpaperCraft:DottedGray_5.name=Dotted Light Warm Gray
+tile.WallpaperCraft:DottedGray_6.name=Dotted Warm Gray
+tile.WallpaperCraft:DottedGray_7.name=Dotted Middle Warm Gray
+tile.WallpaperCraft:DottedGray_8.name=Dotted Dark Warm Gray
+tile.WallpaperCraft:DottedGray_9.name=Dotted Warm Black Gray
+tile.WallpaperCraft:DottedGray_10.name=Dotted Light Cool gray
+tile.WallpaperCraft:DottedGray_11.name=Dotted Cool Gray
+tile.WallpaperCraft:DottedGray_12.name=Dotted Dark Cool Gray
+tile.WallpaperCraft:DottedGray_13.name=Dotted Cool Blue Gray
+tile.WallpaperCraft:DottedGray_14.name=Dotted Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########       STARTING NAMING OF STRIPED BLOCKS        ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -382,7 +577,7 @@ tile.WallpaperCraft:StripedPurple_7.name=Striped Purple
 tile.WallpaperCraft:StripedPurple_8.name=Striped Dark Purple
 tile.WallpaperCraft:StripedPurple_9.name=Striped Royal Blue
 tile.WallpaperCraft:StripedPurple_10.name=Striped Light Lavender
-tile.WallpaperCraft:StripedPurple_11.name=Striped avender
+tile.WallpaperCraft:StripedPurple_11.name=Striped Lavender
 tile.WallpaperCraft:StripedPurple_12.name=Striped Azure Blue
 tile.WallpaperCraft:StripedPurple_13.name=Striped Dark Blue
 tile.WallpaperCraft:StripedPurple_14.name=Striped Midnight Blue
@@ -474,7 +669,7 @@ tile.WallpaperCraft:StripedYellow_9.name=Striped Dark Orange
 tile.WallpaperCraft:StripedYellow_10.name=Striped Light Orange
 tile.WallpaperCraft:StripedYellow_11.name=Striped Sunny Orange
 tile.WallpaperCraft:StripedYellow_12.name=Striped Orange
-tile.WallpaperCraft:StripedYellow_13.name=Striped Deep orange
+tile.WallpaperCraft:StripedYellow_13.name=Striped Deep Orange
 tile.WallpaperCraft:StripedYellow_14.name=Striped Orange Red
 
 
@@ -505,7 +700,7 @@ tile.WallpaperCraft:StripedGray_14.name=Striped Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########       STARTING NAMING OF FLORAL COLOURS        ###########
+###########       STARTING NAMING OF FLORAL BLOCKS         ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -541,7 +736,7 @@ tile.WallpaperCraft:FloralPurple_7.name=Floral Purple
 tile.WallpaperCraft:FloralPurple_8.name=Floral Dark Purple
 tile.WallpaperCraft:FloralPurple_9.name=Floral Royal Blue
 tile.WallpaperCraft:FloralPurple_10.name=Floral Light Lavender
-tile.WallpaperCraft:FloralPurple_11.name=Floral avender
+tile.WallpaperCraft:FloralPurple_11.name=Floral Lavender
 tile.WallpaperCraft:FloralPurple_12.name=Floral Azure Blue
 tile.WallpaperCraft:FloralPurple_13.name=Floral Dark Blue
 tile.WallpaperCraft:FloralPurple_14.name=Floral Midnight Blue
@@ -633,7 +828,7 @@ tile.WallpaperCraft:FloralYellow_9.name=Floral Dark Orange
 tile.WallpaperCraft:FloralYellow_10.name=Floral Light Orange
 tile.WallpaperCraft:FloralYellow_11.name=Floral Sunny Orange
 tile.WallpaperCraft:FloralYellow_12.name=Floral Orange
-tile.WallpaperCraft:FloralYellow_13.name=Floral Deep orange
+tile.WallpaperCraft:FloralYellow_13.name=Floral Deep Orange
 tile.WallpaperCraft:FloralYellow_14.name=Floral Orange Red
 
 
@@ -664,7 +859,7 @@ tile.WallpaperCraft:FloralGray_14.name=Floral Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########         STARTING NAMING OF CLAY COLOURS        ###########
+###########          STARTING NAMING OF CLAY BLOCK         ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -700,7 +895,7 @@ tile.WallpaperCraft:ClayPurple_7.name=Clay Purple
 tile.WallpaperCraft:ClayPurple_8.name=Clay Dark Purple
 tile.WallpaperCraft:ClayPurple_9.name=Clay Royal Blue
 tile.WallpaperCraft:ClayPurple_10.name=Clay Light Lavender
-tile.WallpaperCraft:ClayPurple_11.name=Clay avender
+tile.WallpaperCraft:ClayPurple_11.name=Clay Lavender
 tile.WallpaperCraft:ClayPurple_12.name=Clay Azure Blue
 tile.WallpaperCraft:ClayPurple_13.name=Clay Dark Blue
 tile.WallpaperCraft:ClayPurple_14.name=Clay Midnight Blue
@@ -792,7 +987,7 @@ tile.WallpaperCraft:ClayYellow_9.name=Clay Dark Orange
 tile.WallpaperCraft:ClayYellow_10.name=Clay Light Orange
 tile.WallpaperCraft:ClayYellow_11.name=Clay Sunny Orange
 tile.WallpaperCraft:ClayYellow_12.name=Clay Orange
-tile.WallpaperCraft:ClayYellow_13.name=Clay Deep orange
+tile.WallpaperCraft:ClayYellow_13.name=Clay Deep Orange
 tile.WallpaperCraft:ClayYellow_14.name=Clay Orange Red
 
 
@@ -821,168 +1016,10 @@ tile.WallpaperCraft:ClayGray_14.name=Clay Cool Dark Blue Gray
 
 
 
-######################################################################
-###########												   ###########
-###########         STARTING NAMING OF CLAY COLOURS        ###########
-###########									     	       ###########
-######################################################################
-
-
-#Clay Red Colours
-tile.WallpaperCraft:ClayRed_0.name=Clay Light Warm Pink
-tile.WallpaperCraft:ClayRed_1.name=Clay Light Red
-tile.WallpaperCraft:ClayRed_2.name=Clay Bright Red
-tile.WallpaperCraft:ClayRed_3.name=Clay Red
-tile.WallpaperCraft:ClayRed_4.name=Clay Blood Red
-tile.WallpaperCraft:ClayRed_5.name=Clay Light Cool Pink
-tile.WallpaperCraft:ClayRed_6.name=Clay Pink
-tile.WallpaperCraft:ClayRed_7.name=Clay Hot Pink
-tile.WallpaperCraft:ClayRed_8.name=Clay Dark Pink
-tile.WallpaperCraft:ClayRed_9.name=Clay Hot Pink
-tile.WallpaperCraft:ClayRed_10.name=Clay Fuchsia
-tile.WallpaperCraft:ClayRed_11.name=Clay Baby Pink
-tile.WallpaperCraft:ClayRed_12.name=Clay Light Salmon
-tile.WallpaperCraft:ClayRed_13.name=Clay Brown Red
-tile.WallpaperCraft:ClayRed_14.name=Clay Dark Brown Red
-
-
-
-#Clay Purple Colours
-tile.WallpaperCraft:ClayPurple_0.name=Clay Light Magenta
-tile.WallpaperCraft:ClayPurple_1.name=Clay Magenta
-tile.WallpaperCraft:ClayPurple_2.name=Clay Dark Magenta
-tile.WallpaperCraft:ClayPurple_3.name=Clay Violet
-tile.WallpaperCraft:ClayPurple_4.name=Clay Dark Violet
-tile.WallpaperCraft:ClayPurple_5.name=Clay Light Violet
-tile.WallpaperCraft:ClayPurple_6.name=Clay Light Purple
-tile.WallpaperCraft:ClayPurple_7.name=Clay Purple
-tile.WallpaperCraft:ClayPurple_8.name=Clay Dark Purple
-tile.WallpaperCraft:ClayPurple_9.name=Clay Royal Blue
-tile.WallpaperCraft:ClayPurple_10.name=Clay Light Lavender
-tile.WallpaperCraft:ClayPurple_11.name=Clay avender
-tile.WallpaperCraft:ClayPurple_12.name=Clay Azure Blue
-tile.WallpaperCraft:ClayPurple_13.name=Clay Dark Blue
-tile.WallpaperCraft:ClayPurple_14.name=Clay Midnight Blue
-
-
-
-#Clay Blue Colours
-tile.WallpaperCraft:ClayBlue_0.name=Clay Light Blue
-tile.WallpaperCraft:ClayBlue_1.name=Clay Light Sky Blue
-tile.WallpaperCraft:ClayBlue_2.name=Clay Sky Blue
-tile.WallpaperCraft:ClayBlue_3.name=Clay Dark Sky Blue
-tile.WallpaperCraft:ClayBlue_4.name=Clay Navy Blue
-tile.WallpaperCraft:ClayBlue_5.name=Clay Light Baby Blue
-tile.WallpaperCraft:ClayBlue_6.name=Clay Baby Blue
-tile.WallpaperCraft:ClayBlue_7.name=Clay Bright Blue
-tile.WallpaperCraft:ClayBlue_8.name=Clay Medium Blue
-tile.WallpaperCraft:ClayBlue_9.name=Clay Deep Blue
-tile.WallpaperCraft:ClayBlue_10.name=Clay Light Aqua Blue
-tile.WallpaperCraft:ClayBlue_11.name=Clay Aqua Blue
-tile.WallpaperCraft:ClayBlue_12.name=Clay Dark Aqua Blue
-tile.WallpaperCraft:ClayBlue_13.name=Clay Oceon Blue
-tile.WallpaperCraft:ClayBlue_14.name=Clay Midnight Blue
-
-
-
-#Clay Brown Colours
-tile.WallpaperCraft:ClayBrown_0.name=Clay Soft Orange
-tile.WallpaperCraft:ClayBrown_1.name=Clay Sienna brown
-tile.WallpaperCraft:ClayBrown_2.name=Clay Burnt Sienna Brown
-tile.WallpaperCraft:ClayBrown_3.name=Clay Earth Brown
-tile.WallpaperCraft:ClayBrown_4.name=Clay Soil Brown
-tile.WallpaperCraft:ClayBrown_5.name=Clay Light Beige
-tile.WallpaperCraft:ClayBrown_6.name=Clay Beige
-tile.WallpaperCraft:ClayBrown_7.name=Clay Terracotta Red
-tile.WallpaperCraft:ClayBrown_8.name=Clay Brown
-tile.WallpaperCraft:ClayBrown_9.name=Clay Saddle Brown
-tile.WallpaperCraft:ClayBrown_10.name=Clay Light Gray Brown
-tile.WallpaperCraft:ClayBrown_11.name=Clay Gray Brown
-tile.WallpaperCraft:ClayBrown_12.name=Clay Middle Gray Brown
-tile.WallpaperCraft:ClayBrown_13.name=Clay Gray Brown
-tile.WallpaperCraft:ClayBrown_14.name=Clay Dark Gray Brown
-
-
-
-#Clay Cyan Colours
-tile.WallpaperCraft:ClayCyan_0.name=Clay Light Green Blue
-tile.WallpaperCraft:ClayCyan_1.name=Clay Light Turquoise Blue
-tile.WallpaperCraft:ClayCyan_2.name=Clay Turquoise Blue
-tile.WallpaperCraft:ClayCyan_3.name=Clay Teal Blue
-tile.WallpaperCraft:ClayCyan_4.name=Clay Dark Teal Blue
-tile.WallpaperCraft:ClayCyan_5.name=Clay Light Seafoam Blue Green
-tile.WallpaperCraft:ClayCyan_6.name=Clay Seafoam Blue Green
-tile.WallpaperCraft:ClayCyan_7.name=Clay Blue Green
-tile.WallpaperCraft:ClayCyan_8.name=Clay Dark Blue Green
-tile.WallpaperCraft:ClayCyan_9.name=Clay Dark Pine Blue Green
-
-
-
-#Clay Green Colours
-tile.WallpaperCraft:ClayGreen_0.name=Clay Light Green
-tile.WallpaperCraft:ClayGreen_1.name=Clay Light Spring Green
-tile.WallpaperCraft:ClayGreen_2.name=Clay Spring Green
-tile.WallpaperCraft:ClayGreen_3.name=Clay Green
-tile.WallpaperCraft:ClayGreen_4.name=Clay Dark Green
-tile.WallpaperCraft:ClayGreen_5.name=Clay Light Summer Green
-tile.WallpaperCraft:ClayGreen_6.name=Clay Summer Green
-tile.WallpaperCraft:ClayGreen_7.name=Clay Lush Green
-tile.WallpaperCraft:ClayGreen_8.name=Clay Deep Lush Green
-tile.WallpaperCraft:ClayGreen_9.name=Clay Dark Lush Green
-tile.WallpaperCraft:ClayGreen_10.name=Clay Light Spring Green
-tile.WallpaperCraft:ClayGreen_11.name=Clay Spring Green
-tile.WallpaperCraft:ClayGreen_12.name=Clay Light Olive Green
-tile.WallpaperCraft:ClayGreen_13.name=Clay Olive Green
-tile.WallpaperCraft:ClayGreen_14.name=Clay Moss Green
-
-
-
-#Clay Yellow Colours
-tile.WallpaperCraft:ClayYellow_0.name=Clay Light Lemon Yellow
-tile.WallpaperCraft:ClayYellow_1.name=Clay Lemon Yellow
-tile.WallpaperCraft:ClayYellow_2.name=Clay Sunny Yellow
-tile.WallpaperCraft:ClayYellow_3.name=Clay Soft Yellow
-tile.WallpaperCraft:ClayYellow_4.name=Clay Orange Yellow
-tile.WallpaperCraft:ClayYellow_5.name=Clay Light Sand Yellow
-tile.WallpaperCraft:ClayYellow_6.name=Clay Light Yellow
-tile.WallpaperCraft:ClayYellow_7.name=Clay Yellow
-tile.WallpaperCraft:ClayYellow_8.name=Clay Gold Yellow
-tile.WallpaperCraft:ClayYellow_9.name=Clay Dark Orange
-tile.WallpaperCraft:ClayYellow_10.name=Clay Light Orange
-tile.WallpaperCraft:ClayYellow_11.name=Clay Sunny Orange
-tile.WallpaperCraft:ClayYellow_12.name=Clay Orange
-tile.WallpaperCraft:ClayYellow_13.name=Clay Deep orange
-tile.WallpaperCraft:ClayYellow_14.name=Clay Orange Red
-
-
-
-#Clay Gray Colours
-tile.WallpaperCraft:ClayGray_0.name=Clay White Gray
-tile.WallpaperCraft:ClayGray_1.name=Clay Light Gray
-tile.WallpaperCraft:ClayGray_2.name=Clay Gray
-tile.WallpaperCraft:ClayGray_3.name=Clay Dark Gray
-tile.WallpaperCraft:ClayGray_4.name=Clay Gray Black
-tile.WallpaperCraft:ClayGray_5.name=Clay Light Warm Gray
-tile.WallpaperCraft:ClayGray_6.name=Clay Warm Gray
-tile.WallpaperCraft:ClayGray_7.name=Clay Middle Warm Gray
-tile.WallpaperCraft:ClayGray_8.name=Clay Dark Warm Gray
-tile.WallpaperCraft:ClayGray_9.name=Clay Warm Black Gray
-tile.WallpaperCraft:ClayGray_10.name=Clay Light Cool gray
-tile.WallpaperCraft:ClayGray_11.name=Clay Cool Gray
-tile.WallpaperCraft:ClayGray_12.name=Clay Dark Cool Gray
-tile.WallpaperCraft:ClayGray_13.name=Clay Cool Blue Gray
-tile.WallpaperCraft:ClayGray_14.name=Clay Cool Dark Blue Gray
-
-
-
-
-
-
-
 
 ######################################################################
 ###########												   ###########
-###########    STARTING NAMING OF TINTED GLASS COLOURS     ###########
+###########    STARTING NAMING OF TINTED GLASS BLOCKS      ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -1018,7 +1055,7 @@ tile.WallpaperCraft:TintedGlassPurple_7.name=Tinted Glass Purple
 tile.WallpaperCraft:TintedGlassPurple_8.name=Tinted Glass Dark Purple
 tile.WallpaperCraft:TintedGlassPurple_9.name=Tinted Glass Royal Blue
 tile.WallpaperCraft:TintedGlassPurple_10.name=Tinted Glass Light Lavender
-tile.WallpaperCraft:TintedGlassPurple_11.name=Tinted Glass avender
+tile.WallpaperCraft:TintedGlassPurple_11.name=Tinted Glass Lavender
 tile.WallpaperCraft:TintedGlassPurple_12.name=Tinted Glass Azure Blue
 tile.WallpaperCraft:TintedGlassPurple_13.name=Tinted Glass Dark Blue
 tile.WallpaperCraft:TintedGlassPurple_14.name=Tinted Glass Midnight Blue
@@ -1110,7 +1147,7 @@ tile.WallpaperCraft:TintedGlassYellow_9.name=Tinted Glass Dark Orange
 tile.WallpaperCraft:TintedGlassYellow_10.name=Tinted Glass Light Orange
 tile.WallpaperCraft:TintedGlassYellow_11.name=Tinted Glass Sunny Orange
 tile.WallpaperCraft:TintedGlassYellow_12.name=Tinted Glass Orange
-tile.WallpaperCraft:TintedGlassYellow_13.name=Tinted Glass Deep orange
+tile.WallpaperCraft:TintedGlassYellow_13.name=Tinted Glass Deep Orange
 tile.WallpaperCraft:TintedGlassYellow_14.name=Tinted Glass Orange Red
 
 
@@ -1141,7 +1178,7 @@ tile.WallpaperCraft:TintedGlassGray_14.name=Tinted Glass Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########   STARTING NAMING OF TEXTURED GLASS COLOURS    ###########
+###########   STARTING NAMING OF TEXTURED GLASS BLOCKS     ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -1177,7 +1214,7 @@ tile.WallpaperCraft:TexturedGlassPurple_7.name=Textured Glass Purple
 tile.WallpaperCraft:TexturedGlassPurple_8.name=Textured Glass Dark Purple
 tile.WallpaperCraft:TexturedGlassPurple_9.name=Textured Glass Royal Blue
 tile.WallpaperCraft:TexturedGlassPurple_10.name=Textured Glass Light Lavender
-tile.WallpaperCraft:TexturedGlassPurple_11.name=Textured Glass avender
+tile.WallpaperCraft:TexturedGlassPurple_11.name=Textured Glass Lavender
 tile.WallpaperCraft:TexturedGlassPurple_12.name=Textured Glass Azure Blue
 tile.WallpaperCraft:TexturedGlassPurple_13.name=Textured Glass Dark Blue
 tile.WallpaperCraft:TexturedGlassPurple_14.name=Textured Glass Midnight Blue
@@ -1269,7 +1306,7 @@ tile.WallpaperCraft:TexturedGlassYellow_9.name=Textured Glass Dark Orange
 tile.WallpaperCraft:TexturedGlassYellow_10.name=Textured Glass Light Orange
 tile.WallpaperCraft:TexturedGlassYellow_11.name=Textured Glass Sunny Orange
 tile.WallpaperCraft:TexturedGlassYellow_12.name=Textured Glass Orange
-tile.WallpaperCraft:TexturedGlassYellow_13.name=Textured Glass Deep orange
+tile.WallpaperCraft:TexturedGlassYellow_13.name=Textured Glass Deep Orange
 tile.WallpaperCraft:TexturedGlassYellow_14.name=Textured Glass Orange Red
 
 
@@ -1300,7 +1337,7 @@ tile.WallpaperCraft:TexturedGlassGray_14.name=Textured Glass Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########    STARTING NAMING OF FROSTED GLASS COLOURS    ###########
+###########    STARTING NAMING OF FROSTED GLASS BLOCKS     ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -1336,7 +1373,7 @@ tile.WallpaperCraft:FrostedGlassPurple_7.name=Frosted Glass Purple
 tile.WallpaperCraft:FrostedGlassPurple_8.name=Frosted Glass Dark Purple
 tile.WallpaperCraft:FrostedGlassPurple_9.name=Frosted Glass Royal Blue
 tile.WallpaperCraft:FrostedGlassPurple_10.name=Frosted Glass Light Lavender
-tile.WallpaperCraft:FrostedGlassPurple_11.name=Frosted Glass avender
+tile.WallpaperCraft:FrostedGlassPurple_11.name=Frosted Glass Lavender
 tile.WallpaperCraft:FrostedGlassPurple_12.name=Frosted Glass Azure Blue
 tile.WallpaperCraft:FrostedGlassPurple_13.name=Frosted Glass Dark Blue
 tile.WallpaperCraft:FrostedGlassPurple_14.name=Frosted Glass Midnight Blue
@@ -1428,7 +1465,7 @@ tile.WallpaperCraft:FrostedGlassYellow_9.name=Frosted Glass Dark Orange
 tile.WallpaperCraft:FrostedGlassYellow_10.name=Frosted Glass Light Orange
 tile.WallpaperCraft:FrostedGlassYellow_11.name=Frosted Glass Sunny Orange
 tile.WallpaperCraft:FrostedGlassYellow_12.name=Frosted Glass Orange
-tile.WallpaperCraft:FrostedGlassYellow_13.name=Frosted Glass Deep orange
+tile.WallpaperCraft:FrostedGlassYellow_13.name=Frosted Glass Deep Orange
 tile.WallpaperCraft:FrostedGlassYellow_14.name=Frosted Glass Orange Red
 
 
@@ -1459,7 +1496,7 @@ tile.WallpaperCraft:FrostedGlassGray_14.name=Frosted Glass Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########        STARTING NAMING OF BRICK COLOURS        ###########
+###########           STARTING NAMING OF BRICKS            ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -1495,7 +1532,7 @@ tile.WallpaperCraft:BrickPurple_7.name=Brick Purple
 tile.WallpaperCraft:BrickPurple_8.name=Brick Dark Purple
 tile.WallpaperCraft:BrickPurple_9.name=Brick Royal Blue
 tile.WallpaperCraft:BrickPurple_10.name=Brick Light Lavender
-tile.WallpaperCraft:BrickPurple_11.name=Brick avender
+tile.WallpaperCraft:BrickPurple_11.name=Brick Lavender
 tile.WallpaperCraft:BrickPurple_12.name=Brick Azure Blue
 tile.WallpaperCraft:BrickPurple_13.name=Brick Dark Blue
 tile.WallpaperCraft:BrickPurple_14.name=Brick Midnight Blue
@@ -1587,7 +1624,7 @@ tile.WallpaperCraft:BrickYellow_9.name=Brick Dark Orange
 tile.WallpaperCraft:BrickYellow_10.name=Brick Light Orange
 tile.WallpaperCraft:BrickYellow_11.name=Brick Sunny Orange
 tile.WallpaperCraft:BrickYellow_12.name=Brick Orange
-tile.WallpaperCraft:BrickYellow_13.name=Brick Deep orange
+tile.WallpaperCraft:BrickYellow_13.name=Brick Deep Orange
 tile.WallpaperCraft:BrickYellow_14.name=Brick Orange Red
 
 
@@ -1617,330 +1654,10 @@ tile.WallpaperCraft:BrickGray_14.name=Brick Cool Dark Blue Gray
 
 
 
-######################################################################
-###########												   ###########
-###########    STARTING NAMING OF DOTTED CARPET COLOURS    ###########
-###########									     	       ###########
-######################################################################
-
-
-#Dotted Carpet Red Colours
-tile.WallpaperCraft:DottedCarpetRed_0.name=Dotted Carpet Light Warm Pink
-tile.WallpaperCraft:DottedCarpetRed_1.name=Dotted Carpet Light Red
-tile.WallpaperCraft:DottedCarpetRed_2.name=Dotted Carpet Bright Red
-tile.WallpaperCraft:DottedCarpetRed_3.name=Dotted Carpet Red
-tile.WallpaperCraft:DottedCarpetRed_4.name=Dotted Carpet Blood Red
-tile.WallpaperCraft:DottedCarpetRed_5.name=Dotted Carpet Light Cool Pink
-tile.WallpaperCraft:DottedCarpetRed_6.name=Dotted Carpet Pink
-tile.WallpaperCraft:DottedCarpetRed_7.name=Dotted Carpet Hot Pink
-tile.WallpaperCraft:DottedCarpetRed_8.name=Dotted Carpet Dark Pink
-tile.WallpaperCraft:DottedCarpetRed_9.name=Dotted Carpet Hot Pink
-tile.WallpaperCraft:DottedCarpetRed_10.name=Dotted Carpet Fuchsia
-tile.WallpaperCraft:DottedCarpetRed_11.name=Dotted Carpet Baby Pink
-tile.WallpaperCraft:DottedCarpetRed_12.name=Dotted Carpet Light Salmon
-tile.WallpaperCraft:DottedCarpetRed_13.name=Dotted Carpet Brown Red
-tile.WallpaperCraft:DottedCarpetRed_14.name=Dotted Carpet Dark Brown Red
-
-
-
-#Dotted Carpet Purple Colours
-tile.WallpaperCraft:DottedCarpetPurple_0.name=Dotted Carpet Light Magenta
-tile.WallpaperCraft:DottedCarpetPurple_1.name=Dotted Carpet Magenta
-tile.WallpaperCraft:DottedCarpetPurple_2.name=Dotted Carpet Dark Magenta
-tile.WallpaperCraft:DottedCarpetPurple_3.name=Dotted Carpet Violet
-tile.WallpaperCraft:DottedCarpetPurple_4.name=Dotted Carpet Dark Violet
-tile.WallpaperCraft:DottedCarpetPurple_5.name=Dotted Carpet Light Violet
-tile.WallpaperCraft:DottedCarpetPurple_6.name=Dotted Carpet Light Purple
-tile.WallpaperCraft:DottedCarpetPurple_7.name=Dotted Carpet Purple
-tile.WallpaperCraft:DottedCarpetPurple_8.name=Dotted Carpet Dark Purple
-tile.WallpaperCraft:DottedCarpetPurple_9.name=Dotted Carpet Royal Blue
-tile.WallpaperCraft:DottedCarpetPurple_10.name=Dotted Carpet Light Lavender
-tile.WallpaperCraft:DottedCarpetPurple_11.name=Dotted Carpet avender
-tile.WallpaperCraft:DottedCarpetPurple_12.name=Dotted Carpet Azure Blue
-tile.WallpaperCraft:DottedCarpetPurple_13.name=Dotted Carpet Dark Blue
-tile.WallpaperCraft:DottedCarpetPurple_14.name=Dotted Carpet Midnight Blue
-
-
-
-#Dotted Carpet Blue Colours
-tile.WallpaperCraft:DottedCarpetBlue_0.name=Dotted Carpet Light Blue
-tile.WallpaperCraft:DottedCarpetBlue_1.name=Dotted Carpet Light Sky Blue
-tile.WallpaperCraft:DottedCarpetBlue_2.name=Dotted Carpet Sky Blue
-tile.WallpaperCraft:DottedCarpetBlue_3.name=Dotted Carpet Dark Sky Blue
-tile.WallpaperCraft:DottedCarpetBlue_4.name=Dotted Carpet Navy Blue
-tile.WallpaperCraft:DottedCarpetBlue_5.name=Dotted Carpet Light Baby Blue
-tile.WallpaperCraft:DottedCarpetBlue_6.name=Dotted Carpet Baby Blue
-tile.WallpaperCraft:DottedCarpetBlue_7.name=Dotted Carpet Bright Blue
-tile.WallpaperCraft:DottedCarpetBlue_8.name=Dotted Carpet Medium Blue
-tile.WallpaperCraft:DottedCarpetBlue_9.name=Dotted Carpet Deep Blue
-tile.WallpaperCraft:DottedCarpetBlue_10.name=Dotted Carpet Light Aqua Blue
-tile.WallpaperCraft:DottedCarpetBlue_11.name=Dotted Carpet Aqua Blue
-tile.WallpaperCraft:DottedCarpetBlue_12.name=Dotted Carpet Dark Aqua Blue
-tile.WallpaperCraft:DottedCarpetBlue_13.name=Dotted Carpet Oceon Blue
-tile.WallpaperCraft:DottedCarpetBlue_14.name=Dotted Carpet Midnight Blue
-
-
-
-#Dotted Carpet Brown Colours
-tile.WallpaperCraft:DottedCarpetBrown_0.name=Dotted Carpet Soft Orange
-tile.WallpaperCraft:DottedCarpetBrown_1.name=Dotted Carpet Sienna brown
-tile.WallpaperCraft:DottedCarpetBrown_2.name=Dotted Carpet Burnt Sienna Brown
-tile.WallpaperCraft:DottedCarpetBrown_3.name=Dotted Carpet Earth Brown
-tile.WallpaperCraft:DottedCarpetBrown_4.name=Dotted Carpet Soil Brown
-tile.WallpaperCraft:DottedCarpetBrown_5.name=Dotted Carpet Light Beige
-tile.WallpaperCraft:DottedCarpetBrown_6.name=Dotted Carpet Beige
-tile.WallpaperCraft:DottedCarpetBrown_7.name=Dotted Carpet Terracotta Red
-tile.WallpaperCraft:DottedCarpetBrown_8.name=Dotted Carpet Brown
-tile.WallpaperCraft:DottedCarpetBrown_9.name=Dotted Carpet Saddle Brown
-tile.WallpaperCraft:DottedCarpetBrown_10.name=Dotted Carpet Light Gray Brown
-tile.WallpaperCraft:DottedCarpetBrown_11.name=Dotted Carpet Gray Brown
-tile.WallpaperCraft:DottedCarpetBrown_12.name=Dotted Carpet Middle Gray Brown
-tile.WallpaperCraft:DottedCarpetBrown_13.name=Dotted Carpet Gray Brown
-tile.WallpaperCraft:DottedCarpetBrown_14.name=Dotted Carpet Dark Gray Brown
-
-
-
-#Dotted Carpet Cyan Colours
-tile.WallpaperCraft:DottedCarpetCyan_0.name=Dotted Carpet Light Green Blue
-tile.WallpaperCraft:DottedCarpetCyan_1.name=Dotted Carpet Light Turquoise Blue
-tile.WallpaperCraft:DottedCarpetCyan_2.name=Dotted Carpet Turquoise Blue
-tile.WallpaperCraft:DottedCarpetCyan_3.name=Dotted Carpet Teal Blue
-tile.WallpaperCraft:DottedCarpetCyan_4.name=Dotted Carpet Dark Teal Blue
-tile.WallpaperCraft:DottedCarpetCyan_5.name=Dotted Carpet Light Seafoam Blue Green
-tile.WallpaperCraft:DottedCarpetCyan_6.name=Dotted Carpet Seafoam Blue Green
-tile.WallpaperCraft:DottedCarpetCyan_7.name=Dotted Carpet Blue Green
-tile.WallpaperCraft:DottedCarpetCyan_8.name=Dotted Carpet Dark Blue Green
-tile.WallpaperCraft:DottedCarpetCyan_9.name=Dotted Carpet Dark Pine Blue Green
-
-
-
-#Dotted Carpet Green Colours
-tile.WallpaperCraft:DottedCarpetGreen_0.name=Dotted Carpet Light Green
-tile.WallpaperCraft:DottedCarpetGreen_1.name=Dotted Carpet Light Spring Green
-tile.WallpaperCraft:DottedCarpetGreen_2.name=Dotted Carpet Spring Green
-tile.WallpaperCraft:DottedCarpetGreen_3.name=Dotted Carpet Green
-tile.WallpaperCraft:DottedCarpetGreen_4.name=Dotted Carpet Dark Green
-tile.WallpaperCraft:DottedCarpetGreen_5.name=Dotted Carpet Light Summer Green
-tile.WallpaperCraft:DottedCarpetGreen_6.name=Dotted Carpet Summer Green
-tile.WallpaperCraft:DottedCarpetGreen_7.name=Dotted Carpet Lush Green
-tile.WallpaperCraft:DottedCarpetGreen_8.name=Dotted Carpet Deep Lush Green
-tile.WallpaperCraft:DottedCarpetGreen_9.name=Dotted Carpet Dark Lush Green
-tile.WallpaperCraft:DottedCarpetGreen_10.name=Dotted Carpet Light Spring Green
-tile.WallpaperCraft:DottedCarpetGreen_11.name=Dotted Carpet Spring Green
-tile.WallpaperCraft:DottedCarpetGreen_12.name=Dotted Carpet Light Olive Green
-tile.WallpaperCraft:DottedCarpetGreen_13.name=Dotted Carpet Olive Green
-tile.WallpaperCraft:DottedCarpetGreen_14.name=Dotted Carpet Moss Green
-
-
-
-#Dotted Carpet Yellow Colours
-tile.WallpaperCraft:DottedCarpetYellow_0.name=Dotted Carpet Light Lemon Yellow
-tile.WallpaperCraft:DottedCarpetYellow_1.name=Dotted Carpet Lemon Yellow
-tile.WallpaperCraft:DottedCarpetYellow_2.name=Dotted Carpet Sunny Yellow
-tile.WallpaperCraft:DottedCarpetYellow_3.name=Dotted Carpet Soft Yellow
-tile.WallpaperCraft:DottedCarpetYellow_4.name=Dotted Carpet Orange Yellow
-tile.WallpaperCraft:DottedCarpetYellow_5.name=Dotted Carpet Light Sand Yellow
-tile.WallpaperCraft:DottedCarpetYellow_6.name=Dotted Carpet Light Yellow
-tile.WallpaperCraft:DottedCarpetYellow_7.name=Dotted Carpet Yellow
-tile.WallpaperCraft:DottedCarpetYellow_8.name=Dotted Carpet Gold Yellow
-tile.WallpaperCraft:DottedCarpetYellow_9.name=Dotted Carpet Dark Orange
-tile.WallpaperCraft:DottedCarpetYellow_10.name=Dotted Carpet Light Orange
-tile.WallpaperCraft:DottedCarpetYellow_11.name=Dotted Carpet Sunny Orange
-tile.WallpaperCraft:DottedCarpetYellow_12.name=Dotted Carpet Orange
-tile.WallpaperCraft:DottedCarpetYellow_13.name=Dotted Carpet Deep orange
-tile.WallpaperCraft:DottedCarpetYellow_14.name=Dotted Carpet Orange Red
-
-
-
-#Dotted Carpet Gray Colours
-tile.WallpaperCraft:DottedCarpetGray_0.name=Dotted Carpet White Gray
-tile.WallpaperCraft:DottedCarpetGray_1.name=Dotted Carpet Light Gray
-tile.WallpaperCraft:DottedCarpetGray_2.name=Dotted Carpet Gray
-tile.WallpaperCraft:DottedCarpetGray_3.name=Dotted Carpet Dark Gray
-tile.WallpaperCraft:DottedCarpetGray_4.name=Dotted Carpet Gray Black
-tile.WallpaperCraft:DottedCarpetGray_5.name=Dotted Carpet Light Warm Gray
-tile.WallpaperCraft:DottedCarpetGray_6.name=Dotted Carpet Warm Gray
-tile.WallpaperCraft:DottedCarpetGray_7.name=Dotted Carpet Middle Warm Gray
-tile.WallpaperCraft:DottedCarpetGray_8.name=Dotted Carpet Dark Warm Gray
-tile.WallpaperCraft:DottedCarpetGray_9.name=Dotted Carpet Warm Black Gray
-tile.WallpaperCraft:DottedCarpetGray_10.name=Dotted Carpet Light Cool gray
-tile.WallpaperCraft:DottedCarpetGray_11.name=Dotted Carpet Cool Gray
-tile.WallpaperCraft:DottedCarpetGray_12.name=Dotted Carpet Dark Cool Gray
-tile.WallpaperCraft:DottedCarpetGray_13.name=Dotted Carpet Cool Blue Gray
-tile.WallpaperCraft:DottedCarpetGray_14.name=Dotted Carpet Cool Dark Blue Gray
-
-
-
-
-
-
-
-
-
 
 ######################################################################
 ###########												   ###########
-###########     STARTING NAMING OF DOTTED RUGS COLOURS     ###########
-###########									     	       ###########
-######################################################################
-
-
-#Dotted Rug Red Colours
-tile.WallpaperCraft:DottedRugRed_0.name=Dotted Rug Light Warm Pink
-tile.WallpaperCraft:DottedRugRed_1.name=Dotted Rug Light Red
-tile.WallpaperCraft:DottedRugRed_2.name=Dotted Rug Bright Red
-tile.WallpaperCraft:DottedRugRed_3.name=Dotted Rug Red
-tile.WallpaperCraft:DottedRugRed_4.name=Dotted Rug Blood Red
-tile.WallpaperCraft:DottedRugRed_5.name=Dotted Rug Light Cool Pink
-tile.WallpaperCraft:DottedRugRed_6.name=Dotted Rug Pink
-tile.WallpaperCraft:DottedRugRed_7.name=Dotted Rug Hot Pink
-tile.WallpaperCraft:DottedRugRed_8.name=Dotted Rug Dark Pink
-tile.WallpaperCraft:DottedRugRed_9.name=Dotted Rug Hot Pink
-tile.WallpaperCraft:DottedRugRed_10.name=Dotted Rug Fuchsia
-tile.WallpaperCraft:DottedRugRed_11.name=Dotted Rug Baby Pink
-tile.WallpaperCraft:DottedRugRed_12.name=Dotted Rug Light Salmon
-tile.WallpaperCraft:DottedRugRed_13.name=Dotted Rug Brown Red
-tile.WallpaperCraft:DottedRugRed_14.name=Dotted Rug Dark Brown Red
-
-
-
-#Dotted Rug Purple Colours
-tile.WallpaperCraft:DottedRugPurple_0.name=Dotted Rug Light Magenta
-tile.WallpaperCraft:DottedRugPurple_1.name=Dotted Rug Magenta
-tile.WallpaperCraft:DottedRugPurple_2.name=Dotted Rug Dark Magenta
-tile.WallpaperCraft:DottedRugPurple_3.name=Dotted Rug Violet
-tile.WallpaperCraft:DottedRugPurple_4.name=Dotted Rug Dark Violet
-tile.WallpaperCraft:DottedRugPurple_5.name=Dotted Rug Light Violet
-tile.WallpaperCraft:DottedRugPurple_6.name=Dotted Rug Light Purple
-tile.WallpaperCraft:DottedRugPurple_7.name=Dotted Rug Purple
-tile.WallpaperCraft:DottedRugPurple_8.name=Dotted Rug Dark Purple
-tile.WallpaperCraft:DottedRugPurple_9.name=Dotted Rug Royal Blue
-tile.WallpaperCraft:DottedRugPurple_10.name=Dotted Rug Light Lavender
-tile.WallpaperCraft:DottedRugPurple_11.name=Dotted Rug avender
-tile.WallpaperCraft:DottedRugPurple_12.name=Dotted Rug Azure Blue
-tile.WallpaperCraft:DottedRugPurple_13.name=Dotted Rug Dark Blue
-tile.WallpaperCraft:DottedRugPurple_14.name=Dotted Rug Midnight Blue
-
-
-
-#Dotted Rug Blue Colours
-tile.WallpaperCraft:DottedRugBlue_0.name=Dotted Rug Light Blue
-tile.WallpaperCraft:DottedRugBlue_1.name=Dotted Rug Light Sky Blue
-tile.WallpaperCraft:DottedRugBlue_2.name=Dotted Rug Sky Blue
-tile.WallpaperCraft:DottedRugBlue_3.name=Dotted Rug Dark Sky Blue
-tile.WallpaperCraft:DottedRugBlue_4.name=Dotted Rug Navy Blue
-tile.WallpaperCraft:DottedRugBlue_5.name=Dotted Rug Light Baby Blue
-tile.WallpaperCraft:DottedRugBlue_6.name=Dotted Rug Baby Blue
-tile.WallpaperCraft:DottedRugBlue_7.name=Dotted Rug Bright Blue
-tile.WallpaperCraft:DottedRugBlue_8.name=Dotted Rug Medium Blue
-tile.WallpaperCraft:DottedRugBlue_9.name=Dotted Rug Deep Blue
-tile.WallpaperCraft:DottedRugBlue_10.name=Dotted Rug Light Aqua Blue
-tile.WallpaperCraft:DottedRugBlue_11.name=Dotted Rug Aqua Blue
-tile.WallpaperCraft:DottedRugBlue_12.name=Dotted Rug Dark Aqua Blue
-tile.WallpaperCraft:DottedRugBlue_13.name=Dotted Rug Oceon Blue
-tile.WallpaperCraft:DottedRugBlue_14.name=Dotted Rug Midnight Blue
-
-
-
-#Dotted Rug Brown Colours
-tile.WallpaperCraft:DottedRugBrown_0.name=Dotted Rug Soft Orange
-tile.WallpaperCraft:DottedRugBrown_1.name=Dotted Rug Sienna brown
-tile.WallpaperCraft:DottedRugBrown_2.name=Dotted Rug Burnt Sienna Brown
-tile.WallpaperCraft:DottedRugBrown_3.name=Dotted Rug Earth Brown
-tile.WallpaperCraft:DottedRugBrown_4.name=Dotted Rug Soil Brown
-tile.WallpaperCraft:DottedRugBrown_5.name=Dotted Rug Light Beige
-tile.WallpaperCraft:DottedRugBrown_6.name=Dotted Rug Beige
-tile.WallpaperCraft:DottedRugBrown_7.name=Dotted Rug Terracotta Red
-tile.WallpaperCraft:DottedRugBrown_8.name=Dotted Rug Brown
-tile.WallpaperCraft:DottedRugBrown_9.name=Dotted Rug Saddle Brown
-tile.WallpaperCraft:DottedRugBrown_10.name=Dotted Rug Light Gray Brown
-tile.WallpaperCraft:DottedRugBrown_11.name=Dotted Rug Gray Brown
-tile.WallpaperCraft:DottedRugBrown_12.name=Dotted Rug Middle Gray Brown
-tile.WallpaperCraft:DottedRugBrown_13.name=Dotted Rug Gray Brown
-tile.WallpaperCraft:DottedRugBrown_14.name=Dotted Rug Dark Gray Brown
-
-
-
-#Dotted Rug Cyan Colours
-tile.WallpaperCraft:DottedRugCyan_0.name=Dotted Rug Light Green Blue
-tile.WallpaperCraft:DottedRugCyan_1.name=Dotted Rug Light Turquoise Blue
-tile.WallpaperCraft:DottedRugCyan_2.name=Dotted Rug Turquoise Blue
-tile.WallpaperCraft:DottedRugCyan_3.name=Dotted Rug Teal Blue
-tile.WallpaperCraft:DottedRugCyan_4.name=Dotted Rug Dark Teal Blue
-tile.WallpaperCraft:DottedRugCyan_5.name=Dotted Rug Light Seafoam Blue Green
-tile.WallpaperCraft:DottedRugCyan_6.name=Dotted Rug Seafoam Blue Green
-tile.WallpaperCraft:DottedRugCyan_7.name=Dotted Rug Blue Green
-tile.WallpaperCraft:DottedRugCyan_8.name=Dotted Rug Dark Blue Green
-tile.WallpaperCraft:DottedRugCyan_9.name=Dotted Rug Dark Pine Blue Green
-
-
-
-#Dotted Rug Green Colours
-tile.WallpaperCraft:DottedRugGreen_0.name=Dotted Rug Light Green
-tile.WallpaperCraft:DottedRugGreen_1.name=Dotted Rug Light Spring Green
-tile.WallpaperCraft:DottedRugGreen_2.name=Dotted Rug Spring Green
-tile.WallpaperCraft:DottedRugGreen_3.name=Dotted Rug Green
-tile.WallpaperCraft:DottedRugGreen_4.name=Dotted Rug Dark Green
-tile.WallpaperCraft:DottedRugGreen_5.name=Dotted Rug Light Summer Green
-tile.WallpaperCraft:DottedRugGreen_6.name=Dotted Rug Summer Green
-tile.WallpaperCraft:DottedRugGreen_7.name=Dotted Rug Lush Green
-tile.WallpaperCraft:DottedRugGreen_8.name=Dotted Rug Deep Lush Green
-tile.WallpaperCraft:DottedRugGreen_9.name=Dotted Rug Dark Lush Green
-tile.WallpaperCraft:DottedRugGreen_10.name=Dotted Rug Light Spring Green
-tile.WallpaperCraft:DottedRugGreen_11.name=Dotted Rug Spring Green
-tile.WallpaperCraft:DottedRugGreen_12.name=Dotted Rug Light Olive Green
-tile.WallpaperCraft:DottedRugGreen_13.name=Dotted Rug Olive Green
-tile.WallpaperCraft:DottedRugGreen_14.name=Dotted Rug Moss Green
-
-
-
-#Dotted Rug Yellow Colours
-tile.WallpaperCraft:DottedRugYellow_0.name=Dotted Rug Light Lemon Yellow
-tile.WallpaperCraft:DottedRugYellow_1.name=Dotted Rug Lemon Yellow
-tile.WallpaperCraft:DottedRugYellow_2.name=Dotted Rug Sunny Yellow
-tile.WallpaperCraft:DottedRugYellow_3.name=Dotted Rug Soft Yellow
-tile.WallpaperCraft:DottedRugYellow_4.name=Dotted Rug Orange Yellow
-tile.WallpaperCraft:DottedRugYellow_5.name=Dotted Rug Light Sand Yellow
-tile.WallpaperCraft:DottedRugYellow_6.name=Dotted Rug Light Yellow
-tile.WallpaperCraft:DottedRugYellow_7.name=Dotted Rug Yellow
-tile.WallpaperCraft:DottedRugYellow_8.name=Dotted Rug Gold Yellow
-tile.WallpaperCraft:DottedRugYellow_9.name=Dotted Rug Dark Orange
-tile.WallpaperCraft:DottedRugYellow_10.name=Dotted Rug Light Orange
-tile.WallpaperCraft:DottedRugYellow_11.name=Dotted Rug Sunny Orange
-tile.WallpaperCraft:DottedRugYellow_12.name=Dotted Rug Orange
-tile.WallpaperCraft:DottedRugYellow_13.name=Dotted Rug Deep orange
-tile.WallpaperCraft:DottedRugYellow_14.name=Dotted Rug Orange Red
-
-
-
-#Dotted Rug Gray Colours
-tile.WallpaperCraft:DottedRugGray_0.name=Dotted Rug White Gray
-tile.WallpaperCraft:DottedRugGray_1.name=Dotted Rug Light Gray
-tile.WallpaperCraft:DottedRugGray_2.name=Dotted Rug Gray
-tile.WallpaperCraft:DottedRugGray_3.name=Dotted Rug Dark Gray
-tile.WallpaperCraft:DottedRugGray_4.name=Dotted Rug Gray Black
-tile.WallpaperCraft:DottedRugGray_5.name=Dotted Rug Light Warm Gray
-tile.WallpaperCraft:DottedRugGray_6.name=Dotted Rug Warm Gray
-tile.WallpaperCraft:DottedRugGray_7.name=Dotted Rug Middle Warm Gray
-tile.WallpaperCraft:DottedRugGray_8.name=Dotted Rug Dark Warm Gray
-tile.WallpaperCraft:DottedRugGray_9.name=Dotted Rug Warm Black Gray
-tile.WallpaperCraft:DottedRugGray_10.name=Dotted Carpet Light Cool gray
-tile.WallpaperCraft:DottedRugGray_11.name=Dotted Carpet Cool Gray
-tile.WallpaperCraft:DottedRugGray_12.name=Dotted Carpet Dark Cool Gray
-tile.WallpaperCraft:DottedRugGray_13.name=Dotted Carpet Cool Blue Gray
-tile.WallpaperCraft:DottedRugGray_14.name=Dotted Carpet Cool Dark Blue Gray
-
-
-
-
-
-
-
-
-
-######################################################################
-###########												   ###########
-###########  STARTING NAMING OF CHECKERED CARPET COLOURS   ###########
+###########    STARTING NAMING OF CHECKERED WOOL CARPETS   ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -1976,7 +1693,7 @@ tile.WallpaperCraft:CheckeredCarpetPurple_7.name=Checkered Carpet Purple
 tile.WallpaperCraft:CheckeredCarpetPurple_8.name=Checkered Carpet Dark Purple
 tile.WallpaperCraft:CheckeredCarpetPurple_9.name=Checkered Carpet Royal Blue
 tile.WallpaperCraft:CheckeredCarpetPurple_10.name=Checkered Carpet Light Lavender
-tile.WallpaperCraft:CheckeredCarpetPurple_11.name=Checkered Carpet avender
+tile.WallpaperCraft:CheckeredCarpetPurple_11.name=Checkered Carpet Lavender
 tile.WallpaperCraft:CheckeredCarpetPurple_12.name=Checkered Carpet Azure Blue
 tile.WallpaperCraft:CheckeredCarpetPurple_13.name=Checkered Carpet Dark Blue
 tile.WallpaperCraft:CheckeredCarpetPurple_14.name=Checkered Carpet Midnight Blue
@@ -2068,7 +1785,7 @@ tile.WallpaperCraft:CheckeredCarpetYellow_9.name=Checkered Carpet Dark Orange
 tile.WallpaperCraft:CheckeredCarpetYellow_10.name=Checkered Carpet Light Orange
 tile.WallpaperCraft:CheckeredCarpetYellow_11.name=Checkered Carpet Sunny Orange
 tile.WallpaperCraft:CheckeredCarpetYellow_12.name=Checkered Carpet Orange
-tile.WallpaperCraft:CheckeredCarpetYellow_13.name=Checkered Carpet Deep orange
+tile.WallpaperCraft:CheckeredCarpetYellow_13.name=Checkered Carpet Deep Orange
 tile.WallpaperCraft:CheckeredCarpetYellow_14.name=Checkered Carpet Orange Red
 
 
@@ -2101,152 +1818,956 @@ tile.WallpaperCraft:CheckeredCarpetGray_14.name=Checkered Carpet Cool Dark Blue 
 
 ######################################################################
 ###########												   ###########
-###########   STARTING NAMING OF CHECKERED RUGS COLOURS    ###########
+###########   STARTING NAMING OF CHECKERED WOOL BLOCKS     ###########
 ###########									     	       ###########
 ######################################################################
 
 
-#Checkered Rug Red Colours
-tile.WallpaperCraft:CheckeredRugRed_0.name=Checkered Rug Light Warm Pink
-tile.WallpaperCraft:CheckeredRugRed_1.name=Checkered Rug Light Red
-tile.WallpaperCraft:CheckeredRugRed_2.name=Checkered Rug Bright Red
-tile.WallpaperCraft:CheckeredRugRed_3.name=Checkered Rug Red
-tile.WallpaperCraft:CheckeredRugRed_4.name=Checkered Rug Blood Red
-tile.WallpaperCraft:CheckeredRugRed_5.name=Checkered Rug Light Cool Pink
-tile.WallpaperCraft:CheckeredRugRed_6.name=Checkered Rug Pink
-tile.WallpaperCraft:CheckeredRugRed_7.name=Checkered Rug Hot Pink
-tile.WallpaperCraft:CheckeredRugRed_8.name=Checkered Rug Dark Pink
-tile.WallpaperCraft:CheckeredRugRed_9.name=Checkered Rug Hot Pink
-tile.WallpaperCraft:CheckeredRugRed_10.name=Checkered Rug Fuchsia
-tile.WallpaperCraft:CheckeredRugRed_11.name=Checkered Rug Baby Pink
-tile.WallpaperCraft:CheckeredRugRed_12.name=Checkered Rug Light Salmon
-tile.WallpaperCraft:CheckeredRugRed_13.name=Checkered Rug Brown Red
-tile.WallpaperCraft:CheckeredRugRed_14.name=Checkered Rug Dark Brown Red
+#Checkered Wool Red Colours
+tile.WallpaperCraft:CheckeredWoolRed_0.name=Checkered Wool Light Warm Pink
+tile.WallpaperCraft:CheckeredWoolRed_1.name=Checkered Wool Light Red
+tile.WallpaperCraft:CheckeredWoolRed_2.name=Checkered Wool Bright Red
+tile.WallpaperCraft:CheckeredWoolRed_3.name=Checkered Wool Red
+tile.WallpaperCraft:CheckeredWoolRed_4.name=Checkered Wool Blood Red
+tile.WallpaperCraft:CheckeredWoolRed_5.name=Checkered Wool Light Cool Pink
+tile.WallpaperCraft:CheckeredWoolRed_6.name=Checkered Wool Pink
+tile.WallpaperCraft:CheckeredWoolRed_7.name=Checkered Wool Hot Pink
+tile.WallpaperCraft:CheckeredWoolRed_8.name=Checkered Wool Dark Pink
+tile.WallpaperCraft:CheckeredWoolRed_9.name=Checkered Wool Hot Pink
+tile.WallpaperCraft:CheckeredWoolRed_10.name=Checkered Wool Fuchsia
+tile.WallpaperCraft:CheckeredWoolRed_11.name=Checkered Wool Baby Pink
+tile.WallpaperCraft:CheckeredWoolRed_12.name=Checkered Wool Light Salmon
+tile.WallpaperCraft:CheckeredWoolRed_13.name=Checkered Wool Brown Red
+tile.WallpaperCraft:CheckeredWoolRed_14.name=Checkered Wool Dark Brown Red
 
 
 
-#Checkered Rug Purple Colours
-tile.WallpaperCraft:CheckeredRugPurple_0.name=Checkered Rug Light Magenta
-tile.WallpaperCraft:CheckeredRugPurple_1.name=Checkered Rug Magenta
-tile.WallpaperCraft:CheckeredRugPurple_2.name=Checkered Rug Dark Magenta
-tile.WallpaperCraft:CheckeredRugPurple_3.name=Checkered Rug Violet
-tile.WallpaperCraft:CheckeredRugPurple_4.name=Checkered Rug Dark Violet
-tile.WallpaperCraft:CheckeredRugPurple_5.name=Checkered Rug Light Violet
-tile.WallpaperCraft:CheckeredRugPurple_6.name=Checkered Rug Light Purple
-tile.WallpaperCraft:CheckeredRugPurple_7.name=Checkered Rug Purple
-tile.WallpaperCraft:CheckeredRugPurple_8.name=Checkered Rug Dark Purple
-tile.WallpaperCraft:CheckeredRugPurple_9.name=Checkered Rug Royal Blue
-tile.WallpaperCraft:CheckeredRugPurple_10.name=Checkered Rug Light Lavender
-tile.WallpaperCraft:CheckeredRugPurple_11.name=Checkered Rug avender
-tile.WallpaperCraft:CheckeredRugPurple_12.name=Checkered Rug Azure Blue
-tile.WallpaperCraft:CheckeredRugPurple_13.name=Checkered Rug Dark Blue
-tile.WallpaperCraft:CheckeredRugPurple_14.name=Checkered Rug Midnight Blue
+#Checkered Wool Purple Colours
+tile.WallpaperCraft:CheckeredWoolPurple_0.name=Checkered Wool Light Magenta
+tile.WallpaperCraft:CheckeredWoolPurple_1.name=Checkered Wool Magenta
+tile.WallpaperCraft:CheckeredWoolPurple_2.name=Checkered Wool Dark Magenta
+tile.WallpaperCraft:CheckeredWoolPurple_3.name=Checkered Wool Violet
+tile.WallpaperCraft:CheckeredWoolPurple_4.name=Checkered Wool Dark Violet
+tile.WallpaperCraft:CheckeredWoolPurple_5.name=Checkered Wool Light Violet
+tile.WallpaperCraft:CheckeredWoolPurple_6.name=Checkered Wool Light Purple
+tile.WallpaperCraft:CheckeredWoolPurple_7.name=Checkered Wool Purple
+tile.WallpaperCraft:CheckeredWoolPurple_8.name=Checkered Wool Dark Purple
+tile.WallpaperCraft:CheckeredWoolPurple_9.name=Checkered Wool Royal Blue
+tile.WallpaperCraft:CheckeredWoolPurple_10.name=Checkered Wool Light Lavender
+tile.WallpaperCraft:CheckeredWoolPurple_11.name=Checkered Wool Lavender
+tile.WallpaperCraft:CheckeredWoolPurple_12.name=Checkered Wool Azure Blue
+tile.WallpaperCraft:CheckeredWoolPurple_13.name=Checkered Wool Dark Blue
+tile.WallpaperCraft:CheckeredWoolPurple_14.name=Checkered Wool Midnight Blue
 
 
 
-#Checkered Rug Blue Colours
-tile.WallpaperCraft:CheckeredRugBlue_0.name=Checkered Rug Light Blue
-tile.WallpaperCraft:CheckeredRugBlue_1.name=Checkered Rug Light Sky Blue
-tile.WallpaperCraft:CheckeredRugBlue_2.name=Checkered Rug Sky Blue
-tile.WallpaperCraft:CheckeredRugBlue_3.name=Checkered Rug Dark Sky Blue
-tile.WallpaperCraft:CheckeredRugBlue_4.name=Checkered Rug Navy Blue
-tile.WallpaperCraft:CheckeredRugBlue_5.name=Checkered Rug Light Baby Blue
-tile.WallpaperCraft:CheckeredRugBlue_6.name=Checkered Rug Baby Blue
-tile.WallpaperCraft:CheckeredRugBlue_7.name=Checkered Rug Bright Blue
-tile.WallpaperCraft:CheckeredRugBlue_8.name=Checkered Rug Medium Blue
-tile.WallpaperCraft:CheckeredRugBlue_9.name=Checkered Rug Deep Blue
-tile.WallpaperCraft:CheckeredRugBlue_10.name=Checkered Rug Light Aqua Blue
-tile.WallpaperCraft:CheckeredRugBlue_11.name=Checkered Rug Aqua Blue
-tile.WallpaperCraft:CheckeredRugBlue_12.name=Checkered Rug Dark Aqua Blue
-tile.WallpaperCraft:CheckeredRugBlue_13.name=Checkered Rug Oceon Blue
-tile.WallpaperCraft:CheckeredRugBlue_14.name=Checkered Rug Midnight Blue
+#Checkered Wool Blue Colours
+tile.WallpaperCraft:CheckeredWoolBlue_0.name=Checkered Wool Light Blue
+tile.WallpaperCraft:CheckeredWoolBlue_1.name=Checkered Wool Light Sky Blue
+tile.WallpaperCraft:CheckeredWoolBlue_2.name=Checkered Wool Sky Blue
+tile.WallpaperCraft:CheckeredWoolBlue_3.name=Checkered Wool Dark Sky Blue
+tile.WallpaperCraft:CheckeredWoolBlue_4.name=Checkered Wool Navy Blue
+tile.WallpaperCraft:CheckeredWoolBlue_5.name=Checkered Wool Light Baby Blue
+tile.WallpaperCraft:CheckeredWoolBlue_6.name=Checkered Wool Baby Blue
+tile.WallpaperCraft:CheckeredWoolBlue_7.name=Checkered Wool Bright Blue
+tile.WallpaperCraft:CheckeredWoolBlue_8.name=Checkered Wool Medium Blue
+tile.WallpaperCraft:CheckeredWoolBlue_9.name=Checkered Wool Deep Blue
+tile.WallpaperCraft:CheckeredWoolBlue_10.name=Checkered Wool Light Aqua Blue
+tile.WallpaperCraft:CheckeredWoolBlue_11.name=Checkered Wool Aqua Blue
+tile.WallpaperCraft:CheckeredWoolBlue_12.name=Checkered Wool Dark Aqua Blue
+tile.WallpaperCraft:CheckeredWoolBlue_13.name=Checkered Wool Oceon Blue
+tile.WallpaperCraft:CheckeredWoolBlue_14.name=Checkered Wool Midnight Blue
 
 
 
-#Checkered Rug Brown Colours
-tile.WallpaperCraft:CheckeredRugBrown_0.name=Checkered Rug Soft Orange
-tile.WallpaperCraft:CheckeredRugBrown_1.name=Checkered Rug Sienna brown
-tile.WallpaperCraft:CheckeredRugBrown_2.name=Checkered Rug Burnt Sienna Brown
-tile.WallpaperCraft:CheckeredRugBrown_3.name=Checkered Rug Earth Brown
-tile.WallpaperCraft:CheckeredRugBrown_4.name=Checkered Rug Soil Brown
-tile.WallpaperCraft:CheckeredRugBrown_5.name=Checkered Rug Light Beige
-tile.WallpaperCraft:CheckeredRugBrown_6.name=Checkered Rug Beige
-tile.WallpaperCraft:CheckeredRugBrown_7.name=Checkered Rug Terracotta Red
-tile.WallpaperCraft:CheckeredRugBrown_8.name=Checkered Rug Brown
-tile.WallpaperCraft:CheckeredRugBrown_9.name=Checkered Rug Saddle Brown
-tile.WallpaperCraft:CheckeredRugBrown_10.name=Checkered Rug Light Gray Brown
-tile.WallpaperCraft:CheckeredRugBrown_11.name=Checkered Rug Gray Brown
-tile.WallpaperCraft:CheckeredRugBrown_12.name=Checkered Rug Middle Gray Brown
-tile.WallpaperCraft:CheckeredRugBrown_13.name=Checkered Rug Gray Brown
-tile.WallpaperCraft:CheckeredRugBrown_14.name=Checkered Rug Dark Gray Brown
+#Checkered Wool Brown Colours
+tile.WallpaperCraft:CheckeredWoolBrown_0.name=Checkered Wool Soft Orange
+tile.WallpaperCraft:CheckeredWoolBrown_1.name=Checkered Wool Sienna brown
+tile.WallpaperCraft:CheckeredWoolBrown_2.name=Checkered Wool Burnt Sienna Brown
+tile.WallpaperCraft:CheckeredWoolBrown_3.name=Checkered Wool Earth Brown
+tile.WallpaperCraft:CheckeredWoolBrown_4.name=Checkered Wool Soil Brown
+tile.WallpaperCraft:CheckeredWoolBrown_5.name=Checkered Wool Light Beige
+tile.WallpaperCraft:CheckeredWoolBrown_6.name=Checkered Wool Beige
+tile.WallpaperCraft:CheckeredWoolBrown_7.name=Checkered Wool Terracotta Red
+tile.WallpaperCraft:CheckeredWoolBrown_8.name=Checkered Wool Brown
+tile.WallpaperCraft:CheckeredWoolBrown_9.name=Checkered Wool Saddle Brown
+tile.WallpaperCraft:CheckeredWoolBrown_10.name=Checkered Wool Light Gray Brown
+tile.WallpaperCraft:CheckeredWoolBrown_11.name=Checkered Wool Gray Brown
+tile.WallpaperCraft:CheckeredWoolBrown_12.name=Checkered Wool Middle Gray Brown
+tile.WallpaperCraft:CheckeredWoolBrown_13.name=Checkered Wool Gray Brown
+tile.WallpaperCraft:CheckeredWoolBrown_14.name=Checkered Wool Dark Gray Brown
 
 
 
-#Checkered Rug Cyan Colours
-tile.WallpaperCraft:CheckeredRugCyan_0.name=Checkered Rug Light Green Blue
-tile.WallpaperCraft:CheckeredRugCyan_1.name=Checkered Rug Light Turquoise Blue
-tile.WallpaperCraft:CheckeredRugCyan_2.name=Checkered Rug Turquoise Blue
-tile.WallpaperCraft:CheckeredRugCyan_3.name=Checkered Rug Teal Blue
-tile.WallpaperCraft:CheckeredRugCyan_4.name=Checkered Rug Dark Teal Blue
-tile.WallpaperCraft:CheckeredRugCyan_5.name=Checkered Rug Light Seafoam Blue Green
-tile.WallpaperCraft:CheckeredRugCyan_6.name=Checkered Rug Seafoam Blue Green
-tile.WallpaperCraft:CheckeredRugCyan_7.name=Checkered Rug Blue Green
-tile.WallpaperCraft:CheckeredRugCyan_8.name=Checkered Rug Dark Blue Green
-tile.WallpaperCraft:CheckeredRugCyan_9.name=Checkered Rug Dark Pine Blue Green
+#Checkered Wool Cyan Colours
+tile.WallpaperCraft:CheckeredWoolCyan_0.name=Checkered Wool Light Green Blue
+tile.WallpaperCraft:CheckeredWoolCyan_1.name=Checkered Wool Light Turquoise Blue
+tile.WallpaperCraft:CheckeredWoolCyan_2.name=Checkered Wool Turquoise Blue
+tile.WallpaperCraft:CheckeredWoolCyan_3.name=Checkered Wool Teal Blue
+tile.WallpaperCraft:CheckeredWoolCyan_4.name=Checkered Wool Dark Teal Blue
+tile.WallpaperCraft:CheckeredWoolCyan_5.name=Checkered Wool Light Seafoam Blue Green
+tile.WallpaperCraft:CheckeredWoolCyan_6.name=Checkered Wool Seafoam Blue Green
+tile.WallpaperCraft:CheckeredWoolCyan_7.name=Checkered Wool Blue Green
+tile.WallpaperCraft:CheckeredWoolCyan_8.name=Checkered Wool Dark Blue Green
+tile.WallpaperCraft:CheckeredWoolCyan_9.name=Checkered Wool Dark Pine Blue Green
 
 
 
-#Checkered Rug Green Colours
-tile.WallpaperCraft:CheckeredRugGreen_0.name=Checkered Rug Light Green
-tile.WallpaperCraft:CheckeredRugGreen_1.name=Checkered Rug Light Spring Green
-tile.WallpaperCraft:CheckeredRugGreen_2.name=Checkered Rug Spring Green
-tile.WallpaperCraft:CheckeredRugGreen_3.name=Checkered Rug Green
-tile.WallpaperCraft:CheckeredRugGreen_4.name=Checkered Rug Dark Green
-tile.WallpaperCraft:CheckeredRugGreen_5.name=Checkered Rug Light Summer Green
-tile.WallpaperCraft:CheckeredRugGreen_6.name=Checkered Rug Summer Green
-tile.WallpaperCraft:CheckeredRugGreen_7.name=Checkered Rug Lush Green
-tile.WallpaperCraft:CheckeredRugGreen_8.name=Checkered Rug Deep Lush Green
-tile.WallpaperCraft:CheckeredRugGreen_9.name=Checkered Rug Dark Lush Green
-tile.WallpaperCraft:CheckeredRugGreen_10.name=Checkered Rug Light Spring Green
-tile.WallpaperCraft:CheckeredRugGreen_11.name=Checkered Rug Spring Green
-tile.WallpaperCraft:CheckeredRugGreen_12.name=Checkered Rug Light Olive Green
-tile.WallpaperCraft:CheckeredRugGreen_13.name=Checkered Rug Olive Green
-tile.WallpaperCraft:CheckeredRugGreen_14.name=Checkered Rug Moss Green
+#Checkered Wool Green Colours
+tile.WallpaperCraft:CheckeredWoolGreen_0.name=Checkered Wool Light Green
+tile.WallpaperCraft:CheckeredWoolGreen_1.name=Checkered Wool Light Spring Green
+tile.WallpaperCraft:CheckeredWoolGreen_2.name=Checkered Wool Spring Green
+tile.WallpaperCraft:CheckeredWoolGreen_3.name=Checkered Wool Green
+tile.WallpaperCraft:CheckeredWoolGreen_4.name=Checkered Wool Dark Green
+tile.WallpaperCraft:CheckeredWoolGreen_5.name=Checkered Wool Light Summer Green
+tile.WallpaperCraft:CheckeredWoolGreen_6.name=Checkered Wool Summer Green
+tile.WallpaperCraft:CheckeredWoolGreen_7.name=Checkered Wool Lush Green
+tile.WallpaperCraft:CheckeredWoolGreen_8.name=Checkered Wool Deep Lush Green
+tile.WallpaperCraft:CheckeredWoolGreen_9.name=Checkered Wool Dark Lush Green
+tile.WallpaperCraft:CheckeredWoolGreen_10.name=Checkered Wool Light Spring Green
+tile.WallpaperCraft:CheckeredWoolGreen_11.name=Checkered Wool Spring Green
+tile.WallpaperCraft:CheckeredWoolGreen_12.name=Checkered Wool Light Olive Green
+tile.WallpaperCraft:CheckeredWoolGreen_13.name=Checkered Wool Olive Green
+tile.WallpaperCraft:CheckeredWoolGreen_14.name=Checkered Wool Moss Green
 
 
 
-#Checkered Rug Yellow Colours
-tile.WallpaperCraft:CheckeredRugYellow_0.name=Checkered Rug Light Lemon Yellow
-tile.WallpaperCraft:CheckeredRugYellow_1.name=Checkered Rug Lemon Yellow
-tile.WallpaperCraft:CheckeredRugYellow_2.name=Checkered Rug Sunny Yellow
-tile.WallpaperCraft:CheckeredRugYellow_3.name=Checkered Rug Soft Yellow
-tile.WallpaperCraft:CheckeredRugYellow_4.name=Checkered Rug Orange Yellow
-tile.WallpaperCraft:CheckeredRugYellow_5.name=Checkered Rug Light Sand Yellow
-tile.WallpaperCraft:CheckeredRugYellow_6.name=Checkered Rug Light Yellow
-tile.WallpaperCraft:CheckeredRugYellow_7.name=Checkered Rug Yellow
-tile.WallpaperCraft:CheckeredRugYellow_8.name=Checkered Rug Gold Yellow
-tile.WallpaperCraft:CheckeredRugYellow_9.name=Checkered Rug Dark Orange
-tile.WallpaperCraft:CheckeredRugYellow_10.name=Checkered Rug Light Orange
-tile.WallpaperCraft:CheckeredRugYellow_11.name=Checkered Rug Sunny Orange
-tile.WallpaperCraft:CheckeredRugYellow_12.name=Checkered Rug Orange
-tile.WallpaperCraft:CheckeredRugYellow_13.name=Checkered Rug Deep orange
-tile.WallpaperCraft:CheckeredRugYellow_14.name=Checkered Rug Orange Red
+#Checkered Wool Yellow Colours
+tile.WallpaperCraft:CheckeredWoolYellow_0.name=Checkered Wool Light Lemon Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_1.name=Checkered Wool Lemon Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_2.name=Checkered Wool Sunny Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_3.name=Checkered Wool Soft Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_4.name=Checkered Wool Orange Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_5.name=Checkered Wool Light Sand Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_6.name=Checkered Wool Light Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_7.name=Checkered Wool Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_8.name=Checkered Wool Gold Yellow
+tile.WallpaperCraft:CheckeredWoolYellow_9.name=Checkered Wool Dark Orange
+tile.WallpaperCraft:CheckeredWoolYellow_10.name=Checkered Wool Light Orange
+tile.WallpaperCraft:CheckeredWoolYellow_11.name=Checkered Wool Sunny Orange
+tile.WallpaperCraft:CheckeredWoolYellow_12.name=Checkered Wool Orange
+tile.WallpaperCraft:CheckeredWoolYellow_13.name=Checkered Wool Deep Orange
+tile.WallpaperCraft:CheckeredWoolYellow_14.name=Checkered Wool Orange Red
 
 
 
-#Checkered Rug Gray Colours
-tile.WallpaperCraft:CheckeredRugGray_0.name=Checkered Rug White Gray
-tile.WallpaperCraft:CheckeredRugGray_1.name=Checkered Rug Light Gray
-tile.WallpaperCraft:CheckeredRugGray_2.name=Checkered Rug Gray
-tile.WallpaperCraft:CheckeredRugGray_3.name=Checkered Rug Dark Gray
-tile.WallpaperCraft:CheckeredRugGray_4.name=Checkered Rug Gray Black
-tile.WallpaperCraft:CheckeredRugGray_5.name=Checkered Rug Light Warm Gray
-tile.WallpaperCraft:CheckeredRugGray_6.name=Checkered Rug Warm Gray
-tile.WallpaperCraft:CheckeredRugGray_7.name=Checkered Rug Middle Warm Gray
-tile.WallpaperCraft:CheckeredRugGray_8.name=Checkered Rug Dark Warm Gray
-tile.WallpaperCraft:CheckeredRugGray_9.name=Checkered Rug Warm Black Gray
-tile.WallpaperCraft:CheckeredRugGray_10.name=Checkered Rug Light Cool gray
-tile.WallpaperCraft:CheckeredRugGray_11.name=Checkered Rug Cool Gray
-tile.WallpaperCraft:CheckeredRugGray_12.name=Checkered Rug Dark Cool Gray
-tile.WallpaperCraft:CheckeredRugGray_13.name=Checkered Rug Cool Blue Gray
-tile.WallpaperCraft:CheckeredRugGray_14.name=Checkered Rug Cool Dark Blue Gray
+#Checkered Wool Gray Colours
+tile.WallpaperCraft:CheckeredWoolGray_0.name=Checkered Wool White Gray
+tile.WallpaperCraft:CheckeredWoolGray_1.name=Checkered Wool Light Gray
+tile.WallpaperCraft:CheckeredWoolGray_2.name=Checkered Wool Gray
+tile.WallpaperCraft:CheckeredWoolGray_3.name=Checkered Wool Dark Gray
+tile.WallpaperCraft:CheckeredWoolGray_4.name=Checkered Wool Gray Black
+tile.WallpaperCraft:CheckeredWoolGray_5.name=Checkered Wool Light Warm Gray
+tile.WallpaperCraft:CheckeredWoolGray_6.name=Checkered Wool Warm Gray
+tile.WallpaperCraft:CheckeredWoolGray_7.name=Checkered Wool Middle Warm Gray
+tile.WallpaperCraft:CheckeredWoolGray_8.name=Checkered Wool Dark Warm Gray
+tile.WallpaperCraft:CheckeredWoolGray_9.name=Checkered Wool Warm Black Gray
+tile.WallpaperCraft:CheckeredWoolGray_10.name=Checkered Wool Light Cool gray
+tile.WallpaperCraft:CheckeredWoolGray_11.name=Checkered Wool Cool Gray
+tile.WallpaperCraft:CheckeredWoolGray_12.name=Checkered Wool Dark Cool Gray
+tile.WallpaperCraft:CheckeredWoolGray_13.name=Checkered Wool Cool Blue Gray
+tile.WallpaperCraft:CheckeredWoolGray_14.name=Checkered Wool Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########        STARTING NAMING OF WOOL BLOCKS          ###########
+###########									     	       ###########
+######################################################################
+
+
+# Wool Red Colours
+tile.WallpaperCraft:WoolRed_0.name=Wool Light Warm Pink
+tile.WallpaperCraft:WoolRed_1.name=Wool Light Red
+tile.WallpaperCraft:WoolRed_2.name=Wool Bright Red
+tile.WallpaperCraft:WoolRed_3.name=Wool Red
+tile.WallpaperCraft:WoolRed_4.name=Wool Blood Red
+tile.WallpaperCraft:WoolRed_5.name=Wool Light Cool Pink
+tile.WallpaperCraft:WoolRed_6.name=Wool Pink
+tile.WallpaperCraft:WoolRed_7.name=Wool Hot Pink
+tile.WallpaperCraft:WoolRed_8.name=Wool Dark Pink
+tile.WallpaperCraft:WoolRed_9.name=Wool Hot Pink
+tile.WallpaperCraft:WoolRed_10.name=Wool Fuchsia
+tile.WallpaperCraft:WoolRed_11.name=Wool Baby Pink
+tile.WallpaperCraft:WoolRed_12.name=Wool Light Salmon
+tile.WallpaperCraft:WoolRed_13.name=Wool Brown Red
+tile.WallpaperCraft:WoolRed_14.name=Wool Dark Brown Red
+
+
+
+# Wool Purple Colours
+tile.WallpaperCraft:WoolPurple_0.name=Wool Light Magenta
+tile.WallpaperCraft:WoolPurple_1.name=Wool Magenta
+tile.WallpaperCraft:WoolPurple_2.name=Wool Dark Magenta
+tile.WallpaperCraft:WoolPurple_3.name=Wool Violet
+tile.WallpaperCraft:WoolPurple_4.name=Wool Dark Violet
+tile.WallpaperCraft:WoolPurple_5.name=Wool Light Violet
+tile.WallpaperCraft:WoolPurple_6.name=Wool Light Purple
+tile.WallpaperCraft:WoolPurple_7.name=Wool Purple
+tile.WallpaperCraft:WoolPurple_8.name=Wool Dark Purple
+tile.WallpaperCraft:WoolPurple_9.name=Wool Royal Blue
+tile.WallpaperCraft:WoolPurple_10.name=Wool Light Lavender
+tile.WallpaperCraft:WoolPurple_11.name=Wool Lavender
+tile.WallpaperCraft:WoolPurple_12.name=Wool Azure Blue
+tile.WallpaperCraft:WoolPurple_13.name=Wool Dark Blue
+tile.WallpaperCraft:WoolPurple_14.name=Wool Midnight Blue
+
+
+
+# Wool Blue Colours
+tile.WallpaperCraft:WoolBlue_0.name=Wool Light Blue
+tile.WallpaperCraft:WoolBlue_1.name=Wool Light Sky Blue
+tile.WallpaperCraft:WoolBlue_2.name=Wool Sky Blue
+tile.WallpaperCraft:WoolBlue_3.name=Wool Dark Sky Blue
+tile.WallpaperCraft:WoolBlue_4.name=Wool Navy Blue
+tile.WallpaperCraft:WoolBlue_5.name=Wool Light Baby Blue
+tile.WallpaperCraft:WoolBlue_6.name=Wool Baby Blue
+tile.WallpaperCraft:WoolBlue_7.name=Wool Bright Blue
+tile.WallpaperCraft:WoolBlue_8.name=Wool Medium Blue
+tile.WallpaperCraft:WoolBlue_9.name=Wool Deep Blue
+tile.WallpaperCraft:WoolBlue_10.name=Wool Light Aqua Blue
+tile.WallpaperCraft:WoolBlue_11.name=Wool Aqua Blue
+tile.WallpaperCraft:WoolBlue_12.name=Wool Dark Aqua Blue
+tile.WallpaperCraft:WoolBlue_13.name=Wool Oceon Blue
+tile.WallpaperCraft:WoolBlue_14.name=Wool Midnight Blue
+
+
+
+# Wool Brown Colours
+tile.WallpaperCraft:WoolBrown_0.name=Wool Soft Orange
+tile.WallpaperCraft:WoolBrown_1.name=Wool Sienna brown
+tile.WallpaperCraft:WoolBrown_2.name=Wool Burnt Sienna Brown
+tile.WallpaperCraft:WoolBrown_3.name=Wool Earth Brown
+tile.WallpaperCraft:WoolBrown_4.name=Wool Soil Brown
+tile.WallpaperCraft:WoolBrown_5.name=Wool Light Beige
+tile.WallpaperCraft:WoolBrown_6.name=Wool Beige
+tile.WallpaperCraft:WoolBrown_7.name=Wool Terracotta Red
+tile.WallpaperCraft:WoolBrown_8.name=Wool Brown
+tile.WallpaperCraft:WoolBrown_9.name=Wool Saddle Brown
+tile.WallpaperCraft:WoolBrown_10.name=Wool Light Gray Brown
+tile.WallpaperCraft:WoolBrown_11.name=Wool Gray Brown
+tile.WallpaperCraft:WoolBrown_12.name=Wool Middle Gray Brown
+tile.WallpaperCraft:WoolBrown_13.name=Wool Gray Brown
+tile.WallpaperCraft:WoolBrown_14.name=Wool Dark Gray Brown
+
+
+
+# Wool Cyan Colours
+tile.WallpaperCraft:WoolCyan_0.name=Wool Light Green Blue
+tile.WallpaperCraft:WoolCyan_1.name=Wool Light Turquoise Blue
+tile.WallpaperCraft:WoolCyan_2.name=Wool Turquoise Blue
+tile.WallpaperCraft:WoolCyan_3.name=Wool Teal Blue
+tile.WallpaperCraft:WoolCyan_4.name=Wool Dark Teal Blue
+tile.WallpaperCraft:WoolCyan_5.name=Wool Light Seafoam Blue Green
+tile.WallpaperCraft:WoolCyan_6.name=Wool Seafoam Blue Green
+tile.WallpaperCraft:WoolCyan_7.name=Wool Blue Green
+tile.WallpaperCraft:WoolCyan_8.name=Wool Dark Blue Green
+tile.WallpaperCraft:WoolCyan_9.name=Wool Dark Pine Blue Green
+
+
+
+# Wool Green Colours
+tile.WallpaperCraft:WoolGreen_0.name=Wool Light Green
+tile.WallpaperCraft:WoolGreen_1.name=Wool Light Spring Green
+tile.WallpaperCraft:WoolGreen_2.name=Wool Spring Green
+tile.WallpaperCraft:WoolGreen_3.name=Wool Green
+tile.WallpaperCraft:WoolGreen_4.name=Wool Dark Green
+tile.WallpaperCraft:WoolGreen_5.name=Wool Light Summer Green
+tile.WallpaperCraft:WoolGreen_6.name=Wool Summer Green
+tile.WallpaperCraft:WoolGreen_7.name=Wool Lush Green
+tile.WallpaperCraft:WoolGreen_8.name=Wool Deep Lush Green
+tile.WallpaperCraft:WoolGreen_9.name=Wool Dark Lush Green
+tile.WallpaperCraft:WoolGreen_10.name=Wool Light Spring Green
+tile.WallpaperCraft:WoolGreen_11.name=Wool Spring Green
+tile.WallpaperCraft:WoolGreen_12.name=Wool Light Olive Green
+tile.WallpaperCraft:WoolGreen_13.name=Wool Olive Green
+tile.WallpaperCraft:WoolGreen_14.name=Wool Moss Green
+
+
+
+# Wool Yellow Colours
+tile.WallpaperCraft:WoolYellow_0.name=Wool Light Lemon Yellow
+tile.WallpaperCraft:WoolYellow_1.name=Wool Lemon Yellow
+tile.WallpaperCraft:WoolYellow_2.name=Wool Sunny Yellow
+tile.WallpaperCraft:WoolYellow_3.name=Wool Soft Yellow
+tile.WallpaperCraft:WoolYellow_4.name=Wool Orange Yellow
+tile.WallpaperCraft:WoolYellow_5.name=Wool Light Sand Yellow
+tile.WallpaperCraft:WoolYellow_6.name=Wool Light Yellow
+tile.WallpaperCraft:WoolYellow_7.name=Wool Yellow
+tile.WallpaperCraft:WoolYellow_8.name=Wool Gold Yellow
+tile.WallpaperCraft:WoolYellow_9.name=Wool Dark Orange
+tile.WallpaperCraft:WoolYellow_10.name=Wool Light Orange
+tile.WallpaperCraft:WoolYellow_11.name=Wool Sunny Orange
+tile.WallpaperCraft:WoolYellow_12.name=Wool Orange
+tile.WallpaperCraft:WoolYellow_13.name=Wool Deep Orange
+tile.WallpaperCraft:WoolYellow_14.name=Wool Orange Red
+
+
+
+# Wool Gray Colours
+tile.WallpaperCraft:WoolGray_0.name=Wool White Gray
+tile.WallpaperCraft:WoolGray_1.name=Wool Light Gray
+tile.WallpaperCraft:WoolGray_2.name=Wool Gray
+tile.WallpaperCraft:WoolGray_3.name=Wool Dark Gray
+tile.WallpaperCraft:WoolGray_4.name=Wool Gray Black
+tile.WallpaperCraft:WoolGray_5.name=Wool Light Warm Gray
+tile.WallpaperCraft:WoolGray_6.name=Wool Warm Gray
+tile.WallpaperCraft:WoolGray_7.name=Wool Middle Warm Gray
+tile.WallpaperCraft:WoolGray_8.name=Wool Dark Warm Gray
+tile.WallpaperCraft:WoolGray_9.name=Wool Warm Black Gray
+tile.WallpaperCraft:WoolGray_10.name=Wool Light Cool gray
+tile.WallpaperCraft:WoolGray_11.name=Wool Cool Gray
+tile.WallpaperCraft:WoolGray_12.name=Wool Dark Cool Gray
+tile.WallpaperCraft:WoolGray_13.name=Wool Cool Blue Gray
+tile.WallpaperCraft:WoolGray_14.name=Wool Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########        STARTING NAMING OF WOOL CARPETS         ###########
+###########									     	       ###########
+######################################################################
+
+
+#Wool Carpet Red Colours
+tile.WallpaperCraft:WoolCarpetRed_0.name=Wool Carpet Light Warm Pink
+tile.WallpaperCraft:WoolCarpetRed_1.name=Wool Carpet Light Red
+tile.WallpaperCraft:WoolCarpetRed_2.name=Wool Carpet Bright Red
+tile.WallpaperCraft:WoolCarpetRed_3.name=Wool Carpet Red
+tile.WallpaperCraft:WoolCarpetRed_4.name=Wool Carpet Blood Red
+tile.WallpaperCraft:WoolCarpetRed_5.name=Wool Carpet Light Cool Pink
+tile.WallpaperCraft:WoolCarpetRed_6.name=Wool Carpet Pink
+tile.WallpaperCraft:WoolCarpetRed_7.name=Wool Carpet Hot Pink
+tile.WallpaperCraft:WoolCarpetRed_8.name=Wool Carpet Dark Pink
+tile.WallpaperCraft:WoolCarpetRed_9.name=Wool Carpet Hot Pink
+tile.WallpaperCraft:WoolCarpetRed_10.name=Wool Carpet Fuchsia
+tile.WallpaperCraft:WoolCarpetRed_11.name=Wool Carpet Baby Pink
+tile.WallpaperCraft:WoolCarpetRed_12.name=Wool Carpet Light Salmon
+tile.WallpaperCraft:WoolCarpetRed_13.name=Wool Carpet Brown Red
+tile.WallpaperCraft:WoolCarpetRed_14.name=Wool Carpet Dark Brown Red
+
+
+
+#Wool Carpet Purple Colours
+tile.WallpaperCraft:WoolCarpetPurple_0.name=Wool Carpet Light Magenta
+tile.WallpaperCraft:WoolCarpetPurple_1.name=Wool Carpet Magenta
+tile.WallpaperCraft:WoolCarpetPurple_2.name=Wool Carpet Dark Magenta
+tile.WallpaperCraft:WoolCarpetPurple_3.name=Wool Carpet Violet
+tile.WallpaperCraft:WoolCarpetPurple_4.name=Wool Carpet Dark Violet
+tile.WallpaperCraft:WoolCarpetPurple_5.name=Wool Carpet Light Violet
+tile.WallpaperCraft:WoolCarpetPurple_6.name=Wool Carpet Light Purple
+tile.WallpaperCraft:WoolCarpetPurple_7.name=Wool Carpet Purple
+tile.WallpaperCraft:WoolCarpetPurple_8.name=Wool Carpet Dark Purple
+tile.WallpaperCraft:WoolCarpetPurple_9.name=Wool Carpet Royal Blue
+tile.WallpaperCraft:WoolCarpetPurple_10.name=Wool Carpet Light Lavender
+tile.WallpaperCraft:WoolCarpetPurple_11.name=Wool Carpet Lavender
+tile.WallpaperCraft:WoolCarpetPurple_12.name=Wool Carpet Azure Blue
+tile.WallpaperCraft:WoolCarpetPurple_13.name=Wool Carpet Dark Blue
+tile.WallpaperCraft:WoolCarpetPurple_14.name=Wool Carpet Midnight Blue
+
+
+
+#Wool Carpet Blue Colours
+tile.WallpaperCraft:WoolCarpetBlue_0.name=Wool Carpet Light Blue
+tile.WallpaperCraft:WoolCarpetBlue_1.name=Wool Carpet Light Sky Blue
+tile.WallpaperCraft:WoolCarpetBlue_2.name=Wool Carpet Sky Blue
+tile.WallpaperCraft:WoolCarpetBlue_3.name=Wool Carpet Dark Sky Blue
+tile.WallpaperCraft:WoolCarpetBlue_4.name=Wool Carpet Navy Blue
+tile.WallpaperCraft:WoolCarpetBlue_5.name=Wool Carpet Light Baby Blue
+tile.WallpaperCraft:WoolCarpetBlue_6.name=Wool Carpet Baby Blue
+tile.WallpaperCraft:WoolCarpetBlue_7.name=Wool Carpet Bright Blue
+tile.WallpaperCraft:WoolCarpetBlue_8.name=Wool Carpet Medium Blue
+tile.WallpaperCraft:WoolCarpetBlue_9.name=Wool Carpet Deep Blue
+tile.WallpaperCraft:WoolCarpetBlue_10.name=Wool Carpet Light Aqua Blue
+tile.WallpaperCraft:WoolCarpetBlue_11.name=Wool Carpet Aqua Blue
+tile.WallpaperCraft:WoolCarpetBlue_12.name=Wool Carpet Dark Aqua Blue
+tile.WallpaperCraft:WoolCarpetBlue_13.name=Wool Carpet Oceon Blue
+tile.WallpaperCraft:WoolCarpetBlue_14.name=Wool Carpet Midnight Blue
+
+
+
+#Wool Carpet Brown Colours
+tile.WallpaperCraft:WoolCarpetBrown_0.name=Wool Carpet Soft Orange
+tile.WallpaperCraft:WoolCarpetBrown_1.name=Wool Carpet Sienna brown
+tile.WallpaperCraft:WoolCarpetBrown_2.name=Wool Carpet Burnt Sienna Brown
+tile.WallpaperCraft:WoolCarpetBrown_3.name=Wool Carpet Earth Brown
+tile.WallpaperCraft:WoolCarpetBrown_4.name=Wool Carpet Soil Brown
+tile.WallpaperCraft:WoolCarpetBrown_5.name=Wool Carpet Light Beige
+tile.WallpaperCraft:WoolCarpetBrown_6.name=Wool Carpet Beige
+tile.WallpaperCraft:WoolCarpetBrown_7.name=Wool Carpet Terracotta Red
+tile.WallpaperCraft:WoolCarpetBrown_8.name=Wool Carpet Brown
+tile.WallpaperCraft:WoolCarpetBrown_9.name=Wool Carpet Saddle Brown
+tile.WallpaperCraft:WoolCarpetBrown_10.name=Wool Carpet Light Gray Brown
+tile.WallpaperCraft:WoolCarpetBrown_11.name=Wool Carpet Gray Brown
+tile.WallpaperCraft:WoolCarpetBrown_12.name=Wool Carpet Middle Gray Brown
+tile.WallpaperCraft:WoolCarpetBrown_13.name=Wool Carpet Gray Brown
+tile.WallpaperCraft:WoolCarpetBrown_14.name=Wool Carpet Dark Gray Brown
+
+
+
+#Wool Carpet Cyan Colours
+tile.WallpaperCraft:WoolCarpetCyan_0.name=Wool Carpet Light Green Blue
+tile.WallpaperCraft:WoolCarpetCyan_1.name=Wool Carpet Light Turquoise Blue
+tile.WallpaperCraft:WoolCarpetCyan_2.name=Wool Carpet Turquoise Blue
+tile.WallpaperCraft:WoolCarpetCyan_3.name=Wool Carpet Teal Blue
+tile.WallpaperCraft:WoolCarpetCyan_4.name=Wool Carpet Dark Teal Blue
+tile.WallpaperCraft:WoolCarpetCyan_5.name=Wool Carpet Light Seafoam Blue Green
+tile.WallpaperCraft:WoolCarpetCyan_6.name=Wool Carpet Seafoam Blue Green
+tile.WallpaperCraft:WoolCarpetCyan_7.name=Wool Carpet Blue Green
+tile.WallpaperCraft:WoolCarpetCyan_8.name=Wool Carpet Dark Blue Green
+tile.WallpaperCraft:WoolCarpetCyan_9.name=Wool Carpet Dark Pine Blue Green
+
+
+
+#Wool Carpet Green Colours
+tile.WallpaperCraft:WoolCarpetGreen_0.name=Wool Carpet Light Green
+tile.WallpaperCraft:WoolCarpetGreen_1.name=Wool Carpet Light Spring Green
+tile.WallpaperCraft:WoolCarpetGreen_2.name=Wool Carpet Spring Green
+tile.WallpaperCraft:WoolCarpetGreen_3.name=Wool Carpet Green
+tile.WallpaperCraft:WoolCarpetGreen_4.name=Wool Carpet Dark Green
+tile.WallpaperCraft:WoolCarpetGreen_5.name=Wool Carpet Light Summer Green
+tile.WallpaperCraft:WoolCarpetGreen_6.name=Wool Carpet Summer Green
+tile.WallpaperCraft:WoolCarpetGreen_7.name=Wool Carpet Lush Green
+tile.WallpaperCraft:WoolCarpetGreen_8.name=Wool Carpet Deep Lush Green
+tile.WallpaperCraft:WoolCarpetGreen_9.name=Wool Carpet Dark Lush Green
+tile.WallpaperCraft:WoolCarpetGreen_10.name=Wool Carpet Light Spring Green
+tile.WallpaperCraft:WoolCarpetGreen_11.name=Wool Carpet Spring Green
+tile.WallpaperCraft:WoolCarpetGreen_12.name=Wool Carpet Light Olive Green
+tile.WallpaperCraft:WoolCarpetGreen_13.name=Wool Carpet Olive Green
+tile.WallpaperCraft:WoolCarpetGreen_14.name=Wool Carpet Moss Green
+
+
+
+#Wool Carpet Yellow Colours
+tile.WallpaperCraft:WoolCarpetYellow_0.name=Wool Carpet Light Lemon Yellow
+tile.WallpaperCraft:WoolCarpetYellow_1.name=Wool Carpet Lemon Yellow
+tile.WallpaperCraft:WoolCarpetYellow_2.name=Wool Carpet Sunny Yellow
+tile.WallpaperCraft:WoolCarpetYellow_3.name=Wool Carpet Soft Yellow
+tile.WallpaperCraft:WoolCarpetYellow_4.name=Wool Carpet Orange Yellow
+tile.WallpaperCraft:WoolCarpetYellow_5.name=Wool Carpet Light Sand Yellow
+tile.WallpaperCraft:WoolCarpetYellow_6.name=Wool Carpet Light Yellow
+tile.WallpaperCraft:WoolCarpetYellow_7.name=Wool Carpet Yellow
+tile.WallpaperCraft:WoolCarpetYellow_8.name=Wool Carpet Gold Yellow
+tile.WallpaperCraft:WoolCarpetYellow_9.name=Wool Carpet Dark Orange
+tile.WallpaperCraft:WoolCarpetYellow_10.name=Wool Carpet Light Orange
+tile.WallpaperCraft:WoolCarpetYellow_11.name=Wool Carpet Sunny Orange
+tile.WallpaperCraft:WoolCarpetYellow_12.name=Wool Carpet Orange
+tile.WallpaperCraft:WoolCarpetYellow_13.name=Wool Carpet Deep Orange
+tile.WallpaperCraft:WoolCarpetYellow_14.name=Wool Carpet Orange Red
+
+
+
+#Wool Carpet Gray Colours
+tile.WallpaperCraft:WoolCarpetGray_0.name=Wool Carpet White Gray
+tile.WallpaperCraft:WoolCarpetGray_1.name=Wool Carpet Light Gray
+tile.WallpaperCraft:WoolCarpetGray_2.name=Wool Carpet Gray
+tile.WallpaperCraft:WoolCarpetGray_3.name=Wool Carpet Dark Gray
+tile.WallpaperCraft:WoolCarpetGray_4.name=Wool Carpet Gray Black
+tile.WallpaperCraft:WoolCarpetGray_5.name=Wool Carpet Light Warm Gray
+tile.WallpaperCraft:WoolCarpetGray_6.name=Wool Carpet Warm Gray
+tile.WallpaperCraft:WoolCarpetGray_7.name=Wool Carpet Middle Warm Gray
+tile.WallpaperCraft:WoolCarpetGray_8.name=Wool Carpet Dark Warm Gray
+tile.WallpaperCraft:WoolCarpetGray_9.name=Wool Carpet Warm Black Gray
+tile.WallpaperCraft:WoolCarpetGray_10.name=Wool Carpet Light Cool gray
+tile.WallpaperCraft:WoolCarpetGray_11.name=Wool Carpet Cool Gray
+tile.WallpaperCraft:WoolCarpetGray_12.name=Wool Carpet Dark Cool Gray
+tile.WallpaperCraft:WoolCarpetGray_13.name=Wool Carpet Cool Blue Gray
+tile.WallpaperCraft:WoolCarpetGray_14.name=Wool Carpet Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########        STARTING NAMING OF WOOD PLANKS          ###########
+###########									     	       ###########
+######################################################################
+
+
+#Wood Plank Red Colours
+tile.WallpaperCraft:WoodPlankRed_0.name=Wood Plank Light Warm Pink
+tile.WallpaperCraft:WoodPlankRed_1.name=Wood Plank Light Red
+tile.WallpaperCraft:WoodPlankRed_2.name=Wood Plank Bright Red
+tile.WallpaperCraft:WoodPlankRed_3.name=Wood Plank Red
+tile.WallpaperCraft:WoodPlankRed_4.name=Wood Plank Blood Red
+tile.WallpaperCraft:WoodPlankRed_5.name=Wood Plank Light Cool Pink
+tile.WallpaperCraft:WoodPlankRed_6.name=Wood Plank Pink
+tile.WallpaperCraft:WoodPlankRed_7.name=Wood Plank Hot Pink
+tile.WallpaperCraft:WoodPlankRed_8.name=Wood Plank Dark Pink
+tile.WallpaperCraft:WoodPlankRed_9.name=Wood Plank Hot Pink
+tile.WallpaperCraft:WoodPlankRed_10.name=Wood Plank Fuchsia
+tile.WallpaperCraft:WoodPlankRed_11.name=Wood Plank Baby Pink
+tile.WallpaperCraft:WoodPlankRed_12.name=Wood Plank Light Salmon
+tile.WallpaperCraft:WoodPlankRed_13.name=Wood Plank Brown Red
+tile.WallpaperCraft:WoodPlankRed_14.name=Wood Plank Dark Brown Red
+
+
+
+#Wood Plank Purple Colours
+tile.WallpaperCraft:WoodPlankPurple_0.name=Wood Plank Light Magenta
+tile.WallpaperCraft:WoodPlankPurple_1.name=Wood Plank Magenta
+tile.WallpaperCraft:WoodPlankPurple_2.name=Wood Plank Dark Magenta
+tile.WallpaperCraft:WoodPlankPurple_3.name=Wood Plank Violet
+tile.WallpaperCraft:WoodPlankPurple_4.name=Wood Plank Dark Violet
+tile.WallpaperCraft:WoodPlankPurple_5.name=Wood Plank Light Violet
+tile.WallpaperCraft:WoodPlankPurple_6.name=Wood Plank Light Purple
+tile.WallpaperCraft:WoodPlankPurple_7.name=Wood Plank Purple
+tile.WallpaperCraft:WoodPlankPurple_8.name=Wood Plank Dark Purple
+tile.WallpaperCraft:WoodPlankPurple_9.name=Wood Plank Royal Blue
+tile.WallpaperCraft:WoodPlankPurple_10.name=Wood Plank Light Lavender
+tile.WallpaperCraft:WoodPlankPurple_11.name=Wood Plank Lavender
+tile.WallpaperCraft:WoodPlankPurple_12.name=Wood Plank Azure Blue
+tile.WallpaperCraft:WoodPlankPurple_13.name=Wood Plank Dark Blue
+tile.WallpaperCraft:WoodPlankPurple_14.name=Wood Plank Midnight Blue
+
+
+
+#Wood Plank Blue Colours
+tile.WallpaperCraft:WoodPlankBlue_0.name=Wood Plank Light Blue
+tile.WallpaperCraft:WoodPlankBlue_1.name=Wood Plank Light Sky Blue
+tile.WallpaperCraft:WoodPlankBlue_2.name=Wood Plank Sky Blue
+tile.WallpaperCraft:WoodPlankBlue_3.name=Wood Plank Dark Sky Blue
+tile.WallpaperCraft:WoodPlankBlue_4.name=Wood Plank Navy Blue
+tile.WallpaperCraft:WoodPlankBlue_5.name=Wood Plank Light Baby Blue
+tile.WallpaperCraft:WoodPlankBlue_6.name=Wood Plank Baby Blue
+tile.WallpaperCraft:WoodPlankBlue_7.name=Wood Plank Bright Blue
+tile.WallpaperCraft:WoodPlankBlue_8.name=Wood Plank Medium Blue
+tile.WallpaperCraft:WoodPlankBlue_9.name=Wood Plank Deep Blue
+tile.WallpaperCraft:WoodPlankBlue_10.name=Wood Plank Light Aqua Blue
+tile.WallpaperCraft:WoodPlankBlue_11.name=Wood Plank Aqua Blue
+tile.WallpaperCraft:WoodPlankBlue_12.name=Wood Plank Dark Aqua Blue
+tile.WallpaperCraft:WoodPlankBlue_13.name=Wood Plank Oceon Blue
+tile.WallpaperCraft:WoodPlankBlue_14.name=Wood Plank Midnight Blue
+
+
+
+#Wood Plank Brown Colours
+tile.WallpaperCraft:WoodPlankBrown_0.name=Wood Plank Soft Orange
+tile.WallpaperCraft:WoodPlankBrown_1.name=Wood Plank Sienna brown
+tile.WallpaperCraft:WoodPlankBrown_2.name=Wood Plank Burnt Sienna Brown
+tile.WallpaperCraft:WoodPlankBrown_3.name=Wood Plank Earth Brown
+tile.WallpaperCraft:WoodPlankBrown_4.name=Wood Plank Soil Brown
+tile.WallpaperCraft:WoodPlankBrown_5.name=Wood Plank Light Beige
+tile.WallpaperCraft:WoodPlankBrown_6.name=Wood Plank Beige
+tile.WallpaperCraft:WoodPlankBrown_7.name=Wood Plank Terracotta Red
+tile.WallpaperCraft:WoodPlankBrown_8.name=Wood Plank Brown
+tile.WallpaperCraft:WoodPlankBrown_9.name=Wood Plank Saddle Brown
+tile.WallpaperCraft:WoodPlankBrown_10.name=Wood Plank Light Gray Brown
+tile.WallpaperCraft:WoodPlankBrown_11.name=Wood Plank Gray Brown
+tile.WallpaperCraft:WoodPlankBrown_12.name=Wood Plank Middle Gray Brown
+tile.WallpaperCraft:WoodPlankBrown_13.name=Wood Plank Gray Brown
+tile.WallpaperCraft:WoodPlankBrown_14.name=Wood Plank Dark Gray Brown
+
+
+
+#Wood Plank Cyan Colours
+tile.WallpaperCraft:WoodPlankCyan_0.name=Wood Plank Light Green Blue
+tile.WallpaperCraft:WoodPlankCyan_1.name=Wood Plank Light Turquoise Blue
+tile.WallpaperCraft:WoodPlankCyan_2.name=Wood Plank Turquoise Blue
+tile.WallpaperCraft:WoodPlankCyan_3.name=Wood Plank Teal Blue
+tile.WallpaperCraft:WoodPlankCyan_4.name=Wood Plank Dark Teal Blue
+tile.WallpaperCraft:WoodPlankCyan_5.name=Wood Plank Light Seafoam Blue Green
+tile.WallpaperCraft:WoodPlankCyan_6.name=Wood Plank Seafoam Blue Green
+tile.WallpaperCraft:WoodPlankCyan_7.name=Wood Plank Blue Green
+tile.WallpaperCraft:WoodPlankCyan_8.name=Wood Plank Dark Blue Green
+tile.WallpaperCraft:WoodPlankCyan_9.name=Wood Plank Dark Pine Blue Green
+
+
+
+#Wood Plank Green Colours
+tile.WallpaperCraft:WoodPlankGreen_0.name=Wood Plank Light Green
+tile.WallpaperCraft:WoodPlankGreen_1.name=Wood Plank Light Spring Green
+tile.WallpaperCraft:WoodPlankGreen_2.name=Wood Plank Spring Green
+tile.WallpaperCraft:WoodPlankGreen_3.name=Wood Plank Green
+tile.WallpaperCraft:WoodPlankGreen_4.name=Wood Plank Dark Green
+tile.WallpaperCraft:WoodPlankGreen_5.name=Wood Plank Light Summer Green
+tile.WallpaperCraft:WoodPlankGreen_6.name=Wood Plank Summer Green
+tile.WallpaperCraft:WoodPlankGreen_7.name=Wood Plank Lush Green
+tile.WallpaperCraft:WoodPlankGreen_8.name=Wood Plank Deep Lush Green
+tile.WallpaperCraft:WoodPlankGreen_9.name=Wood Plank Dark Lush Green
+tile.WallpaperCraft:WoodPlankGreen_10.name=Wood Plank Light Spring Green
+tile.WallpaperCraft:WoodPlankGreen_11.name=Wood Plank Spring Green
+tile.WallpaperCraft:WoodPlankGreen_12.name=Wood Plank Light Olive Green
+tile.WallpaperCraft:WoodPlankGreen_13.name=Wood Plank Olive Green
+tile.WallpaperCraft:WoodPlankGreen_14.name=Wood Plank Moss Green
+
+
+
+#Wood Plank Yellow Colours
+tile.WallpaperCraft:WoodPlankYellow_0.name=Wood Plank Light Lemon Yellow
+tile.WallpaperCraft:WoodPlankYellow_1.name=Wood Plank Lemon Yellow
+tile.WallpaperCraft:WoodPlankYellow_2.name=Wood Plank Sunny Yellow
+tile.WallpaperCraft:WoodPlankYellow_3.name=Wood Plank Soft Yellow
+tile.WallpaperCraft:WoodPlankYellow_4.name=Wood Plank Orange Yellow
+tile.WallpaperCraft:WoodPlankYellow_5.name=Wood Plank Light Sand Yellow
+tile.WallpaperCraft:WoodPlankYellow_6.name=Wood Plank Light Yellow
+tile.WallpaperCraft:WoodPlankYellow_7.name=Wood Plank Yellow
+tile.WallpaperCraft:WoodPlankYellow_8.name=Wood Plank Gold Yellow
+tile.WallpaperCraft:WoodPlankYellow_9.name=Wood Plank Dark Orange
+tile.WallpaperCraft:WoodPlankYellow_10.name=Wood Plank Light Orange
+tile.WallpaperCraft:WoodPlankYellow_11.name=Wood Plank Sunny Orange
+tile.WallpaperCraft:WoodPlankYellow_12.name=Wood Plank Orange
+tile.WallpaperCraft:WoodPlankYellow_13.name=Wood Plank Deep Orange
+tile.WallpaperCraft:WoodPlankYellow_14.name=Wood Plank Orange Red
+
+
+
+#Wood Plank Gray Colours
+tile.WallpaperCraft:WoodPlankGray_0.name=Wood Plank White Gray
+tile.WallpaperCraft:WoodPlankGray_1.name=Wood Plank Light Gray
+tile.WallpaperCraft:WoodPlankGray_2.name=Wood Plank Gray
+tile.WallpaperCraft:WoodPlankGray_3.name=Wood Plank Dark Gray
+tile.WallpaperCraft:WoodPlankGray_4.name=Wood Plank Gray Black
+tile.WallpaperCraft:WoodPlankGray_5.name=Wood Plank Light Warm Gray
+tile.WallpaperCraft:WoodPlankGray_6.name=Wood Plank Warm Gray
+tile.WallpaperCraft:WoodPlankGray_7.name=Wood Plank Middle Warm Gray
+tile.WallpaperCraft:WoodPlankGray_8.name=Wood Plank Dark Warm Gray
+tile.WallpaperCraft:WoodPlankGray_9.name=Wood Plank Warm Black Gray
+tile.WallpaperCraft:WoodPlankGray_10.name=Wood Plank Light Cool gray
+tile.WallpaperCraft:WoodPlankGray_11.name=Wood Plank Cool Gray
+tile.WallpaperCraft:WoodPlankGray_12.name=Wood Plank Dark Cool Gray
+tile.WallpaperCraft:WoodPlankGray_13.name=Wood Plank Cool Blue Gray
+tile.WallpaperCraft:WoodPlankGray_14.name=Wood Plank Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########        STARTING NAMING OF STONE BRICKS         ###########
+###########									     	       ###########
+######################################################################
+
+
+#Stone Brick Red Colours
+tile.WallpaperCraft:StoneBrickRed_0.name=Stone Brick Light Warm Pink
+tile.WallpaperCraft:StoneBrickRed_1.name=Stone Brick Light Red
+tile.WallpaperCraft:StoneBrickRed_2.name=Stone Brick Bright Red
+tile.WallpaperCraft:StoneBrickRed_3.name=Stone Brick Red
+tile.WallpaperCraft:StoneBrickRed_4.name=Stone Brick Blood Red
+tile.WallpaperCraft:StoneBrickRed_5.name=Stone Brick Light Cool Pink
+tile.WallpaperCraft:StoneBrickRed_6.name=Stone Brick Pink
+tile.WallpaperCraft:StoneBrickRed_7.name=Stone Brick Hot Pink
+tile.WallpaperCraft:StoneBrickRed_8.name=Stone Brick Dark Pink
+tile.WallpaperCraft:StoneBrickRed_9.name=Stone Brick Hot Pink
+tile.WallpaperCraft:StoneBrickRed_10.name=Stone Brick Fuchsia
+tile.WallpaperCraft:StoneBrickRed_11.name=Stone Brick Baby Pink
+tile.WallpaperCraft:StoneBrickRed_12.name=Stone Brick Light Salmon
+tile.WallpaperCraft:StoneBrickRed_13.name=Stone Brick Brown Red
+tile.WallpaperCraft:StoneBrickRed_14.name=Stone Brick Dark Brown Red
+
+
+
+#Stone Brick Purple Colours
+tile.WallpaperCraft:StoneBrickPurple_0.name=Stone Brick Light Magenta
+tile.WallpaperCraft:StoneBrickPurple_1.name=Stone Brick Magenta
+tile.WallpaperCraft:StoneBrickPurple_2.name=Stone Brick Dark Magenta
+tile.WallpaperCraft:StoneBrickPurple_3.name=Stone Brick Violet
+tile.WallpaperCraft:StoneBrickPurple_4.name=Stone Brick Dark Violet
+tile.WallpaperCraft:StoneBrickPurple_5.name=Stone Brick Light Violet
+tile.WallpaperCraft:StoneBrickPurple_6.name=Stone Brick Light Purple
+tile.WallpaperCraft:StoneBrickPurple_7.name=Stone Brick Purple
+tile.WallpaperCraft:StoneBrickPurple_8.name=Stone Brick Dark Purple
+tile.WallpaperCraft:StoneBrickPurple_9.name=Stone Brick Royal Blue
+tile.WallpaperCraft:StoneBrickPurple_10.name=Stone Brick Light Lavender
+tile.WallpaperCraft:StoneBrickPurple_11.name=Stone Brick Lavender
+tile.WallpaperCraft:StoneBrickPurple_12.name=Stone Brick Azure Blue
+tile.WallpaperCraft:StoneBrickPurple_13.name=Stone Brick Dark Blue
+tile.WallpaperCraft:StoneBrickPurple_14.name=Stone Brick Midnight Blue
+
+
+
+#Stone Brick Blue Colours
+tile.WallpaperCraft:StoneBrickBlue_0.name=Stone Brick Light Blue
+tile.WallpaperCraft:StoneBrickBlue_1.name=Stone Brick Light Sky Blue
+tile.WallpaperCraft:StoneBrickBlue_2.name=Stone Brick Sky Blue
+tile.WallpaperCraft:StoneBrickBlue_3.name=Stone Brick Dark Sky Blue
+tile.WallpaperCraft:StoneBrickBlue_4.name=Stone Brick Navy Blue
+tile.WallpaperCraft:StoneBrickBlue_5.name=Stone Brick Light Baby Blue
+tile.WallpaperCraft:StoneBrickBlue_6.name=Stone Brick Baby Blue
+tile.WallpaperCraft:StoneBrickBlue_7.name=Stone Brick Bright Blue
+tile.WallpaperCraft:StoneBrickBlue_8.name=Stone Brick Medium Blue
+tile.WallpaperCraft:StoneBrickBlue_9.name=Stone Brick Deep Blue
+tile.WallpaperCraft:StoneBrickBlue_10.name=Stone Brick Light Aqua Blue
+tile.WallpaperCraft:StoneBrickBlue_11.name=Stone Brick Aqua Blue
+tile.WallpaperCraft:StoneBrickBlue_12.name=Stone Brick Dark Aqua Blue
+tile.WallpaperCraft:StoneBrickBlue_13.name=Stone Brick Oceon Blue
+tile.WallpaperCraft:StoneBrickBlue_14.name=Stone Brick Midnight Blue
+
+
+
+#Stone Brick Brown Colours
+tile.WallpaperCraft:StoneBrickBrown_0.name=Stone Brick Soft Orange
+tile.WallpaperCraft:StoneBrickBrown_1.name=Stone Brick Sienna brown
+tile.WallpaperCraft:StoneBrickBrown_2.name=Stone Brick Burnt Sienna Brown
+tile.WallpaperCraft:StoneBrickBrown_3.name=Stone Brick Earth Brown
+tile.WallpaperCraft:StoneBrickBrown_4.name=Stone Brick Soil Brown
+tile.WallpaperCraft:StoneBrickBrown_5.name=Stone Brick Light Beige
+tile.WallpaperCraft:StoneBrickBrown_6.name=Stone Brick Beige
+tile.WallpaperCraft:StoneBrickBrown_7.name=Stone Brick Terracotta Red
+tile.WallpaperCraft:StoneBrickBrown_8.name=Stone Brick Brown
+tile.WallpaperCraft:StoneBrickBrown_9.name=Stone Brick Saddle Brown
+tile.WallpaperCraft:StoneBrickBrown_10.name=Stone Brick Light Gray Brown
+tile.WallpaperCraft:StoneBrickBrown_11.name=Stone Brick Gray Brown
+tile.WallpaperCraft:StoneBrickBrown_12.name=Stone Brick Middle Gray Brown
+tile.WallpaperCraft:StoneBrickBrown_13.name=Stone Brick Gray Brown
+tile.WallpaperCraft:StoneBrickBrown_14.name=Stone Brick Dark Gray Brown
+
+
+
+#Stone Brick Cyan Colours
+tile.WallpaperCraft:StoneBrickCyan_0.name=Stone Brick Light Green Blue
+tile.WallpaperCraft:StoneBrickCyan_1.name=Stone Brick Light Turquoise Blue
+tile.WallpaperCraft:StoneBrickCyan_2.name=Stone Brick Turquoise Blue
+tile.WallpaperCraft:StoneBrickCyan_3.name=Stone Brick Teal Blue
+tile.WallpaperCraft:StoneBrickCyan_4.name=Stone Brick Dark Teal Blue
+tile.WallpaperCraft:StoneBrickCyan_5.name=Stone Brick Light Seafoam Blue Green
+tile.WallpaperCraft:StoneBrickCyan_6.name=Stone Brick Seafoam Blue Green
+tile.WallpaperCraft:StoneBrickCyan_7.name=Stone Brick Blue Green
+tile.WallpaperCraft:StoneBrickCyan_8.name=Stone Brick Dark Blue Green
+tile.WallpaperCraft:StoneBrickCyan_9.name=Stone Brick Dark Pine Blue Green
+
+
+
+#Stone Brick Green Colours
+tile.WallpaperCraft:StoneBrickGreen_0.name=Stone Brick Light Green
+tile.WallpaperCraft:StoneBrickGreen_1.name=Stone Brick Light Spring Green
+tile.WallpaperCraft:StoneBrickGreen_2.name=Stone Brick Spring Green
+tile.WallpaperCraft:StoneBrickGreen_3.name=Stone Brick Green
+tile.WallpaperCraft:StoneBrickGreen_4.name=Stone Brick Dark Green
+tile.WallpaperCraft:StoneBrickGreen_5.name=Stone Brick Light Summer Green
+tile.WallpaperCraft:StoneBrickGreen_6.name=Stone Brick Summer Green
+tile.WallpaperCraft:StoneBrickGreen_7.name=Stone Brick Lush Green
+tile.WallpaperCraft:StoneBrickGreen_8.name=Stone Brick Deep Lush Green
+tile.WallpaperCraft:StoneBrickGreen_9.name=Stone Brick Dark Lush Green
+tile.WallpaperCraft:StoneBrickGreen_10.name=Stone Brick Light Spring Green
+tile.WallpaperCraft:StoneBrickGreen_11.name=Stone Brick Spring Green
+tile.WallpaperCraft:StoneBrickGreen_12.name=Stone Brick Light Olive Green
+tile.WallpaperCraft:StoneBrickGreen_13.name=Stone Brick Olive Green
+tile.WallpaperCraft:StoneBrickGreen_14.name=Stone Brick Moss Green
+
+
+
+#Stone Brick Yellow Colours
+tile.WallpaperCraft:StoneBrickYellow_0.name=Stone Brick Light Lemon Yellow
+tile.WallpaperCraft:StoneBrickYellow_1.name=Stone Brick Lemon Yellow
+tile.WallpaperCraft:StoneBrickYellow_2.name=Stone Brick Sunny Yellow
+tile.WallpaperCraft:StoneBrickYellow_3.name=Stone Brick Soft Yellow
+tile.WallpaperCraft:StoneBrickYellow_4.name=Stone Brick Orange Yellow
+tile.WallpaperCraft:StoneBrickYellow_5.name=Stone Brick Light Sand Yellow
+tile.WallpaperCraft:StoneBrickYellow_6.name=Stone Brick Light Yellow
+tile.WallpaperCraft:StoneBrickYellow_7.name=Stone Brick Yellow
+tile.WallpaperCraft:StoneBrickYellow_8.name=Stone Brick Gold Yellow
+tile.WallpaperCraft:StoneBrickYellow_9.name=Stone Brick Dark Orange
+tile.WallpaperCraft:StoneBrickYellow_10.name=Stone Brick Light Orange
+tile.WallpaperCraft:StoneBrickYellow_11.name=Stone Brick Sunny Orange
+tile.WallpaperCraft:StoneBrickYellow_12.name=Stone Brick Orange
+tile.WallpaperCraft:StoneBrickYellow_13.name=Stone Brick Deep Orange
+tile.WallpaperCraft:StoneBrickYellow_14.name=Stone Brick Orange Red
+
+
+
+#Stone Brick Gray Colours
+tile.WallpaperCraft:StoneBrickGray_0.name=Stone Brick White Gray
+tile.WallpaperCraft:StoneBrickGray_1.name=Stone Brick Light Gray
+tile.WallpaperCraft:StoneBrickGray_2.name=Stone Brick Gray
+tile.WallpaperCraft:StoneBrickGray_3.name=Stone Brick Dark Gray
+tile.WallpaperCraft:StoneBrickGray_4.name=Stone Brick Gray Black
+tile.WallpaperCraft:StoneBrickGray_5.name=Stone Brick Light Warm Gray
+tile.WallpaperCraft:StoneBrickGray_6.name=Stone Brick Warm Gray
+tile.WallpaperCraft:StoneBrickGray_7.name=Stone Brick Middle Warm Gray
+tile.WallpaperCraft:StoneBrickGray_8.name=Stone Brick Dark Warm Gray
+tile.WallpaperCraft:StoneBrickGray_9.name=Stone Brick Warm Black Gray
+tile.WallpaperCraft:StoneBrickGray_10.name=Stone Brick Light Cool gray
+tile.WallpaperCraft:StoneBrickGray_11.name=Stone Brick Cool Gray
+tile.WallpaperCraft:StoneBrickGray_12.name=Stone Brick Dark Cool Gray
+tile.WallpaperCraft:StoneBrickGray_13.name=Stone Brick Cool Blue Gray
+tile.WallpaperCraft:StoneBrickGray_14.name=Stone Brick Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########       STARTING NAMING OF RIPPLED BLOCKS        ###########
+###########									     	       ###########
+######################################################################
+
+
+# Rippled Red Colours
+tile.WallpaperCraft:RippledRed_0.name=Rippled Light Warm Pink
+tile.WallpaperCraft:RippledRed_1.name=Rippled Light Red
+tile.WallpaperCraft:RippledRed_2.name=Rippled Bright Red
+tile.WallpaperCraft:RippledRed_3.name=Rippled Red
+tile.WallpaperCraft:RippledRed_4.name=Rippled Blood Red
+tile.WallpaperCraft:RippledRed_5.name=Rippled Light Cool Pink
+tile.WallpaperCraft:RippledRed_6.name=Rippled Pink
+tile.WallpaperCraft:RippledRed_7.name=Rippled Hot Pink
+tile.WallpaperCraft:RippledRed_8.name=Rippled Dark Pink
+tile.WallpaperCraft:RippledRed_9.name=Rippled Hot Pink
+tile.WallpaperCraft:RippledRed_10.name=Rippled Fuchsia
+tile.WallpaperCraft:RippledRed_11.name=Rippled Baby Pink
+tile.WallpaperCraft:RippledRed_12.name=Rippled Light Salmon
+tile.WallpaperCraft:RippledRed_13.name=Rippled Brown Red
+tile.WallpaperCraft:RippledRed_14.name=Rippled Dark Brown Red
+
+
+
+# Rippled Purple Colours
+tile.WallpaperCraft:RippledPurple_0.name=Rippled Light Magenta
+tile.WallpaperCraft:RippledPurple_1.name=Rippled Magenta
+tile.WallpaperCraft:RippledPurple_2.name=Rippled Dark Magenta
+tile.WallpaperCraft:RippledPurple_3.name=Rippled Violet
+tile.WallpaperCraft:RippledPurple_4.name=Rippled Dark Violet
+tile.WallpaperCraft:RippledPurple_5.name=Rippled Light Violet
+tile.WallpaperCraft:RippledPurple_6.name=Rippled Light Purple
+tile.WallpaperCraft:RippledPurple_7.name=Rippled Purple
+tile.WallpaperCraft:RippledPurple_8.name=Rippled Dark Purple
+tile.WallpaperCraft:RippledPurple_9.name=Rippled Royal Blue
+tile.WallpaperCraft:RippledPurple_10.name=Rippled Light Lavender
+tile.WallpaperCraft:RippledPurple_11.name=Rippled Lavender
+tile.WallpaperCraft:RippledPurple_12.name=Rippled Azure Blue
+tile.WallpaperCraft:RippledPurple_13.name=Rippled Dark Blue
+tile.WallpaperCraft:RippledPurple_14.name=Rippled Midnight Blue
+
+
+
+# Rippled Blue Colours
+tile.WallpaperCraft:RippledBlue_0.name=Rippled Light Blue
+tile.WallpaperCraft:RippledBlue_1.name=Rippled Light Sky Blue
+tile.WallpaperCraft:RippledBlue_2.name=Rippled Sky Blue
+tile.WallpaperCraft:RippledBlue_3.name=Rippled Dark Sky Blue
+tile.WallpaperCraft:RippledBlue_4.name=Rippled Navy Blue
+tile.WallpaperCraft:RippledBlue_5.name=Rippled Light Baby Blue
+tile.WallpaperCraft:RippledBlue_6.name=Rippled Baby Blue
+tile.WallpaperCraft:RippledBlue_7.name=Rippled Bright Blue
+tile.WallpaperCraft:RippledBlue_8.name=Rippled Medium Blue
+tile.WallpaperCraft:RippledBlue_9.name=Rippled Deep Blue
+tile.WallpaperCraft:RippledBlue_10.name=Rippled Light Aqua Blue
+tile.WallpaperCraft:RippledBlue_11.name=Rippled Aqua Blue
+tile.WallpaperCraft:RippledBlue_12.name=Rippled Dark Aqua Blue
+tile.WallpaperCraft:RippledBlue_13.name=Rippled Oceon Blue
+tile.WallpaperCraft:RippledBlue_14.name=Rippled Midnight Blue
+
+
+
+# Rippled Brown Colours
+tile.WallpaperCraft:RippledBrown_0.name=Rippled Soft Orange
+tile.WallpaperCraft:RippledBrown_1.name=Rippled Sienna brown
+tile.WallpaperCraft:RippledBrown_2.name=Rippled Burnt Sienna Brown
+tile.WallpaperCraft:RippledBrown_3.name=Rippled Earth Brown
+tile.WallpaperCraft:RippledBrown_4.name=Rippled Soil Brown
+tile.WallpaperCraft:RippledBrown_5.name=Rippled Light Beige
+tile.WallpaperCraft:RippledBrown_6.name=Rippled Beige
+tile.WallpaperCraft:RippledBrown_7.name=Rippled Terracotta Red
+tile.WallpaperCraft:RippledBrown_8.name=Rippled Brown
+tile.WallpaperCraft:RippledBrown_9.name=Rippled Saddle Brown
+tile.WallpaperCraft:RippledBrown_10.name=Rippled Light Gray Brown
+tile.WallpaperCraft:RippledBrown_11.name=Rippled Gray Brown
+tile.WallpaperCraft:RippledBrown_12.name=Rippled Middle Gray Brown
+tile.WallpaperCraft:RippledBrown_13.name=Rippled Gray Brown
+tile.WallpaperCraft:RippledBrown_14.name=Rippled Dark Gray Brown
+
+
+
+# Rippled Cyan Colours
+tile.WallpaperCraft:RippledCyan_0.name=Rippled Light Green Blue
+tile.WallpaperCraft:RippledCyan_1.name=Rippled Light Turquoise Blue
+tile.WallpaperCraft:RippledCyan_2.name=Rippled Turquoise Blue
+tile.WallpaperCraft:RippledCyan_3.name=Rippled Teal Blue
+tile.WallpaperCraft:RippledCyan_4.name=Rippled Dark Teal Blue
+tile.WallpaperCraft:RippledCyan_5.name=Rippled Light Seafoam Blue Green
+tile.WallpaperCraft:RippledCyan_6.name=Rippled Seafoam Blue Green
+tile.WallpaperCraft:RippledCyan_7.name=Rippled Blue Green
+tile.WallpaperCraft:RippledCyan_8.name=Rippled Dark Blue Green
+tile.WallpaperCraft:RippledCyan_9.name=Rippled Dark Pine Blue Green
+
+
+
+# Rippled Green Colours
+tile.WallpaperCraft:RippledGreen_0.name=Rippled Light Green
+tile.WallpaperCraft:RippledGreen_1.name=Rippled Light Spring Green
+tile.WallpaperCraft:RippledGreen_2.name=Rippled Spring Green
+tile.WallpaperCraft:RippledGreen_3.name=Rippled Green
+tile.WallpaperCraft:RippledGreen_4.name=Rippled Dark Green
+tile.WallpaperCraft:RippledGreen_5.name=Rippled Light Summer Green
+tile.WallpaperCraft:RippledGreen_6.name=Rippled Summer Green
+tile.WallpaperCraft:RippledGreen_7.name=Rippled Lush Green
+tile.WallpaperCraft:RippledGreen_8.name=Rippled Deep Lush Green
+tile.WallpaperCraft:RippledGreen_9.name=Rippled Dark Lush Green
+tile.WallpaperCraft:RippledGreen_10.name=Rippled Light Spring Green
+tile.WallpaperCraft:RippledGreen_11.name=Rippled Spring Green
+tile.WallpaperCraft:RippledGreen_12.name=Rippled Light Olive Green
+tile.WallpaperCraft:RippledGreen_13.name=Rippled Olive Green
+tile.WallpaperCraft:RippledGreen_14.name=Rippled Moss Green
+
+
+
+# Rippled Yellow Colours
+tile.WallpaperCraft:RippledYellow_0.name=Rippled Light Lemon Yellow
+tile.WallpaperCraft:RippledYellow_1.name=Rippled Lemon Yellow
+tile.WallpaperCraft:RippledYellow_2.name=Rippled Sunny Yellow
+tile.WallpaperCraft:RippledYellow_3.name=Rippled Soft Yellow
+tile.WallpaperCraft:RippledYellow_4.name=Rippled Orange Yellow
+tile.WallpaperCraft:RippledYellow_5.name=Rippled Light Sand Yellow
+tile.WallpaperCraft:RippledYellow_6.name=Rippled Light Yellow
+tile.WallpaperCraft:RippledYellow_7.name=Rippled Yellow
+tile.WallpaperCraft:RippledYellow_8.name=Rippled Gold Yellow
+tile.WallpaperCraft:RippledYellow_9.name=Rippled Dark Orange
+tile.WallpaperCraft:RippledYellow_10.name=Rippled Light Orange
+tile.WallpaperCraft:RippledYellow_11.name=Rippled Sunny Orange
+tile.WallpaperCraft:RippledYellow_12.name=Rippled Orange
+tile.WallpaperCraft:RippledYellow_13.name=Rippled Deep Orange
+tile.WallpaperCraft:RippledYellow_14.name=Rippled Orange Red
+
+
+
+# Rippled Gray Colours
+tile.WallpaperCraft:RippledGray_0.name=Rippled White Gray
+tile.WallpaperCraft:RippledGray_1.name=Rippled Light Gray
+tile.WallpaperCraft:RippledGray_2.name=Rippled Gray
+tile.WallpaperCraft:RippledGray_3.name=Rippled Dark Gray
+tile.WallpaperCraft:RippledGray_4.name=Rippled Gray Black
+tile.WallpaperCraft:RippledGray_5.name=Rippled Light Warm Gray
+tile.WallpaperCraft:RippledGray_6.name=Rippled Warm Gray
+tile.WallpaperCraft:RippledGray_7.name=Rippled Middle Warm Gray
+tile.WallpaperCraft:RippledGray_8.name=Rippled Dark Warm Gray
+tile.WallpaperCraft:RippledGray_9.name=Rippled Warm Black Gray
+tile.WallpaperCraft:RippledGray_10.name=Rippled Light Cool gray
+tile.WallpaperCraft:RippledGray_11.name=Rippled Cool Gray
+tile.WallpaperCraft:RippledGray_12.name=Rippled Dark Cool Gray
+tile.WallpaperCraft:RippledGray_13.name=Rippled Cool Blue Gray
+tile.WallpaperCraft:RippledGray_14.name=Rippled Cool Dark Blue Gray

@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "0.14"
+version = "${mc_version}-${mod_version}"
 group= "WallpaperCraft" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "WallpaperCraft"
 
@@ -34,7 +34,7 @@ dependencies {
 
 
 	compile "codechicken:ForgeMultipart:1.7.10-1.1.0.297:dev"
-	compile "team.chisel:Chisel:2.9.5.11:deobf"
+	compile "team.chisel:Chisel:${chisel_version}:deobf"
 
 
 }

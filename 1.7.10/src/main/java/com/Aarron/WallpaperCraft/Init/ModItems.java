@@ -11,16 +11,21 @@ public final class ModItems {
 	
 	
 	public static PressBlank PressBlank;
-	public static PressBrick PressBrick;
-	public static PressCheckered PressCheckered;
-	public static PressClay PressClay;
 	public static PressDiagonallyDotted PressDiagonallyDotted;
 	public static PressDotted PressDotted;
-	public static PressFloral PressFloral;
 	public static PressStriped PressStriped;
-	public static PressFrostedGlass PressFrostedGlass;
-	public static PressTexturedGlass PressTexturedGlass;
+	public static PressFloral PressFloral;
+	public static PressClay PressClay;
 	public static PressTintedGlass PressTintedGlass;
+	public static PressTexturedGlass PressTexturedGlass;
+	public static PressFrostedGlass PressFrostedGlass;
+	public static PressBrick PressBrick;
+	public static PressStoneBrick PressStoneBrick;
+	public static PressRippled PressRippled;
+	public static PressStamp PressStamp;
+	public static PressWoodPlank PressWoodPlank;
+	public static PressWool PressWool;
+	public static PressCheckered PressCheckered;
 	//public static Spectrum spectrum;
 	
 	
@@ -29,16 +34,21 @@ public final class ModItems {
 
 	public static void registerItems() {
 		PressBlank = registerItem(new PressBlank());
-		PressBrick = registerItem(new PressBrick());
-		PressCheckered = registerItem(new PressCheckered());
-		PressClay = registerItem(new PressClay());
 		PressDiagonallyDotted = registerItem(new PressDiagonallyDotted());
 		PressDotted = registerItem(new PressDotted());
-		PressFloral = registerItem(new PressFloral());
 		PressStriped = registerItem(new PressStriped());
-		PressFrostedGlass = registerItem(new PressFrostedGlass());
-		PressTexturedGlass = registerItem(new PressTexturedGlass());
+		PressFloral = registerItem(new PressFloral());
+		PressClay = registerItem(new PressClay());
 		PressTintedGlass = registerItem(new PressTintedGlass());
+		PressTexturedGlass = registerItem(new PressTexturedGlass());
+		PressFrostedGlass = registerItem(new PressFrostedGlass());
+		PressBrick = registerItem(new PressBrick());
+		PressStoneBrick = registerItem(new PressStoneBrick());
+		PressRippled = registerItem(new PressRippled());
+		PressStamp = registerItem(new PressStamp());
+		PressWoodPlank = registerItem(new PressWoodPlank());
+		PressWool = registerItem(new PressWool());
+		PressCheckered = registerItem(new PressCheckered());
 		//spectrum = registerItem(new Spectrum());
 		
 		

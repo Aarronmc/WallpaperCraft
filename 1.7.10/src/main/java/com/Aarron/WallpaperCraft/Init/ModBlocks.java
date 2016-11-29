@@ -1,27 +1,38 @@
 package com.Aarron.WallpaperCraft.init;
 
+import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+import net.minecraft.item.ItemStack;
+import net.minecraftforge.oredict.OreDictionary;
 
 import com.Aarron.WallpaperCraft.blocks.bricks.*;
-import com.Aarron.WallpaperCraft.blocks.carpets.checkered.*;
-import com.Aarron.WallpaperCraft.blocks.carpets.dotted.*;
+import com.Aarron.WallpaperCraft.blocks.carpet.*;
 import com.Aarron.WallpaperCraft.blocks.clay.*;
 import com.Aarron.WallpaperCraft.blocks.dotted.*;
 import com.Aarron.WallpaperCraft.blocks.floral.*;
 import com.Aarron.WallpaperCraft.blocks.glass.*;
-import com.Aarron.WallpaperCraft.blocks.glass.*;
-import com.Aarron.WallpaperCraft.blocks.glass.*;
-import com.Aarron.WallpaperCraft.blocks.rugs.checkered.*;
-import com.Aarron.WallpaperCraft.blocks.rugs.dotted.*;
+import com.Aarron.WallpaperCraft.blocks.planks.*;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledBlue;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledBrown;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledCyan;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledGray;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledGreen;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledPurple;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledRed;
+import com.Aarron.WallpaperCraft.blocks.rippled.RippledYellow;
 import com.Aarron.WallpaperCraft.blocks.solid.*;
+import com.Aarron.WallpaperCraft.blocks.stamp.Stamp;
 import com.Aarron.WallpaperCraft.blocks.striped.*;
+import com.Aarron.WallpaperCraft.blocks.wool.*;
+import com.Aarron.WallpaperCraft.creativeTab.Tab;
 import com.Aarron.WallpaperCraft.items.ItemSolidBlock;
+
 import cpw.mods.fml.common.registry.GameRegistry;
 public final class ModBlocks {
 
 	
 
-	//Creating The Solid Coloured Blocks
+	//Creating The Solid Blocks
     public static SolidRedBlocks SolidRed;
     public static SolidPurpleBlocks SolidPurple;
     public static SolidBlueBlocks SolidBlue;
@@ -31,7 +42,7 @@ public final class ModBlocks {
     public static SolidBrownBlocks SolidBrown;
     public static SolidGrayBlocks SolidGray;
     
-    //Creating The Diagonally Dotted Coloured Blocks
+    //Creating The Diagonally Dotted Blocks
     public static DiagonallyDottedRed DiagonallyDottedRed;
     public static DiagonallyDottedPurple DiagonallyDottedPurple;
     public static DiagonallyDottedBlue DiagonallyDottedBlue;
@@ -40,8 +51,18 @@ public final class ModBlocks {
     public static DiagonallyDottedYellow DiagonallyDottedYellow;
     public static DiagonallyDottedBrown DiagonallyDottedBrown;
     public static DiagonallyDottedGray DiagonallyDottedGray;
+        
+    //Creating The Diagonally Dotted Blocks
+    public static DottedRed DottedRed;
+    public static DottedPurple DottedPurple;
+    public static DottedBlue DottedBlue;
+    public static DottedCyan DottedCyan;
+    public static DottedGreen DottedGreen;
+    public static DottedYellow DottedYellow;
+    public static DottedBrown DottedBrown;
+    public static DottedGray DottedGray;
 
-    //Creating The Stripes Coloured Blocks
+    //Creating The Striped Blocks
     public static StripedRed StripedRed;
     public static StripedPurple StripedPurple;
     public static StripedBlue StripedBlue;
@@ -51,7 +72,7 @@ public final class ModBlocks {
     public static StripedBrown StripedBrown;
     public static StripedGray StripedGray;
     
-    //Creating The Floral Coloured Blocks
+    //Creating The Floral Blocks
     public static FloralRed FloralRed;
     public static FloralPurple FloralPurple;
     public static FloralBlue FloralBlue;
@@ -61,7 +82,7 @@ public final class ModBlocks {
     public static FloralBrown FloralBrown;
     public static FloralGray FloralGray;
     
-    //Creating The Clay Coloured Blocks
+    //Creating The Clay Blocks
     public static ClayRed ClayRed;
     public static ClayPurple ClayPurple;
     public static ClayBlue ClayBlue;
@@ -71,37 +92,7 @@ public final class ModBlocks {
     public static ClayBrown ClayBrown;
     public static ClayGray ClayGray;
     
-    //Creating The Tinted Glass Coloured Blocks
-    public static TintedGlassRed TintedGlassRed;
-    public static TintedGlassPurple TintedGlassPurple;
-    public static TintedGlassBlue TintedGlassBlue;
-    public static TintedGlassCyan TintedGlassCyan;
-    public static TintedGlassGreen TintedGlassGreen;
-    public static TintedGlassYellow TintedGlassYellow;
-    public static TintedGlassBrown TintedGlassBrown;
-    public static TintedGlassGray TintedGlassGray;
-    
-    //Creating The Textured Glass Coloured Blocks
-    public static TexturedGlassRed TexturedGlassRed;
-    public static TexturedGlassPurple TexturedGlassPurple;
-    public static TexturedGlassBlue TexturedGlassBlue;
-    public static TexturedGlassCyan TexturedGlassCyan;
-    public static TexturedGlassGreen TexturedGlassGreen;
-    public static TexturedGlassYellow TexturedGlassYellow;
-    public static TexturedGlassBrown TexturedGlassBrown;
-    public static TexturedGlassGray TexturedGlassGray;
-    
-    //Creating The Frosted Glass Coloured Blocks
-    public static FrostedGlassRed FrostedGlassRed;
-    public static FrostedGlassPurple FrostedGlassPurple;
-    public static FrostedGlassBlue FrostedGlassBlue;
-    public static FrostedGlassCyan FrostedGlassCyan;
-    public static FrostedGlassGreen FrostedGlassGreen;
-    public static FrostedGlassYellow FrostedGlassYellow;
-    public static FrostedGlassBrown FrostedGlassBrown;
-    public static FrostedGlassGray FrostedGlassGray;
-    
-    //Creating The Brick Coloured Blocks
+    //Creating The Brick Blocks
     public static BrickRed BrickRed;
     public static BrickPurple BrickPurple;
     public static BrickBlue BrickBlue;
@@ -111,17 +102,100 @@ public final class ModBlocks {
     public static BrickBrown BrickBrown;
     public static BrickGray BrickGray;
     
-    //Creating The Dotted Carpet Coloured Blocks
-    public static DottedCarpetRed DottedCarpetRed;
-    public static DottedCarpetPurple DottedCarpetPurple;
-    public static DottedCarpetBlue DottedCarpetBlue;
-    public static DottedCarpetCyan DottedCarpetCyan;
-    public static DottedCarpetGreen DottedCarpetGreen;
-    public static DottedCarpetYellow DottedCarpetYellow;
-    public static DottedCarpetBrown DottedCarpetBrown;
-    public static DottedCarpetGray DottedCarpetGray;
+    //Creating The Stone Brick Blocks
+    public static StoneBrickRed StoneBrickRed;
+    public static StoneBrickPurple StoneBrickPurple;
+    public static StoneBrickBlue StoneBrickBlue;
+    public static StoneBrickCyan StoneBrickCyan;
+    public static StoneBrickGreen StoneBrickGreen;
+    public static StoneBrickYellow StoneBrickYellow;
+    public static StoneBrickBrown StoneBrickBrown;
+    public static StoneBrickGray StoneBrickGray;
+          
+    //Creating The Rippled Blocks
+    public static RippledRed RippledRed;
+    public static RippledPurple RippledPurple;
+    public static RippledBlue RippledBlue;
+    public static RippledCyan RippledCyan;
+    public static RippledGreen RippledGreen;
+    public static RippledYellow RippledYellow;
+    public static RippledBrown RippledBrown;
+    public static RippledGray RippledGray;
     
-    //Creating The Checkered Carpet Coloured Blocks
+    //Creating the Stamp Pattern blocks
+    public static Stamp Stamp;
+    
+    //Creating The Wooden Planks
+    public static WoodPlankRed WoodPlankRed;
+    public static WoodPlankPurple WoodPlankPurple;
+    public static WoodPlankBlue WoodPlankBlue;
+    public static WoodPlankCyan WoodPlankCyan;
+    public static WoodPlankGreen WoodPlankGreen;
+    public static WoodPlankYellow WoodPlankYellow;
+    public static WoodPlankBrown WoodPlankBrown;
+    public static WoodPlankGray WoodPlankGray;
+    
+    //Creating The Wool Blocks
+    public static WoolRed WoolRed;
+    public static WoolPurple WoolPurple;
+    public static WoolBlue WoolBlue;
+    public static WoolCyan WoolCyan;
+    public static WoolGreen WoolGreen;
+    public static WoolYellow WoolYellow;
+    public static WoolBrown WoolBrown;
+    public static WoolGray WoolGray;
+        
+    //Creating The Checkered Wool Blocks
+    public static CheckeredWoolRed CheckeredWoolRed;
+    public static CheckeredWoolPurple CheckeredWoolPurple;
+    public static CheckeredWoolBlue CheckeredWoolBlue;
+    public static CheckeredWoolCyan CheckeredWoolCyan;
+    public static CheckeredWoolGreen CheckeredWoolGreen;
+    public static CheckeredWoolYellow CheckeredWoolYellow;
+    public static CheckeredWoolBrown CheckeredWoolBrown;
+    public static CheckeredWoolGray CheckeredWoolGray;
+        
+    //Creating The Tinted Glass Blocks
+    public static TintedGlassRed TintedGlassRed;
+    public static TintedGlassPurple TintedGlassPurple;
+    public static TintedGlassBlue TintedGlassBlue;
+    public static TintedGlassCyan TintedGlassCyan;
+    public static TintedGlassGreen TintedGlassGreen;
+    public static TintedGlassYellow TintedGlassYellow;
+    public static TintedGlassBrown TintedGlassBrown;
+    public static TintedGlassGray TintedGlassGray;
+    
+    //Creating The Textured Glass Blocks
+    public static TexturedGlassRed TexturedGlassRed;
+    public static TexturedGlassPurple TexturedGlassPurple;
+    public static TexturedGlassBlue TexturedGlassBlue;
+    public static TexturedGlassCyan TexturedGlassCyan;
+    public static TexturedGlassGreen TexturedGlassGreen;
+    public static TexturedGlassYellow TexturedGlassYellow;
+    public static TexturedGlassBrown TexturedGlassBrown;
+    public static TexturedGlassGray TexturedGlassGray;
+    
+    //Creating The Frosted Glass Blocks
+    public static FrostedGlassRed FrostedGlassRed;
+    public static FrostedGlassPurple FrostedGlassPurple;
+    public static FrostedGlassBlue FrostedGlassBlue;
+    public static FrostedGlassCyan FrostedGlassCyan;
+    public static FrostedGlassGreen FrostedGlassGreen;
+    public static FrostedGlassYellow FrostedGlassYellow;
+    public static FrostedGlassBrown FrostedGlassBrown;
+    public static FrostedGlassGray FrostedGlassGray;
+    
+    //Creating The Wool Carpets
+    public static WoolCarpetRed WoolCarpetRed;
+    public static WoolCarpetPurple WoolCarpetPurple;
+    public static WoolCarpetBlue WoolCarpetBlue;
+    public static WoolCarpetCyan WoolCarpetCyan;
+    public static WoolCarpetGreen WoolCarpetGreen;
+    public static WoolCarpetYellow WoolCarpetYellow;
+    public static WoolCarpetBrown WoolCarpetBrown;
+    public static WoolCarpetGray WoolCarpetGray;
+    
+    //Creating The Dotted Carpets
     public static CheckeredCarpetRed CheckeredCarpetRed;
     public static CheckeredCarpetPurple CheckeredCarpetPurple;
     public static CheckeredCarpetBlue CheckeredCarpetBlue;
@@ -131,95 +205,136 @@ public final class ModBlocks {
     public static CheckeredCarpetBrown CheckeredCarpetBrown;
     public static CheckeredCarpetGray CheckeredCarpetGray;
     
-    //Creating The Dotted Coloured Rugs
-    public static DottedRugRed DottedRugRed;
-    public static DottedRugPurple DottedRugPurple;
-    public static DottedRugBlue DottedRugBlue;
-    public static DottedRugCyan DottedRugCyan;
-    public static DottedRugGreen DottedRugGreen;
-    public static DottedRugYellow DottedRugYellow;
-    public static DottedRugBrown DottedRugBrown;
-    public static DottedRugGray DottedRugGray;
     
-    //Creating The Dotted Coloured Rugs
-    public static CheckeredRugRed CheckeredRugRed;
-    public static CheckeredRugPurple CheckeredRugPurple;
-    public static CheckeredRugBlue CheckeredRugBlue;
-    public static CheckeredRugCyan CheckeredRugCyan;
-    public static CheckeredRugGreen CheckeredRugGreen;
-    public static CheckeredRugYellow CheckeredRugYellow;
-    public static CheckeredRugBrown CheckeredRugBrown;
-    public static CheckeredRugGray CheckeredRugGray;
-    
-    
-    
-    
-    
+
     
     
 
-    //Registering The Solid Coloured Blocks
+    //Registering The Solid Blocks
     public static final void init() {
-        GameRegistry.registerBlock(SolidRed = new SolidRedBlocks("SolidRedBlocks", Material.cloth), ItemSolidBlock.class, "SolidRedBlocks");
-        GameRegistry.registerBlock(SolidPurple = new SolidPurpleBlocks("SolidPurpleBlocks", Material.cloth), ItemSolidBlock.class, "SolidPurpleBlocks");
-        GameRegistry.registerBlock(SolidBlue = new SolidBlueBlocks("SolidBlueBlocks", Material.cloth), ItemSolidBlock.class, "SolidBlueBlocks");
-        GameRegistry.registerBlock(SolidCyan = new SolidCyanBlocks("SolidCyanBlocks", Material.cloth), ItemSolidBlock.class, "SolidCyanBlocks");
-        GameRegistry.registerBlock(SolidGreen = new SolidGreenBlocks("SolidGreenBlocks", Material.cloth), ItemSolidBlock.class, "SolidGreenBlocks");
-        GameRegistry.registerBlock(SolidYellow = new SolidYellowBlocks("SolidYellowBlocks", Material.cloth), ItemSolidBlock.class, "SolidYellowBlocks");
-        GameRegistry.registerBlock(SolidBrown = new SolidBrownBlocks("SolidBrownBlocks", Material.cloth), ItemSolidBlock.class, "SolidBrownBlocks");
-        GameRegistry.registerBlock(SolidGray = new SolidGrayBlocks("SolidGrayBlocks", Material.cloth), ItemSolidBlock.class, "SolidGrayBlocks");
+        GameRegistry.registerBlock(SolidRed = new SolidRedBlocks("SolidRedBlocks", Material.rock), ItemSolidBlock.class, "SolidRedBlocks");
+        GameRegistry.registerBlock(SolidPurple = new SolidPurpleBlocks("SolidPurpleBlocks", Material.rock), ItemSolidBlock.class, "SolidPurpleBlocks");
+        GameRegistry.registerBlock(SolidBlue = new SolidBlueBlocks("SolidBlueBlocks", Material.rock), ItemSolidBlock.class, "SolidBlueBlocks");
+        GameRegistry.registerBlock(SolidCyan = new SolidCyanBlocks("SolidCyanBlocks", Material.rock), ItemSolidBlock.class, "SolidCyanBlocks");
+        GameRegistry.registerBlock(SolidGreen = new SolidGreenBlocks("SolidGreenBlocks", Material.rock), ItemSolidBlock.class, "SolidGreenBlocks");
+        GameRegistry.registerBlock(SolidYellow = new SolidYellowBlocks("SolidYellowBlocks", Material.rock), ItemSolidBlock.class, "SolidYellowBlocks");
+        GameRegistry.registerBlock(SolidBrown = new SolidBrownBlocks("SolidBrownBlocks", Material.rock), ItemSolidBlock.class, "SolidBrownBlocks");
+        GameRegistry.registerBlock(SolidGray = new SolidGrayBlocks("SolidGrayBlocks", Material.rock), ItemSolidBlock.class, "SolidGrayBlocks");
+
+        //Registering The Diagonally Dotted Blocks
+        GameRegistry.registerBlock(DiagonallyDottedRed = new DiagonallyDottedRed("DiagonallyDottedRed", Material.wood), ItemSolidBlock.class, "DiagonallyDottedRed");
+        GameRegistry.registerBlock(DiagonallyDottedPurple = new DiagonallyDottedPurple("DiagonallyDottedPurple", Material.wood), ItemSolidBlock.class, "DiagonallyDottedPurple");
+        GameRegistry.registerBlock(DiagonallyDottedBlue = new DiagonallyDottedBlue("DiagonallyDottedBlue", Material.wood), ItemSolidBlock.class, "DiagonallyDottedBlue");
+        GameRegistry.registerBlock(DiagonallyDottedCyan = new DiagonallyDottedCyan("DiagonallyDottedCyan", Material.wood), ItemSolidBlock.class, "DiagonallyDottedCyan");
+        GameRegistry.registerBlock(DiagonallyDottedGreen = new DiagonallyDottedGreen("DiagonallyDottedGreen", Material.wood), ItemSolidBlock.class, "DiagonallyDottedGreen");
+        GameRegistry.registerBlock(DiagonallyDottedYellow = new DiagonallyDottedYellow("DiagonallyDottedYellow", Material.wood), ItemSolidBlock.class, "DiagonallyDottedYellow");
+        GameRegistry.registerBlock(DiagonallyDottedBrown = new DiagonallyDottedBrown("DiagonallyDottedBrown", Material.wood), ItemSolidBlock.class, "DiagonallyDottedBrown");
+        GameRegistry.registerBlock(DiagonallyDottedGray = new DiagonallyDottedGray("DiagonallyDottedGray", Material.wood), ItemSolidBlock.class, "DiagonallyDottedGray");
         
+        //Registering The Dotted Blocks
+        GameRegistry.registerBlock(DottedRed = new DottedRed("DottedRed", Material.wood), ItemSolidBlock.class, "DottedRed");
+        GameRegistry.registerBlock(DottedPurple = new DottedPurple("DottedPurple", Material.wood), ItemSolidBlock.class, "DottedPurple");
+        GameRegistry.registerBlock(DottedBlue = new DottedBlue("DottedBlue", Material.wood), ItemSolidBlock.class, "DottedBlue");
+        GameRegistry.registerBlock(DottedCyan = new DottedCyan("DottedCyan", Material.wood), ItemSolidBlock.class, "DottedCyan");
+        GameRegistry.registerBlock(DottedGreen = new DottedGreen("DottedGreen", Material.wood), ItemSolidBlock.class, "DottedGreen");
+        GameRegistry.registerBlock(DottedYellow = new DottedYellow("DottedYellow", Material.wood), ItemSolidBlock.class, "DottedYellow");
+        GameRegistry.registerBlock(DottedBrown = new DottedBrown("DottedBrown", Material.wood), ItemSolidBlock.class, "DottedBrown");
+        GameRegistry.registerBlock(DottedGray = new DottedGray("DottedGray", Material.wood), ItemSolidBlock.class, "DottedGray");
         
+        //Registering The Striped Blocks
+        GameRegistry.registerBlock(StripedRed = new StripedRed("StripedRed", Material.wood), ItemSolidBlock.class, "StripedRed");
+        GameRegistry.registerBlock(StripedPurple = new StripedPurple("StripedPurple", Material.wood), ItemSolidBlock.class, "StripedPurple");
+        GameRegistry.registerBlock(StripedBlue = new StripedBlue("StripedBlue", Material.wood), ItemSolidBlock.class, "StripedBlue");
+        GameRegistry.registerBlock(StripedCyan = new StripedCyan("StripedCyan", Material.wood), ItemSolidBlock.class, "StripedCyan");
+        GameRegistry.registerBlock(StripedGreen = new StripedGreen("StripedGreen", Material.wood), ItemSolidBlock.class, "StripedGreen");
+        GameRegistry.registerBlock(StripedYellow = new StripedYellow("StripedYellow", Material.wood), ItemSolidBlock.class, "StripedYellow");
+        GameRegistry.registerBlock(StripedBrown = new StripedBrown("StripedBrown", Material.wood), ItemSolidBlock.class, "StripedBrown");
+        GameRegistry.registerBlock(StripedGray = new StripedGray("StripedGray", Material.wood), ItemSolidBlock.class, "StripedGray");
         
-    //Registering The Diagonally Dotted Coloured Blocks
-        GameRegistry.registerBlock(DiagonallyDottedRed = new DiagonallyDottedRed("DiagonallyDottedRed", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedRed");
-        GameRegistry.registerBlock(DiagonallyDottedPurple = new DiagonallyDottedPurple("DiagonallyDottedPurple", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedPurple");
-        GameRegistry.registerBlock(DiagonallyDottedBlue = new DiagonallyDottedBlue("DiagonallyDottedBlue", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedBlue");
-        GameRegistry.registerBlock(DiagonallyDottedCyan = new DiagonallyDottedCyan("DiagonallyDottedCyan", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedCyan");
-        GameRegistry.registerBlock(DiagonallyDottedGreen = new DiagonallyDottedGreen("DiagonallyDottedGreen", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedGreen");
-        GameRegistry.registerBlock(DiagonallyDottedYellow = new DiagonallyDottedYellow("DiagonallyDottedYellow", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedYellow");
-        GameRegistry.registerBlock(DiagonallyDottedBrown = new DiagonallyDottedBrown("DiagonallyDottedBrown", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedBrown");
-        GameRegistry.registerBlock(DiagonallyDottedGray = new DiagonallyDottedGray("DiagonallyDottedGray", Material.cloth), ItemSolidBlock.class, "DiagonallyDottedGray");
+		// Registering The Floral Blocks
+        GameRegistry.registerBlock(FloralRed = new FloralRed("FloralRed", Material.wood), ItemSolidBlock.class, "FloralRed");
+        GameRegistry.registerBlock(FloralPurple = new FloralPurple("FloralPurple", Material.wood), ItemSolidBlock.class, "FloralPurple");
+        GameRegistry.registerBlock(FloralBlue = new FloralBlue("FloralBlue", Material.wood), ItemSolidBlock.class, "FloralBlue");
+        GameRegistry.registerBlock(FloralCyan = new FloralCyan("FloralCyan", Material.wood), ItemSolidBlock.class, "FloralCyan");
+        GameRegistry.registerBlock(FloralGreen = new FloralGreen("FloralGreen", Material.wood), ItemSolidBlock.class, "FloralGreen");
+        GameRegistry.registerBlock(FloralYellow = new FloralYellow("FloralYellow", Material.wood), ItemSolidBlock.class, "FloralYellow");
+        GameRegistry.registerBlock(FloralBrown = new FloralBrown("FloralBrown", Material.wood), ItemSolidBlock.class, "FloralBrown");
+        GameRegistry.registerBlock(FloralGray = new FloralGray("FloralGray", Material.wood), ItemSolidBlock.class, "FloralGray");
         
+		// Registering The Clay Blocks
+        GameRegistry.registerBlock(ClayRed = new ClayRed("ClayRed", Material.rock), ItemSolidBlock.class, "ClayRed");
+        GameRegistry.registerBlock(ClayPurple = new ClayPurple("ClayPurple", Material.rock), ItemSolidBlock.class, "ClayPurple");
+        GameRegistry.registerBlock(ClayBlue = new ClayBlue("ClayBlue", Material.rock), ItemSolidBlock.class, "ClayBlue");
+        GameRegistry.registerBlock(ClayCyan = new ClayCyan("ClayCyan", Material.rock), ItemSolidBlock.class, "ClayCyan");
+        GameRegistry.registerBlock(ClayGreen = new ClayGreen("ClayGreen", Material.rock), ItemSolidBlock.class, "ClayGreen");
+        GameRegistry.registerBlock(ClayYellow = new ClayYellow("ClayYellow", Material.rock), ItemSolidBlock.class, "ClayYellow");
+        GameRegistry.registerBlock(ClayBrown = new ClayBrown("ClayBrown", Material.rock), ItemSolidBlock.class, "ClayBrown");
+        GameRegistry.registerBlock(ClayGray = new ClayGray("ClayGray", Material.rock), ItemSolidBlock.class, "ClayGray");
         
+        // Registering The Brick Blocks
+        GameRegistry.registerBlock(BrickRed = new BrickRed("BrickRed", Material.rock), ItemSolidBlock.class, "BrickRed");
+        GameRegistry.registerBlock(BrickPurple = new BrickPurple("BrickPurple", Material.rock), ItemSolidBlock.class, "BrickPurple");
+        GameRegistry.registerBlock(BrickBlue = new BrickBlue("BrickBlue", Material.rock), ItemSolidBlock.class, "BrickBlue");
+        GameRegistry.registerBlock(BrickCyan = new BrickCyan("BrickCyan", Material.rock), ItemSolidBlock.class, "BrickCyan");
+        GameRegistry.registerBlock(BrickGreen = new BrickGreen("BrickGreen", Material.rock), ItemSolidBlock.class, "BrickGreen");
+        GameRegistry.registerBlock(BrickYellow = new BrickYellow("BrickYellow", Material.rock), ItemSolidBlock.class, "BrickYellow");
+        GameRegistry.registerBlock(BrickBrown = new BrickBrown("BrickBrown", Material.rock), ItemSolidBlock.class, "BrickBrown");
+        GameRegistry.registerBlock(BrickGray = new BrickGray("BrickGray", Material.rock), ItemSolidBlock.class, "BrickGray");
         
-      //Registering The Striped  Coloured Blocks
-        GameRegistry.registerBlock(StripedRed = new StripedRed("StripedRed", Material.cloth), ItemSolidBlock.class, "StripedRed");
-        GameRegistry.registerBlock(StripedPurple = new StripedPurple("StripedPurple", Material.cloth), ItemSolidBlock.class, "StripedPurple");
-        GameRegistry.registerBlock(StripedBlue = new StripedBlue("StripedBlue", Material.cloth), ItemSolidBlock.class, "StripedBlue");
-        GameRegistry.registerBlock(StripedCyan = new StripedCyan("StripedCyan", Material.cloth), ItemSolidBlock.class, "StripedCyan");
-        GameRegistry.registerBlock(StripedGreen = new StripedGreen("StripedGreen", Material.cloth), ItemSolidBlock.class, "StripedGreen");
-        GameRegistry.registerBlock(StripedYellow = new StripedYellow("StripedYellow", Material.cloth), ItemSolidBlock.class, "StripedYellow");
-        GameRegistry.registerBlock(StripedBrown = new StripedBrown("StripedBrown", Material.cloth), ItemSolidBlock.class, "StripedBrown");
-        GameRegistry.registerBlock(StripedGray = new StripedGray("StripedGray", Material.cloth), ItemSolidBlock.class, "StripedGray");
+        // Registering The Stone Brick Blocks
+        GameRegistry.registerBlock(StoneBrickRed = new StoneBrickRed("StoneBrickRed", Material.rock), ItemSolidBlock.class, "StoneBrickRed");
+        GameRegistry.registerBlock(StoneBrickPurple = new StoneBrickPurple("StoneBrickPurple", Material.rock), ItemSolidBlock.class, "StoneBrickPurple");
+        GameRegistry.registerBlock(StoneBrickBlue = new StoneBrickBlue("StoneBrickBlue", Material.rock), ItemSolidBlock.class, "StoneBrickBlue");
+        GameRegistry.registerBlock(StoneBrickCyan = new StoneBrickCyan("StoneBrickCyan", Material.rock), ItemSolidBlock.class, "StoneBrickCyan");
+        GameRegistry.registerBlock(StoneBrickGreen = new StoneBrickGreen("StoneBrickGreen", Material.rock), ItemSolidBlock.class, "StoneBrickGreen");
+        GameRegistry.registerBlock(StoneBrickYellow = new StoneBrickYellow("StoneBrickYellow", Material.rock), ItemSolidBlock.class, "StoneBrickYellow");
+        GameRegistry.registerBlock(StoneBrickBrown = new StoneBrickBrown("StoneBrickBrown", Material.rock), ItemSolidBlock.class, "StoneBrickBrown");
+        GameRegistry.registerBlock(StoneBrickGray = new StoneBrickGray("StoneBrickGray", Material.rock), ItemSolidBlock.class, "StoneBrickGray");
+                
+        // Registering The Rippled Blocks
+        GameRegistry.registerBlock(RippledRed = new RippledRed("RippledRed", Material.carpet), ItemSolidBlock.class, "RippledRed");
+        GameRegistry.registerBlock(RippledPurple = new RippledPurple("RippledPurple", Material.carpet), ItemSolidBlock.class, "RippledPurple");
+        GameRegistry.registerBlock(RippledBlue = new RippledBlue("RippledBlue", Material.carpet), ItemSolidBlock.class, "RippledBlue");
+        GameRegistry.registerBlock(RippledCyan = new RippledCyan("RippledCyan", Material.carpet), ItemSolidBlock.class, "RippledCyan");
+        GameRegistry.registerBlock(RippledGreen = new RippledGreen("RippledGreen", Material.carpet), ItemSolidBlock.class, "RippledGreen");
+        GameRegistry.registerBlock(RippledYellow = new RippledYellow("RippledYellow", Material.carpet), ItemSolidBlock.class, "RippledYellow");
+        GameRegistry.registerBlock(RippledBrown = new RippledBrown("RippledBrown", Material.carpet), ItemSolidBlock.class, "RippledBrown");
+        GameRegistry.registerBlock(RippledGray = new RippledGray("RippledGray", Material.carpet), ItemSolidBlock.class, "RippledGray");
         
+        // Registering the Stamp Pattern Blocks
+        GameRegistry.registerBlock(Stamp = new Stamp("Stamp", Material.wood), ItemSolidBlock.class, "Stamp");
         
+        // Registering The Wood Planks
+        GameRegistry.registerBlock(WoodPlankRed = new WoodPlankRed("WoodPlankRed", Material.carpet), ItemSolidBlock.class, "WoodPlankRed");
+        GameRegistry.registerBlock(WoodPlankPurple = new WoodPlankPurple("WoodPlankPurple", Material.carpet), ItemSolidBlock.class, "WoodPlankPurple");
+        GameRegistry.registerBlock(WoodPlankBlue = new WoodPlankBlue("WoodPlankBlue", Material.carpet), ItemSolidBlock.class, "WoodPlankBlue");
+        GameRegistry.registerBlock(WoodPlankCyan = new WoodPlankCyan("WoodPlankCyan", Material.carpet), ItemSolidBlock.class, "WoodPlankCyan");
+        GameRegistry.registerBlock(WoodPlankGreen = new WoodPlankGreen("WoodPlankGreen", Material.carpet), ItemSolidBlock.class, "WoodPlankGreen");
+        GameRegistry.registerBlock(WoodPlankYellow = new WoodPlankYellow("WoodPlankYellow", Material.carpet), ItemSolidBlock.class, "WoodPlankYellow");
+        GameRegistry.registerBlock(WoodPlankBrown = new WoodPlankBrown("WoodPlankBrown", Material.carpet), ItemSolidBlock.class, "WoodPlankBrown");
+        GameRegistry.registerBlock(WoodPlankGray = new WoodPlankGray("WoodPlankGray", Material.carpet), ItemSolidBlock.class, "WoodPlankGray");
         
-		// Registering The Floral  Coloured Blocks
-        GameRegistry.registerBlock(FloralRed = new FloralRed("FloralRed", Material.cloth), ItemSolidBlock.class, "FloralRed");
-        GameRegistry.registerBlock(FloralPurple = new FloralPurple("FloralPurple", Material.cloth), ItemSolidBlock.class, "FloralPurple");
-        GameRegistry.registerBlock(FloralBlue = new FloralBlue("FloralBlue", Material.cloth), ItemSolidBlock.class, "FloralBlue");
-        GameRegistry.registerBlock(FloralCyan = new FloralCyan("FloralCyan", Material.cloth), ItemSolidBlock.class, "FloralCyan");
-        GameRegistry.registerBlock(FloralGreen = new FloralGreen("FloralGreen", Material.cloth), ItemSolidBlock.class, "FloralGreen");
-        GameRegistry.registerBlock(FloralYellow = new FloralYellow("FloralYellow", Material.cloth), ItemSolidBlock.class, "FloralYellow");
-        GameRegistry.registerBlock(FloralBrown = new FloralBrown("FloralBrown", Material.cloth), ItemSolidBlock.class, "FloralBrown");
-        GameRegistry.registerBlock(FloralGray = new FloralGray("FloralGray", Material.cloth), ItemSolidBlock.class, "FloralGray");
+        // Registering The Wool Blocks
+        GameRegistry.registerBlock(WoolRed = new WoolRed("WoolRed", Material.cloth), ItemSolidBlock.class, "WoolRed");
+        GameRegistry.registerBlock(WoolPurple = new WoolPurple("WoolPurple", Material.cloth), ItemSolidBlock.class, "WoolPurple");
+        GameRegistry.registerBlock(WoolBlue = new WoolBlue("WoolBlue", Material.cloth), ItemSolidBlock.class, "WoolBlue");
+        GameRegistry.registerBlock(WoolCyan = new WoolCyan("WoolCyan", Material.cloth), ItemSolidBlock.class, "WoolCyan");
+        GameRegistry.registerBlock(WoolGreen = new WoolGreen("WoolGreen", Material.cloth), ItemSolidBlock.class, "WoolGreen");
+        GameRegistry.registerBlock(WoolYellow = new WoolYellow("WoolYellow", Material.cloth), ItemSolidBlock.class, "WoolYellow");
+        GameRegistry.registerBlock(WoolBrown = new WoolBrown("WoolBrown", Material.cloth), ItemSolidBlock.class, "WoolBrown");
+        GameRegistry.registerBlock(WoolGray = new WoolGray("WoolGray", Material.cloth), ItemSolidBlock.class, "WoolGray");
         
+        // Registering The Checkered Wool Blocks
+        GameRegistry.registerBlock(CheckeredWoolRed = new CheckeredWoolRed("CheckeredWoolRed", Material.cloth), ItemSolidBlock.class, "CheckeredWoolRed");
+        GameRegistry.registerBlock(CheckeredWoolPurple = new CheckeredWoolPurple("CheckeredWoolPurple", Material.cloth), ItemSolidBlock.class, "CheckeredWoolPurple");
+        GameRegistry.registerBlock(CheckeredWoolBlue = new CheckeredWoolBlue("CheckeredWoolBlue", Material.cloth), ItemSolidBlock.class, "CheckeredWoolBlue");
+        GameRegistry.registerBlock(CheckeredWoolCyan = new CheckeredWoolCyan("CheckeredWoolCyan", Material.cloth), ItemSolidBlock.class, "CheckeredWoolCyan");
+        GameRegistry.registerBlock(CheckeredWoolGreen = new CheckeredWoolGreen("CheckeredWoolGreen", Material.cloth), ItemSolidBlock.class, "CheckeredWoolGreen");
+        GameRegistry.registerBlock(CheckeredWoolYellow = new CheckeredWoolYellow("CheckeredWoolYellow", Material.cloth), ItemSolidBlock.class, "CheckeredWoolYellow");
+        GameRegistry.registerBlock(CheckeredWoolBrown = new CheckeredWoolBrown("CheckeredWoolBrown", Material.cloth), ItemSolidBlock.class, "CheckeredWoolBrown");
+        GameRegistry.registerBlock(CheckeredWoolGray = new CheckeredWoolGray("CheckeredWoolGray", Material.cloth), ItemSolidBlock.class, "CheckeredWoolGray");  
         
-        
-		// Registering The Clay  Coloured Blocks
-        GameRegistry.registerBlock(ClayRed = new ClayRed("ClayRed", Material.cloth), ItemSolidBlock.class, "ClayRed");
-        GameRegistry.registerBlock(ClayPurple = new ClayPurple("ClayPurple", Material.cloth), ItemSolidBlock.class, "ClayPurple");
-        GameRegistry.registerBlock(ClayBlue = new ClayBlue("ClayBlue", Material.cloth), ItemSolidBlock.class, "ClayBlue");
-        GameRegistry.registerBlock(ClayCyan = new ClayCyan("ClayCyan", Material.cloth), ItemSolidBlock.class, "ClayCyan");
-        GameRegistry.registerBlock(ClayGreen = new ClayGreen("ClayGreen", Material.cloth), ItemSolidBlock.class, "ClayGreen");
-        GameRegistry.registerBlock(ClayYellow = new ClayYellow("ClayYellow", Material.cloth), ItemSolidBlock.class, "ClayYellow");
-        GameRegistry.registerBlock(ClayBrown = new ClayBrown("ClayBrown", Material.cloth), ItemSolidBlock.class, "ClayBrown");
-        GameRegistry.registerBlock(ClayGray = new ClayGray("ClayGray", Material.cloth), ItemSolidBlock.class, "ClayGray");
-        
-        
-        
-        // Registering The Tinted Glass Coloured Blocks
+        // Registering The Tinted Glass Blocks
         GameRegistry.registerBlock(TintedGlassRed = new TintedGlassRed("TintedGlassRed", Material.glass), ItemSolidBlock.class, "TintedGlassRed");
         GameRegistry.registerBlock(TintedGlassPurple = new TintedGlassPurple("TintedGlassPurple", Material.glass), ItemSolidBlock.class, "TintedGlassPurple");
         GameRegistry.registerBlock(TintedGlassBlue = new TintedGlassBlue("TintedGlassBlue", Material.glass), ItemSolidBlock.class, "TintedGlassBlue");
@@ -227,11 +342,9 @@ public final class ModBlocks {
         GameRegistry.registerBlock(TintedGlassGreen = new TintedGlassGreen("TintedGlassGreen", Material.glass), ItemSolidBlock.class, "TintedGlassGreen");
         GameRegistry.registerBlock(TintedGlassYellow = new TintedGlassYellow("TintedGlassYellow", Material.glass), ItemSolidBlock.class, "TintedGlassYellow");
         GameRegistry.registerBlock(TintedGlassBrown = new TintedGlassBrown("TintedGlassBrown", Material.glass), ItemSolidBlock.class, "TintedGlassBrown");
-        GameRegistry.registerBlock(TintedGlassGray = new TintedGlassGray("TintedGlassGray", Material.glass), ItemSolidBlock.class, "TintedGlassGray");
+        GameRegistry.registerBlock(TintedGlassGray = new TintedGlassGray("TintedGlassGray", Material.glass), ItemSolidBlock.class, "TintedGlassGray");      
         
-        
-        
-        // Registering The Textured Glass Coloured Blocks
+        // Registering The Textured Glass Blocks
         GameRegistry.registerBlock(TexturedGlassRed = new TexturedGlassRed("TexturedGlassRed", Material.glass), ItemSolidBlock.class, "TexturedGlassRed");
         GameRegistry.registerBlock(TexturedGlassPurple = new TexturedGlassPurple("TexturedGlassPurple", Material.glass), ItemSolidBlock.class, "TexturedGlassPurple");
         GameRegistry.registerBlock(TexturedGlassBlue = new TexturedGlassBlue("TexturedGlassBlue", Material.glass), ItemSolidBlock.class, "TexturedGlassBlue");
@@ -239,11 +352,9 @@ public final class ModBlocks {
         GameRegistry.registerBlock(TexturedGlassGreen = new TexturedGlassGreen("TexturedGlassGreen", Material.glass), ItemSolidBlock.class, "TexturedGlassGreen");
         GameRegistry.registerBlock(TexturedGlassYellow = new TexturedGlassYellow("TexturedGlassYellow", Material.glass), ItemSolidBlock.class, "TexturedGlassYellow");
         GameRegistry.registerBlock(TexturedGlassBrown = new TexturedGlassBrown("TexturedGlassBrown", Material.glass), ItemSolidBlock.class, "TexturedGlassBrown");
-        GameRegistry.registerBlock(TexturedGlassGray = new TexturedGlassGray("TexturedGlassGray", Material.glass), ItemSolidBlock.class, "TexturedGlassGray");
+        GameRegistry.registerBlock(TexturedGlassGray = new TexturedGlassGray("TexturedGlassGray", Material.glass), ItemSolidBlock.class, "TexturedGlassGray");      
         
-        
-        
-        // Registering The Frosted Glass Coloured Blocks
+        // Registering The Frosted Glass Blocks
         GameRegistry.registerBlock(FrostedGlassRed = new FrostedGlassRed("FrostedGlassRed", Material.glass), ItemSolidBlock.class, "FrostedGlassRed");
         GameRegistry.registerBlock(FrostedGlassPurple = new FrostedGlassPurple("FrostedGlassPurple", Material.glass), ItemSolidBlock.class, "FrostedGlassPurple");
         GameRegistry.registerBlock(FrostedGlassBlue = new FrostedGlassBlue("FrostedGlassBlue", Material.glass), ItemSolidBlock.class, "FrostedGlassBlue");
@@ -252,57 +363,39 @@ public final class ModBlocks {
         GameRegistry.registerBlock(FrostedGlassYellow = new FrostedGlassYellow("FrostedGlassYellow", Material.glass), ItemSolidBlock.class, "FrostedGlassYellow");
         GameRegistry.registerBlock(FrostedGlassBrown = new FrostedGlassBrown("FrostedGlassBrown", Material.glass), ItemSolidBlock.class, "FrostedGlassBrown");
         GameRegistry.registerBlock(FrostedGlassGray = new FrostedGlassGray("FrostedGlassGray", Material.glass), ItemSolidBlock.class, "FrostedGlassGray");
+                
+        // Registering The Wool Carpets
+        GameRegistry.registerBlock(WoolCarpetRed = new WoolCarpetRed("WoolCarpetRed", Material.carpet), ItemSolidBlock.class, "WoolCarpetRed");
+        GameRegistry.registerBlock(WoolCarpetPurple = new WoolCarpetPurple("WoolCarpetPurple", Material.carpet), ItemSolidBlock.class, "WoolCarpetPurple");
+        GameRegistry.registerBlock(WoolCarpetBlue = new WoolCarpetBlue("WoolCarpetBlue", Material.carpet), ItemSolidBlock.class, "WoolCarpetBlue");
+        GameRegistry.registerBlock(WoolCarpetCyan = new WoolCarpetCyan("WoolCarpetCyan", Material.carpet), ItemSolidBlock.class, "WoolCarpetCyan");
+        GameRegistry.registerBlock(WoolCarpetGreen = new WoolCarpetGreen("WoolCarpetGreen", Material.carpet), ItemSolidBlock.class, "WoolCarpetGreen");
+        GameRegistry.registerBlock(WoolCarpetYellow = new WoolCarpetYellow("WoolCarpetYellow", Material.carpet), ItemSolidBlock.class, "WoolCarpetYellow");
+        GameRegistry.registerBlock(WoolCarpetBrown = new WoolCarpetBrown("WoolCarpetBrown", Material.carpet), ItemSolidBlock.class, "WoolCarpetBrown");
+        GameRegistry.registerBlock(WoolCarpetGray = new WoolCarpetGray("WoolCarpetGray", Material.carpet), ItemSolidBlock.class, "WoolCarpetGray");
         
-        // Registering The Brick Coloured Blocks
-        GameRegistry.registerBlock(BrickRed = new BrickRed("BrickRed", Material.glass), ItemSolidBlock.class, "BrickRed");
-        GameRegistry.registerBlock(BrickPurple = new BrickPurple("BrickPurple", Material.glass), ItemSolidBlock.class, "BrickPurple");
-        GameRegistry.registerBlock(BrickBlue = new BrickBlue("BrickBlue", Material.glass), ItemSolidBlock.class, "BrickBlue");
-        GameRegistry.registerBlock(BrickCyan = new BrickCyan("BrickCyan", Material.glass), ItemSolidBlock.class, "BrickCyan");
-        GameRegistry.registerBlock(BrickGreen = new BrickGreen("BrickGreen", Material.glass), ItemSolidBlock.class, "BrickGreen");
-        GameRegistry.registerBlock(BrickYellow = new BrickYellow("BrickYellow", Material.glass), ItemSolidBlock.class, "BrickYellow");
-        GameRegistry.registerBlock(BrickBrown = new BrickBrown("BrickBrown", Material.glass), ItemSolidBlock.class, "BrickBrown");
-        GameRegistry.registerBlock(BrickGray = new BrickGray("BrickGray", Material.glass), ItemSolidBlock.class, "BrickGray");
+        // Registering The Checkered Carpets
+        GameRegistry.registerBlock(CheckeredCarpetRed = new CheckeredCarpetRed("CheckeredCarpetRed", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetRed");
+        GameRegistry.registerBlock(CheckeredCarpetPurple = new CheckeredCarpetPurple("CheckeredCarpetPurple", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetPurple");
+        GameRegistry.registerBlock(CheckeredCarpetBlue = new CheckeredCarpetBlue("CheckeredCarpetBlue", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetBlue");
+        GameRegistry.registerBlock(CheckeredCarpetCyan = new CheckeredCarpetCyan("CheckeredCarpetCyan", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetCyan");
+        GameRegistry.registerBlock(CheckeredCarpetGreen = new CheckeredCarpetGreen("CheckeredCarpetGreen", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetGreen");
+        GameRegistry.registerBlock(CheckeredCarpetYellow = new CheckeredCarpetYellow("CheckeredCarpetYellow", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetYellow");
+        GameRegistry.registerBlock(CheckeredCarpetBrown = new CheckeredCarpetBrown("CheckeredCarpetBrown", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetBrown");
+        GameRegistry.registerBlock(CheckeredCarpetGray = new CheckeredCarpetGray("CheckeredCarpetGray", Material.carpet), ItemSolidBlock.class, "CheckeredCarpetGray");
         
-        // Registering The Dotted Carpet Coloured Blocks
-        GameRegistry.registerBlock(DottedCarpetRed = new DottedCarpetRed("DottedCarpetRed", Material.glass), ItemSolidBlock.class, "DottedCarpetRed");
-        GameRegistry.registerBlock(DottedCarpetPurple = new DottedCarpetPurple("DottedCarpetPurple", Material.glass), ItemSolidBlock.class, "DottedCarpetPurple");
-        GameRegistry.registerBlock(DottedCarpetBlue = new DottedCarpetBlue("DottedCarpetBlue", Material.glass), ItemSolidBlock.class, "DottedCarpetBlue");
-        GameRegistry.registerBlock(DottedCarpetCyan = new DottedCarpetCyan("DottedCarpetCyan", Material.glass), ItemSolidBlock.class, "DottedCarpetCyan");
-        GameRegistry.registerBlock(DottedCarpetGreen = new DottedCarpetGreen("DottedCarpetGreen", Material.glass), ItemSolidBlock.class, "DottedCarpetGreen");
-        GameRegistry.registerBlock(DottedCarpetYellow = new DottedCarpetYellow("DottedCarpetYellow", Material.glass), ItemSolidBlock.class, "DottedCarpetYellow");
-        GameRegistry.registerBlock(DottedCarpetBrown = new DottedCarpetBrown("DottedCarpetBrown", Material.glass), ItemSolidBlock.class, "DottedCarpetBrown");
-        GameRegistry.registerBlock(DottedCarpetGray = new DottedCarpetGray("DottedCarpetGray", Material.glass), ItemSolidBlock.class, "DottedCarpetGray");
         
-        // Registering The Checkered Carpet Coloured Blocks
-        GameRegistry.registerBlock(CheckeredCarpetRed = new CheckeredCarpetRed("CheckeredCarpetRed", Material.glass), ItemSolidBlock.class, "CheckeredCarpetRed");
-        GameRegistry.registerBlock(CheckeredCarpetPurple = new CheckeredCarpetPurple("CheckeredCarpetPurple", Material.glass), ItemSolidBlock.class, "CheckeredCarpetPurple");
-        GameRegistry.registerBlock(CheckeredCarpetBlue = new CheckeredCarpetBlue("CheckeredCarpetBlue", Material.glass), ItemSolidBlock.class, "CheckeredCarpetBlue");
-        GameRegistry.registerBlock(CheckeredCarpetCyan = new CheckeredCarpetCyan("CheckeredCarpetCyan", Material.glass), ItemSolidBlock.class, "CheckeredCarpetCyan");
-        GameRegistry.registerBlock(CheckeredCarpetGreen = new CheckeredCarpetGreen("CheckeredCarpetGreen", Material.glass), ItemSolidBlock.class, "CheckeredCarpetGreen");
-        GameRegistry.registerBlock(CheckeredCarpetYellow = new CheckeredCarpetYellow("CheckeredCarpetYellow", Material.glass), ItemSolidBlock.class, "CheckeredCarpetYellow");
-        GameRegistry.registerBlock(CheckeredCarpetBrown = new CheckeredCarpetBrown("CheckeredCarpetBrown", Material.glass), ItemSolidBlock.class, "CheckeredCarpetBrown");
-        GameRegistry.registerBlock(CheckeredCarpetGray = new CheckeredCarpetGray("CheckeredCarpetGray", Material.glass), ItemSolidBlock.class, "CheckeredCarpetGray");
+            
+        //OreDict Registration.
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidRed, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidPurple, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidBlue, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidCyan, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidGreen, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidYellow, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidBrown, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidGray, 1, OreDictionary.WILDCARD_VALUE));
         
-        // Registering The Dotted Coloured Rugs
-        GameRegistry.registerBlock(DottedRugRed = new DottedRugRed("DottedRugRed", Material.glass), ItemSolidBlock.class, "DottedRugRed");
-        GameRegistry.registerBlock(DottedRugPurple = new DottedRugPurple("DottedRugPurple", Material.glass), ItemSolidBlock.class, "DottedRugPurple");
-        GameRegistry.registerBlock(DottedRugBlue = new DottedRugBlue("DottedRugBlue", Material.glass), ItemSolidBlock.class, "DottedRugBlue");
-        GameRegistry.registerBlock(DottedRugCyan = new DottedRugCyan("DottedRugCyan", Material.glass), ItemSolidBlock.class, "DottedRugCyan");
-        GameRegistry.registerBlock(DottedRugGreen = new DottedRugGreen("DottedRugGreen", Material.glass), ItemSolidBlock.class, "DottedRugGreen");
-        GameRegistry.registerBlock(DottedRugYellow = new DottedRugYellow("DottedRugYellow", Material.glass), ItemSolidBlock.class, "DottedRugYellow");
-        GameRegistry.registerBlock(DottedRugBrown = new DottedRugBrown("DottedRugBrown", Material.glass), ItemSolidBlock.class, "DottedRugBrown");
-        GameRegistry.registerBlock(DottedRugGray = new DottedRugGray("DottedRugGray", Material.glass), ItemSolidBlock.class, "DottedRugGray");
-        
-        // Registering The Checkered Coloured Rugs
-        GameRegistry.registerBlock(CheckeredRugRed = new CheckeredRugRed("CheckeredRugRed", Material.glass), ItemSolidBlock.class, "CheckeredRugRed");
-        GameRegistry.registerBlock(CheckeredRugPurple = new CheckeredRugPurple("CheckeredRugPurple", Material.glass), ItemSolidBlock.class, "CheckeredRugPurple");
-        GameRegistry.registerBlock(CheckeredRugBlue = new CheckeredRugBlue("CheckeredRugBlue", Material.glass), ItemSolidBlock.class, "CheckeredRugBlue");
-        GameRegistry.registerBlock(CheckeredRugCyan = new CheckeredRugCyan("CheckeredRugCyan", Material.glass), ItemSolidBlock.class, "CheckeredRugCyan");
-        GameRegistry.registerBlock(CheckeredRugGreen = new CheckeredRugGreen("CheckeredRugGreen", Material.glass), ItemSolidBlock.class, "CheckeredRugGreen");
-        GameRegistry.registerBlock(CheckeredRugYellow = new CheckeredRugYellow("CheckeredRugYellow", Material.glass), ItemSolidBlock.class, "CheckeredRugYellow");
-        GameRegistry.registerBlock(CheckeredRugBrown = new CheckeredRugBrown("CheckeredRugBrown", Material.glass), ItemSolidBlock.class, "CheckeredRugBrown");
-        GameRegistry.registerBlock(CheckeredRugGray = new CheckeredRugGray("CheckeredRugGray", Material.glass), ItemSolidBlock.class, "CheckeredRugGray");
-
 
 
       

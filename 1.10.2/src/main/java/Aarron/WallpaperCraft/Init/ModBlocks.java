@@ -1,20 +1,31 @@
 package Aarron.WallpaperCraft.init;
 
 
+import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
+import net.minecraftforge.oredict.OreDictionary;
 import Aarron.WallpaperCraft.blocks.bricks.*;
-import Aarron.WallpaperCraft.blocks.carpets.checkered.*;
-import Aarron.WallpaperCraft.blocks.carpets.dotted.*;
-import Aarron.WallpaperCraft.blocks.rugs.dotted.*;
-import Aarron.WallpaperCraft.blocks.rugs.checkered.*;
+import Aarron.WallpaperCraft.blocks.carpets.*;
 import Aarron.WallpaperCraft.blocks.clay.*;
 import Aarron.WallpaperCraft.blocks.dotted.*;
 import Aarron.WallpaperCraft.blocks.floral.*;
 import Aarron.WallpaperCraft.blocks.glass.*;
+import Aarron.WallpaperCraft.blocks.rippled.RippledBlue;
+import Aarron.WallpaperCraft.blocks.rippled.RippledBrown;
+import Aarron.WallpaperCraft.blocks.rippled.RippledCyan;
+import Aarron.WallpaperCraft.blocks.rippled.RippledGray;
+import Aarron.WallpaperCraft.blocks.rippled.RippledGreen;
+import Aarron.WallpaperCraft.blocks.rippled.RippledPurple;
+import Aarron.WallpaperCraft.blocks.rippled.RippledRed;
+import Aarron.WallpaperCraft.blocks.rippled.RippledYellow;
 import Aarron.WallpaperCraft.blocks.solid.*;
+import Aarron.WallpaperCraft.blocks.stamp.Stamp;
 import Aarron.WallpaperCraft.blocks.striped.*;
+import Aarron.WallpaperCraft.blocks.wool.*;
+import Aarron.WallpaperCraft.blocks.planks.*;
+import Aarron.WallpaperCraft.handler.ConfigHandler;
 
 
 public class ModBlocks {
@@ -41,6 +52,15 @@ public class ModBlocks {
 	public static DiagonallyDottedYellow DiagonallyDottedYellow = new DiagonallyDottedYellow();
 	public static DiagonallyDottedBrown DiagonallyDottedBrown = new DiagonallyDottedBrown();
 	public static DiagonallyDottedGray DiagonallyDottedGray = new DiagonallyDottedGray();
+	
+	public static DottedRed DottedRed = new DottedRed();
+	public static DottedPurple DottedPurple = new DottedPurple();
+	public static DottedBlue DottedBlue = new DottedBlue();
+	public static DottedCyan DottedCyan = new DottedCyan();
+	public static DottedGreen DottedGreen = new DottedGreen();
+	public static DottedYellow DottedYellow = new DottedYellow();
+	public static DottedBrown DottedBrown = new DottedBrown();
+	public static DottedGray DottedGray = new DottedGray();
 		
 	public static StripedRed StripedRed = new StripedRed();
 	public static StripedPurple StripedPurple = new StripedPurple();
@@ -77,24 +97,53 @@ public class ModBlocks {
 	public static BrickYellow BrickYellow = new BrickYellow();
 	public static BrickBrown BrickBrown = new BrickBrown();
 	public static BrickGray BrickGray = new BrickGray();
-
-	public static DottedCarpetRed DottedCarpetRed = new DottedCarpetRed();
-	public static DottedCarpetPurple DottedCarpetPurple = new DottedCarpetPurple();
-	public static DottedCarpetBlue DottedCarpetBlue = new DottedCarpetBlue();
-	public static DottedCarpetCyan DottedCarpetCyan = new DottedCarpetCyan();
-	public static DottedCarpetGreen DottedCarpetGreen = new DottedCarpetGreen();
-	public static DottedCarpetYellow DottedCarpetYellow = new DottedCarpetYellow();
-	public static DottedCarpetBrown DottedCarpetBrown = new DottedCarpetBrown();
-	public static DottedCarpetGray DottedCarpetGray = new DottedCarpetGray();
 	
-	public static CheckeredCarpetRed CheckeredCarpetRed = new CheckeredCarpetRed();
-	public static CheckeredCarpetPurple CheckeredCarpetPurple = new CheckeredCarpetPurple();
-	public static CheckeredCarpetBlue CheckeredCarpetBlue = new CheckeredCarpetBlue();
-	public static CheckeredCarpetCyan CheckeredCarpetCyan = new CheckeredCarpetCyan();
-	public static CheckeredCarpetGreen CheckeredCarpetGreen = new CheckeredCarpetGreen();
-	public static CheckeredCarpetYellow CheckeredCarpetYellow = new CheckeredCarpetYellow();
-	public static CheckeredCarpetBrown CheckeredCarpetBrown = new CheckeredCarpetBrown();
-	public static CheckeredCarpetGray CheckeredCarpetGray = new CheckeredCarpetGray();
+	public static StoneBrickRed StoneBrickRed = new StoneBrickRed();
+	public static StoneBrickPurple StoneBrickPurple = new StoneBrickPurple();
+	public static StoneBrickBlue StoneBrickBlue = new StoneBrickBlue();
+	public static StoneBrickCyan StoneBrickCyan = new StoneBrickCyan();
+	public static StoneBrickGreen StoneBrickGreen = new StoneBrickGreen();
+	public static StoneBrickYellow StoneBrickYellow = new StoneBrickYellow();
+	public static StoneBrickBrown StoneBrickBrown = new StoneBrickBrown();
+	public static StoneBrickGray StoneBrickGray = new StoneBrickGray();
+		
+	public static RippledRed RippledRed = new RippledRed();
+	public static RippledPurple RippledPurple = new RippledPurple();
+	public static RippledBlue RippledBlue = new RippledBlue();
+	public static RippledCyan RippledCyan = new RippledCyan();
+	public static RippledGreen RippledGreen = new RippledGreen();
+	public static RippledYellow RippledYellow = new RippledYellow();
+	public static RippledBrown RippledBrown = new RippledBrown();
+	public static RippledGray RippledGray = new RippledGray();
+	
+	public static Stamp Stamp = new Stamp();
+	
+	public static WoodPlankRed WoodPlankRed = new WoodPlankRed();
+	public static WoodPlankPurple WoodPlankPurple = new WoodPlankPurple();
+	public static WoodPlankBlue WoodPlankBlue = new WoodPlankBlue();
+	public static WoodPlankCyan WoodPlankCyan = new WoodPlankCyan();
+	public static WoodPlankGreen WoodPlankGreen = new WoodPlankGreen();
+	public static WoodPlankYellow WoodPlankYellow = new WoodPlankYellow();
+	public static WoodPlankBrown WoodPlankBrown = new WoodPlankBrown();
+	public static WoodPlankGray WoodPlankGray = new WoodPlankGray();
+	
+	public static WoolRed WoolRed = new WoolRed();
+	public static WoolPurple WoolPurple = new WoolPurple();
+	public static WoolBlue WoolBlue = new WoolBlue();
+	public static WoolCyan WoolCyan = new WoolCyan();
+	public static WoolGreen WoolGreen = new WoolGreen();
+	public static WoolYellow WoolYellow = new WoolYellow();
+	public static WoolBrown WoolBrown = new WoolBrown();
+	public static WoolGray WoolGray = new WoolGray();
+	
+	public static CheckeredWoolRed CheckeredWoolRed = new CheckeredWoolRed();
+	public static CheckeredWoolPurple CheckeredWoolPurple = new CheckeredWoolPurple();
+	public static CheckeredWoolBlue CheckeredWoolBlue = new CheckeredWoolBlue();
+	public static CheckeredWoolCyan CheckeredWoolCyan = new CheckeredWoolCyan();
+	public static CheckeredWoolGreen CheckeredWoolGreen = new CheckeredWoolGreen();
+	public static CheckeredWoolYellow CheckeredWoolYellow = new CheckeredWoolYellow();
+	public static CheckeredWoolBrown CheckeredWoolBrown = new CheckeredWoolBrown();
+	public static CheckeredWoolGray CheckeredWoolGray = new CheckeredWoolGray();
 
 	public static TintedGlassRed TintedGlassRed = new TintedGlassRed();
 	public static TintedGlassPurple TintedGlassPurple = new TintedGlassPurple();
@@ -122,24 +171,26 @@ public class ModBlocks {
 	public static FrostedGlassYellow FrostedGlassYellow = new FrostedGlassYellow();
 	public static FrostedGlassBrown FrostedGlassBrown = new FrostedGlassBrown();
 	public static FrostedGlassGray FrostedGlassGray = new FrostedGlassGray();
-	
-	public static CheckeredRugRed CheckeredRugRed = new CheckeredRugRed();
-	public static CheckeredRugPurple CheckeredRugPurple = new CheckeredRugPurple();
-	public static CheckeredRugBlue CheckeredRugBlue = new CheckeredRugBlue();
-	public static CheckeredRugCyan CheckeredRugCyan = new CheckeredRugCyan();
-	public static CheckeredRugGreen CheckeredRugGreen = new CheckeredRugGreen();
-	public static CheckeredRugYellow CheckeredRugYellow = new CheckeredRugYellow();
-	public static CheckeredRugBrown CheckeredRugBrown = new CheckeredRugBrown();
-	public static CheckeredRugGray CheckeredRugGray = new CheckeredRugGray();
-	
-	public static DottedRugRed DottedRugRed = new DottedRugRed();
-	public static DottedRugPurple DottedRugPurple = new DottedRugPurple();
-	public static DottedRugBlue DottedRugBlue = new DottedRugBlue();
-	public static DottedRugCyan DottedRugCyan = new DottedRugCyan();
-	public static DottedRugGreen DottedRugGreen = new DottedRugGreen();
-	public static DottedRugYellow DottedRugYellow = new DottedRugYellow();
-	public static DottedRugBrown DottedRugBrown = new DottedRugBrown();
-	public static DottedRugGray DottedRugGray = new DottedRugGray();
+				
+	public static WoolCarpetRed WoolCarpetRed = new WoolCarpetRed();
+	public static WoolCarpetPurple WoolCarpetPurple = new WoolCarpetPurple();
+	public static WoolCarpetBlue WoolCarpetBlue = new WoolCarpetBlue();
+	public static WoolCarpetCyan WoolCarpetCyan = new WoolCarpetCyan();
+	public static WoolCarpetGreen WoolCarpetGreen = new WoolCarpetGreen();
+	public static WoolCarpetYellow WoolCarpetYellow = new WoolCarpetYellow();
+	public static WoolCarpetBrown WoolCarpetBrown = new WoolCarpetBrown();
+	public static WoolCarpetGray WoolCarpetGray = new WoolCarpetGray();
+			
+	public static CheckeredCarpetRed CheckeredCarpetRed = new CheckeredCarpetRed();
+	public static CheckeredCarpetPurple CheckeredCarpetPurple = new CheckeredCarpetPurple();
+	public static CheckeredCarpetBlue CheckeredCarpetBlue = new CheckeredCarpetBlue();
+	public static CheckeredCarpetCyan CheckeredCarpetCyan = new CheckeredCarpetCyan();
+	public static CheckeredCarpetGreen CheckeredCarpetGreen = new CheckeredCarpetGreen();
+	public static CheckeredCarpetYellow CheckeredCarpetYellow = new CheckeredCarpetYellow();
+	public static CheckeredCarpetBrown CheckeredCarpetBrown = new CheckeredCarpetBrown();
+	public static CheckeredCarpetGray CheckeredCarpetGray = new CheckeredCarpetGray();
+
+
 	
 	
 	
@@ -148,6 +199,7 @@ public class ModBlocks {
 	
 	@SideOnly(Side.CLIENT)
 	public static void initModels() {		
+		
 		SolidRed.initModel();
 		SolidPurple.initModel();
 		SolidBlue.initModel();
@@ -166,6 +218,15 @@ public class ModBlocks {
 		DiagonallyDottedBrown.initModel();
 		DiagonallyDottedGray.initModel();
 		
+		DottedRed.initModel();
+		DottedPurple.initModel();
+		DottedBlue.initModel();
+		DottedCyan.initModel();
+		DottedGreen.initModel();
+		DottedYellow.initModel();
+		DottedBrown.initModel();
+		DottedGray.initModel();
+
 		StripedRed.initModel();
 		StripedPurple.initModel();
 		StripedBlue.initModel();
@@ -201,24 +262,53 @@ public class ModBlocks {
 		BrickYellow.initModel();
 		BrickBrown.initModel();
 		BrickGray.initModel();
-
-		DottedCarpetRed.initModel();
-		DottedCarpetPurple.initModel();
-		DottedCarpetBlue.initModel();
-		DottedCarpetCyan.initModel();
-		DottedCarpetGreen.initModel();
-		DottedCarpetYellow.initModel();
-		DottedCarpetBrown.initModel();
-		DottedCarpetGray.initModel();
 		
-		CheckeredCarpetRed.initModel();
-		CheckeredCarpetPurple.initModel();
-		CheckeredCarpetBlue.initModel();
-		CheckeredCarpetCyan.initModel();
-		CheckeredCarpetGreen.initModel();
-		CheckeredCarpetYellow.initModel();
-		CheckeredCarpetBrown.initModel();
-		CheckeredCarpetGray.initModel();
+		StoneBrickRed.initModel();
+		StoneBrickPurple.initModel();
+		StoneBrickBlue.initModel();
+		StoneBrickCyan.initModel();
+		StoneBrickGreen.initModel();
+		StoneBrickYellow.initModel();
+		StoneBrickBrown.initModel();
+		StoneBrickGray.initModel();
+				
+		RippledRed.initModel();
+		RippledPurple.initModel();
+		RippledBlue.initModel();
+		RippledCyan.initModel();
+		RippledGreen.initModel();
+		RippledYellow.initModel();
+		RippledBrown.initModel();
+		RippledGray.initModel();
+		
+		Stamp.initModel();
+		
+		WoodPlankRed.initModel();
+		WoodPlankPurple.initModel();
+		WoodPlankBlue.initModel();
+		WoodPlankCyan.initModel();
+		WoodPlankGreen.initModel();
+		WoodPlankYellow.initModel();
+		WoodPlankBrown.initModel();
+		WoodPlankGray.initModel();
+		
+		WoolRed.initModel();
+		WoolPurple.initModel();
+		WoolBlue.initModel();
+		WoolCyan.initModel();
+		WoolGreen.initModel();
+		WoolYellow.initModel();
+		WoolBrown.initModel();
+		WoolGray.initModel();
+		
+		CheckeredWoolRed.initModel();
+		CheckeredWoolPurple.initModel();
+		CheckeredWoolBlue.initModel();
+		CheckeredWoolCyan.initModel();
+		CheckeredWoolGreen.initModel();
+		CheckeredWoolYellow.initModel();
+		CheckeredWoolBrown.initModel();
+		CheckeredWoolGray.initModel();
 	
 		TintedGlassRed.initModel();
 		TintedGlassPurple.initModel();
@@ -247,23 +337,23 @@ public class ModBlocks {
 		FrostedGlassBrown.initModel();
 		FrostedGlassGray.initModel();
 		
-		DottedRugRed.initModel();
-		DottedRugPurple.initModel();
-		DottedRugBlue.initModel();
-		DottedRugCyan.initModel();
-		DottedRugGreen.initModel();
-		DottedRugYellow.initModel();
-		DottedRugBrown.initModel();
-		DottedRugGray.initModel();	
+		WoolCarpetRed.initModel();
+		WoolCarpetPurple.initModel();
+		WoolCarpetBlue.initModel();
+		WoolCarpetCyan.initModel();
+		WoolCarpetGreen.initModel();
+		WoolCarpetYellow.initModel();
+		WoolCarpetBrown.initModel();
+		WoolCarpetGray.initModel();
 
-		CheckeredRugRed.initModel();
-		CheckeredRugPurple.initModel();
-		CheckeredRugBlue.initModel();
-		CheckeredRugCyan.initModel();
-		CheckeredRugGreen.initModel();
-		CheckeredRugYellow.initModel();
-		CheckeredRugBrown.initModel();
-		CheckeredRugGray.initModel();
+		CheckeredCarpetRed.initModel();
+		CheckeredCarpetPurple.initModel();
+		CheckeredCarpetBlue.initModel();
+		CheckeredCarpetCyan.initModel();
+		CheckeredCarpetGreen.initModel();
+		CheckeredCarpetYellow.initModel();
+		CheckeredCarpetBrown.initModel();
+		CheckeredCarpetGray.initModel();
 
 		
 
@@ -287,6 +377,15 @@ public class ModBlocks {
 		GameRegistry.register(DiagonallyDottedYellow);
 		GameRegistry.register(DiagonallyDottedBrown);
 		GameRegistry.register(DiagonallyDottedGray);
+		
+		GameRegistry.register(DottedRed);
+		GameRegistry.register(DottedPurple);
+		GameRegistry.register(DottedBlue);
+		GameRegistry.register(DottedCyan);
+		GameRegistry.register(DottedGreen);
+		GameRegistry.register(DottedYellow);
+		GameRegistry.register(DottedBrown);
+		GameRegistry.register(DottedGray);
 		
 		GameRegistry.register(StripedRed);
 		GameRegistry.register(StripedPurple);
@@ -323,24 +422,53 @@ public class ModBlocks {
 		GameRegistry.register(BrickYellow);
 		GameRegistry.register(BrickBrown);
 		GameRegistry.register(BrickGray);
-
-		GameRegistry.register(DottedCarpetRed);
-		GameRegistry.register(DottedCarpetPurple);
-		GameRegistry.register(DottedCarpetBlue);
-		GameRegistry.register(DottedCarpetCyan);
-		GameRegistry.register(DottedCarpetGreen);
-		GameRegistry.register(DottedCarpetYellow);
-		GameRegistry.register(DottedCarpetBrown);
-		GameRegistry.register(DottedCarpetGray);
 		
-		GameRegistry.register(CheckeredCarpetRed);
-		GameRegistry.register(CheckeredCarpetPurple);
-		GameRegistry.register(CheckeredCarpetBlue);
-		GameRegistry.register(CheckeredCarpetCyan);
-		GameRegistry.register(CheckeredCarpetGreen);
-		GameRegistry.register(CheckeredCarpetYellow);
-		GameRegistry.register(CheckeredCarpetBrown);
-		GameRegistry.register(CheckeredCarpetGray);
+		GameRegistry.register(StoneBrickRed);
+		GameRegistry.register(StoneBrickPurple);
+		GameRegistry.register(StoneBrickBlue);
+		GameRegistry.register(StoneBrickCyan);
+		GameRegistry.register(StoneBrickGreen);
+		GameRegistry.register(StoneBrickYellow);
+		GameRegistry.register(StoneBrickBrown);
+		GameRegistry.register(StoneBrickGray);
+				
+		GameRegistry.register(RippledRed);
+		GameRegistry.register(RippledPurple);
+		GameRegistry.register(RippledBlue);
+		GameRegistry.register(RippledCyan);
+		GameRegistry.register(RippledGreen);
+		GameRegistry.register(RippledYellow);
+		GameRegistry.register(RippledBrown);
+		GameRegistry.register(RippledGray);
+		
+		GameRegistry.register(Stamp);
+		
+		GameRegistry.register(WoodPlankRed);
+		GameRegistry.register(WoodPlankPurple);
+		GameRegistry.register(WoodPlankBlue);
+		GameRegistry.register(WoodPlankCyan);
+		GameRegistry.register(WoodPlankGreen);
+		GameRegistry.register(WoodPlankYellow);
+		GameRegistry.register(WoodPlankBrown);
+		GameRegistry.register(WoodPlankGray);
+		
+		GameRegistry.register(WoolRed);
+		GameRegistry.register(WoolPurple);
+		GameRegistry.register(WoolBlue);
+		GameRegistry.register(WoolCyan);
+		GameRegistry.register(WoolGreen);
+		GameRegistry.register(WoolYellow);
+		GameRegistry.register(WoolBrown);
+		GameRegistry.register(WoolGray);
+		
+		GameRegistry.register(CheckeredWoolRed);
+		GameRegistry.register(CheckeredWoolPurple);
+		GameRegistry.register(CheckeredWoolBlue);
+		GameRegistry.register(CheckeredWoolCyan);
+		GameRegistry.register(CheckeredWoolGreen);
+		GameRegistry.register(CheckeredWoolYellow);
+		GameRegistry.register(CheckeredWoolBrown);
+		GameRegistry.register(CheckeredWoolGray);
 
 		GameRegistry.register(TintedGlassRed);
 		GameRegistry.register(TintedGlassPurple);
@@ -368,24 +496,38 @@ public class ModBlocks {
 		GameRegistry.register(FrostedGlassYellow);
 		GameRegistry.register(FrostedGlassBrown);
 		GameRegistry.register(FrostedGlassGray);		
+				
+		GameRegistry.register(WoolCarpetRed);
+		GameRegistry.register(WoolCarpetPurple);
+		GameRegistry.register(WoolCarpetBlue);
+		GameRegistry.register(WoolCarpetCyan);
+		GameRegistry.register(WoolCarpetGreen);
+		GameRegistry.register(WoolCarpetYellow);
+		GameRegistry.register(WoolCarpetBrown);
+		GameRegistry.register(WoolCarpetGray);
 		
-		GameRegistry.register(DottedRugRed);
-		GameRegistry.register(DottedRugPurple);
-		GameRegistry.register(DottedRugBlue);
-		GameRegistry.register(DottedRugCyan);
-		GameRegistry.register(DottedRugGreen);
-		GameRegistry.register(DottedRugYellow);
-		GameRegistry.register(DottedRugBrown);
-		GameRegistry.register(DottedRugGray);
+		GameRegistry.register(CheckeredCarpetRed);
+		GameRegistry.register(CheckeredCarpetPurple);
+		GameRegistry.register(CheckeredCarpetBlue);
+		GameRegistry.register(CheckeredCarpetCyan);
+		GameRegistry.register(CheckeredCarpetGreen);
+		GameRegistry.register(CheckeredCarpetYellow);
+		GameRegistry.register(CheckeredCarpetBrown);
+		GameRegistry.register(CheckeredCarpetGray);
 		
-		GameRegistry.register(CheckeredRugRed);
-		GameRegistry.register(CheckeredRugPurple);
-		GameRegistry.register(CheckeredRugBlue);
-		GameRegistry.register(CheckeredRugCyan);
-		GameRegistry.register(CheckeredRugGreen);
-		GameRegistry.register(CheckeredRugYellow);
-		GameRegistry.register(CheckeredRugBrown);
-		GameRegistry.register(CheckeredRugGray);
+		
+		
+		
+		
+		//OreDict Registration.
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidRed, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidPurple, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidBlue, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidCyan, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidGreen, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidYellow, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidBrown, 1, OreDictionary.WILDCARD_VALUE));
+        OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidGray, 1, OreDictionary.WILDCARD_VALUE));
 
 		
 

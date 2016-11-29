@@ -29,7 +29,7 @@ public class PressCheckered extends Item {
     
 	@Override
 	public void addInformation(ItemStack itemStack, EntityPlayer player, List tooltipLines, boolean advancedTooltips) {
-		tooltipLines.add("Combine this any wool block to apply the Checkered pattern.");
+		tooltipLines.add("Combine this with any solid colored block to apply the Checkered Wool pattern.");
 	}
 
 }

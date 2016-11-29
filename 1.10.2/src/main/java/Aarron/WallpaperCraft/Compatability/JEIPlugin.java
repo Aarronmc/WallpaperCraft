@@ -8,6 +8,7 @@ import mezz.jei.api.IModRegistry;
 import net.minecraft.item.ItemStack;
 import Aarron.WallpaperCraft.handler.ConfigHandler;
 import Aarron.WallpaperCraft.init.ModBlocks;
+import Aarron.WallpaperCraft.recipes.*;
 
 @mezz.jei.api.JEIPlugin
 public class JEIPlugin extends BlankModPlugin {
@@ -18,6 +19,7 @@ public class JEIPlugin extends BlankModPlugin {
     public void register(@Nonnull IModRegistry registry)
     {
     	 jeiHelper = registry.getJeiHelpers();
+    	 
     	 
     	 jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.SolidGreen,0, 4));
 	        
@@ -177,34 +179,190 @@ public class JEIPlugin extends BlankModPlugin {
 	    		for (int i = 1; i < 15; i ++) {	
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.BrickGray,0, + i));
 	    		}
+	    			    		
+	    		
+	    		for (int i = 1; i < 15; i ++) {
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickRed,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickPurple,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickBlue,0, + i));
+	    		} 
+	    		for (int i = 1; i < 10; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickCyan,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickGreen,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickYellow,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickBrown,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickGray,0, + i));
+	    		}
 	    		
 	    		
 	    		for (int i = 1; i < 15; i ++) {
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetRed,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledRed,0, + i));
 	    		}
 	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetPurple,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledPurple,0, + i));
 	    		}
 	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetBlue,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledBlue,0, + i));
 	    		} 
 	    		for (int i = 1; i < 10; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetCyan,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledCyan,0, + i));
 	    		}
 	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetGreen,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledGreen,0, + i));
 	    		}
 	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetYellow,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledYellow,0, + i));
 	    		}
 	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetBrown,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledBrown,0, + i));
 	    		}
 	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCarpetGray,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledGray,0, + i));
 	    		}
 	    		
 	    		
+	    		for (int i = 1; i < 15; i ++) {
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankRed,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankPurple,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankBlue,0, + i));
+	    		} 
+	    		for (int i = 1; i < 10; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankCyan,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankGreen,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankYellow,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankBrown,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoodPlankGray,0, + i));
+	    		}
+	    		
+	    		
+	    		for (int i = 1; i < 15; i ++) {
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRed,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedPurple,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedBlue,0, + i));
+	    		} 
+	    		for (int i = 1; i < 10; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedCyan,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedGreen,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedYellow,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedBrown,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedGray,0, + i));
+	    		}
+	    			    		
+	    		
+	    		for (int i = 1; i < 15; i ++) {
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolRed,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolPurple,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolBlue,0, + i));
+	    		} 
+	    		for (int i = 1; i < 10; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCyan,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolGreen,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolYellow,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolBrown,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolGray,0, + i));
+	    		}
+	    		
+	    			    		  		
+	    		for (int i = 1; i < 15; i ++) {
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetRed,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetPurple,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetBlue,0, + i));
+	    		} 
+	    		for (int i = 1; i < 10; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetCyan,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetGreen,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetYellow,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetBrown,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.WoolCarpetGray,0, + i));
+	    		}
+	    		
+	    		
+	    		for (int i = 1; i < 15; i ++) {
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolRed,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolPurple,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolBlue,0, + i));
+	    		} 
+	    		for (int i = 1; i < 10; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolCyan,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolGreen,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolYellow,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolBrown,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredWoolGray,0, + i));
+	    		}
+	    		
+	    			    		  		
 	    		for (int i = 1; i < 15; i ++) {
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredCarpetRed,0, + i));
 	    		}
@@ -307,59 +465,9 @@ public class JEIPlugin extends BlankModPlugin {
 	    		for (int i = 1; i < 15; i ++) {	
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.FrostedGlassGray,0, + i));
 	    		}
-	    		
-	    		
-	    		for (int i = 1; i < 15; i ++) {
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugRed,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugPurple,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugBlue,0, + i));
-	    		} 
-	    		for (int i = 1; i < 10; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugCyan,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugGreen,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugYellow,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugBrown,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.CheckeredRugGray,0, + i));
-	    		}
-	    		
-	    		
-	    		for (int i = 1; i < 15; i ++) {
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugRed,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugPurple,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugBlue,0, + i));
-	    		} 
-	    		for (int i = 1; i < 10; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugCyan,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugGreen,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugYellow,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugBrown,0, + i));
-	    		}
-	    		for (int i = 1; i < 15; i ++) {	
-	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DottedRugGray,0, + i));
-	    		}
-	    		
+
+
+  		
 	        
 	    		           			   		
 	    		

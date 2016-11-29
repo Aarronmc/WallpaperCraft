@@ -71,7 +71,7 @@ public IIcon[] icons = new IIcon[15];
 
 	public TexturedGlassGreen(String unlocalizedName, Material material) {
 		super(unlocalizedName, material.glass, false);
-		this.setBlockName("TexturedGlassBlue");
+		this.setBlockName("TexturedGlassGreen");
 		this.setHardness(1.25F);
 		this.setResistance(6.0F);
 		this.setHarvestLevel("pickaxe", 0);

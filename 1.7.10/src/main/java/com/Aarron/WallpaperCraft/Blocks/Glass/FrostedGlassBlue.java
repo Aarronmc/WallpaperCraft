@@ -4,6 +4,7 @@ import java.util.List;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockBreakable;
+import net.minecraft.block.BlockPane;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.creativetab.CreativeTabs;
@@ -13,6 +14,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.util.Facing;
 import net.minecraft.util.IIcon;
 import net.minecraft.world.IBlockAccess;
+import net.minecraftforge.common.util.ForgeDirection;
 
 import com.Aarron.WallpaperCraft.creativeTab.Tab;
 import com.Aarron.WallpaperCraft.init.ModBlocks;
@@ -64,9 +66,11 @@ public IIcon[] icons = new IIcon[15];
 
 	}
 	
+	@Override
 	public boolean renderAsNormalBlock() {
         return false;
    }
+	
 
 
 	public FrostedGlassBlue(String unlocalizedName, Material material) {
@@ -97,7 +101,7 @@ public IIcon[] icons = new IIcon[15];
 	@Override //Makes it so that the block dropped has a meta value equal to the block broken
 	public int damageDropped(int meta) {
 		return meta;
-}
+	}
 
 	@Override //Tells Minecraft to assign a creative tab for each meta value of the block
 	public void getSubBlocks(Item item, CreativeTabs tab, List list) {
@@ -105,6 +109,6 @@ public IIcon[] icons = new IIcon[15];
 			list.add(new ItemStack(item, 1, i));
 		}
 		
-		
+			
 } 
 }
