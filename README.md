@@ -1,4 +1,4 @@
-## WallpaperCraft
+# WallpaperCraft
 
 ## Table of Contents
 
