@@ -25,6 +25,7 @@ private boolean ignoreSimilarity;
 	public FrostedGlassBlue() {
 		super(Material.GLASS, "FrostedGlassBlue");
 		this.setSoundType(SoundType.GLASS);
+		this.setHardness(0.3F);
 	}
 
 	@Override

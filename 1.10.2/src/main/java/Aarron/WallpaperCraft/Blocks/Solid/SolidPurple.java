@@ -13,6 +13,7 @@ public class SolidPurple extends IMetaBlock<BlockTypes> {
 	public SolidPurple() {
 		super(Material.ROCK, "SolidPurple");
 		this.setSoundType(SoundType.STONE);
+		this.setHardness(1.5F);
 	}
 
 	@Override

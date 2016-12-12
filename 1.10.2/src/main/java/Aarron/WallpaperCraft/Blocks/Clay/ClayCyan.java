@@ -13,6 +13,7 @@ public class ClayCyan extends IMetaBlock<BlockTypes2> {
 	public ClayCyan() {
 		super(Material.ROCK, "ClayCyan");
 		this.setSoundType(SoundType.STONE);
+		this.setHardness(1.25F);
 	}
 
 	@Override

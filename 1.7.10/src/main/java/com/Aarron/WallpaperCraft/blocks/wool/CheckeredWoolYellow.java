@@ -20,7 +20,7 @@ public IIcon[] icons = new IIcon[15];
 	public CheckeredWoolYellow(String unlocalizedName, Material material) {
 		super(material);
 		this.setBlockName("CheckeredWoolYellow");
-		this.setHardness(1.25F);
+		this.setHardness(0.4F);
 		this.setResistance(6.0F);
 		this.setHarvestLevel("pickaxe", 0);
 		this.setStepSound(soundTypeCloth);

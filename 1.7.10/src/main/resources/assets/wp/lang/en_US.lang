@@ -1,4 +1,4 @@
-#Custome Creative Tab Name
+#Custom Creative Tab Name
 itemGroup.WPtab=WallpaperCraft!
 
 
@@ -27,6 +27,7 @@ item.presswoodplank.name=Wooden Plank Pattern Press
 item.pressstonebrick.name=Stone Brick Pattern Press
 item.pressrippled.name=Rippled Pattern Press
 item.pressstamp.name=Stamp Pattern Press
+item.pressstonelamp.name=Stone Lamp Pattern Press
 
 
 
@@ -125,7 +126,7 @@ tile.SolidBlue_9.name=Solid Deep Blue
 tile.SolidBlue_10.name=Solid Light Aqua Blue
 tile.SolidBlue_11.name=Solid Aqua Blue
 tile.SolidBlue_12.name=Solid Dark Aqua Blue
-tile.SolidBlue_13.name=Solid Oceon Blue
+tile.SolidBlue_13.name=Solid Ocean Blue
 tile.SolidBlue_14.name=Solid Midnight Blue
 
 
@@ -227,7 +228,7 @@ tile.SolidGray_14.name=Solid Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########   STARTING NAMING OF DIAGONALlY DOTTED BLOCKS  ###########
+###########   STARTING NAMING OF DIAGONALLY DOTTED BLOCKS  ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -284,7 +285,7 @@ tile.DiagonallyDottedBlue_9.name=Diagonally Dotted Deep Blue
 tile.DiagonallyDottedBlue_10.name=Diagonally Dotted Light Aqua Blue
 tile.DiagonallyDottedBlue_11.name=Diagonally Dotted Aqua Blue
 tile.DiagonallyDottedBlue_12.name=Diagonally Dotted Dark Aqua Blue
-tile.DiagonallyDottedBlue_13.name=Diagonally Dotted Oceon Blue
+tile.DiagonallyDottedBlue_13.name=Diagonally Dotted Ocean Blue
 tile.DiagonallyDottedBlue_14.name=Diagonally Dotted Midnight Blue
 
 
@@ -443,7 +444,7 @@ tile.DottedBlue_9.name=Dotted Deep Blue
 tile.DottedBlue_10.name=Dotted Light Aqua Blue
 tile.DottedBlue_11.name=Dotted Aqua Blue
 tile.DottedBlue_12.name=Dotted Dark Aqua Blue
-tile.DottedBlue_13.name=Dotted Oceon Blue
+tile.DottedBlue_13.name=Dotted Ocean Blue
 tile.DottedBlue_14.name=Dotted Midnight Blue
 
 
@@ -602,7 +603,7 @@ tile.StripedBlue_9.name=Striped Deep Blue
 tile.StripedBlue_10.name=Striped Light Aqua Blue
 tile.StripedBlue_11.name=Striped Aqua Blue
 tile.StripedBlue_12.name=Striped Dark Aqua Blue
-tile.StripedBlue_13.name=Striped Oceon Blue
+tile.StripedBlue_13.name=Striped Ocean Blue
 tile.StripedBlue_14.name=Striped Midnight Blue
 
 
@@ -761,7 +762,7 @@ tile.FloralBlue_9.name=Floral Deep Blue
 tile.FloralBlue_10.name=Floral Light Aqua Blue
 tile.FloralBlue_11.name=Floral Aqua Blue
 tile.FloralBlue_12.name=Floral Dark Aqua Blue
-tile.FloralBlue_13.name=Floral Oceon Blue
+tile.FloralBlue_13.name=Floral Ocean Blue
 tile.FloralBlue_14.name=Floral Midnight Blue
 
 
@@ -920,7 +921,7 @@ tile.ClayBlue_9.name=Clay Deep Blue
 tile.ClayBlue_10.name=Clay Light Aqua Blue
 tile.ClayBlue_11.name=Clay Aqua Blue
 tile.ClayBlue_12.name=Clay Dark Aqua Blue
-tile.ClayBlue_13.name=Clay Oceon Blue
+tile.ClayBlue_13.name=Clay Ocean Blue
 tile.ClayBlue_14.name=Clay Midnight Blue
 
 
@@ -1079,7 +1080,7 @@ tile.TintedGlassBlue_9.name=Tinted Glass Deep Blue
 tile.TintedGlassBlue_10.name=Tinted Glass Light Aqua Blue
 tile.TintedGlassBlue_11.name=Tinted Glass Aqua Blue
 tile.TintedGlassBlue_12.name=Tinted Glass Dark Aqua Blue
-tile.TintedGlassBlue_13.name=Tinted Glass Oceon Blue
+tile.TintedGlassBlue_13.name=Tinted Glass Ocean Blue
 tile.TintedGlassBlue_14.name=Tinted Glass Midnight Blue
 
 
@@ -1238,7 +1239,7 @@ tile.TexturedGlassBlue_9.name=Textured Glass Deep Blue
 tile.TexturedGlassBlue_10.name=Textured Glass Light Aqua Blue
 tile.TexturedGlassBlue_11.name=Textured Glass Aqua Blue
 tile.TexturedGlassBlue_12.name=Textured Glass Dark Aqua Blue
-tile.TexturedGlassBlue_13.name=Textured Glass Oceon Blue
+tile.TexturedGlassBlue_13.name=Textured Glass Ocean Blue
 tile.TexturedGlassBlue_14.name=Textured Glass Midnight Blue
 
 
@@ -1397,7 +1398,7 @@ tile.FrostedGlassBlue_9.name=Frosted Glass Deep Blue
 tile.FrostedGlassBlue_10.name=Frosted Glass Light Aqua Blue
 tile.FrostedGlassBlue_11.name=Frosted Glass Aqua Blue
 tile.FrostedGlassBlue_12.name=Frosted Glass Dark Aqua Blue
-tile.FrostedGlassBlue_13.name=Frosted Glass Oceon Blue
+tile.FrostedGlassBlue_13.name=Frosted Glass Ocean Blue
 tile.FrostedGlassBlue_14.name=Frosted Glass Midnight Blue
 
 
@@ -1499,6 +1500,483 @@ tile.FrostedGlassGray_14.name=Frosted Glass Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
+###########     STARTING NAMING OF TINTED GLASS PANES      ###########
+###########									     	       ###########
+######################################################################
+
+
+#Tinted Glass Pane Red Colours
+tile.TintedPaneRed_0.name=Tinted Glass Pane Light Warm Pink
+tile.TintedPaneRed_1.name=Tinted Glass Pane Light Red
+tile.TintedPaneRed_2.name=Tinted Glass Pane Bright Red
+tile.TintedPaneRed_3.name=Tinted Glass Pane Red
+tile.TintedPaneRed_4.name=Tinted Glass Pane Blood Red
+tile.TintedPaneRed_5.name=Tinted Glass Pane Light Cool Pink
+tile.TintedPaneRed_6.name=Tinted Glass Pane Pink
+tile.TintedPaneRed_7.name=Tinted Glass Pane Hot Pink
+tile.TintedPaneRed_8.name=Tinted Glass Pane Dark Pink
+tile.TintedPaneRed_9.name=Tinted Glass Pane Hot Pink
+tile.TintedPaneRed_10.name=Tinted Glass Pane Fuchsia
+tile.TintedPaneRed_11.name=Tinted Glass Pane Baby Pink
+tile.TintedPaneRed_12.name=Tinted Glass Pane Light Salmon
+tile.TintedPaneRed_13.name=Tinted Glass Pane Brown Red
+tile.TintedPaneRed_14.name=Tinted Glass Pane Dark Brown Red
+
+
+
+#Tinted Glass Pane Purple Colours
+tile.TintedPanePurple_0.name=Tinted Glass Pane Light Magenta
+tile.TintedPanePurple_1.name=Tinted Glass Pane Magenta
+tile.TintedPanePurple_2.name=Tinted Glass Pane Dark Magenta
+tile.TintedPanePurple_3.name=Tinted Glass Pane Violet
+tile.TintedPanePurple_4.name=Tinted Glass Pane Dark Violet
+tile.TintedPanePurple_5.name=Tinted Glass Pane Light Violet
+tile.TintedPanePurple_6.name=Tinted Glass Pane Light Purple
+tile.TintedPanePurple_7.name=Tinted Glass Pane Purple
+tile.TintedPanePurple_8.name=Tinted Glass Pane Dark Purple
+tile.TintedPanePurple_9.name=Tinted Glass Pane Royal Blue
+tile.TintedPanePurple_10.name=Tinted Glass Pane Light Lavender
+tile.TintedPanePurple_11.name=Tinted Glass Pane Lavender
+tile.TintedPanePurple_12.name=Tinted Glass Pane Azure Blue
+tile.TintedPanePurple_13.name=Tinted Glass Pane Dark Blue
+tile.TintedPanePurple_14.name=Tinted Glass Pane Midnight Blue
+
+
+
+#Tinted Glass Pane Blue Colours
+tile.TintedPaneBlue_0.name=Tinted Glass Pane Light Blue
+tile.TintedPaneBlue_1.name=Tinted Glass Pane Light Sky Blue
+tile.TintedPaneBlue_2.name=Tinted Glass Pane Sky Blue
+tile.TintedPaneBlue_3.name=Tinted Glass Pane Dark Sky Blue
+tile.TintedPaneBlue_4.name=Tinted Glass Pane Navy Blue
+tile.TintedPaneBlue_5.name=Tinted Glass Pane Light Baby Blue
+tile.TintedPaneBlue_6.name=Tinted Glass Pane Baby Blue
+tile.TintedPaneBlue_7.name=Tinted Glass Pane Bright Blue
+tile.TintedPaneBlue_8.name=Tinted Glass Pane Medium Blue
+tile.TintedPaneBlue_9.name=Tinted Glass Pane Deep Blue
+tile.TintedPaneBlue_10.name=Tinted Glass Pane Light Aqua Blue
+tile.TintedPaneBlue_11.name=Tinted Glass Pane Aqua Blue
+tile.TintedPaneBlue_12.name=Tinted Glass Pane Dark Aqua Blue
+tile.TintedPaneBlue_13.name=Tinted Glass Pane Ocean Blue
+tile.TintedPaneBlue_14.name=Tinted Glass Pane Midnight Blue
+
+
+
+#Tinted Glass Pane Brown Colours
+tile.TintedPaneBrown_0.name=Tinted Glass Pane Soft Orange
+tile.TintedPaneBrown_1.name=Tinted Glass Pane Sienna brown
+tile.TintedPaneBrown_2.name=Tinted Glass Pane Burnt Sienna Brown
+tile.TintedPaneBrown_3.name=Tinted Glass Pane Earth Brown
+tile.TintedPaneBrown_4.name=Tinted Glass Pane Soil Brown
+tile.TintedPaneBrown_5.name=Tinted Glass Pane Light Beige
+tile.TintedPaneBrown_6.name=Tinted Glass Pane Beige
+tile.TintedPaneBrown_7.name=Tinted Glass Pane Terracotta Red
+tile.TintedPaneBrown_8.name=Tinted Glass Pane Brown
+tile.TintedPaneBrown_9.name=Tinted Glass Pane Saddle Brown
+tile.TintedPaneBrown_10.name=Tinted Glass Pane Light Gray Brown
+tile.TintedPaneBrown_11.name=Tinted Glass Pane Gray Brown
+tile.TintedPaneBrown_12.name=Tinted Glass Pane Middle Gray Brown
+tile.TintedPaneBrown_13.name=Tinted Glass Pane Gray Brown
+tile.TintedPaneBrown_14.name=Tinted Glass Pane Dark Gray Brown
+
+
+
+#Tinted Glass Pane Cyan Colours
+tile.TintedPaneCyan_0.name=Tinted Glass Pane Light Green Blue
+tile.TintedPaneCyan_1.name=Tinted Glass Pane Light Turquoise Blue
+tile.TintedPaneCyan_2.name=Tinted Glass Pane Turquoise Blue
+tile.TintedPaneCyan_3.name=Tinted Glass Pane Teal Blue
+tile.TintedPaneCyan_4.name=Tinted Glass Pane Dark Teal Blue
+tile.TintedPaneCyan_5.name=Tinted Glass Pane Light Seafoam Blue Green
+tile.TintedPaneCyan_6.name=Tinted Glass Pane Seafoam Blue Green
+tile.TintedPaneCyan_7.name=Tinted Glass Pane Blue Green
+tile.TintedPaneCyan_8.name=Tinted Glass Pane Dark Blue Green
+tile.TintedPaneCyan_9.name=Tinted Glass Pane Dark Pine Blue Green
+
+
+
+#Tinted Glass Pane Green Colours
+tile.TintedPaneGreen_0.name=Tinted Glass Pane Light Green
+tile.TintedPaneGreen_1.name=Tinted Glass Pane Light Spring Green
+tile.TintedPaneGreen_2.name=Tinted Glass Pane Spring Green
+tile.TintedPaneGreen_3.name=Tinted Glass Pane Green
+tile.TintedPaneGreen_4.name=Tinted Glass Pane Dark Green
+tile.TintedPaneGreen_5.name=Tinted Glass Pane Light Summer Green
+tile.TintedPaneGreen_6.name=Tinted Glass Pane Summer Green
+tile.TintedPaneGreen_7.name=Tinted Glass Pane Lush Green
+tile.TintedPaneGreen_8.name=Tinted Glass Pane Deep Lush Green
+tile.TintedPaneGreen_9.name=Tinted Glass Pane Dark Lush Green
+tile.TintedPaneGreen_10.name=Tinted Glass Pane Light Spring Green
+tile.TintedPaneGreen_11.name=Tinted Glass Pane Spring Green
+tile.TintedPaneGreen_12.name=Tinted Glass Pane Light Olive Green
+tile.TintedPaneGreen_13.name=Tinted Glass Pane Olive Green
+tile.TintedPaneGreen_14.name=Tinted Glass Pane Moss Green
+
+
+
+#Tinted Glass Pane Yellow Colours
+tile.TintedPaneYellow_0.name=Tinted Glass Pane Light Lemon Yellow
+tile.TintedPaneYellow_1.name=Tinted Glass Pane Lemon Yellow
+tile.TintedPaneYellow_2.name=Tinted Glass Pane Sunny Yellow
+tile.TintedPaneYellow_3.name=Tinted Glass Pane Soft Yellow
+tile.TintedPaneYellow_4.name=Tinted Glass Pane Orange Yellow
+tile.TintedPaneYellow_5.name=Tinted Glass Pane Light Sand Yellow
+tile.TintedPaneYellow_6.name=Tinted Glass Pane Light Yellow
+tile.TintedPaneYellow_7.name=Tinted Glass Pane Yellow
+tile.TintedPaneYellow_8.name=Tinted Glass Pane Gold Yellow
+tile.TintedPaneYellow_9.name=Tinted Glass Pane Dark Orange
+tile.TintedPaneYellow_10.name=Tinted Glass Pane Light Orange
+tile.TintedPaneYellow_11.name=Tinted Glass Pane Sunny Orange
+tile.TintedPaneYellow_12.name=Tinted Glass Pane Orange
+tile.TintedPaneYellow_13.name=Tinted Glass Pane Deep Orange
+tile.TintedPaneYellow_14.name=Tinted Glass Pane Orange Red
+
+
+
+#Tinted Glass Pane Gray Colours
+tile.TintedPaneGray_0.name=Tinted Glass Pane White Gray
+tile.TintedPaneGray_1.name=Tinted Glass Pane Light Gray
+tile.TintedPaneGray_2.name=Tinted Glass Pane Gray
+tile.TintedPaneGray_3.name=Tinted Glass Pane Dark Gray
+tile.TintedPaneGray_4.name=Tinted Glass Pane Gray Black
+tile.TintedPaneGray_5.name=Tinted Glass Pane Light Warm Gray
+tile.TintedPaneGray_6.name=Tinted Glass Pane Warm Gray
+tile.TintedPaneGray_7.name=Tinted Glass Pane Middle Warm Gray
+tile.TintedPaneGray_8.name=Tinted Glass Pane Dark Warm Gray
+tile.TintedPaneGray_9.name=Tinted Glass Pane Warm Black Gray
+tile.TintedPaneGray_10.name=Tinted Glass Pane Light Cool gray
+tile.TintedPaneGray_11.name=Tinted Glass Pane Cool Gray
+tile.TintedPaneGray_12.name=Tinted Glass Pane Dark Cool Gray
+tile.TintedPaneGray_13.name=Tinted Glass Pane Cool Blue Gray
+tile.TintedPaneGray_14.name=Tinted Glass Pane Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########     STARTING NAMING OF TEXTURED GLASS PANE     ###########
+###########									     	       ###########
+######################################################################
+
+
+#Textured Glass Pane Red Colours
+tile.TexturedPaneRed_0.name=Textured Glass Pane Light Warm Pink
+tile.TexturedPaneRed_1.name=Textured Glass Pane Light Red
+tile.TexturedPaneRed_2.name=Textured Glass Pane Bright Red
+tile.TexturedPaneRed_3.name=Textured Glass Pane Red
+tile.TexturedPaneRed_4.name=Textured Glass Pane Blood Red
+tile.TexturedPaneRed_5.name=Textured Glass Pane Light Cool Pink
+tile.TexturedPaneRed_6.name=Textured Glass Pane Pink
+tile.TexturedPaneRed_7.name=Textured Glass Pane Hot Pink
+tile.TexturedPaneRed_8.name=Textured Glass Pane Dark Pink
+tile.TexturedPaneRed_9.name=Textured Glass Pane Hot Pink
+tile.TexturedPaneRed_10.name=Textured Glass Pane Fuchsia
+tile.TexturedPaneRed_11.name=Textured Glass Pane Baby Pink
+tile.TexturedPaneRed_12.name=Textured Glass Pane Light Salmon
+tile.TexturedPaneRed_13.name=Textured Glass Pane Brown Red
+tile.TexturedPaneRed_14.name=Textured Glass Pane Dark Brown Red
+
+
+
+#Textured Glass Pane Purple Colours
+tile.TexturedPanePurple_0.name=Textured Glass Pane Light Magenta
+tile.TexturedPanePurple_1.name=Textured Glass Pane Magenta
+tile.TexturedPanePurple_2.name=Textured Glass Pane Dark Magenta
+tile.TexturedPanePurple_3.name=Textured Glass Pane Violet
+tile.TexturedPanePurple_4.name=Textured Glass Pane Dark Violet
+tile.TexturedPanePurple_5.name=Textured Glass Pane Light Violet
+tile.TexturedPanePurple_6.name=Textured Glass Pane Light Purple
+tile.TexturedPanePurple_7.name=Textured Glass Pane Purple
+tile.TexturedPanePurple_8.name=Textured Glass Pane Dark Purple
+tile.TexturedPanePurple_9.name=Textured Glass Pane Royal Blue
+tile.TexturedPanePurple_10.name=Textured Glass Pane Light Lavender
+tile.TexturedPanePurple_11.name=Textured Glass Pane Lavender
+tile.TexturedPanePurple_12.name=Textured Glass Pane Azure Blue
+tile.TexturedPanePurple_13.name=Textured Glass Pane Dark Blue
+tile.TexturedPanePurple_14.name=Textured Glass Pane Midnight Blue
+
+
+
+#Textured Glass Pane Blue Colours
+tile.TexturedPaneBlue_0.name=Textured Glass Pane Light Blue
+tile.TexturedPaneBlue_1.name=Textured Glass Pane Light Sky Blue
+tile.TexturedPaneBlue_2.name=Textured Glass Pane Sky Blue
+tile.TexturedPaneBlue_3.name=Textured Glass Pane Dark Sky Blue
+tile.TexturedPaneBlue_4.name=Textured Glass Pane Navy Blue
+tile.TexturedPaneBlue_5.name=Textured Glass Pane Light Baby Blue
+tile.TexturedPaneBlue_6.name=Textured Glass Pane Baby Blue
+tile.TexturedPaneBlue_7.name=Textured Glass Pane Bright Blue
+tile.TexturedPaneBlue_8.name=Textured Glass Pane Medium Blue
+tile.TexturedPaneBlue_9.name=Textured Glass Pane Deep Blue
+tile.TexturedPaneBlue_10.name=Textured Glass Pane Light Aqua Blue
+tile.TexturedPaneBlue_11.name=Textured Glass Pane Aqua Blue
+tile.TexturedPaneBlue_12.name=Textured Glass Pane Dark Aqua Blue
+tile.TexturedPaneBlue_13.name=Textured Glass Pane Ocean Blue
+tile.TexturedPaneBlue_14.name=Textured Glass Pane Midnight Blue
+
+
+
+#Textured Glass Pane Brown Colours
+tile.TexturedPaneBrown_0.name=Textured Glass Pane Soft Orange
+tile.TexturedPaneBrown_1.name=Textured Glass Pane Sienna brown
+tile.TexturedPaneBrown_2.name=Textured Glass Pane Burnt Sienna Brown
+tile.TexturedPaneBrown_3.name=Textured Glass Pane Earth Brown
+tile.TexturedPaneBrown_4.name=Textured Glass Pane Soil Brown
+tile.TexturedPaneBrown_5.name=Textured Glass Pane Light Beige
+tile.TexturedPaneBrown_6.name=Textured Glass Pane Beige
+tile.TexturedPaneBrown_7.name=Textured Glass Pane Terracotta Red
+tile.TexturedPaneBrown_8.name=Textured Glass Pane Brown
+tile.TexturedPaneBrown_9.name=Textured Glass Pane Saddle Brown
+tile.TexturedPaneBrown_10.name=Textured Glass Pane Light Gray Brown
+tile.TexturedPaneBrown_11.name=Textured Glass Pane Gray Brown
+tile.TexturedPaneBrown_12.name=Textured Glass Pane Middle Gray Brown
+tile.TexturedPaneBrown_13.name=Textured Glass Pane Gray Brown
+tile.TexturedPaneBrown_14.name=Textured Glass Pane Dark Gray Brown
+
+
+
+#Textured Glass Pane Cyan Colours
+tile.TexturedPaneCyan_0.name=Textured Glass Pane Light Green Blue
+tile.TexturedPaneCyan_1.name=Textured Glass Pane Light Turquoise Blue
+tile.TexturedPaneCyan_2.name=Textured Glass Pane Turquoise Blue
+tile.TexturedPaneCyan_3.name=Textured Glass Pane Teal Blue
+tile.TexturedPaneCyan_4.name=Textured Glass Pane Dark Teal Blue
+tile.TexturedPaneCyan_5.name=Textured Glass Pane Light Seafoam Blue Green
+tile.TexturedPaneCyan_6.name=Textured Glass Pane Seafoam Blue Green
+tile.TexturedPaneCyan_7.name=Textured Glass Pane Blue Green
+tile.TexturedPaneCyan_8.name=Textured Glass Pane Dark Blue Green
+tile.TexturedPaneCyan_9.name=Textured Glass Pane Dark Pine Blue Green
+
+
+
+#Textured Glass Pane Green Colours
+tile.TexturedPaneGreen_0.name=Textured Glass Pane Light Green
+tile.TexturedPaneGreen_1.name=Textured Glass Pane Light Spring Green
+tile.TexturedPaneGreen_2.name=Textured Glass Pane Spring Green
+tile.TexturedPaneGreen_3.name=Textured Glass Pane Green
+tile.TexturedPaneGreen_4.name=Textured Glass Pane Dark Green
+tile.TexturedPaneGreen_5.name=Textured Glass Pane Light Summer Green
+tile.TexturedPaneGreen_6.name=Textured Glass Pane Summer Green
+tile.TexturedPaneGreen_7.name=Textured Glass Pane Lush Green
+tile.TexturedPaneGreen_8.name=Textured Glass Pane Deep Lush Green
+tile.TexturedPaneGreen_9.name=Textured Glass Pane Dark Lush Green
+tile.TexturedPaneGreen_10.name=Textured Glass Pane Light Spring Green
+tile.TexturedPaneGreen_11.name=Textured Glass Pane Spring Green
+tile.TexturedPaneGreen_12.name=Textured Glass Pane Light Olive Green
+tile.TexturedPaneGreen_13.name=Textured Glass Pane Olive Green
+tile.TexturedPaneGreen_14.name=Textured Glass Pane Moss Green
+
+
+
+#Textured Glass Pane Yellow Colours
+tile.TexturedPaneYellow_0.name=Textured Glass Pane Light Lemon Yellow
+tile.TexturedPaneYellow_1.name=Textured Glass Pane Lemon Yellow
+tile.TexturedPaneYellow_2.name=Textured Glass Pane Sunny Yellow
+tile.TexturedPaneYellow_3.name=Textured Glass Pane Soft Yellow
+tile.TexturedPaneYellow_4.name=Textured Glass Pane Orange Yellow
+tile.TexturedPaneYellow_5.name=Textured Glass Pane Light Sand Yellow
+tile.TexturedPaneYellow_6.name=Textured Glass Pane Light Yellow
+tile.TexturedPaneYellow_7.name=Textured Glass Pane Yellow
+tile.TexturedPaneYellow_8.name=Textured Glass Pane Gold Yellow
+tile.TexturedPaneYellow_9.name=Textured Glass Pane Dark Orange
+tile.TexturedPaneYellow_10.name=Textured Glass Pane Light Orange
+tile.TexturedPaneYellow_11.name=Textured Glass Pane Sunny Orange
+tile.TexturedPaneYellow_12.name=Textured Glass Pane Orange
+tile.TexturedPaneYellow_13.name=Textured Glass Pane Deep Orange
+tile.TexturedPaneYellow_14.name=Textured Glass Pane Orange Red
+
+
+
+#Textured Glass Pane Gray Colours
+tile.TexturedPaneGray_0.name=Textured Glass Pane White Gray
+tile.TexturedPaneGray_1.name=Textured Glass Pane Light Gray
+tile.TexturedPaneGray_2.name=Textured Glass Pane Gray
+tile.TexturedPaneGray_3.name=Textured Glass Pane Dark Gray
+tile.TexturedPaneGray_4.name=Textured Glass Pane Gray Black
+tile.TexturedPaneGray_5.name=Textured Glass Pane Light Warm Gray
+tile.TexturedPaneGray_6.name=Textured Glass Pane Warm Gray
+tile.TexturedPaneGray_7.name=Textured Glass Pane Middle Warm Gray
+tile.TexturedPaneGray_8.name=Textured Glass Pane Dark Warm Gray
+tile.TexturedPaneGray_9.name=Textured Glass Pane Warm Black Gray
+tile.TexturedPaneGray_10.name=Textured Glass Pane Light Cool gray
+tile.TexturedPaneGray_11.name=Textured Glass Pane Cool Gray
+tile.TexturedPaneGray_12.name=Textured Glass Pane Dark Cool Gray
+tile.TexturedPaneGray_13.name=Textured Glass Pane Cool Blue Gray
+tile.TexturedPaneGray_14.name=Textured Glass Pane Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########     STARTING NAMING OF FROSTED GLASS PANES     ###########
+###########									     	       ###########
+######################################################################
+
+
+#Frosted Glass Pane Red Colours
+tile.FrostedPaneRed_0.name=Frosted Glass Pane Light Warm Pink
+tile.FrostedPaneRed_1.name=Frosted Glass Pane Light Red
+tile.FrostedPaneRed_2.name=Frosted Glass Pane Bright Red
+tile.FrostedPaneRed_3.name=Frosted Glass Pane Red
+tile.FrostedPaneRed_4.name=Frosted Glass Pane Blood Red
+tile.FrostedPaneRed_5.name=Frosted Glass Pane Light Cool Pink
+tile.FrostedPaneRed_6.name=Frosted Glass Pane Pink
+tile.FrostedPaneRed_7.name=Frosted Glass Pane Hot Pink
+tile.FrostedPaneRed_8.name=Frosted Glass Pane Dark Pink
+tile.FrostedPaneRed_9.name=Frosted Glass Pane Hot Pink
+tile.FrostedPaneRed_10.name=Frosted Glass Pane Fuchsia
+tile.FrostedPaneRed_11.name=Frosted Glass Pane Baby Pink
+tile.FrostedPaneRed_12.name=Frosted Glass Pane Light Salmon
+tile.FrostedPaneRed_13.name=Frosted Glass Pane Brown Red
+tile.FrostedPaneRed_14.name=Frosted Glass Pane Dark Brown Red
+
+
+
+#Frosted Glass Pane Purple Colours
+tile.FrostedPanePurple_0.name=Frosted Glass Pane Light Magenta
+tile.FrostedPanePurple_1.name=Frosted Glass Pane Magenta
+tile.FrostedPanePurple_2.name=Frosted Glass Pane Dark Magenta
+tile.FrostedPanePurple_3.name=Frosted Glass Pane Violet
+tile.FrostedPanePurple_4.name=Frosted Glass Pane Dark Violet
+tile.FrostedPanePurple_5.name=Frosted Glass Pane Light Violet
+tile.FrostedPanePurple_6.name=Frosted Glass Pane Light Purple
+tile.FrostedPanePurple_7.name=Frosted Glass Pane Purple
+tile.FrostedPanePurple_8.name=Frosted Glass Pane Dark Purple
+tile.FrostedPanePurple_9.name=Frosted Glass Pane Royal Blue
+tile.FrostedPanePurple_10.name=Frosted Glass Pane Light Lavender
+tile.FrostedPanePurple_11.name=Frosted Glass Pane Lavender
+tile.FrostedPanePurple_12.name=Frosted Glass Pane Azure Blue
+tile.FrostedPanePurple_13.name=Frosted Glass Pane Dark Blue
+tile.FrostedPanePurple_14.name=Frosted Glass Pane Midnight Blue
+
+
+
+#Frosted Glass Pane Blue Colours
+tile.FrostedPaneBlue_0.name=Frosted Glass Pane Light Blue
+tile.FrostedPaneBlue_1.name=Frosted Glass Pane Light Sky Blue
+tile.FrostedPaneBlue_2.name=Frosted Glass Pane Sky Blue
+tile.FrostedPaneBlue_3.name=Frosted Glass Pane Dark Sky Blue
+tile.FrostedPaneBlue_4.name=Frosted Glass Pane Navy Blue
+tile.FrostedPaneBlue_5.name=Frosted Glass Pane Light Baby Blue
+tile.FrostedPaneBlue_6.name=Frosted Glass Pane Baby Blue
+tile.FrostedPaneBlue_7.name=Frosted Glass Pane Bright Blue
+tile.FrostedPaneBlue_8.name=Frosted Glass Pane Medium Blue
+tile.FrostedPaneBlue_9.name=Frosted Glass Pane Deep Blue
+tile.FrostedPaneBlue_10.name=Frosted Glass Pane Light Aqua Blue
+tile.FrostedPaneBlue_11.name=Frosted Glass Pane Aqua Blue
+tile.FrostedPaneBlue_12.name=Frosted Glass Pane Dark Aqua Blue
+tile.FrostedPaneBlue_13.name=Frosted Glass Pane Ocean Blue
+tile.FrostedPaneBlue_14.name=Frosted Glass Pane Midnight Blue
+
+
+
+#Frosted Glass Pane Brown Colours
+tile.FrostedPaneBrown_0.name=Frosted Glass Pane Soft Orange
+tile.FrostedPaneBrown_1.name=Frosted Glass Pane Sienna brown
+tile.FrostedPaneBrown_2.name=Frosted Glass Pane Burnt Sienna Brown
+tile.FrostedPaneBrown_3.name=Frosted Glass Pane Earth Brown
+tile.FrostedPaneBrown_4.name=Frosted Glass Pane Soil Brown
+tile.FrostedPaneBrown_5.name=Frosted Glass Pane Light Beige
+tile.FrostedPaneBrown_6.name=Frosted Glass Pane Beige
+tile.FrostedPaneBrown_7.name=Frosted Glass Pane Terracotta Red
+tile.FrostedPaneBrown_8.name=Frosted Glass Pane Brown
+tile.FrostedPaneBrown_9.name=Frosted Glass Pane Saddle Brown
+tile.FrostedPaneBrown_10.name=Frosted Glass Pane Light Gray Brown
+tile.FrostedPaneBrown_11.name=Frosted Glass Pane Gray Brown
+tile.FrostedPaneBrown_12.name=Frosted Glass Pane Middle Gray Brown
+tile.FrostedPaneBrown_13.name=Frosted Glass Pane Gray Brown
+tile.FrostedPaneBrown_14.name=Frosted Glass Pane Dark Gray Brown
+
+
+
+#Frosted Glass Pane Cyan Colours
+tile.FrostedPaneCyan_0.name=Frosted Glass Pane Light Green Blue
+tile.FrostedPaneCyan_1.name=Frosted Glass Pane Light Turquoise Blue
+tile.FrostedPaneCyan_2.name=Frosted Glass Pane Turquoise Blue
+tile.FrostedPaneCyan_3.name=Frosted Glass Pane Teal Blue
+tile.FrostedPaneCyan_4.name=Frosted Glass Pane Dark Teal Blue
+tile.FrostedPaneCyan_5.name=Frosted Glass Pane Light Seafoam Blue Green
+tile.FrostedPaneCyan_6.name=Frosted Glass Pane Seafoam Blue Green
+tile.FrostedPaneCyan_7.name=Frosted Glass Pane Blue Green
+tile.FrostedPaneCyan_8.name=Frosted Glass Pane Dark Blue Green
+tile.FrostedPaneCyan_9.name=Frosted Glass Pane Dark Pine Blue Green
+
+
+
+#Frosted Glass Pane Green Colours
+tile.FrostedPaneGreen_0.name=Frosted Glass Pane Light Green
+tile.FrostedPaneGreen_1.name=Frosted Glass Pane Light Spring Green
+tile.FrostedPaneGreen_2.name=Frosted Glass Pane Spring Green
+tile.FrostedPaneGreen_3.name=Frosted Glass Pane Green
+tile.FrostedPaneGreen_4.name=Frosted Glass Pane Dark Green
+tile.FrostedPaneGreen_5.name=Frosted Glass Pane Light Summer Green
+tile.FrostedPaneGreen_6.name=Frosted Glass Pane Summer Green
+tile.FrostedPaneGreen_7.name=Frosted Glass Pane Lush Green
+tile.FrostedPaneGreen_8.name=Frosted Glass Pane Deep Lush Green
+tile.FrostedPaneGreen_9.name=Frosted Glass Pane Dark Lush Green
+tile.FrostedPaneGreen_10.name=Frosted Glass Pane Light Spring Green
+tile.FrostedPaneGreen_11.name=Frosted Glass Pane Spring Green
+tile.FrostedPaneGreen_12.name=Frosted Glass Pane Light Olive Green
+tile.FrostedPaneGreen_13.name=Frosted Glass Pane Olive Green
+tile.FrostedPaneGreen_14.name=Frosted Glass Pane Moss Green
+
+
+
+#Frosted Glass Pane Yellow Colours
+tile.FrostedPaneYellow_0.name=Frosted Glass Pane Light Lemon Yellow
+tile.FrostedPaneYellow_1.name=Frosted Glass Pane Lemon Yellow
+tile.FrostedPaneYellow_2.name=Frosted Glass Pane Sunny Yellow
+tile.FrostedPaneYellow_3.name=Frosted Glass Pane Soft Yellow
+tile.FrostedPaneYellow_4.name=Frosted Glass Pane Orange Yellow
+tile.FrostedPaneYellow_5.name=Frosted Glass Pane Light Sand Yellow
+tile.FrostedPaneYellow_6.name=Frosted Glass Pane Light Yellow
+tile.FrostedPaneYellow_7.name=Frosted Glass Pane Yellow
+tile.FrostedPaneYellow_8.name=Frosted Glass Pane Gold Yellow
+tile.FrostedPaneYellow_9.name=Frosted Glass Pane Dark Orange
+tile.FrostedPaneYellow_10.name=Frosted Glass Pane Light Orange
+tile.FrostedPaneYellow_11.name=Frosted Glass Pane Sunny Orange
+tile.FrostedPaneYellow_12.name=Frosted Glass Pane Orange
+tile.FrostedPaneYellow_13.name=Frosted Glass Pane Deep Orange
+tile.FrostedPaneYellow_14.name=Frosted Glass Pane Orange Red
+
+
+
+#Frosted Glass Pane Gray Colours
+tile.FrostedPaneGray_0.name=Frosted Glass Pane White Gray
+tile.FrostedPaneGray_1.name=Frosted Glass Pane Light Gray
+tile.FrostedPaneGray_2.name=Frosted Glass Pane Gray
+tile.FrostedPaneGray_3.name=Frosted Glass Pane Dark Gray
+tile.FrostedPaneGray_4.name=Frosted Glass Pane Gray Black
+tile.FrostedPaneGray_5.name=Frosted Glass Pane Light Warm Gray
+tile.FrostedPaneGray_6.name=Frosted Glass Pane Warm Gray
+tile.FrostedPaneGray_7.name=Frosted Glass Pane Middle Warm Gray
+tile.FrostedPaneGray_8.name=Frosted Glass Pane Dark Warm Gray
+tile.FrostedPaneGray_9.name=Frosted Glass Pane Warm Black Gray
+tile.FrostedPaneGray_10.name=Frosted Glass Pane Light Cool gray
+tile.FrostedPaneGray_11.name=Frosted Glass Pane Cool Gray
+tile.FrostedPaneGray_12.name=Frosted Glass Pane Dark Cool Gray
+tile.FrostedPaneGray_13.name=Frosted Glass Pane Cool Blue Gray
+tile.FrostedPaneGray_14.name=Frosted Glass Pane Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
 ###########        STARTING NAMING OF BRICK BLOCKS         ###########
 ###########									     	       ###########
 ######################################################################
@@ -1556,7 +2034,7 @@ tile.BrickBlue_9.name=Brick Deep Blue
 tile.BrickBlue_10.name=Brick Light Aqua Blue
 tile.BrickBlue_11.name=Brick Aqua Blue
 tile.BrickBlue_12.name=Brick Dark Aqua Blue
-tile.BrickBlue_13.name=Brick Oceon Blue
+tile.BrickBlue_13.name=Brick Ocean Blue
 tile.BrickBlue_14.name=Brick Midnight Blue
 
 
@@ -1663,7 +2141,7 @@ tile.BrickGray_14.name=Brick Cool Dark Blue Gray
 ######################################################################
 
 
-#Brick Red Colours
+#Stone Brick Red Colours
 tile.StoneBrickRed_0.name=Stone Brick Light Warm Pink
 tile.StoneBrickRed_1.name=Stone Brick Light Red
 tile.StoneBrickRed_2.name=Stone Brick Bright Red
@@ -1682,7 +2160,7 @@ tile.StoneBrickRed_14.name=Stone Brick Dark Brown Red
 
 
 
-#Brick Purple Colours
+#Stone Brick Purple Colours
 tile.StoneBrickPurple_0.name=Stone Brick Light Magenta
 tile.StoneBrickPurple_1.name=Stone Brick Magenta
 tile.StoneBrickPurple_2.name=Stone Brick Dark Magenta
@@ -1701,7 +2179,7 @@ tile.StoneBrickPurple_14.name=Stone Brick Midnight Blue
 
 
 
-#Brick Blue Colours
+#Stone Brick Blue Colours
 tile.StoneBrickBlue_0.name=Stone Brick Light Blue
 tile.StoneBrickBlue_1.name=Stone Brick Light Sky Blue
 tile.StoneBrickBlue_2.name=Stone Brick Sky Blue
@@ -1715,12 +2193,12 @@ tile.StoneBrickBlue_9.name=Stone Brick Deep Blue
 tile.StoneBrickBlue_10.name=Stone Brick Light Aqua Blue
 tile.StoneBrickBlue_11.name=Stone Brick Aqua Blue
 tile.StoneBrickBlue_12.name=Stone Brick Dark Aqua Blue
-tile.StoneBrickBlue_13.name=Stone Brick Oceon Blue
+tile.StoneBrickBlue_13.name=Stone Brick Ocean Blue
 tile.StoneBrickBlue_14.name=Stone Brick Midnight Blue
 
 
 
-#Brick Brown Colours
+#Stone Brick Brown Colours
 tile.StoneBrickBrown_0.name=Stone Brick Soft Orange
 tile.StoneBrickBrown_1.name=Stone Brick Sienna brown
 tile.StoneBrickBrown_2.name=Stone Brick Burnt Sienna Brown
@@ -1739,7 +2217,7 @@ tile.StoneBrickBrown_14.name=Stone Brick Dark Gray Brown
 
 
 
-#Brick Cyan Colours
+#Stone Brick Cyan Colours
 tile.StoneBrickCyan_0.name=Stone Brick Light Green Blue
 tile.StoneBrickCyan_1.name=Stone Brick Light Turquoise Blue
 tile.StoneBrickCyan_2.name=Stone Brick Turquoise Blue
@@ -1753,7 +2231,7 @@ tile.StoneBrickCyan_9.name=Stone Brick Dark Pine Blue Green
 
 
 
-#Brick Green Colours
+#Stone Brick Green Colours
 tile.StoneBrickGreen_0.name=Stone Brick Light Green
 tile.StoneBrickGreen_1.name=Stone Brick Light Spring Green
 tile.StoneBrickGreen_2.name=Stone Brick Spring Green
@@ -1772,7 +2250,7 @@ tile.StoneBrickGreen_14.name=Stone Brick Moss Green
 
 
 
-#Brick Yellow Colours
+#Stone Brick Yellow Colours
 tile.StoneBrickYellow_0.name=Stone Brick Light Lemon Yellow
 tile.StoneBrickYellow_1.name=Stone Brick Lemon Yellow
 tile.StoneBrickYellow_2.name=Stone Brick Sunny Yellow
@@ -1791,7 +2269,7 @@ tile.StoneBrickYellow_14.name=Stone Brick Orange Red
 
 
 
-#Brick Gray Colours
+#Stone Brick Gray Colours
 tile.StoneBrickGray_0.name=Stone Brick White Gray
 tile.StoneBrickGray_1.name=Stone Brick Light Gray
 tile.StoneBrickGray_2.name=Stone Brick Gray
@@ -1807,6 +2285,165 @@ tile.StoneBrickGray_11.name=Stone Brick Cool Gray
 tile.StoneBrickGray_12.name=Stone Brick Dark Cool Gray
 tile.StoneBrickGray_13.name=Stone Brick Cool Blue Gray
 tile.StoneBrickGray_14.name=Stone Brick Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########     STARTING NAMING OF STONE LAMP BLOCKS       ###########
+###########									     	       ###########
+######################################################################
+
+
+#Stone Lamp Red Colours
+tile.StoneLampRed_0.name=Stone Lamp Light Warm Pink
+tile.StoneLampRed_1.name=Stone Lamp Light Red
+tile.StoneLampRed_2.name=Stone Lamp Bright Red
+tile.StoneLampRed_3.name=Stone Lamp Red
+tile.StoneLampRed_4.name=Stone Lamp Blood Red
+tile.StoneLampRed_5.name=Stone Lamp Light Cool Pink
+tile.StoneLampRed_6.name=Stone Lamp Pink
+tile.StoneLampRed_7.name=Stone Lamp Hot Pink
+tile.StoneLampRed_8.name=Stone Lamp Dark Pink
+tile.StoneLampRed_9.name=Stone Lamp Hot Pink
+tile.StoneLampRed_10.name=Stone Lamp Fuchsia
+tile.StoneLampRed_11.name=Stone Lamp Baby Pink
+tile.StoneLampRed_12.name=Stone Lamp Light Salmon
+tile.StoneLampRed_13.name=Stone Lamp Brown Red
+tile.StoneLampRed_14.name=Stone Lamp Dark Brown Red
+
+
+
+#Stone Lamp Purple Colours
+tile.StoneLampPurple_0.name=Stone Lamp Light Magenta
+tile.StoneLampPurple_1.name=Stone Lamp Magenta
+tile.StoneLampPurple_2.name=Stone Lamp Dark Magenta
+tile.StoneLampPurple_3.name=Stone Lamp Violet
+tile.StoneLampPurple_4.name=Stone Lamp Dark Violet
+tile.StoneLampPurple_5.name=Stone Lamp Light Violet
+tile.StoneLampPurple_6.name=Stone Lamp Light Purple
+tile.StoneLampPurple_7.name=Stone Lamp Purple
+tile.StoneLampPurple_8.name=Stone Lamp Dark Purple
+tile.StoneLampPurple_9.name=Stone Lamp Royal Blue
+tile.StoneLampPurple_10.name=Stone Lamp Light Lavender
+tile.StoneLampPurple_11.name=Stone Lamp Lavender
+tile.StoneLampPurple_12.name=Stone Lamp Azure Blue
+tile.StoneLampPurple_13.name=Stone Lamp Dark Blue
+tile.StoneLampPurple_14.name=Stone Lamp Midnight Blue
+
+
+
+#Stone Lamp Blue Colours
+tile.StoneLampBlue_0.name=Stone Lamp Light Blue
+tile.StoneLampBlue_1.name=Stone Lamp Light Sky Blue
+tile.StoneLampBlue_2.name=Stone Lamp Sky Blue
+tile.StoneLampBlue_3.name=Stone Lamp Dark Sky Blue
+tile.StoneLampBlue_4.name=Stone Lamp Navy Blue
+tile.StoneLampBlue_5.name=Stone Lamp Light Baby Blue
+tile.StoneLampBlue_6.name=Stone Lamp Baby Blue
+tile.StoneLampBlue_7.name=Stone Lamp Bright Blue
+tile.StoneLampBlue_8.name=Stone Lamp Medium Blue
+tile.StoneLampBlue_9.name=Stone Lamp Deep Blue
+tile.StoneLampBlue_10.name=Stone Lamp Light Aqua Blue
+tile.StoneLampBlue_11.name=Stone Lamp Aqua Blue
+tile.StoneLampBlue_12.name=Stone Lamp Dark Aqua Blue
+tile.StoneLampBlue_13.name=Stone Lamp Ocean Blue
+tile.StoneLampBlue_14.name=Stone Lamp Midnight Blue
+
+
+
+#Stone Lamp Brown Colours
+tile.StoneLampBrown_0.name=Stone Lamp Soft Orange
+tile.StoneLampBrown_1.name=Stone Lamp Sienna brown
+tile.StoneLampBrown_2.name=Stone Lamp Burnt Sienna Brown
+tile.StoneLampBrown_3.name=Stone Lamp Earth Brown
+tile.StoneLampBrown_4.name=Stone Lamp Soil Brown
+tile.StoneLampBrown_5.name=Stone Lamp Light Beige
+tile.StoneLampBrown_6.name=Stone Lamp Beige
+tile.StoneLampBrown_7.name=Stone Lamp Terracotta Red
+tile.StoneLampBrown_8.name=Stone Lamp Brown
+tile.StoneLampBrown_9.name=Stone Lamp Saddle Brown
+tile.StoneLampBrown_10.name=Stone Lamp Light Gray Brown
+tile.StoneLampBrown_11.name=Stone Lamp Gray Brown
+tile.StoneLampBrown_12.name=Stone Lamp Middle Gray Brown
+tile.StoneLampBrown_13.name=Stone Lamp Gray Brown
+tile.StoneLampBrown_14.name=Stone Lamp Dark Gray Brown
+
+
+
+#Stone Lamp Cyan Colours
+tile.StoneLampCyan_0.name=Stone Lamp Light Green Blue
+tile.StoneLampCyan_1.name=Stone Lamp Light Turquoise Blue
+tile.StoneLampCyan_2.name=Stone Lamp Turquoise Blue
+tile.StoneLampCyan_3.name=Stone Lamp Teal Blue
+tile.StoneLampCyan_4.name=Stone Lamp Dark Teal Blue
+tile.StoneLampCyan_5.name=Stone Lamp Light Seafoam Blue Green
+tile.StoneLampCyan_6.name=Stone Lamp Seafoam Blue Green
+tile.StoneLampCyan_7.name=Stone Lamp Blue Green
+tile.StoneLampCyan_8.name=Stone Lamp Dark Blue Green
+tile.StoneLampCyan_9.name=Stone Lamp Dark Pine Blue Green
+
+
+
+#Stone Lamp Green Colours
+tile.StoneLampGreen_0.name=Stone Lamp Light Green
+tile.StoneLampGreen_1.name=Stone Lamp Light Spring Green
+tile.StoneLampGreen_2.name=Stone Lamp Spring Green
+tile.StoneLampGreen_3.name=Stone Lamp Green
+tile.StoneLampGreen_4.name=Stone Lamp Dark Green
+tile.StoneLampGreen_5.name=Stone Lamp Light Summer Green
+tile.StoneLampGreen_6.name=Stone Lamp Summer Green
+tile.StoneLampGreen_7.name=Stone Lamp Lush Green
+tile.StoneLampGreen_8.name=Stone Lamp Deep Lush Green
+tile.StoneLampGreen_9.name=Stone Lamp Dark Lush Green
+tile.StoneLampGreen_10.name=Stone Lamp Light Spring Green
+tile.StoneLampGreen_11.name=Stone Lamp Spring Green
+tile.StoneLampGreen_12.name=Stone Lamp Light Olive Green
+tile.StoneLampGreen_13.name=Stone Lamp Olive Green
+tile.StoneLampGreen_14.name=Stone Lamp Moss Green
+
+
+
+#Stone Lamp Yellow Colours
+tile.StoneLampYellow_0.name=Stone Lamp Light Lemon Yellow
+tile.StoneLampYellow_1.name=Stone Lamp Lemon Yellow
+tile.StoneLampYellow_2.name=Stone Lamp Sunny Yellow
+tile.StoneLampYellow_3.name=Stone Lamp Soft Yellow
+tile.StoneLampYellow_4.name=Stone Lamp Orange Yellow
+tile.StoneLampYellow_5.name=Stone Lamp Light Sand Yellow
+tile.StoneLampYellow_6.name=Stone Lamp Light Yellow
+tile.StoneLampYellow_7.name=Stone Lamp Yellow
+tile.StoneLampYellow_8.name=Stone Lamp Gold Yellow
+tile.StoneLampYellow_9.name=Stone Lamp Dark Orange
+tile.StoneLampYellow_10.name=Stone Lamp Light Orange
+tile.StoneLampYellow_11.name=Stone Lamp Sunny Orange
+tile.StoneLampYellow_12.name=Stone Lamp Orange
+tile.StoneLampYellow_13.name=Stone Lamp Deep Orange
+tile.StoneLampYellow_14.name=Stone Lamp Orange Red
+
+
+
+#Stone Lamp Gray Colours
+tile.StoneLampGray_0.name=Stone Lamp White Gray
+tile.StoneLampGray_1.name=Stone Lamp Light Gray
+tile.StoneLampGray_2.name=Stone Lamp Gray
+tile.StoneLampGray_3.name=Stone Lamp Dark Gray
+tile.StoneLampGray_4.name=Stone Lamp Gray Black
+tile.StoneLampGray_5.name=Stone Lamp Light Warm Gray
+tile.StoneLampGray_6.name=Stone Lamp Warm Gray
+tile.StoneLampGray_7.name=Stone Lamp Middle Warm Gray
+tile.StoneLampGray_8.name=Stone Lamp Dark Warm Gray
+tile.StoneLampGray_9.name=Stone Lamp Warm Black Gray
+tile.StoneLampGray_10.name=Stone Lamp Light Cool gray
+tile.StoneLampGray_11.name=Stone Lamp Cool Gray
+tile.StoneLampGray_12.name=Stone Lamp Dark Cool Gray
+tile.StoneLampGray_13.name=Stone Lamp Cool Blue Gray
+tile.StoneLampGray_14.name=Stone Lamp Cool Dark Blue Gray
 
 
 
@@ -1874,7 +2511,7 @@ tile.RippledBlue_9.name=Rippled Deep Blue
 tile.RippledBlue_10.name=Rippled Light Aqua Blue
 tile.RippledBlue_11.name=Rippled Aqua Blue
 tile.RippledBlue_12.name=Rippled Dark Aqua Blue
-tile.RippledBlue_13.name=Rippled Oceon Blue
+tile.RippledBlue_13.name=Rippled Ocean Blue
 tile.RippledBlue_14.name=Rippled Midnight Blue
 
 
@@ -2032,7 +2669,7 @@ tile.WoodPlankBlue_9.name=Wood Plank Deep Blue
 tile.WoodPlankBlue_10.name=Wood Plank Light Aqua Blue
 tile.WoodPlankBlue_11.name=Wood Plank Aqua Blue
 tile.WoodPlankBlue_12.name=Wood Plank Dark Aqua Blue
-tile.WoodPlankBlue_13.name=Wood Plank Oceon Blue
+tile.WoodPlankBlue_13.name=Wood Plank Ocean Blue
 tile.WoodPlankBlue_14.name=Wood Plank Midnight Blue
 
 
@@ -2191,7 +2828,7 @@ tile.WoolBlue_9.name=Wool Deep Blue
 tile.WoolBlue_10.name=Wool Light Aqua Blue
 tile.WoolBlue_11.name=Wool Aqua Blue
 tile.WoolBlue_12.name=Wool Dark Aqua Blue
-tile.WoolBlue_13.name=Wool Oceon Blue
+tile.WoolBlue_13.name=Wool Ocean Blue
 tile.WoolBlue_14.name=Wool Midnight Blue
 
 
@@ -2349,7 +2986,7 @@ tile.WoolCarpetBlue_9.name=Wool Carpet Deep Blue
 tile.WoolCarpetBlue_10.name=Wool Carpet Light Aqua Blue
 tile.WoolCarpetBlue_11.name=Wool Carpet Aqua Blue
 tile.WoolCarpetBlue_12.name=Wool Carpet Dark Aqua Blue
-tile.WoolCarpetBlue_13.name=Wool Carpet Oceon Blue
+tile.WoolCarpetBlue_13.name=Wool Carpet Ocean Blue
 tile.WoolCarpetBlue_14.name=Wool Carpet Midnight Blue
 
 
@@ -2508,7 +3145,7 @@ tile.CheckeredWoolBlue_9.name=Checkered Wool Deep Blue
 tile.CheckeredWoolBlue_10.name=Checkered Wool Light Aqua Blue
 tile.CheckeredWoolBlue_11.name=Checkered Wool Aqua Blue
 tile.CheckeredWoolBlue_12.name=Checkered Wool Dark Aqua Blue
-tile.CheckeredWoolBlue_13.name=Checkered Wool Oceon Blue
+tile.CheckeredWoolBlue_13.name=Checkered Wool Ocean Blue
 tile.CheckeredWoolBlue_14.name=Checkered Wool Midnight Blue
 
 
@@ -2666,7 +3303,7 @@ tile.CheckeredCarpetBlue_9.name=Checkered Carpet Deep Blue
 tile.CheckeredCarpetBlue_10.name=Checkered Carpet Light Aqua Blue
 tile.CheckeredCarpetBlue_11.name=Checkered Carpet Aqua Blue
 tile.CheckeredCarpetBlue_12.name=Checkered Carpet Dark Aqua Blue
-tile.CheckeredCarpetBlue_13.name=Checkered Carpet Oceon Blue
+tile.CheckeredCarpetBlue_13.name=Checkered Carpet Ocean Blue
 tile.CheckeredCarpetBlue_14.name=Checkered Carpet Midnight Blue
 
 

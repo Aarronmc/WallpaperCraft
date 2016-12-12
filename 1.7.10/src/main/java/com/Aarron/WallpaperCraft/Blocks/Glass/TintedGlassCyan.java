@@ -26,7 +26,7 @@ import cpw.mods.fml.relauncher.SideOnly;
 public class TintedGlassCyan extends BlockBreakable {
 private boolean field_149996_a;
 
-public IIcon[] icons = new IIcon[15];
+public IIcon[] icons = new IIcon[10];
 
 	@SideOnly(Side.CLIENT)
 	public int getRenderBlockPass()
@@ -72,7 +72,7 @@ public IIcon[] icons = new IIcon[15];
 	public TintedGlassCyan(String unlocalizedName, Material material) {
 		super(unlocalizedName, material.glass, false);
 		this.setBlockName("TintedGlassCyan");
-		this.setHardness(1.25F);
+		this.setHardness(0.3F);
 		this.setResistance(6.0F);
 		this.setHarvestLevel("pickaxe", 0);
 		this.setStepSound(soundTypeGlass);

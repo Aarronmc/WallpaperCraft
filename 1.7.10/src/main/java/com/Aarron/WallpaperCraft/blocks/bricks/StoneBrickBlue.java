@@ -20,7 +20,7 @@ public IIcon[] icons = new IIcon[15];
 	public StoneBrickBlue(String unlocalizedName, Material material) {
 		super(material);
 		this.setBlockName("StoneBrickBlue");
-		this.setHardness(1.25F);
+		this.setHardness(1.5F);
 		this.setResistance(6.0F);
 		this.setHarvestLevel("pickaxe", 0);
 		this.setStepSound(soundTypeStone);

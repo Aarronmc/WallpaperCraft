@@ -21,5 +21,12 @@ import com.Aarron.WallpaperCraft.creativeTab.Tab;
 			tooltipLines.add("Combine this with any stained glass to apply the Frosted pattern.");
 		
 		}
+		
+		@Override 
+		public boolean doesContainerItemLeaveCraftingGrid(ItemStack itemstack) {
+			
+	     return false;
+	     
+	    }
 
 }

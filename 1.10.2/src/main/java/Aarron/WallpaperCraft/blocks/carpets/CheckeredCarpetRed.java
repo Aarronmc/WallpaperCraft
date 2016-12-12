@@ -24,6 +24,7 @@ public class CheckeredCarpetRed extends IMetaBlock<BlockTypes> {
 	public CheckeredCarpetRed() {
 		super(Material.CARPET, "CheckeredCarpetRed");
 		this.setSoundType(SoundType.CLOTH);
+		this.setHardness(0.1F);
 	}
 
 	@Override

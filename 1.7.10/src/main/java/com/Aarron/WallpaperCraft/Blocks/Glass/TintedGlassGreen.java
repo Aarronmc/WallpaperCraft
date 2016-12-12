@@ -72,7 +72,7 @@ public IIcon[] icons = new IIcon[15];
 	public TintedGlassGreen(String unlocalizedName, Material material) {
 		super(unlocalizedName, material.glass, false);
 		this.setBlockName("TintedGlassGreen");
-		this.setHardness(1.25F);
+		this.setHardness(0.3F);
 		this.setResistance(6.0F);
 		this.setHarvestLevel("pickaxe", 0);
 		this.setStepSound(soundTypeGlass);

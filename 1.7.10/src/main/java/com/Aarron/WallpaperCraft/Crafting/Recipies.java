@@ -34,7 +34,7 @@ public class Recipies {
     		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.red_flower, 1, OreDictionary.WILDCARD_VALUE));
        
        GameRegistry.addRecipe(new ItemStack(ModItems.PressClay, 1),
-    		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.clay, 1));
+    		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.hardened_clay, 1));
        
        GameRegistry.addRecipe(new ItemStack(ModItems.PressTintedGlass, 1),
     		   "GPF", 'P', ModItems.PressBlank, 'G', Blocks.glass, 'F', new ItemStack(Items.dye, 1, OreDictionary.WILDCARD_VALUE));
@@ -50,6 +50,9 @@ public class Recipies {
        
        GameRegistry.addRecipe(new ItemStack(ModItems.PressStoneBrick, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', Blocks.stonebrick);
+       
+       GameRegistry.addRecipe(new ItemStack(ModItems.PressStoneLamp, 1),
+    		   "FPS", 'P', ModItems.PressBlank, 'F', Blocks.glowstone, 'S', Blocks.stone);
        
        GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.PressWoodPlank, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', "plankWood"));
@@ -77,7 +80,7 @@ public class Recipies {
        //Recipes for Stamp Blocks
        for (int j = 0; j < 15; j++) {
        GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModBlocks.Stamp, 1, j),
-    		   "FP", 'P', ModItems.PressStamp, 'F', "solidWPBlocks"));}
+    		   "FP", 'F', ModItems.PressStamp, 'P', "solidWPBlocks"));}
        				for (int i = 0; i < 16; i++) {
        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.Stamp, 1, (i+1)%16), new ItemStack(ModBlocks.Stamp, 1, i%16));}
        				
@@ -901,6 +904,231 @@ public class Recipies {
         	        	for (int i = 0; i < 15; i++) {
         	        		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedGlassGray, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedGlassGray, 1, i%15));
         	        			}
+        	        	
+        	        	
+       //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+
+		//Recipes for Red Tinted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPaneRed, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassRed, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPaneRed, 1, (i+1)%15), new ItemStack(ModBlocks.TintedPaneRed, 1, i%15));
+    							}
+    	
+    					
+    	//Recipes for Purple Tinted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPanePurple, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassPurple, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPanePurple, 1, (i+1)%15), new ItemStack(ModBlocks.TintedPanePurple, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Blue Tinted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPaneBlue, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassBlue, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPaneBlue, 1, (i+1)%15), new ItemStack(ModBlocks.TintedPaneBlue, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Cyan Tinted Panes
+        for (int j = 0; j < 10; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPaneCyan, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassCyan, 1, j)
+    				);}
+    					for (int i = 0; i < 10; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPaneCyan, 1, (i+1)%10), new ItemStack(ModBlocks.TintedPaneCyan, 1, i%10));
+    							}
+    					
+    					
+    	//Recipes for Green Tinted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPaneGreen, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassGreen, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPaneGreen, 1, (i+1)%15), new ItemStack(ModBlocks.TintedPaneGreen, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Yellow Tinted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPaneYellow, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassYellow, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPaneYellow, 1, (i+1)%15), new ItemStack(ModBlocks.TintedPaneYellow, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Brown Tinted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPaneBrown, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassBrown, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPaneBrown, 1, (i+1)%15), new ItemStack(ModBlocks.TintedPaneBrown, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Gray Tinted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TintedPaneGray, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TintedGlassGray, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TintedPaneGray, 1, (i+1)%15), new ItemStack(ModBlocks.TintedPaneGray, 1, i%15));
+    							}
+        	        	
+        	        	
+       //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+
+		//Recipes for Red Textured Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPaneRed, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassRed, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPaneRed, 1, (i+1)%15), new ItemStack(ModBlocks.TexturedPaneRed, 1, i%15));
+    							}
+    	
+    					
+    	//Recipes for Purple Textured Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPanePurple, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassPurple, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPanePurple, 1, (i+1)%15), new ItemStack(ModBlocks.TexturedPanePurple, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Blue Textured Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPaneBlue, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassBlue, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPaneBlue, 1, (i+1)%15), new ItemStack(ModBlocks.TexturedPaneBlue, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Cyan Textured Panes
+        for (int j = 0; j < 10; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPaneCyan, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassCyan, 1, j)
+    				);}
+    					for (int i = 0; i < 10; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPaneCyan, 1, (i+1)%10), new ItemStack(ModBlocks.TexturedPaneCyan, 1, i%10));
+    							}
+    					
+    					
+    	//Recipes for Green Textured Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPaneGreen, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassGreen, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPaneGreen, 1, (i+1)%15), new ItemStack(ModBlocks.TexturedPaneGreen, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Yellow Textured Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPaneYellow, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassYellow, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPaneYellow, 1, (i+1)%15), new ItemStack(ModBlocks.TexturedPaneYellow, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Brown Textured Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPaneBrown, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassBrown, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPaneBrown, 1, (i+1)%15), new ItemStack(ModBlocks.TexturedPaneBrown, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Gray Textured Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.TexturedPaneGray, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.TexturedGlassGray, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.TexturedPaneGray, 1, (i+1)%15), new ItemStack(ModBlocks.TexturedPaneGray, 1, i%15));
+    							}
+        	        	
+        	        	
+       //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+
+		//Recipes for Red Frosted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPaneRed, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassRed, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPaneRed, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedPaneRed, 1, i%15));
+    							}
+    	
+    					
+    	//Recipes for Purple Frosted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPanePurple, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassPurple, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPanePurple, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedPanePurple, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Blue Frosted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPaneBlue, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassBlue, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPaneBlue, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedPaneBlue, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Cyan Frosted Panes
+        for (int j = 0; j < 10; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPaneCyan, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassCyan, 1, j)
+    				);}
+    					for (int i = 0; i < 10; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPaneCyan, 1, (i+1)%10), new ItemStack(ModBlocks.FrostedPaneCyan, 1, i%10));
+    							}
+    					
+    					
+    	//Recipes for Green Frosted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPaneGreen, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassGreen, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPaneGreen, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedPaneGreen, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Yellow Frosted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPaneYellow, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassYellow, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPaneYellow, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedPaneYellow, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Brown Frosted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPaneBrown, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassBrown, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPaneBrown, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedPaneBrown, 1, i%15));
+    							}
+    					
+    					
+    	//Recipes for Gray Frosted Panes
+        for (int j = 0; j < 15; j++) {	 
+    	GameRegistry.addRecipe(new ItemStack(ModBlocks.FrostedPaneGray, 16, j), "WWW", "WWW", 'W', new ItemStack(ModBlocks.FrostedGlassGray, 1, j)
+    				);}
+    					for (int i = 0; i < 15; i++) {
+    						GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FrostedPaneGray, 1, (i+1)%15), new ItemStack(ModBlocks.FrostedPaneGray, 1, i%15));
+    							}
 
     					
        //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1050,6 +1278,81 @@ public class Recipies {
     				);}
         				for (int i = 0; i < 15; i++) {
         					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneBrickGray, 1, (i+1)%15), new ItemStack(ModBlocks.StoneBrickGray, 1, i%15));
+        						}
+        				
+    					
+       //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+ 
+       //Recipes For Red Stone Lamps
+  	   for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampRed, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidRed, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampRed, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampRed, 1, i%15));
+        						}
+      					
+      				
+       //Recipes For Purple Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampPurple, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidPurple, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampPurple, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampPurple, 1, i%15));
+        						}
+
+        	        	
+       //Recipes For Blue Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBlue, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidBlue, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBlue, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampBlue, 1, i%15));
+        						}
+
+       				
+       //Recipes For Cyan Stone Lamps
+       for (int j = 0; j < 10; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampCyan, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidCyan, 1, j)
+    				);}
+        				for (int i = 0; i < 10; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampCyan, 1, (i+1)%10), new ItemStack(ModBlocks.StoneLampCyan, 1, i%10));
+        						}
+
+        				
+      //Recipes For Green Stone Lamps
+      for (int j = 0; j < 15; j++) {	        	
+  	  GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGreen, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidGreen, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGreen, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampGreen, 1, i%15));
+        						}
+
+        				
+       //Recipes For Yellow Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampYellow, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidYellow, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampYellow, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampYellow, 1, i%15));
+        						}
+        	        	
+        	        	
+       //Recipes For Brown Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBrown, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidBrown, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBrown, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampBrown, 1, i%15));
+        						}
+    	
+        				
+       //Recipes For Gray Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGray, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidGray, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGray, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampGray, 1, i%15));
         						}
         	        	        
 

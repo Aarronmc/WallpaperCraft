@@ -205,6 +205,32 @@ public class JEIPlugin extends BlankModPlugin {
 	    		for (int i = 1; i < 15; i ++) {	
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickGray,0, + i));
 	    		}
+	    			    		
+	    		
+	    		for (int i = 1; i < 15; i ++) {
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampRed,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampPurple,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampBlue,0, + i));
+	    		} 
+	    		for (int i = 1; i < 10; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampCyan,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampGreen,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampYellow,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampBrown,0, + i));
+	    		}
+	    		for (int i = 1; i < 15; i ++) {	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampGray,0, + i));
+	    		}
 	    		
 	    		
 	    		for (int i = 1; i < 15; i ++) {

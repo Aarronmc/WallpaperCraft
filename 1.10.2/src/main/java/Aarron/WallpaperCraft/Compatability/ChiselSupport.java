@@ -111,6 +111,15 @@ public class ChiselSupport {
 		ICarvingGroup StoneBrickBrown = getGroup(chisel, "StoneBrickBrown");
 		ICarvingGroup StoneBrickGray = getGroup(chisel, "StoneBrickGray");
 		
+		ICarvingGroup StoneLampRed = getGroup(chisel, "StoneLampRed");
+		ICarvingGroup StoneLampPurple = getGroup(chisel, "StoneLampPurple");
+		ICarvingGroup StoneLampBlue = getGroup(chisel, "StoneLampBlue");
+		ICarvingGroup StoneLampCyan = getGroup(chisel, "StoneLampCyan");
+		ICarvingGroup StoneLampGreen = getGroup(chisel, "StoneLampGreen");
+		ICarvingGroup StoneLampYellow = getGroup(chisel, "StoneLampYellow");
+		ICarvingGroup StoneLampBrown = getGroup(chisel, "StoneLampBrown");
+		ICarvingGroup StoneLampGray = getGroup(chisel, "StoneLampGray");
+		
 		ICarvingGroup RippledRed = getGroup(chisel, "RippledRed");
 		ICarvingGroup RippledPurple = getGroup(chisel, "RippledPurple");
 		ICarvingGroup RippledBlue = getGroup(chisel, "RippledBlue");
@@ -266,6 +275,15 @@ public class ChiselSupport {
 		chisel.addGroup(StoneBrickYellow);
 		chisel.addGroup(StoneBrickBrown);
 		chisel.addGroup(StoneBrickGray);
+		
+		chisel.addGroup(StoneLampRed);
+		chisel.addGroup(StoneLampPurple);
+		chisel.addGroup(StoneLampBlue);
+		chisel.addGroup(StoneLampCyan);
+		chisel.addGroup(StoneLampGreen);
+		chisel.addGroup(StoneLampYellow);
+		chisel.addGroup(StoneLampBrown);
+		chisel.addGroup(StoneLampGray);
 		
 		chisel.addGroup(RippledRed);
 		chisel.addGroup(RippledPurple);
@@ -516,6 +534,24 @@ public class ChiselSupport {
 			
 			
 			
+			IBlockState StoneLampRedState = ModBlocks.StoneLampRed.getStateFromMeta(type.getMeta());
+			IBlockState StoneLampPurpleState = ModBlocks.StoneLampPurple.getStateFromMeta(type.getMeta());
+			IBlockState StoneLampBlueState = ModBlocks.StoneLampBlue.getStateFromMeta(type.getMeta());
+			IBlockState StoneLampgreenState = ModBlocks.StoneLampGreen.getStateFromMeta(type.getMeta());
+			IBlockState StoneLampYellowState = ModBlocks.StoneLampYellow.getStateFromMeta(type.getMeta());
+			IBlockState StoneLampBrownState = ModBlocks.StoneLampBrown.getStateFromMeta(type.getMeta());
+			IBlockState StoneLampGrayState = ModBlocks.StoneLampGray.getStateFromMeta(type.getMeta());
+
+			chisel.addVariation(StoneLampRed.getName(), StoneLampRedState, 99);
+			chisel.addVariation(StoneLampPurple.getName(), StoneLampPurpleState, 99);
+			chisel.addVariation(StoneLampBlue.getName(), StoneLampBlueState, 99);
+			chisel.addVariation(StoneLampGreen.getName(), StoneLampgreenState, 99);
+			chisel.addVariation(StoneLampYellow.getName(), StoneLampYellowState, 99);
+			chisel.addVariation(StoneLampBrown.getName(), StoneLampBrownState, 99);
+			chisel.addVariation(StoneLampGray.getName(), StoneLampGrayState, 99);
+			
+			
+			
 			IBlockState RippledRedState = ModBlocks.RippledRed.getStateFromMeta(type.getMeta());
 			IBlockState RippledPurpleState = ModBlocks.RippledPurple.getStateFromMeta(type.getMeta());
 			IBlockState RippledBlueState = ModBlocks.RippledBlue.getStateFromMeta(type.getMeta());
@@ -679,6 +715,9 @@ public class ChiselSupport {
 			IBlockState StoneBrickCyanState = ModBlocks.StoneBrickCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(StoneBrickCyan.getName(), StoneBrickCyanState, 99);
 			
+			IBlockState StoneLampCyanState = ModBlocks.StoneLampCyan.getStateFromMeta(type.getMeta());
+			chisel.addVariation(StoneLampCyan.getName(), StoneLampCyanState, 99);
+			
 			IBlockState RippledCyanState = ModBlocks.RippledCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(RippledCyan.getName(), RippledCyanState, 99);
 			
@@ -717,4 +756,5 @@ public class ChiselSupport {
 		chisel.addGroup(group);
 		return group;
 	}
+	
 }

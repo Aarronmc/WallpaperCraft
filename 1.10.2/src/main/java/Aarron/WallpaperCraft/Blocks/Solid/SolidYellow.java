@@ -13,6 +13,7 @@ public class SolidYellow extends IMetaBlock<BlockTypes> {
 	public SolidYellow() {
 		super(Material.ROCK, "SolidYellow");
 		this.setSoundType(SoundType.STONE);
+		this.setHardness(1.5F);
 	}
 
 	@Override

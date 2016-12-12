@@ -20,9 +20,9 @@ public IIcon[] icons = new IIcon[15];
 	public DiagonallyDottedBrown(String unlocalizedName, Material material) {
 		super(material);
 		this.setBlockName("DiagonallyDottedBrown");
-		this.setHardness(1.25F);
+		this.setHardness(2.0F);
 		this.setResistance(6.0F);
-		this.setHarvestLevel("pickaxe", 0);
+		this.setHarvestLevel("axe", 0);
 		this.setStepSound(soundTypeWood);
 		this.setCreativeTab(Tab.WPtab);
 	}

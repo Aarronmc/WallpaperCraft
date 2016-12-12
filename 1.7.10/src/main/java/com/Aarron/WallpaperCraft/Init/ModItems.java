@@ -21,6 +21,7 @@ public final class ModItems {
 	public static PressFrostedGlass PressFrostedGlass;
 	public static PressBrick PressBrick;
 	public static PressStoneBrick PressStoneBrick;
+	public static PressStoneLamp PressStoneLamp;
 	public static PressRippled PressRippled;
 	public static PressStamp PressStamp;
 	public static PressWoodPlank PressWoodPlank;
@@ -44,6 +45,7 @@ public final class ModItems {
 		PressFrostedGlass = registerItem(new PressFrostedGlass());
 		PressBrick = registerItem(new PressBrick());
 		PressStoneBrick = registerItem(new PressStoneBrick());
+		PressStoneLamp = registerItem(new PressStoneLamp());
 		PressRippled = registerItem(new PressRippled());
 		PressStamp = registerItem(new PressStamp());
 		PressWoodPlank = registerItem(new PressWoodPlank());

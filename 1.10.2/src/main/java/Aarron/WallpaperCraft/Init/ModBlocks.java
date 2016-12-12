@@ -1,17 +1,117 @@
 package Aarron.WallpaperCraft.init;
 
 
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.oredict.OreDictionary;
-import Aarron.WallpaperCraft.blocks.bricks.*;
-import Aarron.WallpaperCraft.blocks.carpets.*;
-import Aarron.WallpaperCraft.blocks.clay.*;
-import Aarron.WallpaperCraft.blocks.dotted.*;
-import Aarron.WallpaperCraft.blocks.floral.*;
-import Aarron.WallpaperCraft.blocks.glass.*;
+import Aarron.WallpaperCraft.blocks.bricks.BrickBlue;
+import Aarron.WallpaperCraft.blocks.bricks.BrickBrown;
+import Aarron.WallpaperCraft.blocks.bricks.BrickCyan;
+import Aarron.WallpaperCraft.blocks.bricks.BrickGray;
+import Aarron.WallpaperCraft.blocks.bricks.BrickGreen;
+import Aarron.WallpaperCraft.blocks.bricks.BrickPurple;
+import Aarron.WallpaperCraft.blocks.bricks.BrickRed;
+import Aarron.WallpaperCraft.blocks.bricks.BrickYellow;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickBlue;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickBrown;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickCyan;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickGray;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickGreen;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickPurple;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickRed;
+import Aarron.WallpaperCraft.blocks.bricks.StoneBrickYellow;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetBlue;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetBrown;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetCyan;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetGray;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetGreen;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetPurple;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetRed;
+import Aarron.WallpaperCraft.blocks.carpets.CheckeredCarpetYellow;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetBlue;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetBrown;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetCyan;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetGray;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetGreen;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetPurple;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetRed;
+import Aarron.WallpaperCraft.blocks.carpets.WoolCarpetYellow;
+import Aarron.WallpaperCraft.blocks.clay.ClayBlue;
+import Aarron.WallpaperCraft.blocks.clay.ClayBrown;
+import Aarron.WallpaperCraft.blocks.clay.ClayCyan;
+import Aarron.WallpaperCraft.blocks.clay.ClayGray;
+import Aarron.WallpaperCraft.blocks.clay.ClayGreen;
+import Aarron.WallpaperCraft.blocks.clay.ClayPurple;
+import Aarron.WallpaperCraft.blocks.clay.ClayRed;
+import Aarron.WallpaperCraft.blocks.clay.ClayYellow;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedBlue;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedBrown;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedCyan;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedGray;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedGreen;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedPurple;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedRed;
+import Aarron.WallpaperCraft.blocks.dotted.DiagonallyDottedYellow;
+import Aarron.WallpaperCraft.blocks.dotted.DottedBlue;
+import Aarron.WallpaperCraft.blocks.dotted.DottedBrown;
+import Aarron.WallpaperCraft.blocks.dotted.DottedCyan;
+import Aarron.WallpaperCraft.blocks.dotted.DottedGray;
+import Aarron.WallpaperCraft.blocks.dotted.DottedGreen;
+import Aarron.WallpaperCraft.blocks.dotted.DottedPurple;
+import Aarron.WallpaperCraft.blocks.dotted.DottedRed;
+import Aarron.WallpaperCraft.blocks.dotted.DottedYellow;
+import Aarron.WallpaperCraft.blocks.floral.FloralBlue;
+import Aarron.WallpaperCraft.blocks.floral.FloralBrown;
+import Aarron.WallpaperCraft.blocks.floral.FloralCyan;
+import Aarron.WallpaperCraft.blocks.floral.FloralGray;
+import Aarron.WallpaperCraft.blocks.floral.FloralGreen;
+import Aarron.WallpaperCraft.blocks.floral.FloralPurple;
+import Aarron.WallpaperCraft.blocks.floral.FloralRed;
+import Aarron.WallpaperCraft.blocks.floral.FloralYellow;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassBlue;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassBrown;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassCyan;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassGray;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassGreen;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassPurple;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassRed;
+import Aarron.WallpaperCraft.blocks.glass.FrostedGlassYellow;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassBlue;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassBrown;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassCyan;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassGray;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassGreen;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassPurple;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassRed;
+import Aarron.WallpaperCraft.blocks.glass.TexturedGlassYellow;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassBlue;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassBrown;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassCyan;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassGray;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassGreen;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassPurple;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassRed;
+import Aarron.WallpaperCraft.blocks.glass.TintedGlassYellow;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampBlue;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampBrown;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampCyan;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampGray;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampGreen;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampPurple;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampRed;
+import Aarron.WallpaperCraft.blocks.lamps.StoneLampYellow;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankBlue;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankBrown;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankCyan;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankGray;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankGreen;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankPurple;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankRed;
+import Aarron.WallpaperCraft.blocks.planks.WoodPlankYellow;
 import Aarron.WallpaperCraft.blocks.rippled.RippledBlue;
 import Aarron.WallpaperCraft.blocks.rippled.RippledBrown;
 import Aarron.WallpaperCraft.blocks.rippled.RippledCyan;
@@ -20,12 +120,40 @@ import Aarron.WallpaperCraft.blocks.rippled.RippledGreen;
 import Aarron.WallpaperCraft.blocks.rippled.RippledPurple;
 import Aarron.WallpaperCraft.blocks.rippled.RippledRed;
 import Aarron.WallpaperCraft.blocks.rippled.RippledYellow;
-import Aarron.WallpaperCraft.blocks.solid.*;
+import Aarron.WallpaperCraft.blocks.solid.SolidBlue;
+import Aarron.WallpaperCraft.blocks.solid.SolidBrown;
+import Aarron.WallpaperCraft.blocks.solid.SolidCyan;
+import Aarron.WallpaperCraft.blocks.solid.SolidGray;
+import Aarron.WallpaperCraft.blocks.solid.SolidGreen;
+import Aarron.WallpaperCraft.blocks.solid.SolidPurple;
+import Aarron.WallpaperCraft.blocks.solid.SolidRed;
+import Aarron.WallpaperCraft.blocks.solid.SolidYellow;
 import Aarron.WallpaperCraft.blocks.stamp.Stamp;
-import Aarron.WallpaperCraft.blocks.striped.*;
-import Aarron.WallpaperCraft.blocks.wool.*;
-import Aarron.WallpaperCraft.blocks.planks.*;
-import Aarron.WallpaperCraft.handler.ConfigHandler;
+import Aarron.WallpaperCraft.blocks.striped.StripedBlue;
+import Aarron.WallpaperCraft.blocks.striped.StripedBrown;
+import Aarron.WallpaperCraft.blocks.striped.StripedCyan;
+import Aarron.WallpaperCraft.blocks.striped.StripedGray;
+import Aarron.WallpaperCraft.blocks.striped.StripedGreen;
+import Aarron.WallpaperCraft.blocks.striped.StripedPurple;
+import Aarron.WallpaperCraft.blocks.striped.StripedRed;
+import Aarron.WallpaperCraft.blocks.striped.StripedYellow;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolBlue;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolBrown;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolCyan;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolGray;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolGreen;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolPurple;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolRed;
+import Aarron.WallpaperCraft.blocks.wool.CheckeredWoolYellow;
+import Aarron.WallpaperCraft.blocks.wool.WoolBlue;
+import Aarron.WallpaperCraft.blocks.wool.WoolBrown;
+import Aarron.WallpaperCraft.blocks.wool.WoolCyan;
+import Aarron.WallpaperCraft.blocks.wool.WoolGray;
+import Aarron.WallpaperCraft.blocks.wool.WoolGreen;
+import Aarron.WallpaperCraft.blocks.wool.WoolPurple;
+import Aarron.WallpaperCraft.blocks.wool.WoolRed;
+import Aarron.WallpaperCraft.blocks.wool.WoolYellow;
+import Aarron.WallpaperCraft.blocks.glass.panes.*;
 
 
 public class ModBlocks {
@@ -33,8 +161,6 @@ public class ModBlocks {
 	public static void init() {
 		registerBlocks();
 	}
-
-	
 	public static SolidRed SolidRed = new SolidRed();
 	public static SolidPurple SolidPurple = new SolidPurple();
 	public static SolidBlue SolidBlue = new SolidBlue();
@@ -106,6 +232,15 @@ public class ModBlocks {
 	public static StoneBrickYellow StoneBrickYellow = new StoneBrickYellow();
 	public static StoneBrickBrown StoneBrickBrown = new StoneBrickBrown();
 	public static StoneBrickGray StoneBrickGray = new StoneBrickGray();
+	
+	public static StoneLampRed StoneLampRed = new StoneLampRed();
+	public static StoneLampPurple StoneLampPurple = new StoneLampPurple();
+	public static StoneLampBlue StoneLampBlue = new StoneLampBlue();
+	public static StoneLampCyan StoneLampCyan = new StoneLampCyan();
+	public static StoneLampGreen StoneLampGreen = new StoneLampGreen();
+	public static StoneLampYellow StoneLampYellow = new StoneLampYellow();
+	public static StoneLampBrown StoneLampBrown = new StoneLampBrown();
+	public static StoneLampGray StoneLampGray = new StoneLampGray();
 		
 	public static RippledRed RippledRed = new RippledRed();
 	public static RippledPurple RippledPurple = new RippledPurple();
@@ -199,7 +334,6 @@ public class ModBlocks {
 	
 	@SideOnly(Side.CLIENT)
 	public static void initModels() {		
-		
 		SolidRed.initModel();
 		SolidPurple.initModel();
 		SolidBlue.initModel();
@@ -271,6 +405,15 @@ public class ModBlocks {
 		StoneBrickYellow.initModel();
 		StoneBrickBrown.initModel();
 		StoneBrickGray.initModel();
+		
+		StoneLampRed.initModel();
+		StoneLampPurple.initModel();
+		StoneLampBlue.initModel();
+		StoneLampCyan.initModel();
+		StoneLampGreen.initModel();
+		StoneLampYellow.initModel();
+		StoneLampBrown.initModel();
+		StoneLampGray.initModel();
 				
 		RippledRed.initModel();
 		RippledPurple.initModel();
@@ -431,6 +574,15 @@ public class ModBlocks {
 		GameRegistry.register(StoneBrickYellow);
 		GameRegistry.register(StoneBrickBrown);
 		GameRegistry.register(StoneBrickGray);
+		
+		GameRegistry.register(StoneLampRed);
+		GameRegistry.register(StoneLampPurple);
+		GameRegistry.register(StoneLampBlue);
+		GameRegistry.register(StoneLampCyan);
+		GameRegistry.register(StoneLampGreen);
+		GameRegistry.register(StoneLampYellow);
+		GameRegistry.register(StoneLampBrown);
+		GameRegistry.register(StoneLampGray);
 				
 		GameRegistry.register(RippledRed);
 		GameRegistry.register(RippledPurple);

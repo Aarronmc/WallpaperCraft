@@ -501,6 +501,51 @@ public class MicroblocksSupport {
 			BlockMicroMaterial.createAndRegister(ModBlocks.StoneBrickGray, i);
 		}
 				
+		
+		
+		
+		
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.StoneLampGray, i);
+		}
+				
 				
 		
 		

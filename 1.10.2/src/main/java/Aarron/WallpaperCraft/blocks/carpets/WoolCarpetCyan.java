@@ -24,6 +24,7 @@ public class WoolCarpetCyan extends IMetaBlock<BlockTypes2> {
 	public WoolCarpetCyan() {
 		super(Material.CARPET, "WoolCarpetCyan");
 		this.setSoundType(SoundType.CLOTH);
+		this.setHardness(0.1F);
 	}
 
 	@Override

@@ -25,6 +25,7 @@ private boolean ignoreSimilarity;
 	public TintedGlassBrown() {
 		super(Material.GLASS, "TintedGlassBrown");
 		this.setSoundType(SoundType.GLASS);
+		this.setHardness(0.3F);
 	}
 
 	@Override

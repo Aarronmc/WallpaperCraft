@@ -1,4 +1,4 @@
-#Custome Creative Tab Name
+#Custom Creative Tab Name
 itemGroup.WPtab=WallpaperCraft!
 
 
@@ -25,6 +25,7 @@ item.presswoodplank.name=Wooden Plank Pattern Press
 item.pressstonebrick.name=Stone Brick Pattern Press
 item.pressrippled.name=Rippled Pattern Press
 item.pressstamp.name=Stamp Pattern Press
+item.pressstonelamp.name=Stone Lamp Pattern Press
 
 
 
@@ -121,7 +122,7 @@ tile.WallpaperCraft:SolidBlue_9.name=Solid Deep Blue
 tile.WallpaperCraft:SolidBlue_10.name=Solid Light Aqua Blue
 tile.WallpaperCraft:SolidBlue_11.name=Solid Aqua Blue
 tile.WallpaperCraft:SolidBlue_12.name=Solid Dark Aqua Blue
-tile.WallpaperCraft:SolidBlue_13.name=Solid Oceon Blue
+tile.WallpaperCraft:SolidBlue_13.name=Solid Ocean Blue
 tile.WallpaperCraft:SolidBlue_14.name=Solid Midnight Blue
 
 
@@ -223,7 +224,7 @@ tile.WallpaperCraft:SolidGray_14.name=Solid Cool Dark Blue Gray
 
 ######################################################################
 ###########												   ###########
-###########  STARTING NAMING OF DIAGONALlY DOTTED BLOCKS   ###########
+###########  STARTING NAMING OF DIAGONALLY DOTTED BLOCKS   ###########
 ###########									     	       ###########
 ######################################################################
 
@@ -280,7 +281,7 @@ tile.WallpaperCraft:DiagonallyDottedBlue_9.name=Diagonally Dotted Deep Blue
 tile.WallpaperCraft:DiagonallyDottedBlue_10.name=Diagonally Dotted Light Aqua Blue
 tile.WallpaperCraft:DiagonallyDottedBlue_11.name=Diagonally Dotted Aqua Blue
 tile.WallpaperCraft:DiagonallyDottedBlue_12.name=Diagonally Dotted Dark Aqua Blue
-tile.WallpaperCraft:DiagonallyDottedBlue_13.name=Diagonally Dotted Oceon Blue
+tile.WallpaperCraft:DiagonallyDottedBlue_13.name=Diagonally Dotted Ocean Blue
 tile.WallpaperCraft:DiagonallyDottedBlue_14.name=Diagonally Dotted Midnight Blue
 
 
@@ -439,7 +440,7 @@ tile.WallpaperCraft:DottedBlue_9.name=Dotted Deep Blue
 tile.WallpaperCraft:DottedBlue_10.name=Dotted Light Aqua Blue
 tile.WallpaperCraft:DottedBlue_11.name=Dotted Aqua Blue
 tile.WallpaperCraft:DottedBlue_12.name=Dotted Dark Aqua Blue
-tile.WallpaperCraft:DottedBlue_13.name=Dotted Oceon Blue
+tile.WallpaperCraft:DottedBlue_13.name=Dotted Ocean Blue
 tile.WallpaperCraft:DottedBlue_14.name=Dotted Midnight Blue
 
 
@@ -598,7 +599,7 @@ tile.WallpaperCraft:StripedBlue_9.name=Striped Deep Blue
 tile.WallpaperCraft:StripedBlue_10.name=Striped Light Aqua Blue
 tile.WallpaperCraft:StripedBlue_11.name=Striped Aqua Blue
 tile.WallpaperCraft:StripedBlue_12.name=Striped Dark Aqua Blue
-tile.WallpaperCraft:StripedBlue_13.name=Striped Oceon Blue
+tile.WallpaperCraft:StripedBlue_13.name=Striped Ocean Blue
 tile.WallpaperCraft:StripedBlue_14.name=Striped Midnight Blue
 
 
@@ -757,7 +758,7 @@ tile.WallpaperCraft:FloralBlue_9.name=Floral Deep Blue
 tile.WallpaperCraft:FloralBlue_10.name=Floral Light Aqua Blue
 tile.WallpaperCraft:FloralBlue_11.name=Floral Aqua Blue
 tile.WallpaperCraft:FloralBlue_12.name=Floral Dark Aqua Blue
-tile.WallpaperCraft:FloralBlue_13.name=Floral Oceon Blue
+tile.WallpaperCraft:FloralBlue_13.name=Floral Ocean Blue
 tile.WallpaperCraft:FloralBlue_14.name=Floral Midnight Blue
 
 
@@ -916,7 +917,7 @@ tile.WallpaperCraft:ClayBlue_9.name=Clay Deep Blue
 tile.WallpaperCraft:ClayBlue_10.name=Clay Light Aqua Blue
 tile.WallpaperCraft:ClayBlue_11.name=Clay Aqua Blue
 tile.WallpaperCraft:ClayBlue_12.name=Clay Dark Aqua Blue
-tile.WallpaperCraft:ClayBlue_13.name=Clay Oceon Blue
+tile.WallpaperCraft:ClayBlue_13.name=Clay Ocean Blue
 tile.WallpaperCraft:ClayBlue_14.name=Clay Midnight Blue
 
 
@@ -1076,7 +1077,7 @@ tile.WallpaperCraft:TintedGlassBlue_9.name=Tinted Glass Deep Blue
 tile.WallpaperCraft:TintedGlassBlue_10.name=Tinted Glass Light Aqua Blue
 tile.WallpaperCraft:TintedGlassBlue_11.name=Tinted Glass Aqua Blue
 tile.WallpaperCraft:TintedGlassBlue_12.name=Tinted Glass Dark Aqua Blue
-tile.WallpaperCraft:TintedGlassBlue_13.name=Tinted Glass Oceon Blue
+tile.WallpaperCraft:TintedGlassBlue_13.name=Tinted Glass Ocean Blue
 tile.WallpaperCraft:TintedGlassBlue_14.name=Tinted Glass Midnight Blue
 
 
@@ -1235,7 +1236,7 @@ tile.WallpaperCraft:TexturedGlassBlue_9.name=Textured Glass Deep Blue
 tile.WallpaperCraft:TexturedGlassBlue_10.name=Textured Glass Light Aqua Blue
 tile.WallpaperCraft:TexturedGlassBlue_11.name=Textured Glass Aqua Blue
 tile.WallpaperCraft:TexturedGlassBlue_12.name=Textured Glass Dark Aqua Blue
-tile.WallpaperCraft:TexturedGlassBlue_13.name=Textured Glass Oceon Blue
+tile.WallpaperCraft:TexturedGlassBlue_13.name=Textured Glass Ocean Blue
 tile.WallpaperCraft:TexturedGlassBlue_14.name=Textured Glass Midnight Blue
 
 
@@ -1394,7 +1395,7 @@ tile.WallpaperCraft:FrostedGlassBlue_9.name=Frosted Glass Deep Blue
 tile.WallpaperCraft:FrostedGlassBlue_10.name=Frosted Glass Light Aqua Blue
 tile.WallpaperCraft:FrostedGlassBlue_11.name=Frosted Glass Aqua Blue
 tile.WallpaperCraft:FrostedGlassBlue_12.name=Frosted Glass Dark Aqua Blue
-tile.WallpaperCraft:FrostedGlassBlue_13.name=Frosted Glass Oceon Blue
+tile.WallpaperCraft:FrostedGlassBlue_13.name=Frosted Glass Ocean Blue
 tile.WallpaperCraft:FrostedGlassBlue_14.name=Frosted Glass Midnight Blue
 
 
@@ -1553,7 +1554,7 @@ tile.WallpaperCraft:BrickBlue_9.name=Brick Deep Blue
 tile.WallpaperCraft:BrickBlue_10.name=Brick Light Aqua Blue
 tile.WallpaperCraft:BrickBlue_11.name=Brick Aqua Blue
 tile.WallpaperCraft:BrickBlue_12.name=Brick Dark Aqua Blue
-tile.WallpaperCraft:BrickBlue_13.name=Brick Oceon Blue
+tile.WallpaperCraft:BrickBlue_13.name=Brick Ocean Blue
 tile.WallpaperCraft:BrickBlue_14.name=Brick Midnight Blue
 
 
@@ -1714,7 +1715,7 @@ tile.WallpaperCraft:CheckeredCarpetBlue_9.name=Checkered Carpet Deep Blue
 tile.WallpaperCraft:CheckeredCarpetBlue_10.name=Checkered Carpet Light Aqua Blue
 tile.WallpaperCraft:CheckeredCarpetBlue_11.name=Checkered Carpet Aqua Blue
 tile.WallpaperCraft:CheckeredCarpetBlue_12.name=Checkered Carpet Dark Aqua Blue
-tile.WallpaperCraft:CheckeredCarpetBlue_13.name=Checkered Carpet Oceon Blue
+tile.WallpaperCraft:CheckeredCarpetBlue_13.name=Checkered Carpet Ocean Blue
 tile.WallpaperCraft:CheckeredCarpetBlue_14.name=Checkered Carpet Midnight Blue
 
 
@@ -1875,7 +1876,7 @@ tile.WallpaperCraft:CheckeredWoolBlue_9.name=Checkered Wool Deep Blue
 tile.WallpaperCraft:CheckeredWoolBlue_10.name=Checkered Wool Light Aqua Blue
 tile.WallpaperCraft:CheckeredWoolBlue_11.name=Checkered Wool Aqua Blue
 tile.WallpaperCraft:CheckeredWoolBlue_12.name=Checkered Wool Dark Aqua Blue
-tile.WallpaperCraft:CheckeredWoolBlue_13.name=Checkered Wool Oceon Blue
+tile.WallpaperCraft:CheckeredWoolBlue_13.name=Checkered Wool Ocean Blue
 tile.WallpaperCraft:CheckeredWoolBlue_14.name=Checkered Wool Midnight Blue
 
 
@@ -2036,7 +2037,7 @@ tile.WallpaperCraft:WoolBlue_9.name=Wool Deep Blue
 tile.WallpaperCraft:WoolBlue_10.name=Wool Light Aqua Blue
 tile.WallpaperCraft:WoolBlue_11.name=Wool Aqua Blue
 tile.WallpaperCraft:WoolBlue_12.name=Wool Dark Aqua Blue
-tile.WallpaperCraft:WoolBlue_13.name=Wool Oceon Blue
+tile.WallpaperCraft:WoolBlue_13.name=Wool Ocean Blue
 tile.WallpaperCraft:WoolBlue_14.name=Wool Midnight Blue
 
 
@@ -2197,7 +2198,7 @@ tile.WallpaperCraft:WoolCarpetBlue_9.name=Wool Carpet Deep Blue
 tile.WallpaperCraft:WoolCarpetBlue_10.name=Wool Carpet Light Aqua Blue
 tile.WallpaperCraft:WoolCarpetBlue_11.name=Wool Carpet Aqua Blue
 tile.WallpaperCraft:WoolCarpetBlue_12.name=Wool Carpet Dark Aqua Blue
-tile.WallpaperCraft:WoolCarpetBlue_13.name=Wool Carpet Oceon Blue
+tile.WallpaperCraft:WoolCarpetBlue_13.name=Wool Carpet Ocean Blue
 tile.WallpaperCraft:WoolCarpetBlue_14.name=Wool Carpet Midnight Blue
 
 
@@ -2357,7 +2358,7 @@ tile.WallpaperCraft:WoodPlankBlue_9.name=Wood Plank Deep Blue
 tile.WallpaperCraft:WoodPlankBlue_10.name=Wood Plank Light Aqua Blue
 tile.WallpaperCraft:WoodPlankBlue_11.name=Wood Plank Aqua Blue
 tile.WallpaperCraft:WoodPlankBlue_12.name=Wood Plank Dark Aqua Blue
-tile.WallpaperCraft:WoodPlankBlue_13.name=Wood Plank Oceon Blue
+tile.WallpaperCraft:WoodPlankBlue_13.name=Wood Plank Ocean Blue
 tile.WallpaperCraft:WoodPlankBlue_14.name=Wood Plank Midnight Blue
 
 
@@ -2518,7 +2519,7 @@ tile.WallpaperCraft:StoneBrickBlue_9.name=Stone Brick Deep Blue
 tile.WallpaperCraft:StoneBrickBlue_10.name=Stone Brick Light Aqua Blue
 tile.WallpaperCraft:StoneBrickBlue_11.name=Stone Brick Aqua Blue
 tile.WallpaperCraft:StoneBrickBlue_12.name=Stone Brick Dark Aqua Blue
-tile.WallpaperCraft:StoneBrickBlue_13.name=Stone Brick Oceon Blue
+tile.WallpaperCraft:StoneBrickBlue_13.name=Stone Brick Ocean Blue
 tile.WallpaperCraft:StoneBrickBlue_14.name=Stone Brick Midnight Blue
 
 
@@ -2618,6 +2619,165 @@ tile.WallpaperCraft:StoneBrickGray_14.name=Stone Brick Cool Dark Blue Gray
 
 
 
+######################################################################
+###########												   ###########
+###########     STARTING NAMING OF STONE LAMP BLOCKS       ###########
+###########									     	       ###########
+######################################################################
+
+
+#Stone Lamp Red Colours
+tile.WallpaperCraft:StoneLampRed_0.name=Stone Lamp Light Warm Pink
+tile.WallpaperCraft:StoneLampRed_1.name=Stone Lamp Light Red
+tile.WallpaperCraft:StoneLampRed_2.name=Stone Lamp Bright Red
+tile.WallpaperCraft:StoneLampRed_3.name=Stone Lamp Red
+tile.WallpaperCraft:StoneLampRed_4.name=Stone Lamp Blood Red
+tile.WallpaperCraft:StoneLampRed_5.name=Stone Lamp Light Cool Pink
+tile.WallpaperCraft:StoneLampRed_6.name=Stone Lamp Pink
+tile.WallpaperCraft:StoneLampRed_7.name=Stone Lamp Hot Pink
+tile.WallpaperCraft:StoneLampRed_8.name=Stone Lamp Dark Pink
+tile.WallpaperCraft:StoneLampRed_9.name=Stone Lamp Hot Pink
+tile.WallpaperCraft:StoneLampRed_10.name=Stone Lamp Fuchsia
+tile.WallpaperCraft:StoneLampRed_11.name=Stone Lamp Baby Pink
+tile.WallpaperCraft:StoneLampRed_12.name=Stone Lamp Light Salmon
+tile.WallpaperCraft:StoneLampRed_13.name=Stone Lamp Brown Red
+tile.WallpaperCraft:StoneLampRed_14.name=Stone Lamp Dark Brown Red
+
+
+
+#Stone Lamp Purple Colours
+tile.WallpaperCraft:StoneLampPurple_0.name=Stone Lamp Light Magenta
+tile.WallpaperCraft:StoneLampPurple_1.name=Stone Lamp Magenta
+tile.WallpaperCraft:StoneLampPurple_2.name=Stone Lamp Dark Magenta
+tile.WallpaperCraft:StoneLampPurple_3.name=Stone Lamp Violet
+tile.WallpaperCraft:StoneLampPurple_4.name=Stone Lamp Dark Violet
+tile.WallpaperCraft:StoneLampPurple_5.name=Stone Lamp Light Violet
+tile.WallpaperCraft:StoneLampPurple_6.name=Stone Lamp Light Purple
+tile.WallpaperCraft:StoneLampPurple_7.name=Stone Lamp Purple
+tile.WallpaperCraft:StoneLampPurple_8.name=Stone Lamp Dark Purple
+tile.WallpaperCraft:StoneLampPurple_9.name=Stone Lamp Royal Blue
+tile.WallpaperCraft:StoneLampPurple_10.name=Stone Lamp Light Lavender
+tile.WallpaperCraft:StoneLampPurple_11.name=Stone Lamp Lavender
+tile.WallpaperCraft:StoneLampPurple_12.name=Stone Lamp Azure Blue
+tile.WallpaperCraft:StoneLampPurple_13.name=Stone Lamp Dark Blue
+tile.WallpaperCraft:StoneLampPurple_14.name=Stone Lamp Midnight Blue
+
+
+
+#Stone Lamp Blue Colours
+tile.WallpaperCraft:StoneLampBlue_0.name=Stone Lamp Light Blue
+tile.WallpaperCraft:StoneLampBlue_1.name=Stone Lamp Light Sky Blue
+tile.WallpaperCraft:StoneLampBlue_2.name=Stone Lamp Sky Blue
+tile.WallpaperCraft:StoneLampBlue_3.name=Stone Lamp Dark Sky Blue
+tile.WallpaperCraft:StoneLampBlue_4.name=Stone Lamp Navy Blue
+tile.WallpaperCraft:StoneLampBlue_5.name=Stone Lamp Light Baby Blue
+tile.WallpaperCraft:StoneLampBlue_6.name=Stone Lamp Baby Blue
+tile.WallpaperCraft:StoneLampBlue_7.name=Stone Lamp Bright Blue
+tile.WallpaperCraft:StoneLampBlue_8.name=Stone Lamp Medium Blue
+tile.WallpaperCraft:StoneLampBlue_9.name=Stone Lamp Deep Blue
+tile.WallpaperCraft:StoneLampBlue_10.name=Stone Lamp Light Aqua Blue
+tile.WallpaperCraft:StoneLampBlue_11.name=Stone Lamp Aqua Blue
+tile.WallpaperCraft:StoneLampBlue_12.name=Stone Lamp Dark Aqua Blue
+tile.WallpaperCraft:StoneLampBlue_13.name=Stone Lamp Ocean Blue
+tile.WallpaperCraft:StoneLampBlue_14.name=Stone Lamp Midnight Blue
+
+
+
+#Stone Lamp Brown Colours
+tile.WallpaperCraft:StoneLampBrown_0.name=Stone Lamp Soft Orange
+tile.WallpaperCraft:StoneLampBrown_1.name=Stone Lamp Sienna brown
+tile.WallpaperCraft:StoneLampBrown_2.name=Stone Lamp Burnt Sienna Brown
+tile.WallpaperCraft:StoneLampBrown_3.name=Stone Lamp Earth Brown
+tile.WallpaperCraft:StoneLampBrown_4.name=Stone Lamp Soil Brown
+tile.WallpaperCraft:StoneLampBrown_5.name=Stone Lamp Light Beige
+tile.WallpaperCraft:StoneLampBrown_6.name=Stone Lamp Beige
+tile.WallpaperCraft:StoneLampBrown_7.name=Stone Lamp Terracotta Red
+tile.WallpaperCraft:StoneLampBrown_8.name=Stone Lamp Brown
+tile.WallpaperCraft:StoneLampBrown_9.name=Stone Lamp Saddle Brown
+tile.WallpaperCraft:StoneLampBrown_10.name=Stone Lamp Light Gray Brown
+tile.WallpaperCraft:StoneLampBrown_11.name=Stone Lamp Gray Brown
+tile.WallpaperCraft:StoneLampBrown_12.name=Stone Lamp Middle Gray Brown
+tile.WallpaperCraft:StoneLampBrown_13.name=Stone Lamp Gray Brown
+tile.WallpaperCraft:StoneLampBrown_14.name=Stone Lamp Dark Gray Brown
+
+
+
+#Stone Lamp Cyan Colours
+tile.WallpaperCraft:StoneLampCyan_0.name=Stone Lamp Light Green Blue
+tile.WallpaperCraft:StoneLampCyan_1.name=Stone Lamp Light Turquoise Blue
+tile.WallpaperCraft:StoneLampCyan_2.name=Stone Lamp Turquoise Blue
+tile.WallpaperCraft:StoneLampCyan_3.name=Stone Lamp Teal Blue
+tile.WallpaperCraft:StoneLampCyan_4.name=Stone Lamp Dark Teal Blue
+tile.WallpaperCraft:StoneLampCyan_5.name=Stone Lamp Light Seafoam Blue Green
+tile.WallpaperCraft:StoneLampCyan_6.name=Stone Lamp Seafoam Blue Green
+tile.WallpaperCraft:StoneLampCyan_7.name=Stone Lamp Blue Green
+tile.WallpaperCraft:StoneLampCyan_8.name=Stone Lamp Dark Blue Green
+tile.WallpaperCraft:StoneLampCyan_9.name=Stone Lamp Dark Pine Blue Green
+
+
+
+#Stone Lamp Green Colours
+tile.WallpaperCraft:StoneLampGreen_0.name=Stone Lamp Light Green
+tile.WallpaperCraft:StoneLampGreen_1.name=Stone Lamp Light Spring Green
+tile.WallpaperCraft:StoneLampGreen_2.name=Stone Lamp Spring Green
+tile.WallpaperCraft:StoneLampGreen_3.name=Stone Lamp Green
+tile.WallpaperCraft:StoneLampGreen_4.name=Stone Lamp Dark Green
+tile.WallpaperCraft:StoneLampGreen_5.name=Stone Lamp Light Summer Green
+tile.WallpaperCraft:StoneLampGreen_6.name=Stone Lamp Summer Green
+tile.WallpaperCraft:StoneLampGreen_7.name=Stone Lamp Lush Green
+tile.WallpaperCraft:StoneLampGreen_8.name=Stone Lamp Deep Lush Green
+tile.WallpaperCraft:StoneLampGreen_9.name=Stone Lamp Dark Lush Green
+tile.WallpaperCraft:StoneLampGreen_10.name=Stone Lamp Light Spring Green
+tile.WallpaperCraft:StoneLampGreen_11.name=Stone Lamp Spring Green
+tile.WallpaperCraft:StoneLampGreen_12.name=Stone Lamp Light Olive Green
+tile.WallpaperCraft:StoneLampGreen_13.name=Stone Lamp Olive Green
+tile.WallpaperCraft:StoneLampGreen_14.name=Stone Lamp Moss Green
+
+
+
+#Stone Lamp Yellow Colours
+tile.WallpaperCraft:StoneLampYellow_0.name=Stone Lamp Light Lemon Yellow
+tile.WallpaperCraft:StoneLampYellow_1.name=Stone Lamp Lemon Yellow
+tile.WallpaperCraft:StoneLampYellow_2.name=Stone Lamp Sunny Yellow
+tile.WallpaperCraft:StoneLampYellow_3.name=Stone Lamp Soft Yellow
+tile.WallpaperCraft:StoneLampYellow_4.name=Stone Lamp Orange Yellow
+tile.WallpaperCraft:StoneLampYellow_5.name=Stone Lamp Light Sand Yellow
+tile.WallpaperCraft:StoneLampYellow_6.name=Stone Lamp Light Yellow
+tile.WallpaperCraft:StoneLampYellow_7.name=Stone Lamp Yellow
+tile.WallpaperCraft:StoneLampYellow_8.name=Stone Lamp Gold Yellow
+tile.WallpaperCraft:StoneLampYellow_9.name=Stone Lamp Dark Orange
+tile.WallpaperCraft:StoneLampYellow_10.name=Stone Lamp Light Orange
+tile.WallpaperCraft:StoneLampYellow_11.name=Stone Lamp Sunny Orange
+tile.WallpaperCraft:StoneLampYellow_12.name=Stone Lamp Orange
+tile.WallpaperCraft:StoneLampYellow_13.name=Stone Lamp Deep Orange
+tile.WallpaperCraft:StoneLampYellow_14.name=Stone Lamp Orange Red
+
+
+
+#Stone Lamp Gray Colours
+tile.WallpaperCraft:StoneLampGray_0.name=Stone Lamp White Gray
+tile.WallpaperCraft:StoneLampGray_1.name=Stone Lamp Light Gray
+tile.WallpaperCraft:StoneLampGray_2.name=Stone Lamp Gray
+tile.WallpaperCraft:StoneLampGray_3.name=Stone Lamp Dark Gray
+tile.WallpaperCraft:StoneLampGray_4.name=Stone Lamp Gray Black
+tile.WallpaperCraft:StoneLampGray_5.name=Stone Lamp Light Warm Gray
+tile.WallpaperCraft:StoneLampGray_6.name=Stone Lamp Warm Gray
+tile.WallpaperCraft:StoneLampGray_7.name=Stone Lamp Middle Warm Gray
+tile.WallpaperCraft:StoneLampGray_8.name=Stone Lamp Dark Warm Gray
+tile.WallpaperCraft:StoneLampGray_9.name=Stone Lamp Warm Black Gray
+tile.WallpaperCraft:StoneLampGray_10.name=Stone Lamp Light Cool gray
+tile.WallpaperCraft:StoneLampGray_11.name=Stone Lamp Cool Gray
+tile.WallpaperCraft:StoneLampGray_12.name=Stone Lamp Dark Cool Gray
+tile.WallpaperCraft:StoneLampGray_13.name=Stone Lamp Cool Blue Gray
+tile.WallpaperCraft:StoneLampGray_14.name=Stone Lamp Cool Dark Blue Gray
+
+
+
+
+
+
+
+
 
 
 ######################################################################
@@ -2679,7 +2839,7 @@ tile.WallpaperCraft:RippledBlue_9.name=Rippled Deep Blue
 tile.WallpaperCraft:RippledBlue_10.name=Rippled Light Aqua Blue
 tile.WallpaperCraft:RippledBlue_11.name=Rippled Aqua Blue
 tile.WallpaperCraft:RippledBlue_12.name=Rippled Dark Aqua Blue
-tile.WallpaperCraft:RippledBlue_13.name=Rippled Oceon Blue
+tile.WallpaperCraft:RippledBlue_13.name=Rippled Ocean Blue
 tile.WallpaperCraft:RippledBlue_14.name=Rippled Midnight Blue
 
 

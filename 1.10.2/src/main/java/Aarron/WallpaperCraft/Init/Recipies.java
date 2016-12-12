@@ -35,7 +35,7 @@ public class Recipies {
     		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.RED_FLOWER, 1, OreDictionary.WILDCARD_VALUE));
        
        GameRegistry.addRecipe(new ItemStack(ModItems.PressClay, 1),
-    		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.CLAY, 1));
+    		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.HARDENED_CLAY, 1));
        
        GameRegistry.addRecipe(new ItemStack(ModItems.PressTintedGlass, 1),
     		   "GPF", 'P', ModItems.PressBlank, 'G', Blocks.GLASS, 'F', new ItemStack(Items.DYE, 1, OreDictionary.WILDCARD_VALUE));
@@ -51,6 +51,9 @@ public class Recipies {
        
        GameRegistry.addRecipe(new ItemStack(ModItems.PressStoneBrick, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', Blocks.STONEBRICK);
+       
+       GameRegistry.addRecipe(new ItemStack(ModItems.PressStoneLamp, 1),
+    		   "FPS", 'P', ModItems.PressBlank, 'F', Blocks.GLOWSTONE, 'S', Blocks.STONE);
        
        GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.PressWoodPlank, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', "plankWood"));
@@ -1051,6 +1054,81 @@ public class Recipies {
     				);}
         				for (int i = 0; i < 15; i++) {
         					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneBrickGray, 1, (i+1)%15), new ItemStack(ModBlocks.StoneBrickGray, 1, i%15));
+        						}
+        				
+    					
+       //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+ 
+       //Recipes For Red Stone Lamps
+  	   for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampRed, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidRed, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampRed, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampRed, 1, i%15));
+        						}
+      					
+      				
+       //Recipes For Purple Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampPurple, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidPurple, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampPurple, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampPurple, 1, i%15));
+        						}
+
+        	        	
+       //Recipes For Blue Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBlue, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidBlue, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBlue, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampBlue, 1, i%15));
+        						}
+
+       				
+       //Recipes For Cyan Stone Lamps
+       for (int j = 0; j < 10; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampCyan, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidCyan, 1, j)
+    				);}
+        				for (int i = 0; i < 10; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampCyan, 1, (i+1)%10), new ItemStack(ModBlocks.StoneLampCyan, 1, i%10));
+        						}
+
+        				
+      //Recipes For Green Stone Lamps
+      for (int j = 0; j < 15; j++) {	        	
+  	  GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGreen, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidGreen, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGreen, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampGreen, 1, i%15));
+        						}
+
+        				
+       //Recipes For Yellow Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampYellow, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidYellow, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampYellow, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampYellow, 1, i%15));
+        						}
+        	        	
+        	        	
+       //Recipes For Brown Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBrown, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidBrown, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampBrown, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampBrown, 1, i%15));
+        						}
+    	
+        				
+       //Recipes For Gray Stone Lamps
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGray, 1, j), ModItems.PressStoneLamp, new ItemStack(ModBlocks.SolidGray, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneLampGray, 1, (i+1)%15), new ItemStack(ModBlocks.StoneLampGray, 1, i%15));
         						}
         	        	        
 

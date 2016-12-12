@@ -13,6 +13,7 @@ public class StoneBrickRed extends IMetaBlock<BlockTypes> {
 	public StoneBrickRed() {
 		super(Material.ROCK, "StoneBrickRed");
 		this.setSoundType(SoundType.STONE);
+		this.setHardness(1.5F);
 	}
 
 	@Override

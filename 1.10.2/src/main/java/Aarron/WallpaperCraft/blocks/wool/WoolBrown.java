@@ -13,6 +13,7 @@ public class WoolBrown extends IMetaBlock<BlockTypes> {
 	public WoolBrown() {
 		super(Material.CLOTH, "WoolBrown");
 		this.setSoundType(SoundType.CLOTH);
+		this.setHardness(0.4F);
 	}
 
 	@Override

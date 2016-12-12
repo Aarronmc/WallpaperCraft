@@ -22,7 +22,7 @@ public class CommonProxy {
 	        config = new Configuration(new File(directory.getPath(), "WallpaperCraft.cfg"));
 	        ConfigHandler.readConfig();
 	        
-	    	if (ConfigHandler.enableChisel == true){
+	    if (ConfigHandler.enableChisel == true){
 	    		if (Loader.isModLoaded("chisel")){
 	    			ChiselSupport.init();}
 	        else System.out.print("Install Chisel and set 'enableChisel' to true in the WallpaperCraft config file to enable Chisel intergration ");    			   		

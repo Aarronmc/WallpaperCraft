@@ -22,10 +22,10 @@ public IIcon[] icons = new IIcon[15];
 	public SolidRedBlocks(String unlocalizedName, Material material) {
 		super(material);
 		this.setBlockName("SolidRed");
-		this.setHardness(1.25F);
+		this.setHardness(1.5F);
 		this.setResistance(6.0F);
 		this.setHarvestLevel("pickaxe", 0);
-		this.setStepSound(soundTypeWood);
+		this.setStepSound(soundTypeStone);
 		this.setCreativeTab(Tab.WPtab);
 	}
 

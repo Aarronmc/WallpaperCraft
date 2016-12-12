@@ -13,6 +13,7 @@ public class CheckeredWoolCyan extends IMetaBlock<BlockTypes2> {
 	public CheckeredWoolCyan() {
 		super(Material.CLOTH, "CheckeredWoolCyan");
 		this.setSoundType(SoundType.CLOTH);
+		this.setHardness(0.4F);
 	}
 
 	@Override

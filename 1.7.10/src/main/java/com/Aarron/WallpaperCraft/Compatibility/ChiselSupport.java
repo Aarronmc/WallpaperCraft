@@ -92,6 +92,33 @@ public class ChiselSupport {
 		addToChisle("Frosted Glass Brown Blocks", ModBlocks.FrostedGlassBrown, 14);
 		addToChisle("Frosted Glass Gray Blocks", ModBlocks.FrostedGlassGray, 14);
 		
+		addToChisle("Tinted Panes Red", ModBlocks.TintedPaneRed, 14);
+		addToChisle("Tinted Panes Purple", ModBlocks.TintedPanePurple, 14);
+		addToChisle("Tinted Panes Blue", ModBlocks.TintedPaneBlue, 14);
+		addToChisle("Tinted Panes Cyan", ModBlocks.TintedPaneCyan, 9);
+		addToChisle("Tinted Panes Green", ModBlocks.TintedPaneGreen, 14);
+		addToChisle("Tinted Panes Yellow", ModBlocks.TintedPaneYellow, 14);
+		addToChisle("Tinted Panes Brown", ModBlocks.TintedPaneBrown, 14);
+		addToChisle("Tinted Panes Gray", ModBlocks.TintedPaneGray, 14);
+				
+		addToChisle("Textured Panes Red", ModBlocks.TexturedPaneRed, 14);
+		addToChisle("Textured Panes Purple", ModBlocks.TexturedPanePurple, 14);
+		addToChisle("Textured Panes Blue", ModBlocks.TexturedPaneBlue, 14);
+		addToChisle("Textured Panes Cyan", ModBlocks.TexturedPaneCyan, 9);
+		addToChisle("Textured Panes Green", ModBlocks.TexturedPaneGreen, 14);
+		addToChisle("Textured Panes Yellow", ModBlocks.TexturedPaneYellow, 14);
+		addToChisle("Textured Panes Brown", ModBlocks.TexturedPaneBrown, 14);
+		addToChisle("Textured Panes Gray", ModBlocks.TexturedPaneGray, 14);
+		
+		addToChisle("Frosted Panes Red", ModBlocks.FrostedPaneRed, 14);
+		addToChisle("Frosted Panes Purple", ModBlocks.FrostedPanePurple, 14);
+		addToChisle("Frosted Panes Blue", ModBlocks.FrostedPaneBlue, 14);
+		addToChisle("Frosted Panes Cyan", ModBlocks.FrostedPaneCyan, 9);
+		addToChisle("Frosted Panes Green", ModBlocks.FrostedPaneGreen, 14);
+		addToChisle("Frosted Panes Yellow", ModBlocks.FrostedPaneYellow, 14);
+		addToChisle("Frosted Panes Brown", ModBlocks.FrostedPaneBrown, 14);
+		addToChisle("Frosted Panes Gray", ModBlocks.FrostedPaneGray, 14);
+		
 		addToChisle("Brick Red Blocks", ModBlocks.BrickRed, 14);
 		addToChisle("Brick Purple Blocks", ModBlocks.BrickPurple, 14);
 		addToChisle("Brick Blue Blocks", ModBlocks.BrickBlue, 14);
@@ -109,6 +136,15 @@ public class ChiselSupport {
 		addToChisle("Stone Brick Yellow Blocks", ModBlocks.StoneBrickYellow, 14);
 		addToChisle("Stone Brick Brown Blocks", ModBlocks.StoneBrickBrown, 14);
 		addToChisle("Stone Brick Gray Blocks", ModBlocks.StoneBrickGray, 14);
+		
+		addToChisle("Stone Lamp Red Blocks", ModBlocks.StoneLampRed, 14);
+		addToChisle("Stone Lamp Purple Blocks", ModBlocks.StoneLampPurple, 14);
+		addToChisle("Stone Lamp Blue Blocks", ModBlocks.StoneLampBlue, 14);
+		addToChisle("Stone Lamp Cyan Blocks", ModBlocks.StoneLampCyan, 9);
+		addToChisle("Stone Lamp Green Blocks", ModBlocks.StoneLampGreen, 14);
+		addToChisle("Stone Lamp Yellow Blocks", ModBlocks.StoneLampYellow, 14);
+		addToChisle("Stone Lamp Brown Blocks", ModBlocks.StoneLampBrown, 14);
+		addToChisle("Stone Lamp Gray Blocks", ModBlocks.StoneLampGray, 14);
 		
 		addToChisle("Red Rippled Blocks", ModBlocks.RippledRed, 14);
 		addToChisle("Purple Rippled Blocks", ModBlocks.RippledPurple, 14);

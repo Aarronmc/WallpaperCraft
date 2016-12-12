@@ -21,5 +21,12 @@ import com.Aarron.WallpaperCraft.creativeTab.Tab;
 			tooltipLines.add("Combine this with any stained glass to apply the Tinted pattern.");
 		
 		}
+		
+		@Override 
+		public boolean doesContainerItemLeaveCraftingGrid(ItemStack itemstack) {
+			
+	     return false;
+	     
+	    }
 
 }

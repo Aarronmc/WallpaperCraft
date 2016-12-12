@@ -20,5 +20,6 @@ import com.Aarron.WallpaperCraft.creativeTab.Tab;
 			tooltipLines.add("Combine this with a relevant item to get a pattern press.");
 		
 		}
+		
 
 }

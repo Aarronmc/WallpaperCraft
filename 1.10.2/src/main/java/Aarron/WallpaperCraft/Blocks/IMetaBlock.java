@@ -34,7 +34,7 @@ public abstract class IMetaBlock<T extends Enum<T> & IStringSerializable & IVari
 		variantValues = getVariantEnum().getAllowedValues();
 		
 		setCreativeTab(ModCreativeTabs.WPtab);
-        setHardness(1.25F);
+        setHardness(2.0F);
         setResistance(6.0F);
         
         setDefaultState(this.blockState.getBaseState().withProperty(getVariantEnum(), getDefaultStateVariant()));

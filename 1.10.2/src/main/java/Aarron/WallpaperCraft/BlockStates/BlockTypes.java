@@ -1,5 +1,6 @@
 package Aarron.WallpaperCraft.blockStates;
 
+import net.minecraft.item.EnumDyeColor;
 import net.minecraft.util.IStringSerializable;
 import Aarron.WallpaperCraft.blocks.IVariantDefinition;
 
@@ -19,6 +20,7 @@ public enum BlockTypes implements IStringSerializable, IVariantDefinition {
 	Tweleve(12, "12"),
 	Thirteen(13, "13"),
 	Fourteen(14, "14");
+	
 	
 	private final int meta;
 	private final String name;
@@ -51,4 +53,6 @@ public enum BlockTypes implements IStringSerializable, IVariantDefinition {
 	public String getVariantName() {
 		return "type";
 	}
+	
+	
 }
