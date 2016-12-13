@@ -47,7 +47,7 @@ public class ConfigHandler {
         // cfg.getBoolean() will get the value in the config if it is already specified there. If not it will create the value.
         enableChisel = cfg.getBoolean("enableChisel", MOD_INTEGRATION, true, "Setting this to false will dissable Chisel integration.");
         hidefromJEI = cfg.getBoolean("hidefromJEI", MOD_INTEGRATION, false, "Setting this to true will hide all WallpaperCraft sub colours and will"
-      + " only show the firstcolour option for each block(note these will still be availabvle in the creative inventory and will still be craftable).");
+      + " only show the first colour option for each block(note these will still be available in the creative inventory and will still be craftable).");
         
 /*       
         cfg.addCustomCategoryComment(BLOCKS, "These options will allow you to remove any of the WallpaperCraft blocks from the game");

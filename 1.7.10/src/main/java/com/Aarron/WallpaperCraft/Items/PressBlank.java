@@ -21,5 +21,12 @@ import com.Aarron.WallpaperCraft.creativeTab.Tab;
 		
 		}
 		
+		@Override 
+		public boolean doesContainerItemLeaveCraftingGrid(ItemStack itemstack) {
+			
+	     return false;
+	     
+	    }
+		
 
 }
