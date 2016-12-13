@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class ClayGreen extends IMetaBlock<BlockTypes> {
 
 	public ClayGreen() {
-		super(Material.ROCK, "ClayGreen");
+		super(Material.ROCK, "claygreen");
 		this.setSoundType(SoundType.STONE);
 		this.setHardness(1.25F);
 	}

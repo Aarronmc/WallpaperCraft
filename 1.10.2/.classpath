@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6/"/>
-	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.2.2124/snapshot/20160518/forgeSrc-1.10.2-12.18.2.2124.jar" sourcepath="C:/Users/looki/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.2.2124/snapshot/20160518/forgeSrc-1.10.2-12.18.2.2124-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.3.2185/snapshot/20161111/forgeSrc-1.10.2-12.18.3.2185.jar" sourcepath="C:/Users/looki/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.3.2185/snapshot/20161111/forgeSrc-1.10.2-12.18.3.2185-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar" sourcepath="C:/Users/looki/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/a2926c057ca3b662b9db194c869bdbe7d3bb8aef/jsr305-3.0.1-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/modules-2/files-2.1/com.mojang/netty/1.6/4b75825a06139752bd800d9e29c5fd55b8b1b1e4/netty-1.6.jar" sourcepath="C:/Users/looki/.gradle/caches/modules-2/files-2.1/com.mojang/netty/1.6/cd01cc3788bac1b1eb9cf2cda02fc7698a5ca1cc/netty-1.6-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/modules-2/files-2.1/oshi-project/oshi-core/1.1/9ddf7b048a8d701be231c0f4f95fd986198fd2d8/oshi-core-1.1.jar" sourcepath="C:/Users/looki/.gradle/caches/modules-2/files-2.1/oshi-project/oshi-core/1.1/1ec1ab1e6ac5a1572edfd0dd9ac95e83684b8a65/oshi-core-1.1-sources.jar"/>
@@ -62,8 +62,7 @@
 	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/bcab850f8f487c3f4c4dbabde778bb82bd1a40ed/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar"/>
 	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/minecraft/deobfedDeps/compileDummy.jar"/>
 	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/minecraft/deobfedDeps/providedDummy.jar"/>
-	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.2.2124/start"/>
-	<classpathentry kind="lib" path="lib/forestry_1.10.2-5.2.16.326-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/looki/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.3.2185/start"/>
 	<classpathentry kind="lib" path="lib/Chisel-MC1.10.2-0.0.7.3-api.jar"/>
 	<classpathentry kind="lib" path="lib/jei_1.10.2-3.13.3.377-api.jar"/>
 	<classpathentry kind="output" path="bin"/>

@@ -26,7 +26,7 @@ public class SolidRed extends IMetaBlock<BlockTypes> {
 	
 
 	public SolidRed() {
-		super(Material.ROCK, "SolidRed");
+		super(Material.ROCK, "solidred");
 		this.setSoundType(SoundType.STONE);
 		this.setHardness(1.5F);
 	}

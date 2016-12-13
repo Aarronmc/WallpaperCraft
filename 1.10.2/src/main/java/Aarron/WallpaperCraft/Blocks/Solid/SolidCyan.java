@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class SolidCyan extends IMetaBlock<BlockTypes2> {
 
 	public SolidCyan() {
-		super(Material.ROCK, "SolidCyan");
+		super(Material.ROCK, "solidcyan");
 		this.setSoundType(SoundType.STONE);
 		this.setHardness(1.5F);
 	}

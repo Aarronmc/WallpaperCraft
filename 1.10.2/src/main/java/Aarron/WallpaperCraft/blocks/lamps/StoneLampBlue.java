@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class StoneLampBlue extends IMetaBlock<BlockTypes> {
 
 	public StoneLampBlue() {
-		super(Material.ROCK, "StoneLampBlue");
+		super(Material.ROCK, "stonelampblue");
 		this.setSoundType(SoundType.STONE);
 		this.setHardness(1.5F);
 		this.setLightLevel(1.0F);

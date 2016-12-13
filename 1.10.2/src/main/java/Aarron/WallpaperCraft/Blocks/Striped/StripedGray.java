@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class StripedGray extends IMetaBlock<BlockTypes> {
 
 	public StripedGray() {
-		super(Material.WOOD, "StripedGray");
+		super(Material.WOOD, "stripedgray");
 		this.setSoundType(SoundType.WOOD);
 	}
 

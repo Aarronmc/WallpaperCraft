@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class RippledBrown extends IMetaBlock<BlockTypes> {
 
 	public RippledBrown() {
-		super(Material.WOOD, "RippledBrown");
+		super(Material.WOOD, "rippledbrown");
 		this.setSoundType(SoundType.WOOD);
 	}
 

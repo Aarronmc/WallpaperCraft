@@ -22,7 +22,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class WoolCarpetRed extends IMetaBlock<BlockTypes> {
 
 	public WoolCarpetRed() {
-		super(Material.CARPET, "WoolCarpetRed");
+		super(Material.CARPET, "woolcarpetred");
 		this.setSoundType(SoundType.CLOTH);
 		this.setHardness(0.1F);
 	}

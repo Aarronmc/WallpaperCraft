@@ -22,7 +22,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class CheckeredCarpetBrown extends IMetaBlock<BlockTypes> {
 
 	public CheckeredCarpetBrown() {
-		super(Material.CARPET, "CheckeredCarpetBrown");
+		super(Material.CARPET, "checkeredcarpetbrown");
 		this.setSoundType(SoundType.CLOTH);
 		this.setHardness(0.1F);
 	}

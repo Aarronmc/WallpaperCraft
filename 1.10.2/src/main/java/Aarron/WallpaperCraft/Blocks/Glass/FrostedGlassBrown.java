@@ -23,7 +23,7 @@ private boolean ignoreSimilarity;
 	
 
 	public FrostedGlassBrown() {
-		super(Material.GLASS, "FrostedGlassBrown");
+		super(Material.GLASS, "frostedglassbrown");
 		this.setSoundType(SoundType.GLASS);
 		this.setHardness(0.3F);
 	}

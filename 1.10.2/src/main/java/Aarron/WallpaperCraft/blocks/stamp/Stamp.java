@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class Stamp extends IMetaBlock<BlockTypes3> {
 
 	public Stamp() {
-		super(Material.WOOD, "Stamp");
+		super(Material.WOOD, "stamp");
 		this.setSoundType(SoundType.WOOD);
 	}
 

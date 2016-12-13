@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class BrickBrown extends IMetaBlock<BlockTypes> {
 
 	public BrickBrown() {
-		super(Material.ROCK, "BrickBrown");
+		super(Material.ROCK, "brickbrown");
 		this.setSoundType(SoundType.STONE);
 		this.setHardness(2.0F);
 	}

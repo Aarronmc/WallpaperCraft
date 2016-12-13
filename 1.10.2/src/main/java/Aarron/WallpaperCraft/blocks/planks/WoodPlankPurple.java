@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class WoodPlankPurple extends IMetaBlock<BlockTypes> {
 
 	public WoodPlankPurple() {
-		super(Material.WOOD, "WoodPlankPurple");
+		super(Material.WOOD, "woodplankpurple");
 		this.setSoundType(SoundType.WOOD);
 	}
 

@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class FloralRed extends IMetaBlock<BlockTypes> {
 
 	public FloralRed() {
-		super(Material.WOOD, "FloralRed");
+		super(Material.WOOD, "floralred");
 		this.setSoundType(SoundType.WOOD);
 	}
 

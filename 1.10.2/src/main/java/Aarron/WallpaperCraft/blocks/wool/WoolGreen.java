@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class WoolGreen extends IMetaBlock<BlockTypes> {
 
 	public WoolGreen() {
-		super(Material.CLOTH, "WoolGreen");
+		super(Material.CLOTH, "woolgreen");
 		this.setSoundType(SoundType.CLOTH);
 		this.setHardness(0.4F);
 	}

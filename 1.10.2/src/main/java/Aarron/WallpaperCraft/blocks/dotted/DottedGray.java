@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class DottedGray extends IMetaBlock<BlockTypes> {
 
 	public DottedGray() {
-		super(Material.WOOD, "DottedGray");
+		super(Material.WOOD, "dottedgray");
 		this.setSoundType(SoundType.WOOD);
 	}
 

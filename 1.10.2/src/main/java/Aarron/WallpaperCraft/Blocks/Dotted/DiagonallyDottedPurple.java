@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class DiagonallyDottedPurple extends IMetaBlock<BlockTypes> {
 
 	public DiagonallyDottedPurple() {
-		super(Material.WOOD, "DiagonallyDottedPurple");
+		super(Material.WOOD, "diagonallydottedpurple");
 		this.setSoundType(SoundType.WOOD);
 	}
 

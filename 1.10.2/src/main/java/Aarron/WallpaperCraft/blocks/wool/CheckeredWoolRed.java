@@ -11,7 +11,7 @@ import Aarron.WallpaperCraft.blocks.IMetaBlock;
 public class CheckeredWoolRed extends IMetaBlock<BlockTypes> {
 
 	public CheckeredWoolRed() {
-		super(Material.CLOTH, "CheckeredWoolRed");
+		super(Material.CLOTH, "checkeredwoolred");
 		this.setSoundType(SoundType.CLOTH);
 		this.setHardness(0.4F);
 	}

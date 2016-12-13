@@ -2,7 +2,6 @@ package Aarron.WallpaperCraft.init;
 
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
-import Aarron.WallpaperCraft.handler.ConfigHandler;
 import Aarron.WallpaperCraft.items.*;
 
 
