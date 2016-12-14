@@ -26,6 +26,7 @@ item.pressstonebrick.name=Stone Brick Pattern Press
 item.pressrippled.name=Rippled Pattern Press
 item.pressstamp.name=Stamp Pattern Press
 item.pressstonelamp.name=Stone Lamp Pattern Press
+item.pressdamask.name=Damask Pattern Press
 
 
 
@@ -850,6 +851,165 @@ tile.WallpaperCraft:floralgray_11.name=Floral Cool Gray
 tile.WallpaperCraft:floralgray_12.name=Floral Dark Cool Gray
 tile.WallpaperCraft:floralgray_13.name=Floral Cool Blue Gray
 tile.WallpaperCraft:floralgray_14.name=Floral Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########       STARTING NAMING OF DAMASK BLOCKS         ###########
+###########									     	       ###########
+######################################################################
+
+
+#Damask Red Colours
+tile.WallpaperCraft:damaskred_0.name=Damask Light Warm Pink
+tile.WallpaperCraft:damaskred_1.name=Damask Light Red
+tile.WallpaperCraft:damaskred_2.name=Damask Bright Red
+tile.WallpaperCraft:damaskred_3.name=Damask Red
+tile.WallpaperCraft:damaskred_4.name=Damask Blood Red
+tile.WallpaperCraft:damaskred_5.name=Damask Light Cool Pink
+tile.WallpaperCraft:damaskred_6.name=Damask Pink
+tile.WallpaperCraft:damaskred_7.name=Damask Hot Pink
+tile.WallpaperCraft:damaskred_8.name=Damask Dark Pink
+tile.WallpaperCraft:damaskred_9.name=Damask Hot Pink
+tile.WallpaperCraft:damaskred_10.name=Damask Fuchsia
+tile.WallpaperCraft:damaskred_11.name=Damask Baby Pink
+tile.WallpaperCraft:damaskred_12.name=Damask Light Salmon
+tile.WallpaperCraft:damaskred_13.name=Damask Brown Red
+tile.WallpaperCraft:damaskred_14.name=Damask Dark Brown Red
+
+
+
+#Damask Purple Colours
+tile.WallpaperCraft:damaskpurple_0.name=Damask Light Magenta
+tile.WallpaperCraft:damaskpurple_1.name=Damask Magenta
+tile.WallpaperCraft:damaskpurple_2.name=Damask Dark Magenta
+tile.WallpaperCraft:damaskpurple_3.name=Damask Violet
+tile.WallpaperCraft:damaskpurple_4.name=Damask Dark Violet
+tile.WallpaperCraft:damaskpurple_5.name=Damask Light Violet
+tile.WallpaperCraft:damaskpurple_6.name=Damask Light Purple
+tile.WallpaperCraft:damaskpurple_7.name=Damask Purple
+tile.WallpaperCraft:damaskpurple_8.name=Damask Dark Purple
+tile.WallpaperCraft:damaskpurple_9.name=Damask Royal Blue
+tile.WallpaperCraft:damaskpurple_10.name=Damask Light Lavender
+tile.WallpaperCraft:damaskpurple_11.name=Damask Lavender
+tile.WallpaperCraft:damaskpurple_12.name=Damask Azure Blue
+tile.WallpaperCraft:damaskpurple_13.name=Damask Dark Blue
+tile.WallpaperCraft:damaskpurple_14.name=Damask Midnight Blue
+
+
+
+#Damask Blue Colours
+tile.WallpaperCraft:damaskblue_0.name=Damask Light Blue
+tile.WallpaperCraft:damaskblue_1.name=Damask Light Sky Blue
+tile.WallpaperCraft:damaskblue_2.name=Damask Sky Blue
+tile.WallpaperCraft:damaskblue_3.name=Damask Dark Sky Blue
+tile.WallpaperCraft:damaskblue_4.name=Damask Navy Blue
+tile.WallpaperCraft:damaskblue_5.name=Damask Light Baby Blue
+tile.WallpaperCraft:damaskblue_6.name=Damask Baby Blue
+tile.WallpaperCraft:damaskblue_7.name=Damask Bright Blue
+tile.WallpaperCraft:damaskblue_8.name=Damask Medium Blue
+tile.WallpaperCraft:damaskblue_9.name=Damask Deep Blue
+tile.WallpaperCraft:damaskblue_10.name=Damask Light Aqua Blue
+tile.WallpaperCraft:damaskblue_11.name=Damask Aqua Blue
+tile.WallpaperCraft:damaskblue_12.name=Damask Dark Aqua Blue
+tile.WallpaperCraft:damaskblue_13.name=Damask Ocean Blue
+tile.WallpaperCraft:damaskblue_14.name=Damask Midnight Blue
+
+
+
+#Damask Brown Colours
+tile.WallpaperCraft:damaskbrown_0.name=Damask Soft Orange
+tile.WallpaperCraft:damaskbrown_1.name=Damask Sienna brown
+tile.WallpaperCraft:damaskbrown_2.name=Damask Burnt Sienna Brown
+tile.WallpaperCraft:damaskbrown_3.name=Damask Earth Brown
+tile.WallpaperCraft:damaskbrown_4.name=Damask Soil Brown
+tile.WallpaperCraft:damaskbrown_5.name=Damask Light Beige
+tile.WallpaperCraft:damaskbrown_6.name=Damask Beige
+tile.WallpaperCraft:damaskbrown_7.name=Damask Terracotta Red
+tile.WallpaperCraft:damaskbrown_8.name=Damask Brown
+tile.WallpaperCraft:damaskbrown_9.name=Damask Saddle Brown
+tile.WallpaperCraft:damaskbrown_10.name=Damask Light Gray Brown
+tile.WallpaperCraft:damaskbrown_11.name=Damask Gray Brown
+tile.WallpaperCraft:damaskbrown_12.name=Damask Middle Gray Brown
+tile.WallpaperCraft:damaskbrown_13.name=Damask Gray Brown
+tile.WallpaperCraft:damaskbrown_14.name=Damask Dark Gray Brown
+
+
+
+#Damask Cyan Colours
+tile.WallpaperCraft:damaskcyan_0.name=Damask Light Green Blue
+tile.WallpaperCraft:damaskcyan_1.name=Damask Light Turquoise Blue
+tile.WallpaperCraft:damaskcyan_2.name=Damask Turquoise Blue
+tile.WallpaperCraft:damaskcyan_3.name=Damask Teal Blue
+tile.WallpaperCraft:damaskcyan_4.name=Damask Dark Teal Blue
+tile.WallpaperCraft:damaskcyan_5.name=Damask Light Seafoam Blue Green
+tile.WallpaperCraft:damaskcyan_6.name=Damask Seafoam Blue Green
+tile.WallpaperCraft:damaskcyan_7.name=Damask Blue Green
+tile.WallpaperCraft:damaskcyan_8.name=Damask Dark Blue Green
+tile.WallpaperCraft:damaskcyan_9.name=Damask Dark Pine Blue Green
+
+
+
+#Damask Green Colours
+tile.WallpaperCraft:damaskgreen_0.name=Damask Light Green
+tile.WallpaperCraft:damaskgreen_1.name=Damask Light Spring Green
+tile.WallpaperCraft:damaskgreen_2.name=Damask Spring Green
+tile.WallpaperCraft:damaskgreen_3.name=Damask Green
+tile.WallpaperCraft:damaskgreen_4.name=Damask Dark Green
+tile.WallpaperCraft:damaskgreen_5.name=Damask Light Summer Green
+tile.WallpaperCraft:damaskgreen_6.name=Damask Summer Green
+tile.WallpaperCraft:damaskgreen_7.name=Damask Lush Green
+tile.WallpaperCraft:damaskgreen_8.name=Damask Deep Lush Green
+tile.WallpaperCraft:damaskgreen_9.name=Damask Dark Lush Green
+tile.WallpaperCraft:damaskgreen_10.name=Damask Light Spring Green
+tile.WallpaperCraft:damaskgreen_11.name=Damask Spring Green
+tile.WallpaperCraft:damaskgreen_12.name=Damask Light Olive Green
+tile.WallpaperCraft:damaskgreen_13.name=Damask Olive Green
+tile.WallpaperCraft:damaskgreen_14.name=Damask Moss Green
+
+
+
+#Damask Yellow Colours
+tile.WallpaperCraft:damaskyellow_0.name=Damask Light Lemon Yellow
+tile.WallpaperCraft:damaskyellow_1.name=Damask Lemon Yellow
+tile.WallpaperCraft:damaskyellow_2.name=Damask Sunny Yellow
+tile.WallpaperCraft:damaskyellow_3.name=Damask Soft Yellow
+tile.WallpaperCraft:damaskyellow_4.name=Damask Orange Yellow
+tile.WallpaperCraft:damaskyellow_5.name=Damask Light Sand Yellow
+tile.WallpaperCraft:damaskyellow_6.name=Damask Light Yellow
+tile.WallpaperCraft:damaskyellow_7.name=Damask Yellow
+tile.WallpaperCraft:damaskyellow_8.name=Damask Gold Yellow
+tile.WallpaperCraft:damaskyellow_9.name=Damask Dark Orange
+tile.WallpaperCraft:damaskyellow_10.name=Damask Light Orange
+tile.WallpaperCraft:damaskyellow_11.name=Damask Sunny Orange
+tile.WallpaperCraft:damaskyellow_12.name=Damask Orange
+tile.WallpaperCraft:damaskyellow_13.name=Damask Deep Orange
+tile.WallpaperCraft:damaskyellow_14.name=Damask Orange Red
+
+
+
+#Damask Gray Colours
+tile.WallpaperCraft:damaskgray_0.name=Damask White Gray
+tile.WallpaperCraft:damaskgray_1.name=Damask Light Gray
+tile.WallpaperCraft:damaskgray_2.name=Damask Gray
+tile.WallpaperCraft:damaskgray_3.name=Damask Dark Gray
+tile.WallpaperCraft:damaskgray_4.name=Damask Gray Black
+tile.WallpaperCraft:damaskgray_5.name=Damask Light Warm Gray
+tile.WallpaperCraft:damaskgray_6.name=Damask Warm Gray
+tile.WallpaperCraft:damaskgray_7.name=Damask Middle Warm Gray
+tile.WallpaperCraft:damaskgray_8.name=Damask Dark Warm Gray
+tile.WallpaperCraft:damaskgray_9.name=Damask Warm Black Gray
+tile.WallpaperCraft:damaskgray_10.name=Damask Light Cool gray
+tile.WallpaperCraft:damaskgray_11.name=Damask Cool Gray
+tile.WallpaperCraft:damaskgray_12.name=Damask Dark Cool Gray
+tile.WallpaperCraft:damaskgray_13.name=Damask Cool Blue Gray
+tile.WallpaperCraft:damaskgray_14.name=Damask Cool Dark Blue Gray
 
 
 

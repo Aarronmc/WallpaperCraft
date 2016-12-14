@@ -57,6 +57,15 @@ public class ChiselSupport {
 		ICarvingGroup FloralBrown = getGroup(chisel, "FloralBrown");
 		ICarvingGroup FloralGray = getGroup(chisel, "FloralGray");
 		
+		ICarvingGroup DamaskRed = getGroup(chisel, "DamaskRed");
+		ICarvingGroup DamaskPurple = getGroup(chisel, "DamaskPurple");
+		ICarvingGroup DamaskBlue = getGroup(chisel, "DamaskBlue");
+		ICarvingGroup DamaskCyan = getGroup(chisel, "DamaskCyan");
+		ICarvingGroup DamaskGreen = getGroup(chisel, "DamaskGreen");
+		ICarvingGroup DamaskYellow = getGroup(chisel, "DamaskYellow");
+		ICarvingGroup DamaskBrown = getGroup(chisel, "DamaskBrown");
+		ICarvingGroup DamaskGray = getGroup(chisel, "DamaskGray");
+		
 		ICarvingGroup ClayRed = getGroup(chisel, "ClayRed");
 		ICarvingGroup ClayPurple = getGroup(chisel, "ClayPurple");
 		ICarvingGroup ClayBlue = getGroup(chisel, "ClayBlue");
@@ -221,6 +230,15 @@ public class ChiselSupport {
 		chisel.addGroup(FloralYellow);
 		chisel.addGroup(FloralBrown);
 		chisel.addGroup(FloralGray);
+		
+		chisel.addGroup(DamaskRed);
+		chisel.addGroup(DamaskPurple);
+		chisel.addGroup(DamaskBlue);
+		chisel.addGroup(DamaskCyan);
+		chisel.addGroup(DamaskGreen);
+		chisel.addGroup(DamaskYellow);
+		chisel.addGroup(DamaskBrown);
+		chisel.addGroup(DamaskGray);
 		
 		chisel.addGroup(ClayRed);
 		chisel.addGroup(ClayPurple);
@@ -423,6 +441,24 @@ public class ChiselSupport {
 			chisel.addVariation(FloralYellow.getName(), FloralYellowState, 99);
 			chisel.addVariation(FloralBrown.getName(), FloralBrownState, 99);
 			chisel.addVariation(FloralGray.getName(), FloralGrayState, 99);
+
+			
+			
+			IBlockState DamaskRedState = ModBlocks.DamaskRed.getStateFromMeta(type.getMeta());
+			IBlockState DamaskPurpleState = ModBlocks.DamaskPurple.getStateFromMeta(type.getMeta());
+			IBlockState DamaskBlueState = ModBlocks.DamaskBlue.getStateFromMeta(type.getMeta());
+			IBlockState DamaskgreenState = ModBlocks.DamaskGreen.getStateFromMeta(type.getMeta());
+			IBlockState DamaskYellowState = ModBlocks.DamaskYellow.getStateFromMeta(type.getMeta());
+			IBlockState DamaskBrownState = ModBlocks.DamaskBrown.getStateFromMeta(type.getMeta());
+			IBlockState DamaskGrayState = ModBlocks.DamaskGray.getStateFromMeta(type.getMeta());
+
+			chisel.addVariation(DamaskRed.getName(), DamaskRedState, 99);
+			chisel.addVariation(DamaskPurple.getName(), DamaskPurpleState, 99);
+			chisel.addVariation(DamaskBlue.getName(), DamaskBlueState, 99);
+			chisel.addVariation(DamaskGreen.getName(), DamaskgreenState, 99);
+			chisel.addVariation(DamaskYellow.getName(), DamaskYellowState, 99);
+			chisel.addVariation(DamaskBrown.getName(), DamaskBrownState, 99);
+			chisel.addVariation(DamaskGray.getName(), DamaskGrayState, 99);
 			
 			
 			
@@ -696,6 +732,9 @@ public class ChiselSupport {
 			
 			IBlockState FloralCyanState = ModBlocks.FloralCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(FloralCyan.getName(), FloralCyanState, 99);
+
+			IBlockState DamaskCyanState = ModBlocks.DamaskCyan.getStateFromMeta(type.getMeta());
+			chisel.addVariation(DamaskCyan.getName(), DamaskCyanState, 99);
 			
 			IBlockState ClayCyanState = ModBlocks.ClayCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(ClayCyan.getName(), ClayCyanState, 99);

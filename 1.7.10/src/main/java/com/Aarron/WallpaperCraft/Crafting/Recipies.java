@@ -33,9 +33,12 @@ public class Recipies {
        GameRegistry.addRecipe(new ItemStack(ModItems.PressFloral, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.red_flower, 1, OreDictionary.WILDCARD_VALUE));
        
+       GameRegistry.addRecipe(new ItemStack(ModItems.PressDamask, 1),
+    		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.double_plant, 1, 4));
+       
        GameRegistry.addRecipe(new ItemStack(ModItems.PressClay, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.hardened_clay, 1));
-       
+              
        GameRegistry.addRecipe(new ItemStack(ModItems.PressTintedGlass, 1),
     		   "GPF", 'P', ModItems.PressBlank, 'G', Blocks.glass, 'F', new ItemStack(Items.dye, 1, OreDictionary.WILDCARD_VALUE));
        
@@ -478,6 +481,81 @@ public class Recipies {
     				);}
         				for (int i = 0; i < 15; i++) {
         					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.FloralGray, 1, (i+1)%15), new ItemStack(ModBlocks.FloralGray, 1, i%15));
+        						}
+        				
+	        			
+       //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    	
+ 
+       //Recipes For Damask Red Blocks
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskRed, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidRed, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskRed, 1, (i+1)%15), new ItemStack(ModBlocks.DamaskRed, 1, i%15));
+        						}
+      					
+      				
+       //Recipes For Damask Purple Blocks
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskPurple, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidPurple, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskPurple, 1, (i+1)%15), new ItemStack(ModBlocks.DamaskPurple, 1, i%15));
+        						}
+
+        	        	
+       //Recipes For Damask Blue Blocks
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskBlue, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidBlue, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskBlue, 1, (i+1)%15), new ItemStack(ModBlocks.DamaskBlue, 1, i%15));
+        						}
+
+       				
+       //Recipes For Damask Cyan Blocks
+       for (int j = 0; j < 10; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskCyan, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidCyan, 1, j)
+    				);}
+        				for (int i = 0; i < 10; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskCyan, 1, (i+1)%10), new ItemStack(ModBlocks.DamaskCyan, 1, i%10));
+        						}
+
+        				
+      //Recipes For Damask Green Blocks
+      for (int j = 0; j < 15; j++) {	        	
+  	  GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskGreen, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidGreen, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskGreen, 1, (i+1)%15), new ItemStack(ModBlocks.DamaskGreen, 1, i%15));
+        						}
+
+        				
+       //Recipes For Damask Yellow Blocks
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskYellow, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidYellow, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskYellow, 1, (i+1)%15), new ItemStack(ModBlocks.DamaskYellow, 1, i%15));
+        						}
+        	        	
+        	        	
+       //Recipes For Damask Brown Blocks
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskBrown, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidBrown, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskBrown, 1, (i+1)%15), new ItemStack(ModBlocks.DamaskBrown, 1, i%15));
+        						}
+    	
+        				
+       //Recipes For Damask Gray Blocks
+       for (int j = 0; j < 15; j++) {	        	
+  	   GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskGray, 1, j), ModItems.PressDamask, new ItemStack(ModBlocks.SolidGray, 1, j)
+    				);}
+        				for (int i = 0; i < 15; i++) {
+        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.DamaskGray, 1, (i+1)%15), new ItemStack(ModBlocks.DamaskGray, 1, i%15));
         						}
         
 
@@ -1693,6 +1771,14 @@ public class Recipies {
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBrown, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.FloralBrown, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.FloralGray, 1, j));
     	
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskRed, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidPurple, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskPurple, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBlue, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskBlue, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGreen, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskGreen, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidYellow, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskYellow, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBrown, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskBrown, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskGray, 1, j));
+    	
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ClayRed, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidPurple, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ClayPurple, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBlue, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ClayBlue, 1, j));
@@ -1763,6 +1849,7 @@ public class Recipies {
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DottedCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.StripedCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.FloralCyan, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ClayCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.BrickCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.StoneBrickCyan, 1, j));

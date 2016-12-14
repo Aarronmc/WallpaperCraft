@@ -14,6 +14,7 @@ public class ModItems {
 	public static PressDotted PressDotted;
 	public static PressStriped PressStriped;
 	public static PressFloral PressFloral;
+	public static PressDamask PressDamask;
 	public static PressClay PressClay;
 	public static PressTintedGlass PressTintedGlass;
 	public static PressTexturedGlass PressTexturedGlass;
@@ -36,6 +37,7 @@ public class ModItems {
     	PressDotted = new PressDotted();
     	PressStriped = new PressStriped();
     	PressFloral = new PressFloral();
+    	PressDamask = new PressDamask();
     	PressClay = new PressClay();
     	PressTintedGlass = new PressTintedGlass();
     	PressTexturedGlass = new PressTexturedGlass();
@@ -60,6 +62,7 @@ public class ModItems {
     	PressDotted.initModel();
     	PressStriped.initModel();
     	PressFloral.initModel();
+    	PressDamask.initModel();
     	PressClay.initModel();
     	PressTintedGlass.initModel();
     	PressTexturedGlass.initModel();

@@ -28,6 +28,7 @@ item.pressstonebrick.name=Stone Brick Pattern Press
 item.pressrippled.name=Rippled Pattern Press
 item.pressstamp.name=Stamp Pattern Press
 item.pressstonelamp.name=Stone Lamp Pattern Press
+item.pressdamask.name=Damask Pattern Press
 
 
 
@@ -854,6 +855,165 @@ tile.FloralGray_11.name=Floral Cool Gray
 tile.FloralGray_12.name=Floral Dark Cool Gray
 tile.FloralGray_13.name=Floral Cool Blue Gray
 tile.FloralGray_14.name=Floral Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########       STARTING NAMING OF DAMASK BLOCKS         ###########
+###########									     	       ###########
+######################################################################
+
+
+#Damask Red Colours
+tile.DamaskRed_0.name=Damask Light Warm Pink
+tile.DamaskRed_1.name=Damask Light Red
+tile.DamaskRed_2.name=Damask Bright Red
+tile.DamaskRed_3.name=Damask Red
+tile.DamaskRed_4.name=Damask Blood Red
+tile.DamaskRed_5.name=Damask Light Cool Pink
+tile.DamaskRed_6.name=Damask Pink
+tile.DamaskRed_7.name=Damask Hot Pink
+tile.DamaskRed_8.name=Damask Dark Pink
+tile.DamaskRed_9.name=Damask Hot Pink
+tile.DamaskRed_10.name=Damask Fuchsia
+tile.DamaskRed_11.name=Damask Baby Pink
+tile.DamaskRed_12.name=Damask Light Salmon
+tile.DamaskRed_13.name=Damask Brown Red
+tile.DamaskRed_14.name=Damask Dark Brown Red
+
+
+
+#Damask Purple Colours
+tile.DamaskPurple_0.name=Damask Light Magenta
+tile.DamaskPurple_1.name=Damask Magenta
+tile.DamaskPurple_2.name=Damask Dark Magenta
+tile.DamaskPurple_3.name=Damask Violet
+tile.DamaskPurple_4.name=Damask Dark Violet
+tile.DamaskPurple_5.name=Damask Light Violet
+tile.DamaskPurple_6.name=Damask Light Purple
+tile.DamaskPurple_7.name=Damask Purple
+tile.DamaskPurple_8.name=Damask Dark Purple
+tile.DamaskPurple_9.name=Damask Royal Blue
+tile.DamaskPurple_10.name=Damask Light Lavender
+tile.DamaskPurple_11.name=Damask Lavender
+tile.DamaskPurple_12.name=Damask Azure Blue
+tile.DamaskPurple_13.name=Damask Dark Blue
+tile.DamaskPurple_14.name=Damask Midnight Blue
+
+
+
+#Damask Blue Colours
+tile.DamaskBlue_0.name=Damask Light Blue
+tile.DamaskBlue_1.name=Damask Light Sky Blue
+tile.DamaskBlue_2.name=Damask Sky Blue
+tile.DamaskBlue_3.name=Damask Dark Sky Blue
+tile.DamaskBlue_4.name=Damask Navy Blue
+tile.DamaskBlue_5.name=Damask Light Baby Blue
+tile.DamaskBlue_6.name=Damask Baby Blue
+tile.DamaskBlue_7.name=Damask Bright Blue
+tile.DamaskBlue_8.name=Damask Medium Blue
+tile.DamaskBlue_9.name=Damask Deep Blue
+tile.DamaskBlue_10.name=Damask Light Aqua Blue
+tile.DamaskBlue_11.name=Damask Aqua Blue
+tile.DamaskBlue_12.name=Damask Dark Aqua Blue
+tile.DamaskBlue_13.name=Damask Ocean Blue
+tile.DamaskBlue_14.name=Damask Midnight Blue
+
+
+
+#Damask Brown Colours
+tile.DamaskBrown_0.name=Damask Soft Orange
+tile.DamaskBrown_1.name=Damask Sienna brown
+tile.DamaskBrown_2.name=Damask Burnt Sienna Brown
+tile.DamaskBrown_3.name=Damask Earth Brown
+tile.DamaskBrown_4.name=Damask Soil Brown
+tile.DamaskBrown_5.name=Damask Light Beige
+tile.DamaskBrown_6.name=Damask Beige
+tile.DamaskBrown_7.name=Damask Terracotta Red
+tile.DamaskBrown_8.name=Damask Brown
+tile.DamaskBrown_9.name=Damask Saddle Brown
+tile.DamaskBrown_10.name=Damask Light Gray Brown
+tile.DamaskBrown_11.name=Damask Gray Brown
+tile.DamaskBrown_12.name=Damask Middle Gray Brown
+tile.DamaskBrown_13.name=Damask Gray Brown
+tile.DamaskBrown_14.name=Damask Dark Gray Brown
+
+
+
+#Damask Cyan Colours
+tile.DamaskCyan_0.name=Damask Light Green Blue
+tile.DamaskCyan_1.name=Damask Light Turquoise Blue
+tile.DamaskCyan_2.name=Damask Turquoise Blue
+tile.DamaskCyan_3.name=Damask Teal Blue
+tile.DamaskCyan_4.name=Damask Dark Teal Blue
+tile.DamaskCyan_5.name=Damask Light Seafoam Blue Green
+tile.DamaskCyan_6.name=Damask Seafoam Blue Green
+tile.DamaskCyan_7.name=Damask Blue Green
+tile.DamaskCyan_8.name=Damask Dark Blue Green
+tile.DamaskCyan_9.name=Damask Dark Pine Blue Green
+
+
+
+#Damask Green Colours
+tile.DamaskGreen_0.name=Damask Light Green
+tile.DamaskGreen_1.name=Damask Light Spring Green
+tile.DamaskGreen_2.name=Damask Spring Green
+tile.DamaskGreen_3.name=Damask Green
+tile.DamaskGreen_4.name=Damask Dark Green
+tile.DamaskGreen_5.name=Damask Light Summer Green
+tile.DamaskGreen_6.name=Damask Summer Green
+tile.DamaskGreen_7.name=Damask Lush Green
+tile.DamaskGreen_8.name=Damask Deep Lush Green
+tile.DamaskGreen_9.name=Damask Dark Lush Green
+tile.DamaskGreen_10.name=Damask Light Spring Green
+tile.DamaskGreen_11.name=Damask Spring Green
+tile.DamaskGreen_12.name=Damask Light Olive Green
+tile.DamaskGreen_13.name=Damask Olive Green
+tile.DamaskGreen_14.name=Damask Moss Green
+
+
+
+#Damask Yellow Colours
+tile.DamaskYellow_0.name=Damask Light Lemon Yellow
+tile.DamaskYellow_1.name=Damask Lemon Yellow
+tile.DamaskYellow_2.name=Damask Sunny Yellow
+tile.DamaskYellow_3.name=Damask Soft Yellow
+tile.DamaskYellow_4.name=Damask Orange Yellow
+tile.DamaskYellow_5.name=Damask Light Sand Yellow
+tile.DamaskYellow_6.name=Damask Light Yellow
+tile.DamaskYellow_7.name=Damask Yellow
+tile.DamaskYellow_8.name=Damask Gold Yellow
+tile.DamaskYellow_9.name=Damask Dark Orange
+tile.DamaskYellow_10.name=Damask Light Orange
+tile.DamaskYellow_11.name=Damask Sunny Orange
+tile.DamaskYellow_12.name=Damask Orange
+tile.DamaskYellow_13.name=Damask Deep Orange
+tile.DamaskYellow_14.name=Damask Orange Red
+
+
+
+#Damask Gray Colours
+tile.DamaskGray_0.name=Damask White Gray
+tile.DamaskGray_1.name=Damask Light Gray
+tile.DamaskGray_2.name=Damask Gray
+tile.DamaskGray_3.name=Damask Dark Gray
+tile.DamaskGray_4.name=Damask Gray Black
+tile.DamaskGray_5.name=Damask Light Warm Gray
+tile.DamaskGray_6.name=Damask Warm Gray
+tile.DamaskGray_7.name=Damask Middle Warm Gray
+tile.DamaskGray_8.name=Damask Dark Warm Gray
+tile.DamaskGray_9.name=Damask Warm Black Gray
+tile.DamaskGray_10.name=Damask Light Cool gray
+tile.DamaskGray_11.name=Damask Cool Gray
+tile.DamaskGray_12.name=Damask Dark Cool Gray
+tile.DamaskGray_13.name=Damask Cool Blue Gray
+tile.DamaskGray_14.name=Damask Cool Dark Blue Gray
 
 
 

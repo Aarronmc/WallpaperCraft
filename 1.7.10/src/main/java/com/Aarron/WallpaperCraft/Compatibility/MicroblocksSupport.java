@@ -236,6 +236,51 @@ public class MicroblocksSupport {
 		
 		
 		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskRed, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskRed, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskPurple, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskPurple, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskBlue, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskBlue, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskCyan, 0);
+		for (int i = 0; i < 9; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskCyan, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskGreen, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskGreen, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskYellow, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskYellow, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskBrown, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskBrown, i);
+		}
+		
+		BlockMicroMaterial.createAndRegister(ModBlocks.DamaskGray, 0);
+		for (int i = 0; i < 15; i ++) {
+			BlockMicroMaterial.createAndRegister(ModBlocks.DamaskGray, i);
+		}
+		
+		
+		
+		
+		
+		
 		BlockMicroMaterial.createAndRegister(ModBlocks.ClayRed, 0);
 		for (int i = 0; i < 15; i ++) {
 			BlockMicroMaterial.createAndRegister(ModBlocks.ClayRed, i);

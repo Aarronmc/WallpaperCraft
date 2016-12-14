@@ -8,50 +8,14 @@ import net.minecraftforge.oredict.OreDictionary;
 import com.Aarron.WallpaperCraft.blocks.bricks.*;
 import com.Aarron.WallpaperCraft.blocks.carpet.*;
 import com.Aarron.WallpaperCraft.blocks.clay.*;
+import com.Aarron.WallpaperCraft.blocks.damask.*;
 import com.Aarron.WallpaperCraft.blocks.dotted.*;
 import com.Aarron.WallpaperCraft.blocks.floral.*;
 import com.Aarron.WallpaperCraft.blocks.glass.*;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPaneBlue;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPaneBrown;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPaneCyan;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPaneGray;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPaneGreen;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPanePurple;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPaneRed;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.FrostedPaneYellow;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPaneBlue;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPaneBrown;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPaneCyan;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPaneGray;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPaneGreen;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPanePurple;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPaneRed;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TexturedPaneYellow;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPaneBlue;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPaneBrown;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPaneCyan;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPaneGray;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPaneGreen;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPanePurple;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPaneRed;
-import com.Aarron.WallpaperCraft.blocks.glass.panes.TintedPaneYellow;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampBlue;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampBrown;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampCyan;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampGray;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampGreen;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampPurple;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampRed;
-import com.Aarron.WallpaperCraft.blocks.lamps.StoneLampYellow;
+import com.Aarron.WallpaperCraft.blocks.glass.panes.*;
+import com.Aarron.WallpaperCraft.blocks.lamps.*;
 import com.Aarron.WallpaperCraft.blocks.planks.*;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledBlue;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledBrown;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledCyan;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledGray;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledGreen;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledPurple;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledRed;
-import com.Aarron.WallpaperCraft.blocks.rippled.RippledYellow;
+import com.Aarron.WallpaperCraft.blocks.rippled.*;
 import com.Aarron.WallpaperCraft.blocks.solid.*;
 import com.Aarron.WallpaperCraft.blocks.stamp.Stamp;
 import com.Aarron.WallpaperCraft.blocks.striped.*;
@@ -115,6 +79,16 @@ public final class ModBlocks {
     public static FloralYellow FloralYellow;
     public static FloralBrown FloralBrown;
     public static FloralGray FloralGray;
+    
+    //Creating The Damask Blocks
+    public static DamaskRed DamaskRed;
+    public static DamaskPurple DamaskPurple;
+    public static DamaskBlue DamaskBlue;
+    public static DamaskCyan DamaskCyan;
+    public static DamaskGreen DamaskGreen;
+    public static DamaskYellow DamaskYellow;
+    public static DamaskBrown DamaskBrown;
+    public static DamaskGray DamaskGray;
     
     //Creating The Clay Blocks
     public static ClayRed ClayRed;
@@ -332,6 +306,16 @@ public final class ModBlocks {
         GameRegistry.registerBlock(FloralYellow = new FloralYellow("FloralYellow", Material.wood), ItemSolidBlock.class, "FloralYellow");
         GameRegistry.registerBlock(FloralBrown = new FloralBrown("FloralBrown", Material.wood), ItemSolidBlock.class, "FloralBrown");
         GameRegistry.registerBlock(FloralGray = new FloralGray("FloralGray", Material.wood), ItemSolidBlock.class, "FloralGray");
+        
+        // Registering The Damask Blocks
+        GameRegistry.registerBlock(DamaskRed = new DamaskRed("DamaskRed", Material.wood), ItemSolidBlock.class, "DamaskRed");
+        GameRegistry.registerBlock(DamaskPurple = new DamaskPurple("DamaskPurple", Material.wood), ItemSolidBlock.class, "DamaskPurple");
+        GameRegistry.registerBlock(DamaskBlue = new DamaskBlue("DamaskBlue", Material.wood), ItemSolidBlock.class, "DamaskBlue");
+        GameRegistry.registerBlock(DamaskCyan = new DamaskCyan("DamaskCyan", Material.wood), ItemSolidBlock.class, "DamaskCyan");
+        GameRegistry.registerBlock(DamaskGreen = new DamaskGreen("DamaskGreen", Material.wood), ItemSolidBlock.class, "DamaskGreen");
+        GameRegistry.registerBlock(DamaskYellow = new DamaskYellow("DamaskYellow", Material.wood), ItemSolidBlock.class, "DamaskYellow");
+        GameRegistry.registerBlock(DamaskBrown = new DamaskBrown("DamaskBrown", Material.wood), ItemSolidBlock.class, "DamaskBrown");
+        GameRegistry.registerBlock(DamaskGray = new DamaskGray("DamaskGray", Material.wood), ItemSolidBlock.class, "DamaskGray");
         
 		// Registering The Clay Blocks
         GameRegistry.registerBlock(ClayRed = new ClayRed("ClayRed", Material.rock), ItemSolidBlock.class, "ClayRed");

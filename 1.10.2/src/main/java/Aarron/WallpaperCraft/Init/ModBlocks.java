@@ -11,6 +11,7 @@ import net.minecraftforge.oredict.OreDictionary;
 import Aarron.WallpaperCraft.blocks.bricks.*;
 import Aarron.WallpaperCraft.blocks.carpets.*;
 import Aarron.WallpaperCraft.blocks.clay.*;
+import Aarron.WallpaperCraft.blocks.damask.*;
 import Aarron.WallpaperCraft.blocks.dotted.*;
 import Aarron.WallpaperCraft.blocks.floral.*;
 import Aarron.WallpaperCraft.blocks.glass.*;
@@ -72,6 +73,15 @@ public class ModBlocks {
 	public static FloralYellow FloralYellow = new FloralYellow();
 	public static FloralBrown FloralBrown = new FloralBrown();
 	public static FloralGray FloralGray = new FloralGray();
+	
+	public static DamaskRed DamaskRed = new DamaskRed();
+	public static DamaskPurple DamaskPurple = new DamaskPurple();
+	public static DamaskBlue DamaskBlue = new DamaskBlue();
+	public static DamaskCyan DamaskCyan = new DamaskCyan();
+	public static DamaskGreen DamaskGreen = new DamaskGreen();
+	public static DamaskYellow DamaskYellow = new DamaskYellow();
+	public static DamaskBrown DamaskBrown = new DamaskBrown();
+	public static DamaskGray DamaskGray = new DamaskGray();
 
 	public static ClayRed ClayRed = new ClayRed();
 	public static ClayPurple ClayPurple = new ClayPurple();
@@ -246,6 +256,15 @@ public class ModBlocks {
 		FloralBrown.initModel();
 		FloralGray.initModel();
 		
+		DamaskRed.initModel();
+		DamaskPurple.initModel();
+		DamaskBlue.initModel();
+		DamaskCyan.initModel();
+		DamaskGreen.initModel();
+		DamaskYellow.initModel();
+		DamaskBrown.initModel();
+		DamaskGray.initModel();
+		
 		ClayRed.initModel();
 		ClayPurple.initModel();
 		ClayBlue.initModel();
@@ -414,6 +433,15 @@ public class ModBlocks {
 		GameRegistry.register(FloralYellow);
 		GameRegistry.register(FloralBrown);
 		GameRegistry.register(FloralGray);
+		
+		GameRegistry.register(DamaskRed);
+		GameRegistry.register(DamaskPurple);
+		GameRegistry.register(DamaskBlue);
+		GameRegistry.register(DamaskCyan);
+		GameRegistry.register(DamaskGreen);
+		GameRegistry.register(DamaskYellow);
+		GameRegistry.register(DamaskBrown);
+		GameRegistry.register(DamaskGray);
 		
 		GameRegistry.register(ClayRed);
 		GameRegistry.register(ClayPurple);

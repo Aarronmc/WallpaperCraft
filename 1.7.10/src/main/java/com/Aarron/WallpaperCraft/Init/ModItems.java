@@ -15,6 +15,7 @@ public final class ModItems {
 	public static PressDotted PressDotted;
 	public static PressStriped PressStriped;
 	public static PressFloral PressFloral;
+	public static PressDamask PressDamask;
 	public static PressClay PressClay;
 	public static PressTintedGlass PressTintedGlass;
 	public static PressTexturedGlass PressTexturedGlass;
@@ -39,6 +40,7 @@ public final class ModItems {
 		PressDotted = registerItem(new PressDotted());
 		PressStriped = registerItem(new PressStriped());
 		PressFloral = registerItem(new PressFloral());
+		PressDamask = registerItem(new PressDamask());
 		PressClay = registerItem(new PressClay());
 		PressTintedGlass = registerItem(new PressTintedGlass());
 		PressTexturedGlass = registerItem(new PressTexturedGlass());

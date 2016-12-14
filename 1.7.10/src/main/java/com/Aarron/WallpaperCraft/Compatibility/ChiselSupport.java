@@ -56,6 +56,15 @@ public class ChiselSupport {
 		addToChisle("Floral Brown Blocks", ModBlocks.FloralBrown, 14);
 		addToChisle("Floral Gray Blocks", ModBlocks.FloralGray, 14);
 		
+		addToChisle("Damask Red Blocks", ModBlocks.DamaskRed, 14);
+		addToChisle("Damask Purple Blocks", ModBlocks.DamaskPurple, 14);
+		addToChisle("Damask Blue Blocks", ModBlocks.DamaskBlue, 14);
+		addToChisle("Damask Cyan Blocks", ModBlocks.DamaskCyan, 9);
+		addToChisle("Damask Green Blocks", ModBlocks.DamaskGreen, 14);
+		addToChisle("Damask Yellow Blocks", ModBlocks.DamaskYellow, 14);
+		addToChisle("Damask Brown Blocks", ModBlocks.DamaskBrown, 14);
+		addToChisle("Damask Gray Blocks", ModBlocks.DamaskGray, 14);
+		
 		addToChisle("Clay Red Blocks", ModBlocks.ClayRed, 14);
 		addToChisle("Clay Purple Blocks", ModBlocks.ClayPurple, 14);
 		addToChisle("Clay Blue Blocks", ModBlocks.ClayBlue, 14);
