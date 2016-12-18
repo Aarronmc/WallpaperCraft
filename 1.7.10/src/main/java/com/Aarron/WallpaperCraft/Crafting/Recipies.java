@@ -88,10 +88,7 @@ public class Recipies {
        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.Stamp, 1, (i+1)%16), new ItemStack(ModBlocks.Stamp, 1, i%16));}
        				
 
-       
-       
-
-		
+       				
 	   ////////////////////////////////////		115 BLOCK VARIANT RECIPIES		////////////////////////////////////
 
        //Recipes for Solid block
@@ -117,10 +114,7 @@ public class Recipies {
     	   }
        }
        
-       				
-       				
-    	
- 
+
        //Recipes for Diagonally Dotted blocks
        for (int j = 0, i = 0; j < 15 || i < 10; j++, i++) {
     	   if ( j < 15){
@@ -194,6 +188,7 @@ public class Recipies {
   	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StripedCyan, 1, (i+1)%10), new ItemStack(ModBlocks.StripedCyan, 1, i%10));
   	   	   }
        }
+       
        
        //Recipes for Floral blocks
        for (int j = 0, i = 0; j < 15 || i < 10; j++, i++) {
