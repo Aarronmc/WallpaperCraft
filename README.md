@@ -22,14 +22,3 @@ Both 1.7.10 and 1.10.2 versions can be found on [CurseForge](https://minecraft.c
 ##Issues
 
 Found a bug? Let me know in as much detail as possible on the [Issue Tracker](https://github.com/Aarronmc/WallpaperCraft/issues)
-
-
-
-
-
-
-
-
-
-
-Hi /r/feedthebeast mods, /u/gimpbizket here and my artist is /u/555-555-555
