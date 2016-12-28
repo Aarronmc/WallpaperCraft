@@ -37,17 +37,20 @@ public class EventHandler {
      
       {
         ItemStack itemStack = entityPlayer.getHeldItem(EnumHand.MAIN_HAND);
-        if ((itemStack != null) && entityPlayer.isSneaking() && ((itemStack.getItem() instanceof ItemBlockMeta)) || 
-        		(itemStack != null) && entityPlayer.isSneaking() && ((itemStack.getItem()instanceof ItemBlockMeta2)) || 
-        			(itemStack != null) && entityPlayer.isSneaking() && ((itemStack.getItem()instanceof ItemBlockMeta3)))
+        if ((Keyboard.isKeyDown(184)) || (Keyboard.isKeyDown(56)) || (Keyboard.isKeyDown(157)) || (Keyboard.isKeyDown(29)))
+        {
+        if ((itemStack != null) && ((itemStack.getItem() instanceof ItemBlockMeta)) || 
+        		(itemStack != null) && ((itemStack.getItem()instanceof ItemBlockMeta2)) || 
+        			(itemStack != null) && ((itemStack.getItem()instanceof ItemBlockMeta3)))
         {
           if (event.getDwheel() != 0) {
         	  PacketHandler.NETWORK_WRAPPER.sendToServer(new MetaCycle(event.getDwheel() > 0));
           }
           event.setCanceled(true);
+        	}
         }
       }
-    }
-  }
+    }   
+ }
 
 

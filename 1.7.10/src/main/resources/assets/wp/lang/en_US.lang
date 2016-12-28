@@ -29,6 +29,8 @@ item.pressrippled.name=Rippled Pattern Press
 item.pressstamp.name=Stamp Pattern Press
 item.pressstonelamp.name=Stone Lamp Pattern Press
 item.pressdamask.name=Damask Pattern Press
+item.pressjewel.name=Jewel Pattern Press
+item.pressauralamp.name=Aura Lamp Pattern Press
 
 
 
@@ -61,6 +63,36 @@ tile.Stamp_12.name=Stamp Brown
 tile.Stamp_13.name=Stamp Light Gray
 tile.Stamp_14.name=Stamp Gray
 tile.Stamp_15.name=Stamp Dark Gray
+
+
+
+
+
+
+
+
+################################################################
+###########											 ###########
+###########      STARTING NAMING OF JEWEL BLOCKS      ###########
+###########											 ###########
+################################################################
+
+tile.Jewel_0.name=Jewel Pink
+tile.Jewel_1.name=Jewel Red
+tile.Jewel_2.name=Jewel Hot Pink
+tile.Jewel_3.name=Jewel Purple
+tile.Jewel_4.name=Jewel Light Blue
+tile.Jewel_5.name=Jewel Blue
+tile.Jewel_6.name=Jewel Dark Blue
+tile.Jewel_7.name=Jewel Light Green
+tile.Jewel_8.name=Jewel Green
+tile.Jewel_9.name=Jewel Dark Green
+tile.Jewel_10.name=Jewel Yellow
+tile.Jewel_11.name=Jewel Orange
+tile.Jewel_12.name=Jewel Brown
+tile.Jewel_13.name=Jewel Light Gray
+tile.Jewel_14.name=Jewel Gray
+tile.Jewel_15.name=Jewel Dark Gray
 
 
 
@@ -3555,3 +3587,163 @@ tile.CheckeredCarpetGray_11.name=Checkered Carpet Cool Gray
 tile.CheckeredCarpetGray_12.name=Checkered Carpet Dark Cool Gray
 tile.CheckeredCarpetGray_13.name=Checkered Carpet Cool Blue Gray
 tile.CheckeredCarpetGray_14.name=Checkered Carpet Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########      STARTING NAMING OF AURA LAMP BLOCKS       ###########
+###########									     	       ###########
+######################################################################
+
+
+#Aura Lamp Red Colours
+tile.AuraLampRed_0.name=Aura Lamp Light Warm Pink
+tile.AuraLampRed_1.name=Aura Lamp Light Red
+tile.AuraLampRed_2.name=Aura Lamp Bright Red
+tile.AuraLampRed_3.name=Aura Lamp Red
+tile.AuraLampRed_4.name=Aura Lamp Blood Red
+tile.AuraLampRed_5.name=Aura Lamp Light Cool Pink
+tile.AuraLampRed_6.name=Aura Lamp Pink
+tile.AuraLampRed_7.name=Aura Lamp Hot Pink
+tile.AuraLampRed_8.name=Aura Lamp Dark Pink
+tile.AuraLampRed_9.name=Aura Lamp Hot Pink
+tile.AuraLampRed_10.name=Aura Lamp Fuchsia
+tile.AuraLampRed_11.name=Aura Lamp Baby Pink
+tile.AuraLampRed_12.name=Aura Lamp Light Salmon
+tile.AuraLampRed_13.name=Aura Lamp Brown Red
+tile.AuraLampRed_14.name=Aura Lamp Dark Brown Red
+
+
+
+#Aura Lamp Purple Colours
+tile.AuraLampPurple_0.name=Aura Lamp Light Magenta
+tile.AuraLampPurple_1.name=Aura Lamp Magenta
+tile.AuraLampPurple_2.name=Aura Lamp Dark Magenta
+tile.AuraLampPurple_3.name=Aura Lamp Violet
+tile.AuraLampPurple_4.name=Aura Lamp Dark Violet
+tile.AuraLampPurple_5.name=Aura Lamp Light Violet
+tile.AuraLampPurple_6.name=Aura Lamp Light Purple
+tile.AuraLampPurple_7.name=Aura Lamp Purple
+tile.AuraLampPurple_8.name=Aura Lamp Dark Purple
+tile.AuraLampPurple_9.name=Aura Lamp Royal Blue
+tile.AuraLampPurple_10.name=Aura Lamp Light Lavender
+tile.AuraLampPurple_11.name=Aura Lamp Lavender
+tile.AuraLampPurple_12.name=Aura Lamp Azure Blue
+tile.AuraLampPurple_13.name=Aura Lamp Dark Blue
+tile.AuraLampPurple_14.name=Aura Lamp Midnight Blue
+
+
+
+#Aura Lamp Blue Colours
+tile.AuraLampBlue_0.name=Aura Lamp Light Blue
+tile.AuraLampBlue_1.name=Aura Lamp Light Sky Blue
+tile.AuraLampBlue_2.name=Aura Lamp Sky Blue
+tile.AuraLampBlue_3.name=Aura Lamp Dark Sky Blue
+tile.AuraLampBlue_4.name=Aura Lamp Navy Blue
+tile.AuraLampBlue_5.name=Aura Lamp Light Baby Blue
+tile.AuraLampBlue_6.name=Aura Lamp Baby Blue
+tile.AuraLampBlue_7.name=Aura Lamp Bright Blue
+tile.AuraLampBlue_8.name=Aura Lamp Medium Blue
+tile.AuraLampBlue_9.name=Aura Lamp Deep Blue
+tile.AuraLampBlue_10.name=Aura Lamp Light Aqua Blue
+tile.AuraLampBlue_11.name=Aura Lamp Aqua Blue
+tile.AuraLampBlue_12.name=Aura Lamp Dark Aqua Blue
+tile.AuraLampBlue_13.name=Aura Lamp Ocean Blue
+tile.AuraLampBlue_14.name=Aura Lamp Midnight Blue
+
+
+
+#Aura Lamp Brown Colours
+tile.AuraLampBrown_0.name=Aura Lamp Soft Orange
+tile.AuraLampBrown_1.name=Aura Lamp Sienna brown
+tile.AuraLampBrown_2.name=Aura Lamp Burnt Sienna Brown
+tile.AuraLampBrown_3.name=Aura Lamp Earth Brown
+tile.AuraLampBrown_4.name=Aura Lamp Soil Brown
+tile.AuraLampBrown_5.name=Aura Lamp Light Beige
+tile.AuraLampBrown_6.name=Aura Lamp Beige
+tile.AuraLampBrown_7.name=Aura Lamp Terracotta Red
+tile.AuraLampBrown_8.name=Aura Lamp Brown
+tile.AuraLampBrown_9.name=Aura Lamp Saddle Brown
+tile.AuraLampBrown_10.name=Aura Lamp Light Gray Brown
+tile.AuraLampBrown_11.name=Aura Lamp Gray Brown
+tile.AuraLampBrown_12.name=Aura Lamp Middle Gray Brown
+tile.AuraLampBrown_13.name=Aura Lamp Gray Brown
+tile.AuraLampBrown_14.name=Aura Lamp Dark Gray Brown
+
+
+
+#Aura Lamp Cyan Colours
+tile.AuraLampCyan_0.name=Aura Lamp Light Green Blue
+tile.AuraLampCyan_1.name=Aura Lamp Light Turquoise Blue
+tile.AuraLampCyan_2.name=Aura Lamp Turquoise Blue
+tile.AuraLampCyan_3.name=Aura Lamp Teal Blue
+tile.AuraLampCyan_4.name=Aura Lamp Dark Teal Blue
+tile.AuraLampCyan_5.name=Aura Lamp Light Seafoam Blue Green
+tile.AuraLampCyan_6.name=Aura Lamp Seafoam Blue Green
+tile.AuraLampCyan_7.name=Aura Lamp Blue Green
+tile.AuraLampCyan_8.name=Aura Lamp Dark Blue Green
+tile.AuraLampCyan_9.name=Aura Lamp Dark Pine Blue Green
+
+
+
+#Aura Lamp Green Colours
+tile.AuraLampGreen_0.name=Aura Lamp Light Green
+tile.AuraLampGreen_1.name=Aura Lamp Light Spring Green
+tile.AuraLampGreen_2.name=Aura Lamp Spring Green
+tile.AuraLampGreen_3.name=Aura Lamp Green
+tile.AuraLampGreen_4.name=Aura Lamp Dark Green
+tile.AuraLampGreen_5.name=Aura Lamp Light Summer Green
+tile.AuraLampGreen_6.name=Aura Lamp Summer Green
+tile.AuraLampGreen_7.name=Aura Lamp Lush Green
+tile.AuraLampGreen_8.name=Aura Lamp Deep Lush Green
+tile.AuraLampGreen_9.name=Aura Lamp Dark Lush Green
+tile.AuraLampGreen_10.name=Aura Lamp Light Spring Green
+tile.AuraLampGreen_11.name=Aura Lamp Spring Green
+tile.AuraLampGreen_12.name=Aura Lamp Light Olive Green
+tile.AuraLampGreen_13.name=Aura Lamp Olive Green
+tile.AuraLampGreen_14.name=Aura Lamp Moss Green
+
+
+
+#Aura Lamp Yellow Colours
+tile.AuraLampYellow_0.name=Aura Lamp Light Lemon Yellow
+tile.AuraLampYellow_1.name=Aura Lamp Lemon Yellow
+tile.AuraLampYellow_2.name=Aura Lamp Sunny Yellow
+tile.AuraLampYellow_3.name=Aura Lamp Soft Yellow
+tile.AuraLampYellow_4.name=Aura Lamp Orange Yellow
+tile.AuraLampYellow_5.name=Aura Lamp Light Sand Yellow
+tile.AuraLampYellow_6.name=Aura Lamp Light Yellow
+tile.AuraLampYellow_7.name=Aura Lamp Yellow
+tile.AuraLampYellow_8.name=Aura Lamp Gold Yellow
+tile.AuraLampYellow_9.name=Aura Lamp Dark Orange
+tile.AuraLampYellow_10.name=Aura Lamp Light Orange
+tile.AuraLampYellow_11.name=Aura Lamp Sunny Orange
+tile.AuraLampYellow_12.name=Aura Lamp Orange
+tile.AuraLampYellow_13.name=Aura Lamp Deep Orange
+tile.AuraLampYellow_14.name=Aura Lamp Orange Red
+
+
+
+#Aura Lamp Gray Colours
+tile.AuraLampGray_0.name=Aura Lamp White Gray
+tile.AuraLampGray_1.name=Aura Lamp Light Gray
+tile.AuraLampGray_2.name=Aura Lamp Gray
+tile.AuraLampGray_3.name=Aura Lamp Dark Gray
+tile.AuraLampGray_4.name=Aura Lamp Gray Black
+tile.AuraLampGray_5.name=Aura Lamp Light Warm Gray
+tile.AuraLampGray_6.name=Aura Lamp Warm Gray
+tile.AuraLampGray_7.name=Aura Lamp Middle Warm Gray
+tile.AuraLampGray_8.name=Aura Lamp Dark Warm Gray
+tile.AuraLampGray_9.name=Aura Lamp Warm Black Gray
+tile.AuraLampGray_10.name=Aura Lamp Light Cool gray
+tile.AuraLampGray_11.name=Aura Lamp Cool Gray
+tile.AuraLampGray_12.name=Aura Lamp Dark Cool Gray
+tile.AuraLampGray_13.name=Aura Lamp Cool Blue Gray
+tile.AuraLampGray_14.name=Aura Lamp Cool Dark Blue Gray

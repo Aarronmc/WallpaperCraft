@@ -26,9 +26,11 @@ public final class ModItems {
 	public static PressStoneLamp PressStoneLamp;
 	public static PressRippled PressRippled;
 	public static PressStamp PressStamp;
+	public static PressJewel PressJewel;
 	public static PressWoodPlank PressWoodPlank;
 	public static PressWool PressWool;
 	public static PressCheckered PressCheckered;
+	public static PressAuraLamp PressAuraLamp;
 	//public static Spectrum spectrum;
 	
 	
@@ -51,9 +53,11 @@ public final class ModItems {
 		PressStoneLamp = registerItem(new PressStoneLamp());
 		PressRippled = registerItem(new PressRippled());
 		PressStamp = registerItem(new PressStamp());
+		PressJewel = registerItem(new PressJewel());
 		PressWoodPlank = registerItem(new PressWoodPlank());
 		PressWool = registerItem(new PressWool());
 		PressCheckered = registerItem(new PressCheckered());
+		PressAuraLamp = registerItem(new PressAuraLamp());
 		//spectrum = registerItem(new Spectrum());
 		
 		

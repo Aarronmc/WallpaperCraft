@@ -37,7 +37,7 @@ public class CommonProxy {
 
 	public void init(FMLInitializationEvent event) {
 		MinecraftForge.EVENT_BUS.register(new EventHandler());
-		PacketHandler.registerMessages("modtut");
+		PacketHandler.registerMessages("MetaCycle");
 		Recipies.init();
 				
 

@@ -177,6 +177,14 @@ public class JEIPlugin extends BlankModPlugin {
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.FrostedGlassYellow,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.FrostedGlassBrown,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.FrostedGlassGray,0, + i));
+	    			
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampRed,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampPurple,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampBlue,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampGreen,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampYellow,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampBrown,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampGray,0, + i));
 	    		}
 	    		
 	    		for (int i = 1; i < 10; i ++) {
@@ -199,7 +207,7 @@ public class JEIPlugin extends BlankModPlugin {
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.TintedGlassCyan,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.TexturedGlassCyan,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.FrostedGlassCyan,0, + i));
-	    			
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.AuraLampCyan,0, + i));
 	    			
 	    		}
 	    			

@@ -1,13 +1,13 @@
 [
 {
-  "modid": "WallpaperCraft",
+  "modid": "wallpapercraft",
   "name": "WallpaperCraft",
-  "description": "A decorative Minecraft mod .",
+  "description": "A decorative Minecraft mod",
   "version": "1.03",
   "mcversion": "1.10.2",
   "url": "https://wallpapercraft.carbonmade.com/",
   "updateUrl": "",
-  "authorList": ["Aarron"],
+  "authorList": ["AarronMC"],
   "logoFile": "",
   "screenshots": [],
   "dependencies": [mod_MinecraftForge]

@@ -24,9 +24,11 @@ public class ModItems {
 	public static PressStoneLamp PressStoneLamp;
 	public static PressRippled PressRippled;
 	public static PressStamp PressStamp;
+	public static PressJewel PressJewel;
 	public static PressWoodPlank PressWoodPlank;
 	public static PressWool PressWool;
 	public static PressCheckered PressCheckered;
+	public static PressAuraLamp PressAuraLamp;
 	
 
 
@@ -47,9 +49,11 @@ public class ModItems {
     	PressStoneLamp = new PressStoneLamp();
     	PressRippled = new PressRippled();
     	PressStamp = new PressStamp();
+    	PressJewel = new PressJewel();
     	PressWoodPlank = new PressWoodPlank();
     	PressWool = new PressWool();
     	PressCheckered = new PressCheckered();
+    	PressAuraLamp = new PressAuraLamp();
 
     	
     }
@@ -72,9 +76,11 @@ public class ModItems {
     	PressStoneLamp.initModel();
     	PressRippled.initModel();
     	PressStamp.initModel();
+    	PressJewel.initModel();
     	PressWoodPlank.initModel();
      	PressWool.initModel();
     	PressCheckered.initModel();
+    	PressAuraLamp.initModel();
     	
     	
     }

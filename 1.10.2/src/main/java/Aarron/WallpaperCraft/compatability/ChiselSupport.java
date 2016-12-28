@@ -140,6 +140,8 @@ public class ChiselSupport {
 		
 		ICarvingGroup Stamp = getGroup(chisel, "Stamp");
 		
+		ICarvingGroup Jewel = getGroup(chisel, "Jewel");
+		
 		ICarvingGroup WoodPlankRed = getGroup(chisel, "WoodPlankRed");
 		ICarvingGroup WoodPlankPurple = getGroup(chisel, "WoodPlankPurple");
 		ICarvingGroup WoodPlankBlue = getGroup(chisel, "WoodPlankBlue");
@@ -193,6 +195,15 @@ public class ChiselSupport {
 		ICarvingGroup CheckeredCarpetYellow = getGroup(chisel, "CheckeredCarpetYellow");
 		ICarvingGroup CheckeredCarpetBrown = getGroup(chisel, "CheckeredCarpetBrown");
 		ICarvingGroup CheckeredCarpetGray = getGroup(chisel, "CheckeredCarpetGray");
+		
+		ICarvingGroup AuraLampRed = getGroup(chisel, "AuraLampRed");
+		ICarvingGroup AuraLampPurple = getGroup(chisel, "AuraLampPurple");
+		ICarvingGroup AuraLampBlue = getGroup(chisel, "AuraLampBlue");
+		ICarvingGroup AuraLampCyan = getGroup(chisel, "AuraLampCyan");
+		ICarvingGroup AuraLampGreen = getGroup(chisel, "AuraLampGreen");
+		ICarvingGroup AuraLampYellow = getGroup(chisel, "AuraLampYellow");
+		ICarvingGroup AuraLampBrown = getGroup(chisel, "AuraLampBrown");
+		ICarvingGroup AuraLampGray = getGroup(chisel, "AuraLampGray");
 
 		
 		chisel.addGroup(SolidRed);
@@ -314,6 +325,8 @@ public class ChiselSupport {
 		
 		chisel.addGroup(Stamp);
 		
+		chisel.addGroup(Jewel);
+		
 		chisel.addGroup(WoodPlankRed);
 		chisel.addGroup(WoodPlankPurple);
 		chisel.addGroup(WoodPlankBlue);
@@ -367,6 +380,15 @@ public class ChiselSupport {
 		chisel.addGroup(CheckeredCarpetYellow);
 		chisel.addGroup(CheckeredCarpetBrown);
 		chisel.addGroup(CheckeredCarpetGray);
+		
+		chisel.addGroup(AuraLampRed);
+		chisel.addGroup(AuraLampPurple);
+		chisel.addGroup(AuraLampBlue);
+		chisel.addGroup(AuraLampCyan);
+		chisel.addGroup(AuraLampGreen);
+		chisel.addGroup(AuraLampYellow);
+		chisel.addGroup(AuraLampBrown);
+		chisel.addGroup(AuraLampGray);
 		
 		
 
@@ -715,6 +737,24 @@ public class ChiselSupport {
 			
 			
 			
+			IBlockState AuraLampRedState = ModBlocks.AuraLampRed.getStateFromMeta(type.getMeta());
+			IBlockState AuraLampPurpleState = ModBlocks.AuraLampPurple.getStateFromMeta(type.getMeta());
+			IBlockState AuraLampBlueState = ModBlocks.AuraLampBlue.getStateFromMeta(type.getMeta());
+			IBlockState AuraLampgreenState = ModBlocks.AuraLampGreen.getStateFromMeta(type.getMeta());
+			IBlockState AuraLampYellowState = ModBlocks.AuraLampYellow.getStateFromMeta(type.getMeta());
+			IBlockState AuraLampBrownState = ModBlocks.AuraLampBrown.getStateFromMeta(type.getMeta());
+			IBlockState AuraLampGrayState = ModBlocks.AuraLampGray.getStateFromMeta(type.getMeta());
+
+			chisel.addVariation(AuraLampRed.getName(), AuraLampRedState, 99);
+			chisel.addVariation(AuraLampPurple.getName(), AuraLampPurpleState, 99);
+			chisel.addVariation(AuraLampBlue.getName(), AuraLampBlueState, 99);
+			chisel.addVariation(AuraLampGreen.getName(), AuraLampgreenState, 99);
+			chisel.addVariation(AuraLampYellow.getName(), AuraLampYellowState, 99);
+			chisel.addVariation(AuraLampBrown.getName(), AuraLampBrownState, 99);
+			chisel.addVariation(AuraLampGray.getName(), AuraLampGrayState, 99);
+			
+			
+			
 
 
 		}
@@ -777,12 +817,18 @@ public class ChiselSupport {
 			
 			IBlockState CheckeredCarpetCyanState = ModBlocks.CheckeredCarpetCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(CheckeredCarpetCyan.getName(), CheckeredCarpetCyanState, 99);
+			
+			IBlockState AuraLampCyanState = ModBlocks.AuraLampCyan.getStateFromMeta(type.getMeta());
+			chisel.addVariation(AuraLampCyan.getName(), AuraLampCyanState, 99);
 
 		}
 		
 		for (BlockTypes3 type : BlockTypes3.values()) {
 			IBlockState StampState = ModBlocks.Stamp.getStateFromMeta(type.getMeta());
 			chisel.addVariation(Stamp.getName(), StampState, 99);
+			
+			IBlockState JewelState = ModBlocks.Jewel.getStateFromMeta(type.getMeta());
+			chisel.addVariation(Stamp.getName(), JewelState, 99);
 		}
 		
 

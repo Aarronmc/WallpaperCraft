@@ -76,7 +76,11 @@ public class Recipies {
        GameRegistry.addRecipe(new ItemStack(ModItems.PressStamp, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.stone_slab, 1, 0));
        
+       GameRegistry.addRecipe(new ItemStack(ModItems.PressJewel, 1),
+    		   "FP", 'P', ModItems.PressBlank, 'F', Items.diamond);
        
+       GameRegistry.addRecipe(new ItemStack(ModItems.PressAuraLamp, 1),
+    		   "FPS", 'P', ModItems.PressBlank, 'F', Blocks.glowstone, 'S', Blocks.lapis_block);
        
        
        ////////////////////////////////////		16 BLOCK VARIANT RECIPIES		////////////////////////////////////	
@@ -87,6 +91,13 @@ public class Recipies {
     		   "FP", 'F', ModItems.PressStamp, 'P', "solidWPBlocks"));}
        				for (int i = 0; i < 16; i++) {
        					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.Stamp, 1, (i+1)%16), new ItemStack(ModBlocks.Stamp, 1, i%16));}
+       				
+       //Recipes for Stamp Blocks
+       for (int j = 0; j < 16; j++) {
+       GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModBlocks.Jewel, 1, j),
+    		   "FP", 'F', ModItems.PressJewel, 'P', "solidWPBlocks"));}
+       				for (int i = 0; i < 16; i++) {
+       					GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.Jewel, 1, (i+1)%16), new ItemStack(ModBlocks.Jewel, 1, i%16));}
        				
 
        				
@@ -539,6 +550,30 @@ public class Recipies {
 			GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.CheckeredCarpetCyan, 1, (i+1)%10), new Object[] {new ItemStack(ModBlocks.CheckeredCarpetCyan, 1, i%10)});
     	   }
        }
+       
+       //Recipes for Aura Lamps
+       for (int j = 0, i = 0; j < 15 || i < 10; j++, i++) {
+    	   if ( j < 15){
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampRed, 1, j), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidRed, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampRed, 1, (j+1)%15), new ItemStack(ModBlocks.AuraLampRed, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampPurple, 1, j), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidPurple, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampPurple, 1, (j+1)%15), new ItemStack(ModBlocks.AuraLampPurple, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampBlue, 1, j), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidBlue, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampBlue, 1, (j+1)%15), new ItemStack(ModBlocks.AuraLampBlue, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampGreen, 1, j), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidGreen, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampGreen, 1, (j+1)%15), new ItemStack(ModBlocks.AuraLampGreen, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampYellow, 1, j), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidYellow, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampYellow, 1, (j+1)%15), new ItemStack(ModBlocks.AuraLampYellow, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampBrown, 1, j), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidBrown, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampBrown, 1, (j+1)%15), new ItemStack(ModBlocks.AuraLampBrown, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampGray, 1, j), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidGray, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampGray, 1, (j+1)%15), new ItemStack(ModBlocks.AuraLampGray, 1, j%15));
+    	   }
+  	   	   if ( i < 10){
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampCyan, 1, i), ModItems.PressAuraLamp, new ItemStack(ModBlocks.SolidCyan, 1, i));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.AuraLampCyan, 1, (i+1)%10), new ItemStack(ModBlocks.AuraLampCyan, 1, i%10));
+  	   	   }
+       }
     					
     					
 				////////////////////////////////////		UNCRAFTING		////////////////////////////////////
@@ -645,7 +680,16 @@ public class Recipies {
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGreen, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.CheckeredWoolGreen, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidYellow, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.CheckeredWoolYellow, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBrown, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.CheckeredWoolBrown, 1, j));
-    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.CheckeredWoolGray, 1, j)
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.CheckeredWoolGray, 1, j));
+    	
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampRed, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidPurple, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampPurple, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBlue, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampBlue, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGreen, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampGreen, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidYellow, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampYellow, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBrown, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampBrown, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampGray, 1, j)
+    	
     			);}
     	
     	for (int j = 0; j < 10; j++) {
@@ -661,11 +705,13 @@ public class Recipies {
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.RippledCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.WoodPlankCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.WoolCyan, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.CheckeredWoolCyan, 1, j)
     			);}
     	
     	for (int j = 0; j < 16; j++) {    	
-    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.Stamp, 1, j)
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.Stamp, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.Jewel, 1, j)
     			);}
     	
 

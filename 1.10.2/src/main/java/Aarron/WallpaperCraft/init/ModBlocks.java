@@ -15,6 +15,7 @@ import Aarron.WallpaperCraft.blocks.damask.*;
 import Aarron.WallpaperCraft.blocks.dotted.*;
 import Aarron.WallpaperCraft.blocks.floral.*;
 import Aarron.WallpaperCraft.blocks.glass.*;
+import Aarron.WallpaperCraft.blocks.jewel.*;
 import Aarron.WallpaperCraft.blocks.lamps.*;
 import Aarron.WallpaperCraft.blocks.planks.*;
 import Aarron.WallpaperCraft.blocks.rippled.*;
@@ -131,6 +132,8 @@ public class ModBlocks {
 	
 	public static Stamp Stamp = new Stamp();
 	
+	public static Jewel Jewel = new Jewel();
+	
 	public static WoodPlankRed WoodPlankRed = new WoodPlankRed();
 	public static WoodPlankPurple WoodPlankPurple = new WoodPlankPurple();
 	public static WoodPlankBlue WoodPlankBlue = new WoodPlankBlue();
@@ -157,6 +160,15 @@ public class ModBlocks {
 	public static CheckeredWoolYellow CheckeredWoolYellow = new CheckeredWoolYellow();
 	public static CheckeredWoolBrown CheckeredWoolBrown = new CheckeredWoolBrown();
 	public static CheckeredWoolGray CheckeredWoolGray = new CheckeredWoolGray();
+	
+	public static AuraLampRed AuraLampRed = new AuraLampRed();
+	public static AuraLampPurple AuraLampPurple = new AuraLampPurple();
+	public static AuraLampBlue AuraLampBlue = new AuraLampBlue();
+	public static AuraLampCyan AuraLampCyan = new AuraLampCyan();
+	public static AuraLampGreen AuraLampGreen = new AuraLampGreen();
+	public static AuraLampYellow AuraLampYellow = new AuraLampYellow();
+	public static AuraLampBrown AuraLampBrown = new AuraLampBrown();
+	public static AuraLampGray AuraLampGray = new AuraLampGray();
 
 	public static TintedGlassRed TintedGlassRed = new TintedGlassRed();
 	public static TintedGlassPurple TintedGlassPurple = new TintedGlassPurple();
@@ -202,6 +214,8 @@ public class ModBlocks {
 	public static CheckeredCarpetYellow CheckeredCarpetYellow = new CheckeredCarpetYellow();
 	public static CheckeredCarpetBrown CheckeredCarpetBrown = new CheckeredCarpetBrown();
 	public static CheckeredCarpetGray CheckeredCarpetGray = new CheckeredCarpetGray();
+	
+	
 
 
 	
@@ -313,6 +327,8 @@ public class ModBlocks {
 		
 		Stamp.initModel();
 		
+		Jewel.initModel();
+		
 		WoodPlankRed.initModel();
 		WoodPlankPurple.initModel();
 		WoodPlankBlue.initModel();
@@ -339,6 +355,15 @@ public class ModBlocks {
 		CheckeredWoolYellow.initModel();
 		CheckeredWoolBrown.initModel();
 		CheckeredWoolGray.initModel();
+		
+		AuraLampRed.initModel();
+		AuraLampPurple.initModel();
+		AuraLampBlue.initModel();
+		AuraLampCyan.initModel();
+		AuraLampGreen.initModel();
+		AuraLampYellow.initModel();
+		AuraLampBrown.initModel();
+		AuraLampGray.initModel();
 	
 		TintedGlassRed.initModel();
 		TintedGlassPurple.initModel();
@@ -491,6 +516,8 @@ public class ModBlocks {
 		
 		GameRegistry.register(Stamp);
 		
+		GameRegistry.register(Jewel);
+		
 		GameRegistry.register(WoodPlankRed);
 		GameRegistry.register(WoodPlankPurple);
 		GameRegistry.register(WoodPlankBlue);
@@ -517,6 +544,15 @@ public class ModBlocks {
 		GameRegistry.register(CheckeredWoolYellow);
 		GameRegistry.register(CheckeredWoolBrown);
 		GameRegistry.register(CheckeredWoolGray);
+		
+		GameRegistry.register(AuraLampRed);
+		GameRegistry.register(AuraLampPurple);
+		GameRegistry.register(AuraLampBlue);
+		GameRegistry.register(AuraLampCyan);
+		GameRegistry.register(AuraLampGreen);
+		GameRegistry.register(AuraLampYellow);
+		GameRegistry.register(AuraLampBrown);
+		GameRegistry.register(AuraLampGray);
 
 		GameRegistry.register(TintedGlassRed);
 		GameRegistry.register(TintedGlassPurple);

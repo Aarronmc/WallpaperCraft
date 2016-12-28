@@ -27,6 +27,8 @@ item.pressrippled.name=Rippled Pattern Press
 item.pressstamp.name=Stamp Pattern Press
 item.pressstonelamp.name=Stone Lamp Pattern Press
 item.pressdamask.name=Damask Pattern Press
+item.pressjewel.name=Jewel Pattern Press
+item.pressauralamp.name=Aura Lamp Pattern Press
 
 
 
@@ -58,6 +60,36 @@ tile.WallpaperCraft:stamp_12.name=Stamp Brown
 tile.WallpaperCraft:stamp_13.name=Stamp Light Gray
 tile.WallpaperCraft:stamp_14.name=Stamp Gray
 tile.WallpaperCraft:stamp_15.name=Stamp Dark Gray
+
+
+
+
+
+
+
+
+################################################################
+###########											 ###########
+###########      STARTING NAMING OF JEWEL BLOCKS      ###########
+###########											 ###########
+################################################################
+
+tile.WallpaperCraft:jewel_0.name=Jewel Pink
+tile.WallpaperCraft:jewel_1.name=Jewel Red
+tile.WallpaperCraft:jewel_2.name=Jewel Hot Pink
+tile.WallpaperCraft:jewel_3.name=Jewel Purple
+tile.WallpaperCraft:jewel_4.name=Jewel Light Blue
+tile.WallpaperCraft:jewel_5.name=Jewel Blue
+tile.WallpaperCraft:jewel_6.name=Jewel Dark Blue
+tile.WallpaperCraft:jewel_7.name=Jewel Light Green
+tile.WallpaperCraft:jewel_8.name=Jewel Green
+tile.WallpaperCraft:jewel_9.name=Jewel Dark Green
+tile.WallpaperCraft:jewel_10.name=Jewel Yellow
+tile.WallpaperCraft:jewel_11.name=Jewel Orange
+tile.WallpaperCraft:jewel_12.name=Jewel Brown
+tile.WallpaperCraft:jewel_13.name=Jewel Light Gray
+tile.WallpaperCraft:jewel_14.name=Jewel Gray
+tile.WallpaperCraft:jewel_15.name=Jewel Dark Gray
 
 
 
@@ -3091,3 +3123,163 @@ tile.WallpaperCraft:rippledgray_11.name=Rippled Cool Gray
 tile.WallpaperCraft:rippledgray_12.name=Rippled Dark Cool Gray
 tile.WallpaperCraft:rippledgray_13.name=Rippled Cool Blue Gray
 tile.WallpaperCraft:rippledgray_14.name=Rippled Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########      STARTING NAMING OF AURA LAMP BLOCKS       ###########
+###########									     	       ###########
+######################################################################
+
+
+#Aura Lamp Red Colours
+tile.WallpaperCraft:auralampred_0.name=Aura Lamp Light Warm Pink
+tile.WallpaperCraft:auralampred_1.name=Aura Lamp Light Red
+tile.WallpaperCraft:auralampred_2.name=Aura Lamp Bright Red
+tile.WallpaperCraft:auralampred_3.name=Aura Lamp Red
+tile.WallpaperCraft:auralampred_4.name=Aura Lamp Blood Red
+tile.WallpaperCraft:auralampred_5.name=Aura Lamp Light Cool Pink
+tile.WallpaperCraft:auralampred_6.name=Aura Lamp Pink
+tile.WallpaperCraft:auralampred_7.name=Aura Lamp Hot Pink
+tile.WallpaperCraft:auralampred_8.name=Aura Lamp Dark Pink
+tile.WallpaperCraft:auralampred_9.name=Aura Lamp Hot Pink
+tile.WallpaperCraft:auralampred_10.name=Aura Lamp Fuchsia
+tile.WallpaperCraft:auralampred_11.name=Aura Lamp Baby Pink
+tile.WallpaperCraft:auralampred_12.name=Aura Lamp Light Salmon
+tile.WallpaperCraft:auralampred_13.name=Aura Lamp Brown Red
+tile.WallpaperCraft:auralampred_14.name=Aura Lamp Dark Brown Red
+
+
+
+#Aura Lamp Purple Colours
+tile.WallpaperCraft:auralamppurple_0.name=Aura Lamp Light Magenta
+tile.WallpaperCraft:auralamppurple_1.name=Aura Lamp Magenta
+tile.WallpaperCraft:auralamppurple_2.name=Aura Lamp Dark Magenta
+tile.WallpaperCraft:auralamppurple_3.name=Aura Lamp Violet
+tile.WallpaperCraft:auralamppurple_4.name=Aura Lamp Dark Violet
+tile.WallpaperCraft:auralamppurple_5.name=Aura Lamp Light Violet
+tile.WallpaperCraft:auralamppurple_6.name=Aura Lamp Light Purple
+tile.WallpaperCraft:auralamppurple_7.name=Aura Lamp Purple
+tile.WallpaperCraft:auralamppurple_8.name=Aura Lamp Dark Purple
+tile.WallpaperCraft:auralamppurple_9.name=Aura Lamp Royal Blue
+tile.WallpaperCraft:auralamppurple_10.name=Aura Lamp Light Lavender
+tile.WallpaperCraft:auralamppurple_11.name=Aura Lamp Lavender
+tile.WallpaperCraft:auralamppurple_12.name=Aura Lamp Azure Blue
+tile.WallpaperCraft:auralamppurple_13.name=Aura Lamp Dark Blue
+tile.WallpaperCraft:auralamppurple_14.name=Aura Lamp Midnight Blue
+
+
+
+#Aura Lamp Blue Colours
+tile.WallpaperCraft:auralampblue_0.name=Aura Lamp Light Blue
+tile.WallpaperCraft:auralampblue_1.name=Aura Lamp Light Sky Blue
+tile.WallpaperCraft:auralampblue_2.name=Aura Lamp Sky Blue
+tile.WallpaperCraft:auralampblue_3.name=Aura Lamp Dark Sky Blue
+tile.WallpaperCraft:auralampblue_4.name=Aura Lamp Navy Blue
+tile.WallpaperCraft:auralampblue_5.name=Aura Lamp Light Baby Blue
+tile.WallpaperCraft:auralampblue_6.name=Aura Lamp Baby Blue
+tile.WallpaperCraft:auralampblue_7.name=Aura Lamp Bright Blue
+tile.WallpaperCraft:auralampblue_8.name=Aura Lamp Medium Blue
+tile.WallpaperCraft:auralampblue_9.name=Aura Lamp Deep Blue
+tile.WallpaperCraft:auralampblue_10.name=Aura Lamp Light Aqua Blue
+tile.WallpaperCraft:auralampblue_11.name=Aura Lamp Aqua Blue
+tile.WallpaperCraft:auralampblue_12.name=Aura Lamp Dark Aqua Blue
+tile.WallpaperCraft:auralampblue_13.name=Aura Lamp Ocean Blue
+tile.WallpaperCraft:auralampblue_14.name=Aura Lamp Midnight Blue
+
+
+
+#Aura Lamp Brown Colours
+tile.WallpaperCraft:auralampbrown_0.name=Aura Lamp Soft Orange
+tile.WallpaperCraft:auralampbrown_1.name=Aura Lamp Sienna brown
+tile.WallpaperCraft:auralampbrown_2.name=Aura Lamp Burnt Sienna Brown
+tile.WallpaperCraft:auralampbrown_3.name=Aura Lamp Earth Brown
+tile.WallpaperCraft:auralampbrown_4.name=Aura Lamp Soil Brown
+tile.WallpaperCraft:auralampbrown_5.name=Aura Lamp Light Beige
+tile.WallpaperCraft:auralampbrown_6.name=Aura Lamp Beige
+tile.WallpaperCraft:auralampbrown_7.name=Aura Lamp Terracotta Red
+tile.WallpaperCraft:auralampbrown_8.name=Aura Lamp Brown
+tile.WallpaperCraft:auralampbrown_9.name=Aura Lamp Saddle Brown
+tile.WallpaperCraft:auralampbrown_10.name=Aura Lamp Light Gray Brown
+tile.WallpaperCraft:auralampbrown_11.name=Aura Lamp Gray Brown
+tile.WallpaperCraft:auralampbrown_12.name=Aura Lamp Middle Gray Brown
+tile.WallpaperCraft:auralampbrown_13.name=Aura Lamp Gray Brown
+tile.WallpaperCraft:auralampbrown_14.name=Aura Lamp Dark Gray Brown
+
+
+
+#Aura Lamp Cyan Colours
+tile.WallpaperCraft:auralampcyan_0.name=Aura Lamp Light Green Blue
+tile.WallpaperCraft:auralampcyan_1.name=Aura Lamp Light Turquoise Blue
+tile.WallpaperCraft:auralampcyan_2.name=Aura Lamp Turquoise Blue
+tile.WallpaperCraft:auralampcyan_3.name=Aura Lamp Teal Blue
+tile.WallpaperCraft:auralampcyan_4.name=Aura Lamp Dark Teal Blue
+tile.WallpaperCraft:auralampcyan_5.name=Aura Lamp Light Seafoam Blue Green
+tile.WallpaperCraft:auralampcyan_6.name=Aura Lamp Seafoam Blue Green
+tile.WallpaperCraft:auralampcyan_7.name=Aura Lamp Blue Green
+tile.WallpaperCraft:auralampcyan_8.name=Aura Lamp Dark Blue Green
+tile.WallpaperCraft:auralampcyan_9.name=Aura Lamp Dark Pine Blue Green
+
+
+
+#Aura Lamp Green Colours
+tile.WallpaperCraft:auralampgreen_0.name=Aura Lamp Light Green
+tile.WallpaperCraft:auralampgreen_1.name=Aura Lamp Light Spring Green
+tile.WallpaperCraft:auralampgreen_2.name=Aura Lamp Spring Green
+tile.WallpaperCraft:auralampgreen_3.name=Aura Lamp Green
+tile.WallpaperCraft:auralampgreen_4.name=Aura Lamp Dark Green
+tile.WallpaperCraft:auralampgreen_5.name=Aura Lamp Light Summer Green
+tile.WallpaperCraft:auralampgreen_6.name=Aura Lamp Summer Green
+tile.WallpaperCraft:auralampgreen_7.name=Aura Lamp Lush Green
+tile.WallpaperCraft:auralampgreen_8.name=Aura Lamp Deep Lush Green
+tile.WallpaperCraft:auralampgreen_9.name=Aura Lamp Dark Lush Green
+tile.WallpaperCraft:auralampgreen_10.name=Aura Lamp Light Spring Green
+tile.WallpaperCraft:auralampgreen_11.name=Aura Lamp Spring Green
+tile.WallpaperCraft:auralampgreen_12.name=Aura Lamp Light Olive Green
+tile.WallpaperCraft:auralampgreen_13.name=Aura Lamp Olive Green
+tile.WallpaperCraft:auralampgreen_14.name=Aura Lamp Moss Green
+
+
+
+#Aura Lamp Yellow Colours
+tile.WallpaperCraft:auralampyellow_0.name=Aura Lamp Light Lemon Yellow
+tile.WallpaperCraft:auralampyellow_1.name=Aura Lamp Lemon Yellow
+tile.WallpaperCraft:auralampyellow_2.name=Aura Lamp Sunny Yellow
+tile.WallpaperCraft:auralampyellow_3.name=Aura Lamp Soft Yellow
+tile.WallpaperCraft:auralampyellow_4.name=Aura Lamp Orange Yellow
+tile.WallpaperCraft:auralampyellow_5.name=Aura Lamp Light Sand Yellow
+tile.WallpaperCraft:auralampyellow_6.name=Aura Lamp Light Yellow
+tile.WallpaperCraft:auralampyellow_7.name=Aura Lamp Yellow
+tile.WallpaperCraft:auralampyellow_8.name=Aura Lamp Gold Yellow
+tile.WallpaperCraft:auralampyellow_9.name=Aura Lamp Dark Orange
+tile.WallpaperCraft:auralampyellow_10.name=Aura Lamp Light Orange
+tile.WallpaperCraft:auralampyellow_11.name=Aura Lamp Sunny Orange
+tile.WallpaperCraft:auralampyellow_12.name=Aura Lamp Orange
+tile.WallpaperCraft:auralampyellow_13.name=Aura Lamp Deep Orange
+tile.WallpaperCraft:auralampyellow_14.name=Aura Lamp Orange Red
+
+
+
+#Aura Lamp Gray Colours
+tile.WallpaperCraft:auralampgray_0.name=Aura Lamp White Gray
+tile.WallpaperCraft:auralampgray_1.name=Aura Lamp Light Gray
+tile.WallpaperCraft:auralampgray_2.name=Aura Lamp Gray
+tile.WallpaperCraft:auralampgray_3.name=Aura Lamp Dark Gray
+tile.WallpaperCraft:auralampgray_4.name=Aura Lamp Gray Black
+tile.WallpaperCraft:auralampgray_5.name=Aura Lamp Light Warm Gray
+tile.WallpaperCraft:auralampgray_6.name=Aura Lamp Warm Gray
+tile.WallpaperCraft:auralampgray_7.name=Aura Lamp Middle Warm Gray
+tile.WallpaperCraft:auralampgray_8.name=Aura Lamp Dark Warm Gray
+tile.WallpaperCraft:auralampgray_9.name=Aura Lamp Warm Black Gray
+tile.WallpaperCraft:auralampgray_10.name=Aura Lamp Light Cool gray
+tile.WallpaperCraft:auralampgray_11.name=Aura Lamp Cool Gray
+tile.WallpaperCraft:auralampgray_12.name=Aura Lamp Dark Cool Gray
+tile.WallpaperCraft:auralampgray_13.name=Aura Lamp Cool Blue Gray
+tile.WallpaperCraft:auralampgray_14.name=Aura Lamp Cool Dark Blue Gray

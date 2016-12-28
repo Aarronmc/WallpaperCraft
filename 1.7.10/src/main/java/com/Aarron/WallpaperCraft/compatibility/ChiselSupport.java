@@ -210,7 +210,18 @@ public class ChiselSupport {
 		addToChisle("Checkered Brown Carpets", ModBlocks.CheckeredCarpetBrown, 14);
 		addToChisle("Checkered Gray Carpets", ModBlocks.CheckeredCarpetGray, 14);
 		
+		addToChisle("Aura Lamp Red Blocks", ModBlocks.AuraLampRed, 14);
+		addToChisle("Aura Lamp Purple Blocks", ModBlocks.AuraLampPurple, 14);
+		addToChisle("Aura Lamp Blue Blocks", ModBlocks.AuraLampBlue, 14);
+		addToChisle("Aura Lamp Cyan Blocks", ModBlocks.AuraLampCyan, 9);
+		addToChisle("Aura Lamp Green Blocks", ModBlocks.AuraLampGreen, 14);
+		addToChisle("Aura Lamp Yellow Blocks", ModBlocks.AuraLampYellow, 14);
+		addToChisle("Aura Lamp Brown Blocks", ModBlocks.AuraLampBrown, 14);
+		addToChisle("Aura Lamp Gray Blocks", ModBlocks.AuraLampGray, 14);
+		
 		addToChisle("Stamp Blocks", ModBlocks.Stamp, 15);
+		
+		addToChisle("Jewel Blocks", ModBlocks.Jewel, 15);
 		
 		
 		

@@ -2,10 +2,14 @@ package com.Aarron.WallpaperCraft.proxy;
 
 import java.io.File;
 
+import net.minecraftforge.common.MinecraftForge;
+
 import com.Aarron.WallpaperCraft.compatibility.ChiselSupport;
 import com.Aarron.WallpaperCraft.compatibility.MicroblocksSupport;
 import com.Aarron.WallpaperCraft.crafting.Recipies;
 import com.Aarron.WallpaperCraft.handler.ConfigHandler;
+import com.Aarron.WallpaperCraft.handler.EventHandler;
+import com.Aarron.WallpaperCraft.handler.PacketHandler;
 import com.Aarron.WallpaperCraft.init.ModBlocks;
 import com.Aarron.WallpaperCraft.init.ModItems;
 
@@ -42,6 +46,8 @@ public class CommonProxy {
     			MicroblocksSupport.init();}
     	else System.out.print("Install Forge Microblocks and set 'enableMicroblocks' to true in the WallpaperCraft config file to enable Forge Microblocks intergration ");
     		}
+    	MinecraftForge.EVENT_BUS.register(new EventHandler());
+		PacketHandler.registerMessages("MetaCycle");
     	
     	}
 
