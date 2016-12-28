@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.blockStates.BlockStates;
 import Aarron.WallpaperCraft.blockStates.BlockTypes2;
-import Aarron.WallpaperCraft.blocks.IMetaBlock;
+import Aarron.WallpaperCraft.blocks.IMetaBlock2;
 
 
-public class DamaskCyan extends IMetaBlock<BlockTypes2> {
+public class DamaskCyan extends IMetaBlock2<BlockTypes2> {
 
 	public DamaskCyan() {
 		super(Material.WOOD, "damaskcyan");

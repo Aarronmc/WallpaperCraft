@@ -24,6 +24,7 @@ import Aarron.WallpaperCraft.blocks.striped.*;
 import Aarron.WallpaperCraft.blocks.wool.*;
 
 
+
 public class ModBlocks {
 	
 	public static void init() {
@@ -562,7 +563,7 @@ public class ModBlocks {
 		GameRegistry.register(CheckeredCarpetBrown);
 		GameRegistry.register(CheckeredCarpetGray);
 		
-		
+				
 		
 		
 		

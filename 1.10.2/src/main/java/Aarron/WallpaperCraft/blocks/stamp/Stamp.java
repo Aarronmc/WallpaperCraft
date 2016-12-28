@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.blockStates.BlockStates;
 import Aarron.WallpaperCraft.blockStates.BlockTypes3;
-import Aarron.WallpaperCraft.blocks.IMetaBlock;
+import Aarron.WallpaperCraft.blocks.IMetaBlock3;
 
 
-public class Stamp extends IMetaBlock<BlockTypes3> {
+public class Stamp extends IMetaBlock3<BlockTypes3> {
 
 	public Stamp() {
 		super(Material.WOOD, "stamp");

@@ -6,9 +6,10 @@ import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.blockStates.BlockStates;
 import Aarron.WallpaperCraft.blockStates.BlockTypes2;
 import Aarron.WallpaperCraft.blocks.IMetaBlock;
+import Aarron.WallpaperCraft.blocks.IMetaBlock2;
 
 
-public class BrickCyan extends IMetaBlock<BlockTypes2> {
+public class BrickCyan extends IMetaBlock2<BlockTypes2> {
 
 	public BrickCyan() {
 		super(Material.ROCK, "brickcyan");

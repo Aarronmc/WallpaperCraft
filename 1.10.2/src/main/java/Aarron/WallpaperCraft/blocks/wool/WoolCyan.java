@@ -5,10 +5,10 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import Aarron.WallpaperCraft.blockStates.BlockStates;
 import Aarron.WallpaperCraft.blockStates.BlockTypes2;
-import Aarron.WallpaperCraft.blocks.IMetaBlock;
+import Aarron.WallpaperCraft.blocks.IMetaBlock2;
 
 
-public class WoolCyan extends IMetaBlock<BlockTypes2> {
+public class WoolCyan extends IMetaBlock2<BlockTypes2> {
 
 	public WoolCyan() {
 		super(Material.CLOTH, "woolcyan");

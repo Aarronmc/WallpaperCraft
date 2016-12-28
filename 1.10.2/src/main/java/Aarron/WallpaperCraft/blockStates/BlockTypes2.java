@@ -46,4 +46,5 @@ public enum BlockTypes2 implements IStringSerializable, IVariantDefinition {
 	public String getVariantName() {
 		return "type";
 	}
+
 }

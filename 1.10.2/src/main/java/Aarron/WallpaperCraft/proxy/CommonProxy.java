@@ -2,6 +2,7 @@ package Aarron.WallpaperCraft.proxy;
 
 import java.io.File;
 
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.fml.common.Loader;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -9,6 +10,8 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import Aarron.WallpaperCraft.compatability.ChiselSupport;
 import Aarron.WallpaperCraft.handler.ConfigHandler;
+import Aarron.WallpaperCraft.handler.EventHandler;
+import Aarron.WallpaperCraft.handler.PacketHandler;
 import Aarron.WallpaperCraft.init.ModBlocks;
 import Aarron.WallpaperCraft.init.ModItems;
 import Aarron.WallpaperCraft.init.Recipies;
@@ -33,8 +36,10 @@ public class CommonProxy {
 	}
 
 	public void init(FMLInitializationEvent event) {
+		MinecraftForge.EVENT_BUS.register(new EventHandler());
+		PacketHandler.registerMessages("modtut");
 		Recipies.init();
-		
+				
 
 	}
 

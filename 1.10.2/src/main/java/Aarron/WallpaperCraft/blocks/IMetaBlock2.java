@@ -24,11 +24,11 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import Aarron.WallpaperCraft.init.ModCreativeTabs;
 
-public abstract class IMetaBlock<T extends Enum<T> & IStringSerializable & IVariantDefinition> extends Block implements IMetaBlockName{
+public abstract class IMetaBlock2<T extends Enum<T> & IStringSerializable & IVariantDefinition> extends Block implements IMetaBlockName{
 
 	private final Collection<T> variantValues;
 	
-	protected IMetaBlock(Material materialIn, String registryName) {
+	protected IMetaBlock2(Material materialIn, String registryName) {
 		super(materialIn);
 		
 		variantValues = getVariantEnum().getAllowedValues();
@@ -40,7 +40,7 @@ public abstract class IMetaBlock<T extends Enum<T> & IStringSerializable & IVari
         setDefaultState(this.blockState.getBaseState().withProperty(getVariantEnum(), getDefaultStateVariant()));
         setRegistryName(registryName);
         setUnlocalizedName("WallpaperCraft:" + registryName);
-        GameRegistry.register(new ItemBlockMeta(this));
+        GameRegistry.register(new ItemBlockMeta2(this));
 	}
 	
 	protected abstract T getDefaultStateVariant();
