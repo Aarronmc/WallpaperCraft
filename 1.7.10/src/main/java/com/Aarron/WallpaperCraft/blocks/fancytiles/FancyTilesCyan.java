@@ -1,4 +1,4 @@
-package com.Aarron.WallpaperCraft.blocks.lamps;
+package com.Aarron.WallpaperCraft.blocks.fancytiles;
 
 import java.util.List;
 
@@ -13,24 +13,23 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.util.IIcon;
 import net.minecraft.block.Block;
 
-public class AuraLampBlue extends Block {
+public class FancyTilesCyan extends Block {
 
-public IIcon[] icons = new IIcon[15];
+public IIcon[] icons = new IIcon[10];
 
-	public AuraLampBlue(String unlocalizedName, Material material) {
+	public FancyTilesCyan(String unlocalizedName, Material material) {
 		super(material);
-		this.setBlockName("AuraLampBlue");
-		this.setHardness(1.5F);
+		this.setBlockName("FancyTilesCyan");
+		this.setHardness(2.0F);
 		this.setResistance(6.0F);
-		this.setHarvestLevel("pickaxe", 0);
-		this.setStepSound(soundTypeGlass);
+		this.setHarvestLevel("axe", 0);
+		this.setStepSound(soundTypeWood);
 		this.setCreativeTab(Tab.WPtab);
-		this.setLightLevel(1.0F);
 	}
 
 	@Override //Sets how many variations there are
 	public IIcon getIcon(int side, int meta) {
-		if (meta > 15)
+		if (meta > 11)
 			meta = 0;
 		return this.icons[meta];
 
@@ -38,8 +37,8 @@ public IIcon[] icons = new IIcon[15];
 
 	@Override //Registers the textures for each block. This is where I set the texture name.
 	public void registerBlockIcons(IIconRegister reg) {
-		for (int i = 0; i < 15; i ++) {
-			this.icons[i] = reg.registerIcon("wp:AuraLampBlue-" + i);
+		for (int i = 0; i < 10; i ++) {
+			this.icons[i] = reg.registerIcon("wp:FancyTilesCyan-" + i);
 		}
 }
 
@@ -50,7 +49,7 @@ public IIcon[] icons = new IIcon[15];
 
 	@Override //Tells Minecraft to assign a creative tab for each meta value of the block
 	public void getSubBlocks(Item item, CreativeTabs tab, List list) {
-		for (int i = 0; i < 15; i ++) {
+		for (int i = 0; i < 10; i ++) {
 			list.add(new ItemStack(item, 1, i));
 		}
 } 

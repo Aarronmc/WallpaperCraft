@@ -138,6 +138,15 @@ public class ChiselSupport {
 		ICarvingGroup RippledBrown = getGroup(chisel, "RippledBrown");
 		ICarvingGroup RippledGray = getGroup(chisel, "RippledGray");
 		
+		ICarvingGroup FancyTilesRed = getGroup(chisel, "FancyTilesRed");
+		ICarvingGroup FancyTilesPurple = getGroup(chisel, "FancyTilesPurple");
+		ICarvingGroup FancyTilesBlue = getGroup(chisel, "FancyTilesBlue");
+		ICarvingGroup FancyTilesCyan = getGroup(chisel, "FancyTilesCyan");
+		ICarvingGroup FancyTilesGreen = getGroup(chisel, "FancyTilesGreen");
+		ICarvingGroup FancyTilesYellow = getGroup(chisel, "FancyTilesYellow");
+		ICarvingGroup FancyTilesBrown = getGroup(chisel, "FancyTilesBrown");
+		ICarvingGroup FancyTilesGray = getGroup(chisel, "FancyTilesGray");
+		
 		ICarvingGroup Stamp = getGroup(chisel, "Stamp");
 		
 		ICarvingGroup Jewel = getGroup(chisel, "Jewel");
@@ -322,6 +331,15 @@ public class ChiselSupport {
 		chisel.addGroup(RippledYellow);
 		chisel.addGroup(RippledBrown);
 		chisel.addGroup(RippledGray);
+		
+		chisel.addGroup(FancyTilesRed);
+		chisel.addGroup(FancyTilesPurple);
+		chisel.addGroup(FancyTilesBlue);
+		chisel.addGroup(FancyTilesCyan);
+		chisel.addGroup(FancyTilesGreen);
+		chisel.addGroup(FancyTilesYellow);
+		chisel.addGroup(FancyTilesBrown);
+		chisel.addGroup(FancyTilesGray);
 		
 		chisel.addGroup(Stamp);
 		
@@ -625,6 +643,24 @@ public class ChiselSupport {
 			chisel.addVariation(RippledYellow.getName(), RippledYellowState, 99);
 			chisel.addVariation(RippledBrown.getName(), RippledBrownState, 99);
 			chisel.addVariation(RippledGray.getName(), RippledGrayState, 99);
+
+			
+			
+			IBlockState FancyTilesRedState = ModBlocks.FancyTilesRed.getStateFromMeta(type.getMeta());
+			IBlockState FancyTilesPurpleState = ModBlocks.FancyTilesPurple.getStateFromMeta(type.getMeta());
+			IBlockState FancyTilesBlueState = ModBlocks.FancyTilesBlue.getStateFromMeta(type.getMeta());
+			IBlockState FancyTilesgreenState = ModBlocks.FancyTilesGreen.getStateFromMeta(type.getMeta());
+			IBlockState FancyTilesYellowState = ModBlocks.FancyTilesYellow.getStateFromMeta(type.getMeta());
+			IBlockState FancyTilesBrownState = ModBlocks.FancyTilesBrown.getStateFromMeta(type.getMeta());
+			IBlockState FancyTilesGrayState = ModBlocks.FancyTilesGray.getStateFromMeta(type.getMeta());
+
+			chisel.addVariation(FancyTilesRed.getName(), FancyTilesRedState, 99);
+			chisel.addVariation(FancyTilesPurple.getName(), FancyTilesPurpleState, 99);
+			chisel.addVariation(FancyTilesBlue.getName(), FancyTilesBlueState, 99);
+			chisel.addVariation(FancyTilesGreen.getName(), FancyTilesgreenState, 99);
+			chisel.addVariation(FancyTilesYellow.getName(), FancyTilesYellowState, 99);
+			chisel.addVariation(FancyTilesBrown.getName(), FancyTilesBrownState, 99);
+			chisel.addVariation(FancyTilesGray.getName(), FancyTilesGrayState, 99);
 			
 			
 			
@@ -799,6 +835,9 @@ public class ChiselSupport {
 			
 			IBlockState RippledCyanState = ModBlocks.RippledCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(RippledCyan.getName(), RippledCyanState, 99);
+			
+			IBlockState FancyTilesCyanState = ModBlocks.FancyTilesCyan.getStateFromMeta(type.getMeta());
+			chisel.addVariation(FancyTilesCyan.getName(), FancyTilesCyanState, 99);
 			
 			IBlockState WoodPlankCyanState = ModBlocks.WoodPlankCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(WoodPlankCyan.getName(), WoodPlankCyanState, 99);

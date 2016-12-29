@@ -21,6 +21,7 @@ import com.Aarron.WallpaperCraft.blocks.solid.*;
 import com.Aarron.WallpaperCraft.blocks.stamp.Stamp;
 import com.Aarron.WallpaperCraft.blocks.striped.*;
 import com.Aarron.WallpaperCraft.blocks.wool.*;
+import com.Aarron.WallpaperCraft.blocks.fancytiles.*;
 import com.Aarron.WallpaperCraft.creativeTab.Tab;
 import com.Aarron.WallpaperCraft.handler.ConfigHandler;
 import com.Aarron.WallpaperCraft.items.ItemSolidBlock;
@@ -142,6 +143,16 @@ public final class ModBlocks {
     public static RippledYellow RippledYellow;
     public static RippledBrown RippledBrown;
     public static RippledGray RippledGray;
+    
+    //Creating The Fancy Tiles
+    public static FancyTilesRed FancyTilesRed;
+    public static FancyTilesPurple FancyTilesPurple;
+    public static FancyTilesBlue FancyTilesBlue;
+    public static FancyTilesCyan FancyTilesCyan;
+    public static FancyTilesGreen FancyTilesGreen;
+    public static FancyTilesYellow FancyTilesYellow;
+    public static FancyTilesBrown FancyTilesBrown;
+    public static FancyTilesGray FancyTilesGray;
     
     //Creating the Stamp Pattern blocks
     public static Stamp Stamp;
@@ -383,6 +394,16 @@ public final class ModBlocks {
         GameRegistry.registerBlock(RippledYellow = new RippledYellow("RippledYellow", Material.wood), ItemSolidBlock.class, "RippledYellow");
         GameRegistry.registerBlock(RippledBrown = new RippledBrown("RippledBrown", Material.wood), ItemSolidBlock.class, "RippledBrown");
         GameRegistry.registerBlock(RippledGray = new RippledGray("RippledGray", Material.wood), ItemSolidBlock.class, "RippledGray");
+        
+        // Registering The Fancy Tiles
+        GameRegistry.registerBlock(FancyTilesRed = new FancyTilesRed("FancyTilesRed", Material.wood), ItemSolidBlock.class, "FancyTilesRed");
+        GameRegistry.registerBlock(FancyTilesPurple = new FancyTilesPurple("FancyTilesPurple", Material.wood), ItemSolidBlock.class, "FancyTilesPurple");
+        GameRegistry.registerBlock(FancyTilesBlue = new FancyTilesBlue("FancyTilesBlue", Material.wood), ItemSolidBlock.class, "FancyTilesBlue");
+        GameRegistry.registerBlock(FancyTilesCyan = new FancyTilesCyan("FancyTilesCyan", Material.wood), ItemSolidBlock2.class, "FancyTilesCyan");
+        GameRegistry.registerBlock(FancyTilesGreen = new FancyTilesGreen("FancyTilesGreen", Material.wood), ItemSolidBlock.class, "FancyTilesGreen");
+        GameRegistry.registerBlock(FancyTilesYellow = new FancyTilesYellow("FancyTilesYellow", Material.wood), ItemSolidBlock.class, "FancyTilesYellow");
+        GameRegistry.registerBlock(FancyTilesBrown = new FancyTilesBrown("FancyTilesBrown", Material.wood), ItemSolidBlock.class, "FancyTilesBrown");
+        GameRegistry.registerBlock(FancyTilesGray = new FancyTilesGray("FancyTilesGray", Material.wood), ItemSolidBlock.class, "FancyTilesGray");
         
         // Registering the Stamp Pattern Blocks
         GameRegistry.registerBlock(Stamp = new Stamp("Stamp", Material.wood), ItemSolidBlock3.class, "Stamp");

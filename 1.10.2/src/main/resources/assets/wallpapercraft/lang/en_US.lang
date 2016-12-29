@@ -28,7 +28,8 @@ item.pressstamp.name=Stamp Pattern Press
 item.pressstonelamp.name=Stone Lamp Pattern Press
 item.pressdamask.name=Damask Pattern Press
 item.pressjewel.name=Jewel Pattern Press
-item.pressauralamp.name=Aura Lamp Pattern Press
+item.pressauralamp.name=Aura Lamp Pattern Press#
+item.pressfancytiles.name=Fancy Tiles Pattern Press
 
 
 
@@ -113,10 +114,10 @@ tile.WallpaperCraft:solidred_5.name=Solid Light Cool Pink
 tile.WallpaperCraft:solidred_6.name=Solid Pink
 tile.WallpaperCraft:solidred_7.name=Solid Hot Pink
 tile.WallpaperCraft:solidred_8.name=Solid Dark Pink
-tile.WallpaperCraft:solidred_9.name=Solid Hot Pink
-tile.WallpaperCraft:solidred_10.name=Solid Fuchsia
-tile.WallpaperCraft:solidred_11.name=Solid Baby Pink
-tile.WallpaperCraft:solidred_12.name=Solid Light Salmon
+tile.WallpaperCraft:solidred_9.name=Solid Fuchsia
+tile.WallpaperCraft:solidred_10.name=Solid Baby Pink
+tile.WallpaperCraft:solidred_11.name=Solid Light Salmon Red
+tile.WallpaperCraft:solidred_12.name=Solid Salmon Red
 tile.WallpaperCraft:solidred_13.name=Solid Brown Red
 tile.WallpaperCraft:solidred_14.name=Solid Dark Brown Red
 
@@ -272,12 +273,13 @@ tile.WallpaperCraft:diagonallydottedred_5.name=Diagonally Dotted Light Cool Pink
 tile.WallpaperCraft:diagonallydottedred_6.name=Diagonally Dotted Pink
 tile.WallpaperCraft:diagonallydottedred_7.name=Diagonally Dotted Hot Pink
 tile.WallpaperCraft:diagonallydottedred_8.name=Diagonally Dotted Dark Pink
-tile.WallpaperCraft:diagonallydottedred_9.name=Diagonally Dotted Hot Pink
-tile.WallpaperCraft:diagonallydottedred_10.name=Diagonally Dotted Fuchsia
-tile.WallpaperCraft:diagonallydottedred_11.name=Diagonally Dotted Baby Pink
-tile.WallpaperCraft:diagonallydottedred_12.name=Diagonally Dotted Light Salmon
+tile.WallpaperCraft:diagonallydottedred_9.name=Diagonally Dotted Fuchsia
+tile.WallpaperCraft:diagonallydottedred_10.name=Diagonally Dotted Baby Pink
+tile.WallpaperCraft:diagonallydottedred_11.name=Diagonally Dotted Light Salmon Red
+tile.WallpaperCraft:diagonallydottedred_12.name=Diagonally Dotted Salmon Red
 tile.WallpaperCraft:diagonallydottedred_13.name=Diagonally Dotted Brown Red
 tile.WallpaperCraft:diagonallydottedred_14.name=Diagonally Dotted Dark Brown Red
+
 
 
 
@@ -431,10 +433,10 @@ tile.WallpaperCraft:dottedred_5.name=Dotted Light Cool Pink
 tile.WallpaperCraft:dottedred_6.name=Dotted Pink
 tile.WallpaperCraft:dottedred_7.name=Dotted Hot Pink
 tile.WallpaperCraft:dottedred_8.name=Dotted Dark Pink
-tile.WallpaperCraft:dottedred_9.name=Dotted Hot Pink
-tile.WallpaperCraft:dottedred_10.name=Dotted Fuchsia
-tile.WallpaperCraft:dottedred_11.name=Dotted Baby Pink
-tile.WallpaperCraft:dottedred_12.name=Dotted Light Salmon
+tile.WallpaperCraft:dottedred_9.name=Dotted Fuchsia
+tile.WallpaperCraft:dottedred_10.name=Dotted Baby Pink
+tile.WallpaperCraft:dottedred_11.name=Dotted Light Salmon Red
+tile.WallpaperCraft:dottedred_12.name=Dotted Salmon Red
 tile.WallpaperCraft:dottedred_13.name=Dotted Brown Red
 tile.WallpaperCraft:dottedred_14.name=Dotted Dark Brown Red
 
@@ -590,10 +592,10 @@ tile.WallpaperCraft:stripedred_5.name=Striped Light Cool Pink
 tile.WallpaperCraft:stripedred_6.name=Striped Pink
 tile.WallpaperCraft:stripedred_7.name=Striped Hot Pink
 tile.WallpaperCraft:stripedred_8.name=Striped Dark Pink
-tile.WallpaperCraft:stripedred_9.name=Striped Hot Pink
-tile.WallpaperCraft:stripedred_10.name=Striped Fuchsia
-tile.WallpaperCraft:stripedred_11.name=Striped Baby Pink
-tile.WallpaperCraft:stripedred_12.name=Striped Light Salmon
+tile.WallpaperCraft:stripedred_9.name=Striped Fuchsia
+tile.WallpaperCraft:stripedred_10.name=Striped Baby Pink
+tile.WallpaperCraft:stripedred_11.name=Striped Light Salmon Red
+tile.WallpaperCraft:stripedred_12.name=Striped Salmon Red
 tile.WallpaperCraft:stripedred_13.name=Striped Brown Red
 tile.WallpaperCraft:stripedred_14.name=Striped Dark Brown Red
 
@@ -749,10 +751,10 @@ tile.WallpaperCraft:floralred_5.name=Floral Light Cool Pink
 tile.WallpaperCraft:floralred_6.name=Floral Pink
 tile.WallpaperCraft:floralred_7.name=Floral Hot Pink
 tile.WallpaperCraft:floralred_8.name=Floral Dark Pink
-tile.WallpaperCraft:floralred_9.name=Floral Hot Pink
-tile.WallpaperCraft:floralred_10.name=Floral Fuchsia
-tile.WallpaperCraft:floralred_11.name=Floral Baby Pink
-tile.WallpaperCraft:floralred_12.name=Floral Light Salmon
+tile.WallpaperCraft:floralred_9.name=Floral Fuchsia
+tile.WallpaperCraft:floralred_10.name=Floral Baby Pink
+tile.WallpaperCraft:floralred_11.name=Floral Light Salmon Red
+tile.WallpaperCraft:floralred_12.name=Floral Salmon Red
 tile.WallpaperCraft:floralred_13.name=Floral Brown Red
 tile.WallpaperCraft:floralred_14.name=Floral Dark Brown Red
 
@@ -908,13 +910,12 @@ tile.WallpaperCraft:damaskred_5.name=Damask Light Cool Pink
 tile.WallpaperCraft:damaskred_6.name=Damask Pink
 tile.WallpaperCraft:damaskred_7.name=Damask Hot Pink
 tile.WallpaperCraft:damaskred_8.name=Damask Dark Pink
-tile.WallpaperCraft:damaskred_9.name=Damask Hot Pink
-tile.WallpaperCraft:damaskred_10.name=Damask Fuchsia
-tile.WallpaperCraft:damaskred_11.name=Damask Baby Pink
-tile.WallpaperCraft:damaskred_12.name=Damask Light Salmon
+tile.WallpaperCraft:damaskred_9.name=Damask Fuchsia
+tile.WallpaperCraft:damaskred_10.name=Damask Baby Pink
+tile.WallpaperCraft:damaskred_11.name=Damask Light Salmon Red
+tile.WallpaperCraft:damaskred_12.name=Damask Salmon Red
 tile.WallpaperCraft:damaskred_13.name=Damask Brown Red
 tile.WallpaperCraft:damaskred_14.name=Damask Dark Brown Red
-
 
 
 #Damask Purple Colours
@@ -1067,10 +1068,10 @@ tile.WallpaperCraft:clayred_5.name=Clay Light Cool Pink
 tile.WallpaperCraft:clayred_6.name=Clay Pink
 tile.WallpaperCraft:clayred_7.name=Clay Hot Pink
 tile.WallpaperCraft:clayred_8.name=Clay Dark Pink
-tile.WallpaperCraft:clayred_9.name=Clay Hot Pink
-tile.WallpaperCraft:clayred_10.name=Clay Fuchsia
-tile.WallpaperCraft:clayred_11.name=Clay Baby Pink
-tile.WallpaperCraft:clayred_12.name=Clay Light Salmon
+tile.WallpaperCraft:clayred_9.name=Clay Fuchsia
+tile.WallpaperCraft:clayred_10.name=Clay Baby Pink
+tile.WallpaperCraft:clayred_11.name=Clay Light Salmon Red
+tile.WallpaperCraft:clayred_12.name=Clay Salmon Red
 tile.WallpaperCraft:clayred_13.name=Clay Brown Red
 tile.WallpaperCraft:clayred_14.name=Clay Dark Brown Red
 
@@ -1227,10 +1228,10 @@ tile.WallpaperCraft:tintedglassred_5.name=Tinted Glass Light Cool Pink
 tile.WallpaperCraft:tintedglassred_6.name=Tinted Glass Pink
 tile.WallpaperCraft:tintedglassred_7.name=Tinted Glass Hot Pink
 tile.WallpaperCraft:tintedglassred_8.name=Tinted Glass Dark Pink
-tile.WallpaperCraft:tintedglassred_9.name=Tinted Glass Hot Pink
-tile.WallpaperCraft:tintedglassred_10.name=Tinted Glass Fuchsia
-tile.WallpaperCraft:tintedglassred_11.name=Tinted Glass Baby Pink
-tile.WallpaperCraft:tintedglassred_12.name=Tinted Glass Light Salmon
+tile.WallpaperCraft:tintedglassred_9.name=Tinted Glass Fuchsia
+tile.WallpaperCraft:tintedglassred_10.name=Tinted Glass Baby Pink
+tile.WallpaperCraft:tintedglassred_11.name=Tinted Glass Light Salmon Red
+tile.WallpaperCraft:tintedglassred_12.name=Tinted Glass Salmon Red
 tile.WallpaperCraft:tintedglassred_13.name=Tinted Glass Brown Red
 tile.WallpaperCraft:tintedglassred_14.name=Tinted Glass Dark Brown Red
 
@@ -1386,10 +1387,10 @@ tile.WallpaperCraft:texturedglassred_5.name=Textured Glass Light Cool Pink
 tile.WallpaperCraft:texturedglassred_6.name=Textured Glass Pink
 tile.WallpaperCraft:texturedglassred_7.name=Textured Glass Hot Pink
 tile.WallpaperCraft:texturedglassred_8.name=Textured Glass Dark Pink
-tile.WallpaperCraft:texturedglassred_9.name=Textured Glass Hot Pink
-tile.WallpaperCraft:texturedglassred_10.name=Textured Glass Fuchsia
-tile.WallpaperCraft:texturedglassred_11.name=Textured Glass Baby Pink
-tile.WallpaperCraft:texturedglassred_12.name=Textured Glass Light Salmon
+tile.WallpaperCraft:texturedglassred_9.name=Textured Glass Fuchsia
+tile.WallpaperCraft:texturedglassred_10.name=Textured Glass Baby Pink
+tile.WallpaperCraft:texturedglassred_11.name=Textured Glass Light Salmon Red
+tile.WallpaperCraft:texturedglassred_12.name=Textured Glass Salmon Red
 tile.WallpaperCraft:texturedglassred_13.name=Textured Glass Brown Red
 tile.WallpaperCraft:texturedglassred_14.name=Textured Glass Dark Brown Red
 
@@ -1545,10 +1546,10 @@ tile.WallpaperCraft:frostedglassred_5.name=Frosted Glass Light Cool Pink
 tile.WallpaperCraft:frostedglassred_6.name=Frosted Glass Pink
 tile.WallpaperCraft:frostedglassred_7.name=Frosted Glass Hot Pink
 tile.WallpaperCraft:frostedglassred_8.name=Frosted Glass Dark Pink
-tile.WallpaperCraft:frostedglassred_9.name=Frosted Glass Hot Pink
-tile.WallpaperCraft:frostedglassred_10.name=Frosted Glass Fuchsia
-tile.WallpaperCraft:frostedglassred_11.name=Frosted Glass Baby Pink
-tile.WallpaperCraft:frostedglassred_12.name=Frosted Glass Light Salmon
+tile.WallpaperCraft:frostedglassred_9.name=Frosted Glass Fuchsia
+tile.WallpaperCraft:frostedglassred_10.name=Frosted Glass Baby Pink
+tile.WallpaperCraft:frostedglassred_11.name=Frosted Glass Light Salmon Red
+tile.WallpaperCraft:frostedglassred_12.name=Frosted Glass Salmon Red
 tile.WallpaperCraft:frostedglassred_13.name=Frosted Glass Brown Red
 tile.WallpaperCraft:frostedglassred_14.name=Frosted Glass Dark Brown Red
 
@@ -1704,10 +1705,10 @@ tile.WallpaperCraft:brickred_5.name=Brick Light Cool Pink
 tile.WallpaperCraft:brickred_6.name=Brick Pink
 tile.WallpaperCraft:brickred_7.name=Brick Hot Pink
 tile.WallpaperCraft:brickred_8.name=Brick Dark Pink
-tile.WallpaperCraft:brickred_9.name=Brick Hot Pink
-tile.WallpaperCraft:brickred_10.name=Brick Fuchsia
-tile.WallpaperCraft:brickred_11.name=Brick Baby Pink
-tile.WallpaperCraft:brickred_12.name=Brick Light Salmon
+tile.WallpaperCraft:brickred_9.name=Brick Fuchsia
+tile.WallpaperCraft:brickred_10.name=Brick Baby Pink
+tile.WallpaperCraft:brickred_11.name=Brick Light Salmon Red
+tile.WallpaperCraft:brickred_12.name=Brick Salmon Red
 tile.WallpaperCraft:brickred_13.name=Brick Brown Red
 tile.WallpaperCraft:brickred_14.name=Brick Dark Brown Red
 
@@ -1865,10 +1866,10 @@ tile.WallpaperCraft:checkeredcarpetred_5.name=Checkered Carpet Light Cool Pink
 tile.WallpaperCraft:checkeredcarpetred_6.name=Checkered Carpet Pink
 tile.WallpaperCraft:checkeredcarpetred_7.name=Checkered Carpet Hot Pink
 tile.WallpaperCraft:checkeredcarpetred_8.name=Checkered Carpet Dark Pink
-tile.WallpaperCraft:checkeredcarpetred_9.name=Checkered Carpet Hot Pink
-tile.WallpaperCraft:checkeredcarpetred_10.name=Checkered Carpet Fuchsia
-tile.WallpaperCraft:checkeredcarpetred_11.name=Checkered Carpet Baby Pink
-tile.WallpaperCraft:checkeredcarpetred_12.name=Checkered Carpet Light Salmon
+tile.WallpaperCraft:checkeredcarpetred_9.name=Checkered Carpet Fuchsia
+tile.WallpaperCraft:checkeredcarpetred_10.name=Checkered Carpet Baby Pink
+tile.WallpaperCraft:checkeredcarpetred_11.name=Checkered Carpet Light Salmon Red
+tile.WallpaperCraft:checkeredcarpetred_12.name=Checkered Carpet Salmon Red
 tile.WallpaperCraft:checkeredcarpetred_13.name=Checkered Carpet Brown Red
 tile.WallpaperCraft:checkeredcarpetred_14.name=Checkered Carpet Dark Brown Red
 
@@ -2026,10 +2027,10 @@ tile.WallpaperCraft:checkeredwoolred_5.name=Checkered Wool Light Cool Pink
 tile.WallpaperCraft:checkeredwoolred_6.name=Checkered Wool Pink
 tile.WallpaperCraft:checkeredwoolred_7.name=Checkered Wool Hot Pink
 tile.WallpaperCraft:checkeredwoolred_8.name=Checkered Wool Dark Pink
-tile.WallpaperCraft:checkeredwoolred_9.name=Checkered Wool Hot Pink
-tile.WallpaperCraft:checkeredwoolred_10.name=Checkered Wool Fuchsia
-tile.WallpaperCraft:checkeredwoolred_11.name=Checkered Wool Baby Pink
-tile.WallpaperCraft:checkeredwoolred_12.name=Checkered Wool Light Salmon
+tile.WallpaperCraft:checkeredwoolred_9.name=Checkered Wool Fuchsia
+tile.WallpaperCraft:checkeredwoolred_10.name=Checkered Wool Baby Pink
+tile.WallpaperCraft:checkeredwoolred_11.name=Checkered Wool Light Salmon Red
+tile.WallpaperCraft:checkeredwoolred_12.name=Checkered Wool Salmon Red
 tile.WallpaperCraft:checkeredwoolred_13.name=Checkered Wool Brown Red
 tile.WallpaperCraft:checkeredwoolred_14.name=Checkered Wool Dark Brown Red
 
@@ -2187,10 +2188,10 @@ tile.WallpaperCraft:woolred_5.name=Wool Light Cool Pink
 tile.WallpaperCraft:woolred_6.name=Wool Pink
 tile.WallpaperCraft:woolred_7.name=Wool Hot Pink
 tile.WallpaperCraft:woolred_8.name=Wool Dark Pink
-tile.WallpaperCraft:woolred_9.name=Wool Hot Pink
-tile.WallpaperCraft:woolred_10.name=Wool Fuchsia
-tile.WallpaperCraft:woolred_11.name=Wool Baby Pink
-tile.WallpaperCraft:woolred_12.name=Wool Light Salmon
+tile.WallpaperCraft:woolred_9.name=Wool Fuchsia
+tile.WallpaperCraft:woolred_10.name=Wool Baby Pink
+tile.WallpaperCraft:woolred_11.name=Wool Light Salmon Red
+tile.WallpaperCraft:woolred_12.name=Wool Salmon Red
 tile.WallpaperCraft:woolred_13.name=Wool Brown Red
 tile.WallpaperCraft:woolred_14.name=Wool Dark Brown Red
 
@@ -2348,10 +2349,10 @@ tile.WallpaperCraft:woolcarpetred_5.name=Wool Carpet Light Cool Pink
 tile.WallpaperCraft:woolcarpetred_6.name=Wool Carpet Pink
 tile.WallpaperCraft:woolcarpetred_7.name=Wool Carpet Hot Pink
 tile.WallpaperCraft:woolcarpetred_8.name=Wool Carpet Dark Pink
-tile.WallpaperCraft:woolcarpetred_9.name=Wool Carpet Hot Pink
-tile.WallpaperCraft:woolcarpetred_10.name=Wool Carpet Fuchsia
-tile.WallpaperCraft:woolcarpetred_11.name=Wool Carpet Baby Pink
-tile.WallpaperCraft:woolcarpetred_12.name=Wool Carpet Light Salmon
+tile.WallpaperCraft:woolcarpetred_9.name=Wool Carpet Fuchsia
+tile.WallpaperCraft:woolcarpetred_10.name=Wool Carpet Baby Pink
+tile.WallpaperCraft:woolcarpetred_11.name=Wool Carpet Light Salmon Red
+tile.WallpaperCraft:woolcarpetred_12.name=Wool Carpet Salmon Red
 tile.WallpaperCraft:woolcarpetred_13.name=Wool Carpet Brown Red
 tile.WallpaperCraft:woolcarpetred_14.name=Wool Carpet Dark Brown Red
 
@@ -2508,10 +2509,10 @@ tile.WallpaperCraft:woodplankred_5.name=Wood Plank Light Cool Pink
 tile.WallpaperCraft:woodplankred_6.name=Wood Plank Pink
 tile.WallpaperCraft:woodplankred_7.name=Wood Plank Hot Pink
 tile.WallpaperCraft:woodplankred_8.name=Wood Plank Dark Pink
-tile.WallpaperCraft:woodplankred_9.name=Wood Plank Hot Pink
-tile.WallpaperCraft:woodplankred_10.name=Wood Plank Fuchsia
-tile.WallpaperCraft:woodplankred_11.name=Wood Plank Baby Pink
-tile.WallpaperCraft:woodplankred_12.name=Wood Plank Light Salmon
+tile.WallpaperCraft:woodplankred_9.name=Wood Plank Fuchsia
+tile.WallpaperCraft:woodplankred_10.name=Wood Plank Baby Pink
+tile.WallpaperCraft:woodplankred_11.name=Wood Plank Light Salmon Red
+tile.WallpaperCraft:woodplankred_12.name=Wood Plank Salmon Red
 tile.WallpaperCraft:woodplankred_13.name=Wood Plank Brown Red
 tile.WallpaperCraft:woodplankred_14.name=Wood Plank Dark Brown Red
 
@@ -2669,13 +2670,12 @@ tile.WallpaperCraft:stonebrickred_5.name=Stone Brick Light Cool Pink
 tile.WallpaperCraft:stonebrickred_6.name=Stone Brick Pink
 tile.WallpaperCraft:stonebrickred_7.name=Stone Brick Hot Pink
 tile.WallpaperCraft:stonebrickred_8.name=Stone Brick Dark Pink
-tile.WallpaperCraft:stonebrickred_9.name=Stone Brick Hot Pink
-tile.WallpaperCraft:stonebrickred_10.name=Stone Brick Fuchsia
-tile.WallpaperCraft:stonebrickred_11.name=Stone Brick Baby Pink
-tile.WallpaperCraft:stonebrickred_12.name=Stone Brick Light Salmon
+tile.WallpaperCraft:stonebrickred_9.name=Stone Brick Fuchsia
+tile.WallpaperCraft:stonebrickred_10.name=Stone Brick Baby Pink
+tile.WallpaperCraft:stonebrickred_11.name=Stone Brick Light Salmon Red
+tile.WallpaperCraft:stonebrickred_12.name=Stone Brick Salmon Red
 tile.WallpaperCraft:stonebrickred_13.name=Stone Brick Brown Red
 tile.WallpaperCraft:stonebrickred_14.name=Stone Brick Dark Brown Red
-
 
 
 #Stone Brick Purple Colours
@@ -2828,10 +2828,10 @@ tile.WallpaperCraft:stonelampred_5.name=Stone Lamp Light Cool Pink
 tile.WallpaperCraft:stonelampred_6.name=Stone Lamp Pink
 tile.WallpaperCraft:stonelampred_7.name=Stone Lamp Hot Pink
 tile.WallpaperCraft:stonelampred_8.name=Stone Lamp Dark Pink
-tile.WallpaperCraft:stonelampred_9.name=Stone Lamp Hot Pink
-tile.WallpaperCraft:stonelampred_10.name=Stone Lamp Fuchsia
-tile.WallpaperCraft:stonelampred_11.name=Stone Lamp Baby Pink
-tile.WallpaperCraft:stonelampred_12.name=Stone Lamp Light Salmon
+tile.WallpaperCraft:stonelampred_9.name=Stone Lamp Fuchsia
+tile.WallpaperCraft:stonelampred_10.name=Stone Lamp Baby Pink
+tile.WallpaperCraft:stonelampred_11.name=Stone Lamp Light Salmon Red
+tile.WallpaperCraft:stonelampred_12.name=Stone Lamp Salmon Red
 tile.WallpaperCraft:stonelampred_13.name=Stone Lamp Brown Red
 tile.WallpaperCraft:stonelampred_14.name=Stone Lamp Dark Brown Red
 
@@ -2989,10 +2989,10 @@ tile.WallpaperCraft:rippledred_5.name=Rippled Light Cool Pink
 tile.WallpaperCraft:rippledred_6.name=Rippled Pink
 tile.WallpaperCraft:rippledred_7.name=Rippled Hot Pink
 tile.WallpaperCraft:rippledred_8.name=Rippled Dark Pink
-tile.WallpaperCraft:rippledred_9.name=Rippled Hot Pink
-tile.WallpaperCraft:rippledred_10.name=Rippled Fuchsia
-tile.WallpaperCraft:rippledred_11.name=Rippled Baby Pink
-tile.WallpaperCraft:rippledred_12.name=Rippled Light Salmon
+tile.WallpaperCraft:rippledred_9.name=Rippled Fuchsia
+tile.WallpaperCraft:rippledred_10.name=Rippled Baby Pink
+tile.WallpaperCraft:rippledred_11.name=Rippled Light Salmon Red
+tile.WallpaperCraft:rippledred_12.name=Rippled Salmon Red
 tile.WallpaperCraft:rippledred_13.name=Rippled Brown Red
 tile.WallpaperCraft:rippledred_14.name=Rippled Dark Brown Red
 
@@ -3131,6 +3131,165 @@ tile.WallpaperCraft:rippledgray_14.name=Rippled Cool Dark Blue Gray
 
 
 
+######################################################################
+###########												   ###########
+###########         STARTING NAMING OF FANCY TILES         ###########
+###########									     	       ###########
+######################################################################
+
+
+#Fancy Tiles Red Colours
+tile.WallpaperCraft:fancytilesred_0.name=Fancy Tile Light Warm Pink
+tile.WallpaperCraft:fancytilesred_1.name=Fancy Tile Light Red
+tile.WallpaperCraft:fancytilesred_2.name=Fancy Tile Bright Red
+tile.WallpaperCraft:fancytilesred_3.name=Fancy Tile Red
+tile.WallpaperCraft:fancytilesred_4.name=Fancy Tile Blood Red
+tile.WallpaperCraft:fancytilesred_5.name=Fancy Tile Light Cool Pink
+tile.WallpaperCraft:fancytilesred_6.name=Fancy Tile Pink
+tile.WallpaperCraft:fancytilesred_7.name=Fancy Tile Hot Pink
+tile.WallpaperCraft:fancytilesred_8.name=Fancy Tile Dark Pink
+tile.WallpaperCraft:fancytilesred_9.name=Fancy Tile Fuchsia
+tile.WallpaperCraft:fancytilesred_10.name=Fancy Tile Baby Pink
+tile.WallpaperCraft:fancytilesred_11.name=Fancy Tile Light Salmon Red
+tile.WallpaperCraft:fancytilesred_12.name=Fancy Tile Salmon Red
+tile.WallpaperCraft:fancytilesred_13.name=Fancy Tile Brown Red
+tile.WallpaperCraft:fancytilesred_14.name=Fancy Tile Dark Brown Red
+
+
+
+#Fancy Tiles Purple Colours
+tile.WallpaperCraft:fancytilespurple_0.name=Fancy Tile Light Magenta
+tile.WallpaperCraft:fancytilespurple_1.name=Fancy Tile Magenta
+tile.WallpaperCraft:fancytilespurple_2.name=Fancy Tile Dark Magenta
+tile.WallpaperCraft:fancytilespurple_3.name=Fancy Tile Violet
+tile.WallpaperCraft:fancytilespurple_4.name=Fancy Tile Dark Violet
+tile.WallpaperCraft:fancytilespurple_5.name=Fancy Tile Light Violet
+tile.WallpaperCraft:fancytilespurple_6.name=Fancy Tile Light Purple
+tile.WallpaperCraft:fancytilespurple_7.name=Fancy Tile Purple
+tile.WallpaperCraft:fancytilespurple_8.name=Fancy Tile Dark Purple
+tile.WallpaperCraft:fancytilespurple_9.name=Fancy Tile Royal Blue
+tile.WallpaperCraft:fancytilespurple_10.name=Fancy Tile Light Lavender
+tile.WallpaperCraft:fancytilespurple_11.name=Fancy Tile Lavender
+tile.WallpaperCraft:fancytilespurple_12.name=Fancy Tile Azure Blue
+tile.WallpaperCraft:fancytilespurple_13.name=Fancy Tile Dark Blue
+tile.WallpaperCraft:fancytilespurple_14.name=Fancy Tile Midnight Blue
+
+
+
+#Fancy Tiles Blue Colours
+tile.WallpaperCraft:fancytilesblue_0.name=Fancy Tile Light Blue
+tile.WallpaperCraft:fancytilesblue_1.name=Fancy Tile Light Sky Blue
+tile.WallpaperCraft:fancytilesblue_2.name=Fancy Tile Sky Blue
+tile.WallpaperCraft:fancytilesblue_3.name=Fancy Tile Dark Sky Blue
+tile.WallpaperCraft:fancytilesblue_4.name=Fancy Tile Navy Blue
+tile.WallpaperCraft:fancytilesblue_5.name=Fancy Tile Light Baby Blue
+tile.WallpaperCraft:fancytilesblue_6.name=Fancy Tile Baby Blue
+tile.WallpaperCraft:fancytilesblue_7.name=Fancy Tile Bright Blue
+tile.WallpaperCraft:fancytilesblue_8.name=Fancy Tile Medium Blue
+tile.WallpaperCraft:fancytilesblue_9.name=Fancy Tile Deep Blue
+tile.WallpaperCraft:fancytilesblue_10.name=Fancy Tile Light Aqua Blue
+tile.WallpaperCraft:fancytilesblue_11.name=Fancy Tile Aqua Blue
+tile.WallpaperCraft:fancytilesblue_12.name=Fancy Tile Dark Aqua Blue
+tile.WallpaperCraft:fancytilesblue_13.name=Fancy Tile Ocean Blue
+tile.WallpaperCraft:fancytilesblue_14.name=Fancy Tile Midnight Blue
+
+
+
+#Fancy Tiles Brown Colours
+tile.WallpaperCraft:fancytilesbrown_0.name=Fancy Tile Soft Orange
+tile.WallpaperCraft:fancytilesbrown_1.name=Fancy Tile Sienna brown
+tile.WallpaperCraft:fancytilesbrown_2.name=Fancy Tile Burnt Sienna Brown
+tile.WallpaperCraft:fancytilesbrown_3.name=Fancy Tile Earth Brown
+tile.WallpaperCraft:fancytilesbrown_4.name=Fancy Tile Soil Brown
+tile.WallpaperCraft:fancytilesbrown_5.name=Fancy Tile Light Beige
+tile.WallpaperCraft:fancytilesbrown_6.name=Fancy Tile Beige
+tile.WallpaperCraft:fancytilesbrown_7.name=Fancy Tile Terracotta Red
+tile.WallpaperCraft:fancytilesbrown_8.name=Fancy Tile Brown
+tile.WallpaperCraft:fancytilesbrown_9.name=Fancy Tile Saddle Brown
+tile.WallpaperCraft:fancytilesbrown_10.name=Fancy Tile Light Gray Brown
+tile.WallpaperCraft:fancytilesbrown_11.name=Fancy Tile Gray Brown
+tile.WallpaperCraft:fancytilesbrown_12.name=Fancy Tile Middle Gray Brown
+tile.WallpaperCraft:fancytilesbrown_13.name=Fancy Tile Gray Brown
+tile.WallpaperCraft:fancytilesbrown_14.name=Fancy Tile Dark Gray Brown
+
+
+
+#Fancy Tiles Cyan Colours
+tile.WallpaperCraft:fancytilescyan_0.name=Fancy Tile Light Green Blue
+tile.WallpaperCraft:fancytilescyan_1.name=Fancy Tile Light Turquoise Blue
+tile.WallpaperCraft:fancytilescyan_2.name=Fancy Tile Turquoise Blue
+tile.WallpaperCraft:fancytilescyan_3.name=Fancy Tile Teal Blue
+tile.WallpaperCraft:fancytilescyan_4.name=Fancy Tile Dark Teal Blue
+tile.WallpaperCraft:fancytilescyan_5.name=Fancy Tile Light Seafoam Blue Green
+tile.WallpaperCraft:fancytilescyan_6.name=Fancy Tile Seafoam Blue Green
+tile.WallpaperCraft:fancytilescyan_7.name=Fancy Tile Blue Green
+tile.WallpaperCraft:fancytilescyan_8.name=Fancy Tile Dark Blue Green
+tile.WallpaperCraft:fancytilescyan_9.name=Fancy Tile Dark Pine Blue Green
+
+
+
+#Fancy Tiles Green Colours
+tile.WallpaperCraft:fancytilesgreen_0.name=Fancy Tile Light Green
+tile.WallpaperCraft:fancytilesgreen_1.name=Fancy Tile Light Spring Green
+tile.WallpaperCraft:fancytilesgreen_2.name=Fancy Tile Spring Green
+tile.WallpaperCraft:fancytilesgreen_3.name=Fancy Tile Green
+tile.WallpaperCraft:fancytilesgreen_4.name=Fancy Tile Dark Green
+tile.WallpaperCraft:fancytilesgreen_5.name=Fancy Tile Light Summer Green
+tile.WallpaperCraft:fancytilesgreen_6.name=Fancy Tile Summer Green
+tile.WallpaperCraft:fancytilesgreen_7.name=Fancy Tile Lush Green
+tile.WallpaperCraft:fancytilesgreen_8.name=Fancy Tile Deep Lush Green
+tile.WallpaperCraft:fancytilesgreen_9.name=Fancy Tile Dark Lush Green
+tile.WallpaperCraft:fancytilesgreen_10.name=Fancy Tile Light Spring Green
+tile.WallpaperCraft:fancytilesgreen_11.name=Fancy Tile Spring Green
+tile.WallpaperCraft:fancytilesgreen_12.name=Fancy Tile Light Olive Green
+tile.WallpaperCraft:fancytilesgreen_13.name=Fancy Tile Olive Green
+tile.WallpaperCraft:fancytilesgreen_14.name=Fancy Tile Moss Green
+
+
+
+#Fancy Tiles Yellow Colours
+tile.WallpaperCraft:fancytilesyellow_0.name=Fancy Tile Light Lemon Yellow
+tile.WallpaperCraft:fancytilesyellow_1.name=Fancy Tile Lemon Yellow
+tile.WallpaperCraft:fancytilesyellow_2.name=Fancy Tile Sunny Yellow
+tile.WallpaperCraft:fancytilesyellow_3.name=Fancy Tile Soft Yellow
+tile.WallpaperCraft:fancytilesyellow_4.name=Fancy Tile Orange Yellow
+tile.WallpaperCraft:fancytilesyellow_5.name=Fancy Tile Light Sand Yellow
+tile.WallpaperCraft:fancytilesyellow_6.name=Fancy Tile Light Yellow
+tile.WallpaperCraft:fancytilesyellow_7.name=Fancy Tile Yellow
+tile.WallpaperCraft:fancytilesyellow_8.name=Fancy Tile Gold Yellow
+tile.WallpaperCraft:fancytilesyellow_9.name=Fancy Tile Dark Orange
+tile.WallpaperCraft:fancytilesyellow_10.name=Fancy Tile Light Orange
+tile.WallpaperCraft:fancytilesyellow_11.name=Fancy Tile Sunny Orange
+tile.WallpaperCraft:fancytilesyellow_12.name=Fancy Tile Orange
+tile.WallpaperCraft:fancytilesyellow_13.name=Fancy Tile Deep Orange
+tile.WallpaperCraft:fancytilesyellow_14.name=Fancy Tile Orange Red
+
+
+
+#Fancy Tiles Gray Colours
+tile.WallpaperCraft:fancytilesgray_0.name=Fancy Tile White Gray
+tile.WallpaperCraft:fancytilesgray_1.name=Fancy Tile Light Gray
+tile.WallpaperCraft:fancytilesgray_2.name=Fancy Tile Gray
+tile.WallpaperCraft:fancytilesgray_3.name=Fancy Tile Dark Gray
+tile.WallpaperCraft:fancytilesgray_4.name=Fancy Tile Gray Black
+tile.WallpaperCraft:fancytilesgray_5.name=Fancy Tile Light Warm Gray
+tile.WallpaperCraft:fancytilesgray_6.name=Fancy Tile Warm Gray
+tile.WallpaperCraft:fancytilesgray_7.name=Fancy Tile Middle Warm Gray
+tile.WallpaperCraft:fancytilesgray_8.name=Fancy Tile Dark Warm Gray
+tile.WallpaperCraft:fancytilesgray_9.name=Fancy Tile Warm Black Gray
+tile.WallpaperCraft:fancytilesgray_10.name=Fancy Tile Light Cool gray
+tile.WallpaperCraft:fancytilesgray_11.name=Fancy Tile Cool Gray
+tile.WallpaperCraft:fancytilesgray_12.name=Fancy Tile Dark Cool Gray
+tile.WallpaperCraft:fancytilesgray_13.name=Fancy Tile Cool Blue Gray
+tile.WallpaperCraft:fancytilesgray_14.name=Fancy Tile Cool Dark Blue Gray
+
+
+
+
+
+
+
+
 
 ######################################################################
 ###########												   ###########
@@ -3149,10 +3308,10 @@ tile.WallpaperCraft:auralampred_5.name=Aura Lamp Light Cool Pink
 tile.WallpaperCraft:auralampred_6.name=Aura Lamp Pink
 tile.WallpaperCraft:auralampred_7.name=Aura Lamp Hot Pink
 tile.WallpaperCraft:auralampred_8.name=Aura Lamp Dark Pink
-tile.WallpaperCraft:auralampred_9.name=Aura Lamp Hot Pink
-tile.WallpaperCraft:auralampred_10.name=Aura Lamp Fuchsia
-tile.WallpaperCraft:auralampred_11.name=Aura Lamp Baby Pink
-tile.WallpaperCraft:auralampred_12.name=Aura Lamp Light Salmon
+tile.WallpaperCraft:auralampred_9.name=Aura Lamp Fuchsia
+tile.WallpaperCraft:auralampred_10.name=Aura Lamp Baby Pink
+tile.WallpaperCraft:auralampred_11.name=Aura Lamp Light Salmon Red
+tile.WallpaperCraft:auralampred_12.name=Aura Lamp Salmon Red
 tile.WallpaperCraft:auralampred_13.name=Aura Lamp Brown Red
 tile.WallpaperCraft:auralampred_14.name=Aura Lamp Dark Brown Red
 

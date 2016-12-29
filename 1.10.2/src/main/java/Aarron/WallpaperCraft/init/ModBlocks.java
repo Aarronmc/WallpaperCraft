@@ -8,6 +8,14 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.oredict.OreDictionary;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesBlue;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesBrown;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesCyan;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesGray;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesGreen;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesPurple;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesRed;
+import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesYellow;
 import Aarron.WallpaperCraft.blocks.bricks.*;
 import Aarron.WallpaperCraft.blocks.carpets.*;
 import Aarron.WallpaperCraft.blocks.clay.*;
@@ -129,6 +137,15 @@ public class ModBlocks {
 	public static RippledYellow RippledYellow = new RippledYellow();
 	public static RippledBrown RippledBrown = new RippledBrown();
 	public static RippledGray RippledGray = new RippledGray();
+	
+	public static FancyTilesRed FancyTilesRed = new FancyTilesRed();
+	public static FancyTilesPurple FancyTilesPurple = new FancyTilesPurple();
+	public static FancyTilesBlue FancyTilesBlue = new FancyTilesBlue();
+	public static FancyTilesCyan FancyTilesCyan = new FancyTilesCyan();
+	public static FancyTilesGreen FancyTilesGreen = new FancyTilesGreen();
+	public static FancyTilesYellow FancyTilesYellow = new FancyTilesYellow();
+	public static FancyTilesBrown FancyTilesBrown = new FancyTilesBrown();
+	public static FancyTilesGray FancyTilesGray = new FancyTilesGray();
 	
 	public static Stamp Stamp = new Stamp();
 	
@@ -325,6 +342,15 @@ public class ModBlocks {
 		RippledBrown.initModel();
 		RippledGray.initModel();
 		
+		FancyTilesRed.initModel();
+		FancyTilesPurple.initModel();
+		FancyTilesBlue.initModel();
+		FancyTilesCyan.initModel();
+		FancyTilesGreen.initModel();
+		FancyTilesYellow.initModel();
+		FancyTilesBrown.initModel();
+		FancyTilesGray.initModel();
+		
 		Stamp.initModel();
 		
 		Jewel.initModel();
@@ -513,6 +539,15 @@ public class ModBlocks {
 		GameRegistry.register(RippledYellow);
 		GameRegistry.register(RippledBrown);
 		GameRegistry.register(RippledGray);
+		
+		GameRegistry.register(FancyTilesRed);
+		GameRegistry.register(FancyTilesPurple);
+		GameRegistry.register(FancyTilesBlue);
+		GameRegistry.register(FancyTilesCyan);
+		GameRegistry.register(FancyTilesGreen);
+		GameRegistry.register(FancyTilesYellow);
+		GameRegistry.register(FancyTilesBrown);
+		GameRegistry.register(FancyTilesGray);
 		
 		GameRegistry.register(Stamp);
 		

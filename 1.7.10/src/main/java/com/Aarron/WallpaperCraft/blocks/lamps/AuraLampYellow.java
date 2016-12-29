@@ -25,7 +25,7 @@ public IIcon[] icons = new IIcon[15];
 		this.setHarvestLevel("pickaxe", 0);
 		this.setStepSound(soundTypeGlass);
 		this.setCreativeTab(Tab.WPtab);
-		this.setLightLevel(15.0F);
+		this.setLightLevel(1.0F);
 	}
 
 	@Override //Sets how many variations there are

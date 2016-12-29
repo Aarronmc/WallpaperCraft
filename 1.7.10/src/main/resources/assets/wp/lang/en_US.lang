@@ -31,6 +31,7 @@ item.pressstonelamp.name=Stone Lamp Pattern Press
 item.pressdamask.name=Damask Pattern Press
 item.pressjewel.name=Jewel Pattern Press
 item.pressauralamp.name=Aura Lamp Pattern Press
+item.pressfancytiles.name=Fancy Tiles Pattern Press
 
 
 
@@ -117,10 +118,10 @@ tile.SolidRed_5.name=Solid Light Cool Pink
 tile.SolidRed_6.name=Solid Pink
 tile.SolidRed_7.name=Solid Hot Pink
 tile.SolidRed_8.name=Solid Dark Pink
-tile.SolidRed_9.name=Solid Hot Pink
-tile.SolidRed_10.name=Solid Fuchsia
-tile.SolidRed_11.name=Solid Baby Pink
-tile.SolidRed_12.name=Solid Light Salmon
+tile.SolidRed_9.name=Solid Fuchsia
+tile.SolidRed_10.name=Solid Baby Pink
+tile.SolidRed_11.name=Solid Light Salmon Red
+tile.SolidRed_12.name=Solid Salmon Red
 tile.SolidRed_13.name=Solid Brown Red
 tile.SolidRed_14.name=Solid Dark Brown Red
 
@@ -276,10 +277,10 @@ tile.DiagonallyDottedRed_5.name=Diagonally Dotted Light Cool Pink
 tile.DiagonallyDottedRed_6.name=Diagonally Dotted Pink
 tile.DiagonallyDottedRed_7.name=Diagonally Dotted Hot Pink
 tile.DiagonallyDottedRed_8.name=Diagonally Dotted Dark Pink
-tile.DiagonallyDottedRed_9.name=Diagonally Dotted Hot Pink
-tile.DiagonallyDottedRed_10.name=Diagonally Dotted Fuchsia
-tile.DiagonallyDottedRed_11.name=Diagonally Dotted Baby Pink
-tile.DiagonallyDottedRed_12.name=Diagonally Dotted Light Salmon
+tile.DiagonallyDottedRed_9.name=Diagonally Dotted Fuchsia
+tile.DiagonallyDottedRed_10.name=Diagonally Dotted Baby Pink
+tile.DiagonallyDottedRed_11.name=Diagonally Dotted Light Salmon Red
+tile.DiagonallyDottedRed_12.name=Diagonally Dotted Salmon Red
 tile.DiagonallyDottedRed_13.name=Diagonally Dotted Brown Red
 tile.DiagonallyDottedRed_14.name=Diagonally Dotted Dark Brown Red
 
@@ -425,7 +426,7 @@ tile.DiagonallyDottedGray_14.name=Diagonally Dotted Cool Dark Blue Gray
 ######################################################################
 
 
-#Diagonally Dotted Red Colours
+#Dotted Red Colours
 tile.DottedRed_0.name=Dotted Light Warm Pink
 tile.DottedRed_1.name=Dotted Light Red
 tile.DottedRed_2.name=Dotted Bright Red
@@ -435,16 +436,16 @@ tile.DottedRed_5.name=Dotted Light Cool Pink
 tile.DottedRed_6.name=Dotted Pink
 tile.DottedRed_7.name=Dotted Hot Pink
 tile.DottedRed_8.name=Dotted Dark Pink
-tile.DottedRed_9.name=Dotted Hot Pink
-tile.DottedRed_10.name=Dotted Fuchsia
-tile.DottedRed_11.name=Dotted Baby Pink
-tile.DottedRed_12.name=Dotted Light Salmon
+tile.DottedRed_9.name=Dotted Fuchsia
+tile.DottedRed_10.name=Dotted Baby Pink
+tile.DottedRed_11.name=Dotted Light Salmon Red
+tile.DottedRed_12.name=Dotted Salmon Red
 tile.DottedRed_13.name=Dotted Brown Red
 tile.DottedRed_14.name=Dotted Dark Brown Red
 
 
 
-#Diagonally Dotted Purple Colours
+#Dotted Purple Colours
 tile.DottedPurple_0.name=Dotted Light Magenta
 tile.DottedPurple_1.name=Dotted Magenta
 tile.DottedPurple_2.name=Dotted Dark Magenta
@@ -463,7 +464,7 @@ tile.DottedPurple_14.name=Dotted Midnight Blue
 
 
 
-#Diagonally Dotted Blue Colours
+#Dotted Blue Colours
 tile.DottedBlue_0.name=Dotted Light Blue
 tile.DottedBlue_1.name=Dotted Light Sky Blue
 tile.DottedBlue_2.name=Dotted Sky Blue
@@ -482,7 +483,7 @@ tile.DottedBlue_14.name=Dotted Midnight Blue
 
 
 
-#Diagonally Dotted Brown Colours
+#Dotted Brown Colours
 tile.DottedBrown_0.name=Dotted Soft Orange
 tile.DottedBrown_1.name=Dotted Sienna brown
 tile.DottedBrown_2.name=Dotted Burnt Sienna Brown
@@ -501,7 +502,7 @@ tile.DottedBrown_14.name=Dotted Dark Gray Brown
 
 
 
-#Diagonally Dotted Cyan Colours
+#Dotted Cyan Colours
 tile.DottedCyan_0.name=Dotted Light Green Blue
 tile.DottedCyan_1.name=Dotted Light Turquoise Blue
 tile.DottedCyan_2.name=Dotted Turquoise Blue
@@ -515,7 +516,7 @@ tile.DottedCyan_9.name=Dotted Dark Pine Blue Green
 
 
 
-#Diagonally Dotted Green Colours
+#Dotted Green Colours
 tile.DottedGreen_0.name=Dotted Light Green
 tile.DottedGreen_1.name=Dotted Light Spring Green
 tile.DottedGreen_2.name=Dotted Spring Green
@@ -534,7 +535,7 @@ tile.DottedGreen_14.name=Dotted Moss Green
 
 
 
-#Diagonally Dotted Yellow Colours
+#Dotted Yellow Colours
 tile.DottedYellow_0.name=Dotted Light Lemon Yellow
 tile.DottedYellow_1.name=Dotted Lemon Yellow
 tile.DottedYellow_2.name=Dotted Sunny Yellow
@@ -553,7 +554,7 @@ tile.DottedYellow_14.name=Dotted Orange Red
 
 
 
-#Diagonally Dotted Gray Colours
+#Dotted Gray Colours
 tile.DottedGray_0.name=Dotted White Gray
 tile.DottedGray_1.name=Dotted Light Gray
 tile.DottedGray_2.name=Dotted Gray
@@ -594,10 +595,10 @@ tile.StripedRed_5.name=Striped Light Cool Pink
 tile.StripedRed_6.name=Striped Pink
 tile.StripedRed_7.name=Striped Hot Pink
 tile.StripedRed_8.name=Striped Dark Pink
-tile.StripedRed_9.name=Striped Hot Pink
-tile.StripedRed_10.name=Striped Fuchsia
-tile.StripedRed_11.name=Striped Baby Pink
-tile.StripedRed_12.name=Striped Light Salmon
+tile.StripedRed_9.name=Striped Fuchsia
+tile.StripedRed_10.name=Striped Baby Pink
+tile.StripedRed_11.name=Striped Light Salmon Red
+tile.StripedRed_12.name=Striped Salmon Red
 tile.StripedRed_13.name=Striped Brown Red
 tile.StripedRed_14.name=Striped Dark Brown Red
 
@@ -753,10 +754,10 @@ tile.FloralRed_5.name=Floral Light Cool Pink
 tile.FloralRed_6.name=Floral Pink
 tile.FloralRed_7.name=Floral Hot Pink
 tile.FloralRed_8.name=Floral Dark Pink
-tile.FloralRed_9.name=Floral Hot Pink
-tile.FloralRed_10.name=Floral Fuchsia
-tile.FloralRed_11.name=Floral Baby Pink
-tile.FloralRed_12.name=Floral Light Salmon
+tile.FloralRed_9.name=Floral Fuchsia
+tile.FloralRed_10.name=Floral Baby Pink
+tile.FloralRed_11.name=Floral Light Salmon Red
+tile.FloralRed_12.name=Floral Salmon Red
 tile.FloralRed_13.name=Floral Brown Red
 tile.FloralRed_14.name=Floral Dark Brown Red
 
@@ -912,10 +913,10 @@ tile.DamaskRed_5.name=Damask Light Cool Pink
 tile.DamaskRed_6.name=Damask Pink
 tile.DamaskRed_7.name=Damask Hot Pink
 tile.DamaskRed_8.name=Damask Dark Pink
-tile.DamaskRed_9.name=Damask Hot Pink
-tile.DamaskRed_10.name=Damask Fuchsia
-tile.DamaskRed_11.name=Damask Baby Pink
-tile.DamaskRed_12.name=Damask Light Salmon
+tile.DamaskRed_9.name=Damask Fuchsia
+tile.DamaskRed_10.name=Damask Baby Pink
+tile.DamaskRed_11.name=Damask Light Salmon Red
+tile.DamaskRed_12.name=Damask Salmon Red
 tile.DamaskRed_13.name=Damask Brown Red
 tile.DamaskRed_14.name=Damask Dark Brown Red
 
@@ -1071,10 +1072,10 @@ tile.ClayRed_5.name=Clay Light Cool Pink
 tile.ClayRed_6.name=Clay Pink
 tile.ClayRed_7.name=Clay Hot Pink
 tile.ClayRed_8.name=Clay Dark Pink
-tile.ClayRed_9.name=Clay Hot Pink
-tile.ClayRed_10.name=Clay Fuchsia
-tile.ClayRed_11.name=Clay Baby Pink
-tile.ClayRed_12.name=Clay Light Salmon
+tile.ClayRed_9.name=Clay Fuchsia
+tile.ClayRed_10.name=Clay Baby Pink
+tile.ClayRed_11.name=Clay Light Salmon Red
+tile.ClayRed_12.name=Clay Salmon Red
 tile.ClayRed_13.name=Clay Brown Red
 tile.ClayRed_14.name=Clay Dark Brown Red
 
@@ -1230,10 +1231,10 @@ tile.TintedGlassRed_5.name=Tinted Glass Light Cool Pink
 tile.TintedGlassRed_6.name=Tinted Glass Pink
 tile.TintedGlassRed_7.name=Tinted Glass Hot Pink
 tile.TintedGlassRed_8.name=Tinted Glass Dark Pink
-tile.TintedGlassRed_9.name=Tinted Glass Hot Pink
-tile.TintedGlassRed_10.name=Tinted Glass Fuchsia
-tile.TintedGlassRed_11.name=Tinted Glass Baby Pink
-tile.TintedGlassRed_12.name=Tinted Glass Light Salmon
+tile.TintedGlassRed_9.name=Tinted Glass Fuchsia
+tile.TintedGlassRed_10.name=Tinted Glass Baby Pink
+tile.TintedGlassRed_11.name=Tinted Glass Light Salmon Red
+tile.TintedGlassRed_12.name=Tinted Glass Salmon Red
 tile.TintedGlassRed_13.name=Tinted Glass Brown Red
 tile.TintedGlassRed_14.name=Tinted Glass Dark Brown Red
 
@@ -1389,10 +1390,10 @@ tile.TexturedGlassRed_5.name=Textured Glass Light Cool Pink
 tile.TexturedGlassRed_6.name=Textured Glass Pink
 tile.TexturedGlassRed_7.name=Textured Glass Hot Pink
 tile.TexturedGlassRed_8.name=Textured Glass Dark Pink
-tile.TexturedGlassRed_9.name=Textured Glass Hot Pink
-tile.TexturedGlassRed_10.name=Textured Glass Fuchsia
-tile.TexturedGlassRed_11.name=Textured Glass Baby Pink
-tile.TexturedGlassRed_12.name=Textured Glass Light Salmon
+tile.TexturedGlassRed_9.name=Textured Glass Fuchsia
+tile.TexturedGlassRed_10.name=Textured Glass Baby Pink
+tile.TexturedGlassRed_11.name=Textured Glass Light Salmon Red
+tile.TexturedGlassRed_12.name=Textured Glass Salmon Red
 tile.TexturedGlassRed_13.name=Textured Glass Brown Red
 tile.TexturedGlassRed_14.name=Textured Glass Dark Brown Red
 
@@ -1548,10 +1549,10 @@ tile.FrostedGlassRed_5.name=Frosted Glass Light Cool Pink
 tile.FrostedGlassRed_6.name=Frosted Glass Pink
 tile.FrostedGlassRed_7.name=Frosted Glass Hot Pink
 tile.FrostedGlassRed_8.name=Frosted Glass Dark Pink
-tile.FrostedGlassRed_9.name=Frosted Glass Hot Pink
-tile.FrostedGlassRed_10.name=Frosted Glass Fuchsia
-tile.FrostedGlassRed_11.name=Frosted Glass Baby Pink
-tile.FrostedGlassRed_12.name=Frosted Glass Light Salmon
+tile.FrostedGlassRed_9.name=Frosted Glass Fuchsia
+tile.FrostedGlassRed_10.name=Frosted Glass Baby Pink
+tile.FrostedGlassRed_11.name=Frosted Glass Light Salmon Red
+tile.FrostedGlassRed_12.name=Frosted Glass Salmon Red
 tile.FrostedGlassRed_13.name=Frosted Glass Brown Red
 tile.FrostedGlassRed_14.name=Frosted Glass Dark Brown Red
 
@@ -1707,10 +1708,10 @@ tile.TintedPaneRed_5.name=Tinted Glass Pane Light Cool Pink
 tile.TintedPaneRed_6.name=Tinted Glass Pane Pink
 tile.TintedPaneRed_7.name=Tinted Glass Pane Hot Pink
 tile.TintedPaneRed_8.name=Tinted Glass Pane Dark Pink
-tile.TintedPaneRed_9.name=Tinted Glass Pane Hot Pink
-tile.TintedPaneRed_10.name=Tinted Glass Pane Fuchsia
-tile.TintedPaneRed_11.name=Tinted Glass Pane Baby Pink
-tile.TintedPaneRed_12.name=Tinted Glass Pane Light Salmon
+tile.TintedPaneRed_9.name=Tinted Glass Pane Fuchsia
+tile.TintedPaneRed_10.name=Tinted Glass Pane Baby Pink
+tile.TintedPaneRed_11.name=Tinted Glass Pane Light Salmon Red
+tile.TintedPaneRed_12.name=Tinted Glass Pane Salmon Red
 tile.TintedPaneRed_13.name=Tinted Glass Pane Brown Red
 tile.TintedPaneRed_14.name=Tinted Glass Pane Dark Brown Red
 
@@ -1866,10 +1867,10 @@ tile.TexturedPaneRed_5.name=Textured Glass Pane Light Cool Pink
 tile.TexturedPaneRed_6.name=Textured Glass Pane Pink
 tile.TexturedPaneRed_7.name=Textured Glass Pane Hot Pink
 tile.TexturedPaneRed_8.name=Textured Glass Pane Dark Pink
-tile.TexturedPaneRed_9.name=Textured Glass Pane Hot Pink
-tile.TexturedPaneRed_10.name=Textured Glass Pane Fuchsia
-tile.TexturedPaneRed_11.name=Textured Glass Pane Baby Pink
-tile.TexturedPaneRed_12.name=Textured Glass Pane Light Salmon
+tile.TexturedPaneRed_9.name=Textured Glass Pane Fuchsia
+tile.TexturedPaneRed_10.name=Textured Glass Pane Baby Pink
+tile.TexturedPaneRed_11.name=Textured Glass Pane Light Salmon Red
+tile.TexturedPaneRed_12.name=Textured Glass Pane Salmon Red
 tile.TexturedPaneRed_13.name=Textured Glass Pane Brown Red
 tile.TexturedPaneRed_14.name=Textured Glass Pane Dark Brown Red
 
@@ -2025,10 +2026,10 @@ tile.FrostedPaneRed_5.name=Frosted Glass Pane Light Cool Pink
 tile.FrostedPaneRed_6.name=Frosted Glass Pane Pink
 tile.FrostedPaneRed_7.name=Frosted Glass Pane Hot Pink
 tile.FrostedPaneRed_8.name=Frosted Glass Pane Dark Pink
-tile.FrostedPaneRed_9.name=Frosted Glass Pane Hot Pink
-tile.FrostedPaneRed_10.name=Frosted Glass Pane Fuchsia
-tile.FrostedPaneRed_11.name=Frosted Glass Pane Baby Pink
-tile.FrostedPaneRed_12.name=Frosted Glass Pane Light Salmon
+tile.FrostedPaneRed_9.name=Frosted Glass Pane Fuchsia
+tile.FrostedPaneRed_10.name=Frosted Glass Pane Baby Pink
+tile.FrostedPaneRed_11.name=Frosted Glass Pane Light Salmon Red
+tile.FrostedPaneRed_12.name=Frosted Glass Pane Salmon Red
 tile.FrostedPaneRed_13.name=Frosted Glass Pane Brown Red
 tile.FrostedPaneRed_14.name=Frosted Glass Pane Dark Brown Red
 
@@ -2184,10 +2185,10 @@ tile.BrickRed_5.name=Brick Light Cool Pink
 tile.BrickRed_6.name=Brick Pink
 tile.BrickRed_7.name=Brick Hot Pink
 tile.BrickRed_8.name=Brick Dark Pink
-tile.BrickRed_9.name=Brick Hot Pink
-tile.BrickRed_10.name=Brick Fuchsia
-tile.BrickRed_11.name=Brick Baby Pink
-tile.BrickRed_12.name=Brick Light Salmon
+tile.BrickRed_9.name=Brick Fuchsia
+tile.BrickRed_10.name=Brick Baby Pink
+tile.BrickRed_11.name=Brick Light Salmon Red
+tile.BrickRed_12.name=Brick Salmon Red
 tile.BrickRed_13.name=Brick Brown Red
 tile.BrickRed_14.name=Brick Dark Brown Red
 
@@ -2343,10 +2344,10 @@ tile.StoneBrickRed_5.name=Stone Brick Light Cool Pink
 tile.StoneBrickRed_6.name=Stone Brick Pink
 tile.StoneBrickRed_7.name=Stone Brick Hot Pink
 tile.StoneBrickRed_8.name=Stone Brick Dark Pink
-tile.StoneBrickRed_9.name=Stone Brick Hot Pink
-tile.StoneBrickRed_10.name=Stone Brick Fuchsia
-tile.StoneBrickRed_11.name=Stone Brick Baby Pink
-tile.StoneBrickRed_12.name=Stone Brick Light Salmon
+tile.StoneBrickRed_9.name=Stone Brick Fuchsia
+tile.StoneBrickRed_10.name=Stone Brick Baby Pink
+tile.StoneBrickRed_11.name=Stone Brick Light Salmon Red
+tile.StoneBrickRed_12.name=Stone Brick Salmon Red
 tile.StoneBrickRed_13.name=Stone Brick Brown Red
 tile.StoneBrickRed_14.name=Stone Brick Dark Brown Red
 
@@ -2502,13 +2503,12 @@ tile.StoneLampRed_5.name=Stone Lamp Light Cool Pink
 tile.StoneLampRed_6.name=Stone Lamp Pink
 tile.StoneLampRed_7.name=Stone Lamp Hot Pink
 tile.StoneLampRed_8.name=Stone Lamp Dark Pink
-tile.StoneLampRed_9.name=Stone Lamp Hot Pink
-tile.StoneLampRed_10.name=Stone Lamp Fuchsia
-tile.StoneLampRed_11.name=Stone Lamp Baby Pink
-tile.StoneLampRed_12.name=Stone Lamp Light Salmon
+tile.StoneLampRed_9.name=Stone Lamp Fuchsia
+tile.StoneLampRed_10.name=Stone Lamp Baby Pink
+tile.StoneLampRed_11.name=Stone Lamp Light Salmon Red
+tile.StoneLampRed_12.name=Stone Lamp Salmon Red
 tile.StoneLampRed_13.name=Stone Lamp Brown Red
 tile.StoneLampRed_14.name=Stone Lamp Dark Brown Red
-
 
 
 #Stone Lamp Purple Colours
@@ -2651,7 +2651,7 @@ tile.StoneLampGray_14.name=Stone Lamp Cool Dark Blue Gray
 ######################################################################
 
 
-#Diagonally Rippled Red Colours
+#Rippled Red Colours
 tile.RippledRed_0.name=Rippled Light Warm Pink
 tile.RippledRed_1.name=Rippled Light Red
 tile.RippledRed_2.name=Rippled Bright Red
@@ -2661,16 +2661,16 @@ tile.RippledRed_5.name=Rippled Light Cool Pink
 tile.RippledRed_6.name=Rippled Pink
 tile.RippledRed_7.name=Rippled Hot Pink
 tile.RippledRed_8.name=Rippled Dark Pink
-tile.RippledRed_9.name=Rippled Hot Pink
-tile.RippledRed_10.name=Rippled Fuchsia
-tile.RippledRed_11.name=Rippled Baby Pink
-tile.RippledRed_12.name=Rippled Light Salmon
+tile.RippledRed_9.name=Rippled Fuchsia
+tile.RippledRed_10.name=Rippled Baby Pink
+tile.RippledRed_11.name=Rippled Light Salmon Red
+tile.RippledRed_12.name=Rippled Salmon Red
 tile.RippledRed_13.name=Rippled Brown Red
 tile.RippledRed_14.name=Rippled Dark Brown Red
 
 
 
-#Diagonally Rippled Purple Colours
+#Rippled Purple Colours
 tile.RippledPurple_0.name=Rippled Light Magenta
 tile.RippledPurple_1.name=Rippled Magenta
 tile.RippledPurple_2.name=Rippled Dark Magenta
@@ -2689,7 +2689,7 @@ tile.RippledPurple_14.name=Rippled Midnight Blue
 
 
 
-#Diagonally Rippled Blue Colours
+#Rippled Blue Colours
 tile.RippledBlue_0.name=Rippled Light Blue
 tile.RippledBlue_1.name=Rippled Light Sky Blue
 tile.RippledBlue_2.name=Rippled Sky Blue
@@ -2708,7 +2708,7 @@ tile.RippledBlue_14.name=Rippled Midnight Blue
 
 
 
-#Diagonally Rippled Brown Colours
+#Rippled Brown Colours
 tile.RippledBrown_0.name=Rippled Soft Orange
 tile.RippledBrown_1.name=Rippled Sienna brown
 tile.RippledBrown_2.name=Rippled Burnt Sienna Brown
@@ -2727,7 +2727,7 @@ tile.RippledBrown_14.name=Rippled Dark Gray Brown
 
 
 
-#Diagonally Rippled Cyan Colours
+#Rippled Cyan Colours
 tile.RippledCyan_0.name=Rippled Light Green Blue
 tile.RippledCyan_1.name=Rippled Light Turquoise Blue
 tile.RippledCyan_2.name=Rippled Turquoise Blue
@@ -2741,7 +2741,7 @@ tile.RippledCyan_9.name=Rippled Dark Pine Blue Green
 
 
 
-#Diagonally Rippled Green Colours
+#Rippled Green Colours
 tile.RippledGreen_0.name=Rippled Light Green
 tile.RippledGreen_1.name=Rippled Light Spring Green
 tile.RippledGreen_2.name=Rippled Spring Green
@@ -2760,7 +2760,7 @@ tile.RippledGreen_14.name=Rippled Moss Green
 
 
 
-#Diagonally Rippled Yellow Colours
+#Rippled Yellow Colours
 tile.RippledYellow_0.name=Rippled Light Lemon Yellow
 tile.RippledYellow_1.name=Rippled Lemon Yellow
 tile.RippledYellow_2.name=Rippled Sunny Yellow
@@ -2779,7 +2779,7 @@ tile.RippledYellow_14.name=Rippled Orange Red
 
 
 
-#Diagonally Rippled Gray Colours
+#Rippled Gray Colours
 tile.RippledGray_0.name=Rippled White Gray
 tile.RippledGray_1.name=Rippled Light Gray
 tile.RippledGray_2.name=Rippled Gray
@@ -2795,6 +2795,165 @@ tile.RippledGray_11.name=Rippled Cool Gray
 tile.RippledGray_12.name=Rippled Dark Cool Gray
 tile.RippledGray_13.name=Rippled Cool Blue Gray
 tile.RippledGray_14.name=Rippled Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########         STARTING NAMING OF FANCY TILES         ###########
+###########									     	       ###########
+######################################################################
+
+
+#Fancy Tiles Red Colours
+tile.FancyTilesRed_0.name=Fancy Tile Light Warm Pink
+tile.FancyTilesRed_1.name=Fancy Tile Light Red
+tile.FancyTilesRed_2.name=Fancy Tile Bright Red
+tile.FancyTilesRed_3.name=Fancy Tile Red
+tile.FancyTilesRed_4.name=Fancy Tile Blood Red
+tile.FancyTilesRed_5.name=Fancy Tile Light Cool Pink
+tile.FancyTilesRed_6.name=Fancy Tile Pink
+tile.FancyTilesRed_7.name=Fancy Tile Hot Pink
+tile.FancyTilesRed_8.name=Fancy Tile Dark Pink
+tile.FancyTilesRed_9.name=Fancy Tile Fuchsia
+tile.FancyTilesRed_10.name=Fancy Tile Baby Pink
+tile.FancyTilesRed_11.name=Fancy Tile Light Salmon Red
+tile.FancyTilesRed_12.name=Fancy Tile Salmon Red
+tile.FancyTilesRed_13.name=Fancy Tile Brown Red
+tile.FancyTilesRed_14.name=Fancy Tile Dark Brown Red
+
+
+
+#Fancy Tiles Purple Colours
+tile.FancyTilesPurple_0.name=Fancy Tile Light Magenta
+tile.FancyTilesPurple_1.name=Fancy Tile Magenta
+tile.FancyTilesPurple_2.name=Fancy Tile Dark Magenta
+tile.FancyTilesPurple_3.name=Fancy Tile Violet
+tile.FancyTilesPurple_4.name=Fancy Tile Dark Violet
+tile.FancyTilesPurple_5.name=Fancy Tile Light Violet
+tile.FancyTilesPurple_6.name=Fancy Tile Light Purple
+tile.FancyTilesPurple_7.name=Fancy Tile Purple
+tile.FancyTilesPurple_8.name=Fancy Tile Dark Purple
+tile.FancyTilesPurple_9.name=Fancy Tile Royal Blue
+tile.FancyTilesPurple_10.name=Fancy Tile Light Lavender
+tile.FancyTilesPurple_11.name=Fancy Tile Lavender
+tile.FancyTilesPurple_12.name=Fancy Tile Azure Blue
+tile.FancyTilesPurple_13.name=Fancy Tile Dark Blue
+tile.FancyTilesPurple_14.name=Fancy Tile Midnight Blue
+
+
+
+#Fancy Tiles Blue Colours
+tile.FancyTilesBlue_0.name=Fancy Tile Light Blue
+tile.FancyTilesBlue_1.name=Fancy Tile Light Sky Blue
+tile.FancyTilesBlue_2.name=Fancy Tile Sky Blue
+tile.FancyTilesBlue_3.name=Fancy Tile Dark Sky Blue
+tile.FancyTilesBlue_4.name=Fancy Tile Navy Blue
+tile.FancyTilesBlue_5.name=Fancy Tile Light Baby Blue
+tile.FancyTilesBlue_6.name=Fancy Tile Baby Blue
+tile.FancyTilesBlue_7.name=Fancy Tile Bright Blue
+tile.FancyTilesBlue_8.name=Fancy Tile Medium Blue
+tile.FancyTilesBlue_9.name=Fancy Tile Deep Blue
+tile.FancyTilesBlue_10.name=Fancy Tile Light Aqua Blue
+tile.FancyTilesBlue_11.name=Fancy Tile Aqua Blue
+tile.FancyTilesBlue_12.name=Fancy Tile Dark Aqua Blue
+tile.FancyTilesBlue_13.name=Fancy Tile Ocean Blue
+tile.FancyTilesBlue_14.name=Fancy Tile Midnight Blue
+
+
+
+#Fancy Tiles Brown Colours
+tile.FancyTilesBrown_0.name=Fancy Tile Soft Orange
+tile.FancyTilesBrown_1.name=Fancy Tile Sienna brown
+tile.FancyTilesBrown_2.name=Fancy Tile Burnt Sienna Brown
+tile.FancyTilesBrown_3.name=Fancy Tile Earth Brown
+tile.FancyTilesBrown_4.name=Fancy Tile Soil Brown
+tile.FancyTilesBrown_5.name=Fancy Tile Light Beige
+tile.FancyTilesBrown_6.name=Fancy Tile Beige
+tile.FancyTilesBrown_7.name=Fancy Tile Terracotta Red
+tile.FancyTilesBrown_8.name=Fancy Tile Brown
+tile.FancyTilesBrown_9.name=Fancy Tile Saddle Brown
+tile.FancyTilesBrown_10.name=Fancy Tile Light Gray Brown
+tile.FancyTilesBrown_11.name=Fancy Tile Gray Brown
+tile.FancyTilesBrown_12.name=Fancy Tile Middle Gray Brown
+tile.FancyTilesBrown_13.name=Fancy Tile Gray Brown
+tile.FancyTilesBrown_14.name=Fancy Tile Dark Gray Brown
+
+
+
+#Fancy Tiles Cyan Colours
+tile.FancyTilesCyan_0.name=Fancy Tile Light Green Blue
+tile.FancyTilesCyan_1.name=Fancy Tile Light Turquoise Blue
+tile.FancyTilesCyan_2.name=Fancy Tile Turquoise Blue
+tile.FancyTilesCyan_3.name=Fancy Tile Teal Blue
+tile.FancyTilesCyan_4.name=Fancy Tile Dark Teal Blue
+tile.FancyTilesCyan_5.name=Fancy Tile Light Seafoam Blue Green
+tile.FancyTilesCyan_6.name=Fancy Tile Seafoam Blue Green
+tile.FancyTilesCyan_7.name=Fancy Tile Blue Green
+tile.FancyTilesCyan_8.name=Fancy Tile Dark Blue Green
+tile.FancyTilesCyan_9.name=Fancy Tile Dark Pine Blue Green
+
+
+
+#Fancy Tiles Green Colours
+tile.FancyTilesGreen_0.name=Fancy Tile Light Green
+tile.FancyTilesGreen_1.name=Fancy Tile Light Spring Green
+tile.FancyTilesGreen_2.name=Fancy Tile Spring Green
+tile.FancyTilesGreen_3.name=Fancy Tile Green
+tile.FancyTilesGreen_4.name=Fancy Tile Dark Green
+tile.FancyTilesGreen_5.name=Fancy Tile Light Summer Green
+tile.FancyTilesGreen_6.name=Fancy Tile Summer Green
+tile.FancyTilesGreen_7.name=Fancy Tile Lush Green
+tile.FancyTilesGreen_8.name=Fancy Tile Deep Lush Green
+tile.FancyTilesGreen_9.name=Fancy Tile Dark Lush Green
+tile.FancyTilesGreen_10.name=Fancy Tile Light Spring Green
+tile.FancyTilesGreen_11.name=Fancy Tile Spring Green
+tile.FancyTilesGreen_12.name=Fancy Tile Light Olive Green
+tile.FancyTilesGreen_13.name=Fancy Tile Olive Green
+tile.FancyTilesGreen_14.name=Fancy Tile Moss Green
+
+
+
+#Fancy Tiles Yellow Colours
+tile.FancyTilesYellow_0.name=Fancy Tile Light Lemon Yellow
+tile.FancyTilesYellow_1.name=Fancy Tile Lemon Yellow
+tile.FancyTilesYellow_2.name=Fancy Tile Sunny Yellow
+tile.FancyTilesYellow_3.name=Fancy Tile Soft Yellow
+tile.FancyTilesYellow_4.name=Fancy Tile Orange Yellow
+tile.FancyTilesYellow_5.name=Fancy Tile Light Sand Yellow
+tile.FancyTilesYellow_6.name=Fancy Tile Light Yellow
+tile.FancyTilesYellow_7.name=Fancy Tile Yellow
+tile.FancyTilesYellow_8.name=Fancy Tile Gold Yellow
+tile.FancyTilesYellow_9.name=Fancy Tile Dark Orange
+tile.FancyTilesYellow_10.name=Fancy Tile Light Orange
+tile.FancyTilesYellow_11.name=Fancy Tile Sunny Orange
+tile.FancyTilesYellow_12.name=Fancy Tile Orange
+tile.FancyTilesYellow_13.name=Fancy Tile Deep Orange
+tile.FancyTilesYellow_14.name=Fancy Tile Orange Red
+
+
+
+#Fancy Tiles Gray Colours
+tile.FancyTilesGray_0.name=Fancy Tile White Gray
+tile.FancyTilesGray_1.name=Fancy Tile Light Gray
+tile.FancyTilesGray_2.name=Fancy Tile Gray
+tile.FancyTilesGray_3.name=Fancy Tile Dark Gray
+tile.FancyTilesGray_4.name=Fancy Tile Gray Black
+tile.FancyTilesGray_5.name=Fancy Tile Light Warm Gray
+tile.FancyTilesGray_6.name=Fancy Tile Warm Gray
+tile.FancyTilesGray_7.name=Fancy Tile Middle Warm Gray
+tile.FancyTilesGray_8.name=Fancy Tile Dark Warm Gray
+tile.FancyTilesGray_9.name=Fancy Tile Warm Black Gray
+tile.FancyTilesGray_10.name=Fancy Tile Light Cool gray
+tile.FancyTilesGray_11.name=Fancy Tile Cool Gray
+tile.FancyTilesGray_12.name=Fancy Tile Dark Cool Gray
+tile.FancyTilesGray_13.name=Fancy Tile Cool Blue Gray
+tile.FancyTilesGray_14.name=Fancy Tile Cool Dark Blue Gray
 
 
 
@@ -2819,10 +2978,10 @@ tile.WoodPlankRed_5.name=Wood Plank Light Cool Pink
 tile.WoodPlankRed_6.name=Wood Plank Pink
 tile.WoodPlankRed_7.name=Wood Plank Hot Pink
 tile.WoodPlankRed_8.name=Wood Plank Dark Pink
-tile.WoodPlankRed_9.name=Wood Plank Hot Pink
-tile.WoodPlankRed_10.name=Wood Plank Fuchsia
-tile.WoodPlankRed_11.name=Wood Plank Baby Pink
-tile.WoodPlankRed_12.name=Wood Plank Light Salmon
+tile.WoodPlankRed_9.name=Wood Plank Fuchsia
+tile.WoodPlankRed_10.name=Wood Plank Baby Pink
+tile.WoodPlankRed_11.name=Wood Plank Light Salmon Red
+tile.WoodPlankRed_12.name=Wood Plank Salmon Red
 tile.WoodPlankRed_13.name=Wood Plank Brown Red
 tile.WoodPlankRed_14.name=Wood Plank Dark Brown Red
 
@@ -2978,10 +3137,10 @@ tile.WoolRed_5.name=Wool Light Cool Pink
 tile.WoolRed_6.name=Wool Pink
 tile.WoolRed_7.name=Wool Hot Pink
 tile.WoolRed_8.name=Wool Dark Pink
-tile.WoolRed_9.name=Wool Hot Pink
-tile.WoolRed_10.name=Wool Fuchsia
-tile.WoolRed_11.name=Wool Baby Pink
-tile.WoolRed_12.name=Wool Light Salmon
+tile.WoolRed_9.name=Wool Fuchsia
+tile.WoolRed_10.name=Wool Baby Pink
+tile.WoolRed_11.name=Wool Light Salmon Red
+tile.WoolRed_12.name=Wool Salmon Red
 tile.WoolRed_13.name=Wool Brown Red
 tile.WoolRed_14.name=Wool Dark Brown Red
 
@@ -3136,10 +3295,10 @@ tile.WoolCarpetRed_5.name=Wool Carpet Light Cool Pink
 tile.WoolCarpetRed_6.name=Wool Carpet Pink
 tile.WoolCarpetRed_7.name=Wool Carpet Hot Pink
 tile.WoolCarpetRed_8.name=Wool Carpet Dark Pink
-tile.WoolCarpetRed_9.name=Wool Carpet Hot Pink
-tile.WoolCarpetRed_10.name=Wool Carpet Fuchsia
-tile.WoolCarpetRed_11.name=Wool Carpet Baby Pink
-tile.WoolCarpetRed_12.name=Wool Carpet Light Salmon
+tile.WoolCarpetRed_9.name=Wool Carpet Fuchsia
+tile.WoolCarpetRed_10.name=Wool Carpet Baby Pink
+tile.WoolCarpetRed_11.name=Wool Carpet Light Salmon Red
+tile.WoolCarpetRed_12.name=Wool Carpet Salmon Red
 tile.WoolCarpetRed_13.name=Wool Carpet Brown Red
 tile.WoolCarpetRed_14.name=Wool Carpet Dark Brown Red
 
@@ -3295,10 +3454,10 @@ tile.CheckeredWoolRed_5.name=Checkered Wool Light Cool Pink
 tile.CheckeredWoolRed_6.name=Checkered Wool Pink
 tile.CheckeredWoolRed_7.name=Checkered Wool Hot Pink
 tile.CheckeredWoolRed_8.name=Checkered Wool Dark Pink
-tile.CheckeredWoolRed_9.name=Checkered Wool Hot Pink
-tile.CheckeredWoolRed_10.name=Checkered Wool Fuchsia
-tile.CheckeredWoolRed_11.name=Checkered Wool Baby Pink
-tile.CheckeredWoolRed_12.name=Checkered Wool Light Salmon
+tile.CheckeredWoolRed_9.name=Checkered Wool Fuchsia
+tile.CheckeredWoolRed_10.name=Checkered Wool Baby Pink
+tile.CheckeredWoolRed_11.name=Checkered Wool Light Salmon Red
+tile.CheckeredWoolRed_12.name=Checkered Wool Salmon Red
 tile.CheckeredWoolRed_13.name=Checkered Wool Brown Red
 tile.CheckeredWoolRed_14.name=Checkered Wool Dark Brown Red
 
@@ -3453,10 +3612,10 @@ tile.CheckeredCarpetRed_5.name=Checkered Carpet Light Cool Pink
 tile.CheckeredCarpetRed_6.name=Checkered Carpet Pink
 tile.CheckeredCarpetRed_7.name=Checkered Carpet Hot Pink
 tile.CheckeredCarpetRed_8.name=Checkered Carpet Dark Pink
-tile.CheckeredCarpetRed_9.name=Checkered Carpet Hot Pink
-tile.CheckeredCarpetRed_10.name=Checkered Carpet Fuchsia
-tile.CheckeredCarpetRed_11.name=Checkered Carpet Baby Pink
-tile.CheckeredCarpetRed_12.name=Checkered Carpet Light Salmon
+tile.CheckeredCarpetRed_9.name=Checkered Carpet Fuchsia
+tile.CheckeredCarpetRed_10.name=Checkered Carpet Baby Pink
+tile.CheckeredCarpetRed_11.name=Checkered Carpet Light Salmon Red
+tile.CheckeredCarpetRed_12.name=Checkered Carpet Salmon Red
 tile.CheckeredCarpetRed_13.name=Checkered Carpet Brown Red
 tile.CheckeredCarpetRed_14.name=Checkered Carpet Dark Brown Red
 
@@ -3613,10 +3772,10 @@ tile.AuraLampRed_5.name=Aura Lamp Light Cool Pink
 tile.AuraLampRed_6.name=Aura Lamp Pink
 tile.AuraLampRed_7.name=Aura Lamp Hot Pink
 tile.AuraLampRed_8.name=Aura Lamp Dark Pink
-tile.AuraLampRed_9.name=Aura Lamp Hot Pink
-tile.AuraLampRed_10.name=Aura Lamp Fuchsia
-tile.AuraLampRed_11.name=Aura Lamp Baby Pink
-tile.AuraLampRed_12.name=Aura Lamp Light Salmon
+tile.AuraLampRed_9.name=Aura Lamp Fuchsia
+tile.AuraLampRed_10.name=Aura Lamp Baby Pink
+tile.AuraLampRed_11.name=Aura Lamp Light Salmon Red
+tile.AuraLampRed_12.name=Aura Lamp Salmon Red
 tile.AuraLampRed_13.name=Aura Lamp Brown Red
 tile.AuraLampRed_14.name=Aura Lamp Dark Brown Red
 

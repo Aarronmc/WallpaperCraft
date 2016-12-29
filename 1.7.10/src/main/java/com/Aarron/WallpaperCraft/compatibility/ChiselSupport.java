@@ -165,6 +165,15 @@ public class ChiselSupport {
 		addToChisle("Brown Rippled Blocks", ModBlocks.RippledBrown, 14);
 		addToChisle("Gray Rippled Blocks", ModBlocks.RippledGray, 14);
 		
+		addToChisle("FancyTiles Red Blocks", ModBlocks.FancyTilesRed, 14);
+		addToChisle("FancyTiles Purple Blocks", ModBlocks.FancyTilesPurple, 14);
+		addToChisle("FancyTiles Blue Blocks", ModBlocks.FancyTilesBlue, 14);
+		addToChisle("FancyTiles Cyan Blocks", ModBlocks.FancyTilesCyan, 9);
+		addToChisle("FancyTiles Green Blocks", ModBlocks.FancyTilesGreen, 14);
+		addToChisle("FancyTiles Yellow Blocks", ModBlocks.FancyTilesYellow, 14);
+		addToChisle("FancyTiles Brown Blocks", ModBlocks.FancyTilesBrown, 14);
+		addToChisle("FancyTiles Gray Blocks", ModBlocks.FancyTilesGray, 14);
+		
 		addToChisle("Wood Planks Red Blocks", ModBlocks.WoodPlankRed, 14);
 		addToChisle("Wood Planks Purple Blocks", ModBlocks.WoodPlankPurple, 14);
 		addToChisle("Wood Planks Blue Blocks", ModBlocks.WoodPlankBlue, 14);
