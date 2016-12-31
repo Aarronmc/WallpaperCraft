@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/damaskbrown-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/damask/damaskbrown-14"}}]
   }
 }

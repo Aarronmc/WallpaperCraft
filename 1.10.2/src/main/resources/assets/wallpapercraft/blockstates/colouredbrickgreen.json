@@ -1,0 +1,24 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickgreen-14"}}]
+  }
+}

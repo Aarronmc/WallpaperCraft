@@ -5,15 +5,15 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/solidcyan-9"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidcyan-9"}}]
   }
 }

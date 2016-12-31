@@ -89,6 +89,14 @@ public class JEIPlugin extends BlankModPlugin {
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickYellow,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickBrown,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickGray,0, + i));
+	    			
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickRed,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickPurple,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickBlue,0, + i));	
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickGreen,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickYellow,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickBrown,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickGray,0, + i));
 
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampRed,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampPurple,0, + i));
@@ -203,6 +211,7 @@ public class JEIPlugin extends BlankModPlugin {
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.DamaskCyan,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ClayCyan,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.BrickCyan,0, + i));
+	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.ColouredBrickCyan,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneBrickCyan,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.StoneLampCyan,0, + i));
 	    			jeiHelper.getItemBlacklist().addItemToBlacklist(new ItemStack(ModBlocks.RippledCyan,0, + i));

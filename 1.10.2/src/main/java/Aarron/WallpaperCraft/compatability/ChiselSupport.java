@@ -120,6 +120,15 @@ public class ChiselSupport {
 		ICarvingGroup StoneBrickBrown = getGroup(chisel, "StoneBrickBrown");
 		ICarvingGroup StoneBrickGray = getGroup(chisel, "StoneBrickGray");
 		
+		ICarvingGroup ColouredBrickRed = getGroup(chisel, "ColouredBrickRed");
+		ICarvingGroup ColouredBrickPurple = getGroup(chisel, "ColouredBrickPurple");
+		ICarvingGroup ColouredBrickBlue = getGroup(chisel, "ColouredBrickBlue");
+		ICarvingGroup ColouredBrickCyan = getGroup(chisel, "ColouredBrickCyan");
+		ICarvingGroup ColouredBrickGreen = getGroup(chisel, "ColouredBrickGreen");
+		ICarvingGroup ColouredBrickYellow = getGroup(chisel, "ColouredBrickYellow");
+		ICarvingGroup ColouredBrickBrown = getGroup(chisel, "ColouredBrickBrown");
+		ICarvingGroup ColouredBrickGray = getGroup(chisel, "ColouredBrickGray");
+		
 		ICarvingGroup StoneLampRed = getGroup(chisel, "StoneLampRed");
 		ICarvingGroup StoneLampPurple = getGroup(chisel, "StoneLampPurple");
 		ICarvingGroup StoneLampBlue = getGroup(chisel, "StoneLampBlue");
@@ -313,6 +322,15 @@ public class ChiselSupport {
 		chisel.addGroup(StoneBrickYellow);
 		chisel.addGroup(StoneBrickBrown);
 		chisel.addGroup(StoneBrickGray);
+		
+		chisel.addGroup(ColouredBrickRed);
+		chisel.addGroup(ColouredBrickPurple);
+		chisel.addGroup(ColouredBrickBlue);
+		chisel.addGroup(ColouredBrickCyan);
+		chisel.addGroup(ColouredBrickGreen);
+		chisel.addGroup(ColouredBrickYellow);
+		chisel.addGroup(ColouredBrickBrown);
+		chisel.addGroup(ColouredBrickGray);
 		
 		chisel.addGroup(StoneLampRed);
 		chisel.addGroup(StoneLampPurple);
@@ -607,6 +625,24 @@ public class ChiselSupport {
 			chisel.addVariation(StoneBrickYellow.getName(), StoneBrickYellowState, 99);
 			chisel.addVariation(StoneBrickBrown.getName(), StoneBrickBrownState, 99);
 			chisel.addVariation(StoneBrickGray.getName(), StoneBrickGrayState, 99);
+
+			
+			
+			IBlockState ColouredBrickRedState = ModBlocks.ColouredBrickRed.getStateFromMeta(type.getMeta());
+			IBlockState ColouredBrickPurpleState = ModBlocks.ColouredBrickPurple.getStateFromMeta(type.getMeta());
+			IBlockState ColouredBrickBlueState = ModBlocks.ColouredBrickBlue.getStateFromMeta(type.getMeta());
+			IBlockState ColouredBrickgreenState = ModBlocks.ColouredBrickGreen.getStateFromMeta(type.getMeta());
+			IBlockState ColouredBrickYellowState = ModBlocks.ColouredBrickYellow.getStateFromMeta(type.getMeta());
+			IBlockState ColouredBrickBrownState = ModBlocks.ColouredBrickBrown.getStateFromMeta(type.getMeta());
+			IBlockState ColouredBrickGrayState = ModBlocks.ColouredBrickGray.getStateFromMeta(type.getMeta());
+
+			chisel.addVariation(ColouredBrickRed.getName(), ColouredBrickRedState, 99);
+			chisel.addVariation(ColouredBrickPurple.getName(), ColouredBrickPurpleState, 99);
+			chisel.addVariation(ColouredBrickBlue.getName(), ColouredBrickBlueState, 99);
+			chisel.addVariation(ColouredBrickGreen.getName(), ColouredBrickgreenState, 99);
+			chisel.addVariation(ColouredBrickYellow.getName(), ColouredBrickYellowState, 99);
+			chisel.addVariation(ColouredBrickBrown.getName(), ColouredBrickBrownState, 99);
+			chisel.addVariation(ColouredBrickGray.getName(), ColouredBrickGrayState, 99);
 			
 			
 			
@@ -829,6 +865,9 @@ public class ChiselSupport {
 			
 			IBlockState StoneBrickCyanState = ModBlocks.StoneBrickCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(StoneBrickCyan.getName(), StoneBrickCyanState, 99);
+			
+			IBlockState ColouredBrickCyanState = ModBlocks.ColouredBrickCyan.getStateFromMeta(type.getMeta());
+			chisel.addVariation(ColouredBrickCyan.getName(), ColouredBrickCyanState, 99);
 			
 			IBlockState StoneLampCyanState = ModBlocks.StoneLampCyan.getStateFromMeta(type.getMeta());
 			chisel.addVariation(StoneLampCyan.getName(), StoneLampCyanState, 99);

@@ -120,6 +120,15 @@ public class ModBlocks {
 	public static StoneBrickBrown StoneBrickBrown = new StoneBrickBrown();
 	public static StoneBrickGray StoneBrickGray = new StoneBrickGray();
 	
+	public static ColouredBrickRed ColouredBrickRed = new ColouredBrickRed();
+	public static ColouredBrickPurple ColouredBrickPurple = new ColouredBrickPurple();
+	public static ColouredBrickBlue ColouredBrickBlue = new ColouredBrickBlue();
+	public static ColouredBrickCyan ColouredBrickCyan = new ColouredBrickCyan();
+	public static ColouredBrickGreen ColouredBrickGreen = new ColouredBrickGreen();
+	public static ColouredBrickYellow ColouredBrickYellow = new ColouredBrickYellow();
+	public static ColouredBrickBrown ColouredBrickBrown = new ColouredBrickBrown();
+	public static ColouredBrickGray ColouredBrickGray = new ColouredBrickGray();
+	
 	public static StoneLampRed StoneLampRed = new StoneLampRed();
 	public static StoneLampPurple StoneLampPurple = new StoneLampPurple();
 	public static StoneLampBlue StoneLampBlue = new StoneLampBlue();
@@ -324,6 +333,15 @@ public class ModBlocks {
 		StoneBrickBrown.initModel();
 		StoneBrickGray.initModel();
 		
+		ColouredBrickRed.initModel();
+		ColouredBrickPurple.initModel();
+		ColouredBrickBlue.initModel();
+		ColouredBrickCyan.initModel();
+		ColouredBrickGreen.initModel();
+		ColouredBrickYellow.initModel();
+		ColouredBrickBrown.initModel();
+		ColouredBrickGray.initModel();
+		
 		StoneLampRed.initModel();
 		StoneLampPurple.initModel();
 		StoneLampBlue.initModel();
@@ -521,6 +539,15 @@ public class ModBlocks {
 		GameRegistry.register(StoneBrickYellow);
 		GameRegistry.register(StoneBrickBrown);
 		GameRegistry.register(StoneBrickGray);
+		
+		GameRegistry.register(ColouredBrickRed);
+		GameRegistry.register(ColouredBrickPurple);
+		GameRegistry.register(ColouredBrickBlue);
+		GameRegistry.register(ColouredBrickCyan);
+		GameRegistry.register(ColouredBrickGreen);
+		GameRegistry.register(ColouredBrickYellow);
+		GameRegistry.register(ColouredBrickBrown);
+		GameRegistry.register(ColouredBrickGray);
 		
 		GameRegistry.register(StoneLampRed);
 		GameRegistry.register(StoneLampPurple);

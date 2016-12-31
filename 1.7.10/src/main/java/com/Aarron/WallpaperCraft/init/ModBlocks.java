@@ -124,7 +124,17 @@ public final class ModBlocks {
     public static StoneBrickBrown StoneBrickBrown;
     public static StoneBrickGray StoneBrickGray;
     
-    //Creating The Stone Brick Blocks
+    //Creating The Colored Brick Blocks
+    public static ColouredBrickRed ColouredBrickRed;
+    public static ColouredBrickPurple ColouredBrickPurple;
+    public static ColouredBrickBlue ColouredBrickBlue;
+    public static ColouredBrickCyan ColouredBrickCyan;
+    public static ColouredBrickGreen ColouredBrickGreen;
+    public static ColouredBrickYellow ColouredBrickYellow;
+    public static ColouredBrickBrown ColouredBrickBrown;
+    public static ColouredBrickGray ColouredBrickGray;
+    
+    //Creating The Stone Lamps
     public static StoneLampRed StoneLampRed;
     public static StoneLampPurple StoneLampPurple;
     public static StoneLampBlue StoneLampBlue;
@@ -374,6 +384,16 @@ public final class ModBlocks {
         GameRegistry.registerBlock(StoneBrickYellow = new StoneBrickYellow("StoneBrickYellow", Material.rock), ItemSolidBlock.class, "StoneBrickYellow");
         GameRegistry.registerBlock(StoneBrickBrown = new StoneBrickBrown("StoneBrickBrown", Material.rock), ItemSolidBlock.class, "StoneBrickBrown");
         GameRegistry.registerBlock(StoneBrickGray = new StoneBrickGray("StoneBrickGray", Material.rock), ItemSolidBlock.class, "StoneBrickGray");
+        
+         // Registering The Coloured Brick Blocks
+        GameRegistry.registerBlock(ColouredBrickRed = new ColouredBrickRed("ColouredBrickRed", Material.rock), ItemSolidBlock.class, "ColouredBrickRed");
+        GameRegistry.registerBlock(ColouredBrickPurple = new ColouredBrickPurple("ColouredBrickPurple", Material.rock), ItemSolidBlock.class, "ColouredBrickPurple");
+        GameRegistry.registerBlock(ColouredBrickBlue = new ColouredBrickBlue("ColouredBrickBlue", Material.rock), ItemSolidBlock.class, "ColouredBrickBlue");
+        GameRegistry.registerBlock(ColouredBrickCyan = new ColouredBrickCyan("ColouredBrickCyan", Material.rock), ItemSolidBlock2.class, "ColouredBrickCyan");
+        GameRegistry.registerBlock(ColouredBrickGreen = new ColouredBrickGreen("ColouredBrickGreen", Material.rock), ItemSolidBlock.class, "ColouredBrickGreen");
+        GameRegistry.registerBlock(ColouredBrickYellow = new ColouredBrickYellow("ColouredBrickYellow", Material.rock), ItemSolidBlock.class, "ColouredBrickYellow");
+        GameRegistry.registerBlock(ColouredBrickBrown = new ColouredBrickBrown("ColouredBrickBrown", Material.rock), ItemSolidBlock.class, "ColouredBrickBrown");
+        GameRegistry.registerBlock(ColouredBrickGray = new ColouredBrickGray("ColouredBrickGray", Material.rock), ItemSolidBlock.class, "ColouredBrickGray");
         
         // Registering The Stone Lamp Blocks
         GameRegistry.registerBlock(StoneLampRed = new StoneLampRed("StoneLampRed", Material.rock), ItemSolidBlock.class, "StoneLampRed");

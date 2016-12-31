@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/claygray-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/clay/claygray-14"}}]
   }
 }

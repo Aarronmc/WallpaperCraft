@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwoolgreen-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/checkeredwool/checkeredwoolgreen-14"}}]
   }
 }

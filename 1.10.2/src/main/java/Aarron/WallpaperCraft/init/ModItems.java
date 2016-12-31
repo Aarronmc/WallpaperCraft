@@ -21,6 +21,7 @@ public class ModItems {
 	public static PressFrostedGlass PressFrostedGlass;
 	public static PressBrick PressBrick;
 	public static PressStoneBrick PressStoneBrick;
+	public static PressColouredBrick PressColouredBrick;
 	public static PressStoneLamp PressStoneLamp;
 	public static PressRippled PressRippled;
 	public static PressFancyTiles PressFancyTiles;
@@ -47,6 +48,7 @@ public class ModItems {
     	PressFrostedGlass = new PressFrostedGlass();
     	PressBrick = new PressBrick();
     	PressStoneBrick = new PressStoneBrick();
+    	PressColouredBrick = new PressColouredBrick();
     	PressStoneLamp = new PressStoneLamp();
     	PressRippled = new PressRippled();
     	PressFancyTiles = new PressFancyTiles();
@@ -75,6 +77,7 @@ public class ModItems {
     	PressFrostedGlass.initModel();
     	PressBrick.initModel();
     	PressStoneBrick.initModel();
+    	PressColouredBrick.initModel();
     	PressStoneLamp.initModel();
     	PressRippled.initModel();
     	PressFancyTiles.initModel();

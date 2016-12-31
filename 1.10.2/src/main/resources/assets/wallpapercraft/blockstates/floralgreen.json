@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/floralgreen-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/floral/floralgreen-14"}}]
   }
 }

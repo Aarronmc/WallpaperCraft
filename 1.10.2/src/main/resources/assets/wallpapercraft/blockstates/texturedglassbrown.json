@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglassbrown-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/texturedglass/texturedglassbrown-14"}}]
   }
 }

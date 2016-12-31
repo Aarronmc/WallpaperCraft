@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickcyan-9"}}]
+  }
+}

@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/rippledred-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledred-14"}}]
   }
 }

@@ -30,6 +30,7 @@ item.pressdamask.name=Damask Pattern Press
 item.pressjewel.name=Jewel Pattern Press
 item.pressauralamp.name=Aura Lamp Pattern Press#
 item.pressfancytiles.name=Fancy Tiles Pattern Press
+item.presscolouredbrick.name=Colored Brick Pattern Press
 
 
 
@@ -2803,6 +2804,166 @@ tile.WallpaperCraft:stonebrickgray_11.name=Stone Brick Cool Gray
 tile.WallpaperCraft:stonebrickgray_12.name=Stone Brick Dark Cool Gray
 tile.WallpaperCraft:stonebrickgray_13.name=Stone Brick Cool Blue Gray
 tile.WallpaperCraft:stonebrickgray_14.name=Stone Brick Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########      STARTING NAMING OF COLOURED BRICKS        ###########
+###########									     	       ###########
+######################################################################
+
+
+#Coloured Brick Red Colours
+tile.WallpaperCraft:colouredbrickred_0.name=Colored Brick Light Warm Pink
+tile.WallpaperCraft:colouredbrickred_1.name=Colored Brick Light Red
+tile.WallpaperCraft:colouredbrickred_2.name=Colored Brick Bright Red
+tile.WallpaperCraft:colouredbrickred_3.name=Colored Brick Red
+tile.WallpaperCraft:colouredbrickred_4.name=Colored Brick Blood Red
+tile.WallpaperCraft:colouredbrickred_5.name=Colored Brick Light Cool Pink
+tile.WallpaperCraft:colouredbrickred_6.name=Colored Brick Pink
+tile.WallpaperCraft:colouredbrickred_7.name=Colored Brick Hot Pink
+tile.WallpaperCraft:colouredbrickred_8.name=Colored Brick Dark Pink
+tile.WallpaperCraft:colouredbrickred_9.name=Colored Brick Fuchsia
+tile.WallpaperCraft:colouredbrickred_10.name=Colored Brick Baby Pink
+tile.WallpaperCraft:colouredbrickred_11.name=Colored Brick Light Salmon Red
+tile.WallpaperCraft:colouredbrickred_12.name=Colored Brick Salmon Red
+tile.WallpaperCraft:colouredbrickred_13.name=Colored Brick Brown Red
+tile.WallpaperCraft:colouredbrickred_14.name=Colored Brick Dark Brown Red
+
+
+#Coloured Brick Purple Colours
+tile.WallpaperCraft:colouredbrickpurple_0.name=Colored Brick Light Magenta
+tile.WallpaperCraft:colouredbrickpurple_1.name=Colored Brick Magenta
+tile.WallpaperCraft:colouredbrickpurple_2.name=Colored Brick Dark Magenta
+tile.WallpaperCraft:colouredbrickpurple_3.name=Colored Brick Violet
+tile.WallpaperCraft:colouredbrickpurple_4.name=Colored Brick Dark Violet
+tile.WallpaperCraft:colouredbrickpurple_5.name=Colored Brick Light Violet
+tile.WallpaperCraft:colouredbrickpurple_6.name=Colored Brick Light Purple
+tile.WallpaperCraft:colouredbrickpurple_7.name=Colored Brick Purple
+tile.WallpaperCraft:colouredbrickpurple_8.name=Colored Brick Dark Purple
+tile.WallpaperCraft:colouredbrickpurple_9.name=Colored Brick Royal Blue
+tile.WallpaperCraft:colouredbrickpurple_10.name=Colored Brick Light Lavender
+tile.WallpaperCraft:colouredbrickpurple_11.name=Colored Brick Lavender
+tile.WallpaperCraft:colouredbrickpurple_12.name=Colored Brick Azure Blue
+tile.WallpaperCraft:colouredbrickpurple_13.name=Colored Brick Dark Blue
+tile.WallpaperCraft:colouredbrickpurple_14.name=Colored Brick Midnight Blue
+
+
+
+#Coloured Brick Blue Colours
+tile.WallpaperCraft:colouredbrickblue_0.name=Colored Brick Light Blue
+tile.WallpaperCraft:colouredbrickblue_1.name=Colored Brick Light Sky Blue
+tile.WallpaperCraft:colouredbrickblue_2.name=Colored Brick Sky Blue
+tile.WallpaperCraft:colouredbrickblue_3.name=Colored Brick Dark Sky Blue
+tile.WallpaperCraft:colouredbrickblue_4.name=Colored Brick Navy Blue
+tile.WallpaperCraft:colouredbrickblue_5.name=Colored Brick Light Baby Blue
+tile.WallpaperCraft:colouredbrickblue_6.name=Colored Brick Baby Blue
+tile.WallpaperCraft:colouredbrickblue_7.name=Colored Brick Bright Blue
+tile.WallpaperCraft:colouredbrickblue_8.name=Colored Brick Medium Blue
+tile.WallpaperCraft:colouredbrickblue_9.name=Colored Brick Deep Blue
+tile.WallpaperCraft:colouredbrickblue_10.name=Colored Brick Light Aqua Blue
+tile.WallpaperCraft:colouredbrickblue_11.name=Colored Brick Aqua Blue
+tile.WallpaperCraft:colouredbrickblue_12.name=Colored Brick Dark Aqua Blue
+tile.WallpaperCraft:colouredbrickblue_13.name=Colored Brick Ocean Blue
+tile.WallpaperCraft:colouredbrickblue_14.name=Colored Brick Midnight Blue
+
+
+
+#Coloured Brick Brown Colours
+tile.WallpaperCraft:colouredbrickbrown_0.name=Colored Brick Soft Orange
+tile.WallpaperCraft:colouredbrickbrown_1.name=Colored Brick Sienna brown
+tile.WallpaperCraft:colouredbrickbrown_2.name=Colored Brick Burnt Sienna Brown
+tile.WallpaperCraft:colouredbrickbrown_3.name=Colored Brick Earth Brown
+tile.WallpaperCraft:colouredbrickbrown_4.name=Colored Brick Soil Brown
+tile.WallpaperCraft:colouredbrickbrown_5.name=Colored Brick Light Beige
+tile.WallpaperCraft:colouredbrickbrown_6.name=Colored Brick Beige
+tile.WallpaperCraft:colouredbrickbrown_7.name=Colored Brick Terracotta Red
+tile.WallpaperCraft:colouredbrickbrown_8.name=Colored Brick Brown
+tile.WallpaperCraft:colouredbrickbrown_9.name=Colored Brick Saddle Brown
+tile.WallpaperCraft:colouredbrickbrown_10.name=Colored Brick Light Gray Brown
+tile.WallpaperCraft:colouredbrickbrown_11.name=Colored Brick Gray Brown
+tile.WallpaperCraft:colouredbrickbrown_12.name=Colored Brick Middle Gray Brown
+tile.WallpaperCraft:colouredbrickbrown_13.name=Colored Brick Gray Brown
+tile.WallpaperCraft:colouredbrickbrown_14.name=Colored Brick Dark Gray Brown
+
+
+
+#Coloured Brick Cyan Colours
+tile.WallpaperCraft:colouredbrickcyan_0.name=Colored Brick Light Green Blue
+tile.WallpaperCraft:colouredbrickcyan_1.name=Colored Brick Light Turquoise Blue
+tile.WallpaperCraft:colouredbrickcyan_2.name=Colored Brick Turquoise Blue
+tile.WallpaperCraft:colouredbrickcyan_3.name=Colored Brick Teal Blue
+tile.WallpaperCraft:colouredbrickcyan_4.name=Colored Brick Dark Teal Blue
+tile.WallpaperCraft:colouredbrickcyan_5.name=Colored Brick Light Seafoam Blue Green
+tile.WallpaperCraft:colouredbrickcyan_6.name=Colored Brick Seafoam Blue Green
+tile.WallpaperCraft:colouredbrickcyan_7.name=Colored Brick Blue Green
+tile.WallpaperCraft:colouredbrickcyan_8.name=Colored Brick Dark Blue Green
+tile.WallpaperCraft:colouredbrickcyan_9.name=Colored Brick Dark Pine Blue Green
+
+
+
+#Coloured Brick Green Colours
+tile.WallpaperCraft:colouredbrickgreen_0.name=Colored Brick Light Green
+tile.WallpaperCraft:colouredbrickgreen_1.name=Colored Brick Light Spring Green
+tile.WallpaperCraft:colouredbrickgreen_2.name=Colored Brick Spring Green
+tile.WallpaperCraft:colouredbrickgreen_3.name=Colored Brick Green
+tile.WallpaperCraft:colouredbrickgreen_4.name=Colored Brick Dark Green
+tile.WallpaperCraft:colouredbrickgreen_5.name=Colored Brick Light Summer Green
+tile.WallpaperCraft:colouredbrickgreen_6.name=Colored Brick Summer Green
+tile.WallpaperCraft:colouredbrickgreen_7.name=Colored Brick Lush Green
+tile.WallpaperCraft:colouredbrickgreen_8.name=Colored Brick Deep Lush Green
+tile.WallpaperCraft:colouredbrickgreen_9.name=Colored Brick Dark Lush Green
+tile.WallpaperCraft:colouredbrickgreen_10.name=Colored Brick Light Spring Green
+tile.WallpaperCraft:colouredbrickgreen_11.name=Colored Brick Spring Green
+tile.WallpaperCraft:colouredbrickgreen_12.name=Colored Brick Light Olive Green
+tile.WallpaperCraft:colouredbrickgreen_13.name=Colored Brick Olive Green
+tile.WallpaperCraft:colouredbrickgreen_14.name=Colored Brick Moss Green
+
+
+
+#Coloured Brick Yellow Colours
+tile.WallpaperCraft:colouredbrickyellow_0.name=Colored Brick Light Lemon Yellow
+tile.WallpaperCraft:colouredbrickyellow_1.name=Colored Brick Lemon Yellow
+tile.WallpaperCraft:colouredbrickyellow_2.name=Colored Brick Sunny Yellow
+tile.WallpaperCraft:colouredbrickyellow_3.name=Colored Brick Soft Yellow
+tile.WallpaperCraft:colouredbrickyellow_4.name=Colored Brick Orange Yellow
+tile.WallpaperCraft:colouredbrickyellow_5.name=Colored Brick Light Sand Yellow
+tile.WallpaperCraft:colouredbrickyellow_6.name=Colored Brick Light Yellow
+tile.WallpaperCraft:colouredbrickyellow_7.name=Colored Brick Yellow
+tile.WallpaperCraft:colouredbrickyellow_8.name=Colored Brick Gold Yellow
+tile.WallpaperCraft:colouredbrickyellow_9.name=Colored Brick Dark Orange
+tile.WallpaperCraft:colouredbrickyellow_10.name=Colored Brick Light Orange
+tile.WallpaperCraft:colouredbrickyellow_11.name=Colored Brick Sunny Orange
+tile.WallpaperCraft:colouredbrickyellow_12.name=Colored Brick Orange
+tile.WallpaperCraft:colouredbrickyellow_13.name=Colored Brick Deep Orange
+tile.WallpaperCraft:colouredbrickyellow_14.name=Colored Brick Orange Red
+
+
+
+#Coloured Brick Gray Colours
+tile.WallpaperCraft:colouredbrickgray_0.name=Colored Brick White Gray
+tile.WallpaperCraft:colouredbrickgray_1.name=Colored Brick Light Gray
+tile.WallpaperCraft:colouredbrickgray_2.name=Colored Brick Gray
+tile.WallpaperCraft:colouredbrickgray_3.name=Colored Brick Dark Gray
+tile.WallpaperCraft:colouredbrickgray_4.name=Colored Brick Gray Black
+tile.WallpaperCraft:colouredbrickgray_5.name=Colored Brick Light Warm Gray
+tile.WallpaperCraft:colouredbrickgray_6.name=Colored Brick Warm Gray
+tile.WallpaperCraft:colouredbrickgray_7.name=Colored Brick Middle Warm Gray
+tile.WallpaperCraft:colouredbrickgray_8.name=Colored Brick Dark Warm Gray
+tile.WallpaperCraft:colouredbrickgray_9.name=Colored Brick Warm Black Gray
+tile.WallpaperCraft:colouredbrickgray_10.name=Colored Brick Light Cool gray
+tile.WallpaperCraft:colouredbrickgray_11.name=Colored Brick Cool Gray
+tile.WallpaperCraft:colouredbrickgray_12.name=Colored Brick Dark Cool Gray
+tile.WallpaperCraft:colouredbrickgray_13.name=Colored Brick Cool Blue Gray
+tile.WallpaperCraft:colouredbrickgray_14.name=Colored Brick Cool Dark Blue Gray
 
 
 

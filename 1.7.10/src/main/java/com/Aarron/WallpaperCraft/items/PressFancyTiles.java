@@ -11,7 +11,7 @@ import com.Aarron.WallpaperCraft.creativeTab.Tab;
 	public class PressFancyTiles extends Item {
 		public PressFancyTiles() {
 			setUnlocalizedName("pressfancytiles");
-			setTextureName("pressfancytiles");
+			setTextureName("wp:pressfancytiles");
 			setContainerItem(this);
 			setCreativeTab(Tab.WPtab);
 		}

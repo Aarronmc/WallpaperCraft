@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/stonelampbrown-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/stonelamp/stonelampbrown-14"}}]
   }
 }

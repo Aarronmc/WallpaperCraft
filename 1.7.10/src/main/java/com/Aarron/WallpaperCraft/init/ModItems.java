@@ -23,6 +23,7 @@ public final class ModItems {
 	public static PressFrostedGlass PressFrostedGlass;
 	public static PressBrick PressBrick;
 	public static PressStoneBrick PressStoneBrick;
+	public static PressColouredBrick PressColouredBrick;
 	public static PressStoneLamp PressStoneLamp;
 	public static PressRippled PressRippled;
 	public static PressFancyTiles PressFancyTiles;
@@ -51,6 +52,7 @@ public final class ModItems {
 		PressFrostedGlass = registerItem(new PressFrostedGlass());
 		PressBrick = registerItem(new PressBrick());
 		PressStoneBrick = registerItem(new PressStoneBrick());
+		PressColouredBrick = registerItem(new PressColouredBrick());
 		PressStoneLamp = registerItem(new PressStoneLamp());
 		PressRippled = registerItem(new PressRippled());
 		PressFancyTiles = registerItem(new PressFancyTiles());

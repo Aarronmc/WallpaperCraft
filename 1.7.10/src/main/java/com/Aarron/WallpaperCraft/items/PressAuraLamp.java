@@ -12,7 +12,7 @@ import com.Aarron.WallpaperCraft.creativeTab.Tab;
 	public class PressAuraLamp extends Item {
 		public PressAuraLamp() {
 			setUnlocalizedName("pressauralamp");
-			setTextureName("pressauralamp");
+			setTextureName("wp:pressauralamp");
 			setContainerItem(this);
 			setCreativeTab(Tab.WPtab);
 		}

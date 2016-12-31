@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/dottedred-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedred-14"}}]
   }
 }

@@ -5,15 +5,15 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/auralampcyan-9"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/auralamp/auralampcyan-9"}}]
   }
 }

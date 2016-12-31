@@ -81,6 +81,9 @@ public class Recipies {
        GameRegistry.addRecipe(new ItemStack(ModItems.PressFancyTiles, 1),
     		   "FP", 'P', ModItems.PressBlank, 'F', new ItemStack(Blocks.STONE_SLAB, 1, 5));
        
+       GameRegistry.addRecipe(new ItemStack(ModItems.PressColouredBrick, 1),
+    		   "FPS", 'P', ModItems.PressBlank, 'F', Blocks.BRICK_BLOCK, 'S', new ItemStack(Items.DYE, 1, OreDictionary.WILDCARD_VALUE));
+       
        
        
        
@@ -105,7 +108,7 @@ public class Recipies {
 	   ////////////////////////////////////		115 BLOCK VARIANT RECIPIES		////////////////////////////////////
 
        //Recipes for Solid block
-       for (int j = 0, i = 0; j < 15 || j < 10; j++, i++) {
+       for (int j = 0, i = 0; j < 15 || i < 10; j++, i++) {
     	   if ( j < 15){
     	GameRegistry.addRecipe(new ItemStack(ModBlocks.SolidRed, 9, 0), "CCC", "CCC", "CCC", 'C', new ItemStack(Blocks.STAINED_HARDENED_CLAY, 1, 14));
     		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, (j+1)%15), new Object[] {new ItemStack(ModBlocks.SolidRed, 1, j%15)});
@@ -449,6 +452,31 @@ public class Recipies {
   	   	   if ( i < 10){
   	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneBrickCyan, 1, i), ModItems.PressStoneBrick, new ItemStack(ModBlocks.SolidCyan, 1, i));
   	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.StoneBrickCyan, 1, (i+1)%10), new ItemStack(ModBlocks.StoneBrickCyan, 1, i%10));
+  	   	   }
+       }
+
+       
+       //Recipes for Coloured Bricks
+       for (int j = 0, i = 0; j < 15 || i < 10; j++, i++) {
+    	   if ( j < 15){
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickRed, 1, j), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidRed, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickRed, 1, (j+1)%15), new ItemStack(ModBlocks.ColouredBrickRed, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickPurple, 1, j), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidPurple, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickPurple, 1, (j+1)%15), new ItemStack(ModBlocks.ColouredBrickPurple, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickBlue, 1, j), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidBlue, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickBlue, 1, (j+1)%15), new ItemStack(ModBlocks.ColouredBrickBlue, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickGreen, 1, j), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidGreen, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickGreen, 1, (j+1)%15), new ItemStack(ModBlocks.ColouredBrickGreen, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickYellow, 1, j), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidYellow, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickYellow, 1, (j+1)%15), new ItemStack(ModBlocks.ColouredBrickYellow, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickBrown, 1, j), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidBrown, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickBrown, 1, (j+1)%15), new ItemStack(ModBlocks.ColouredBrickBrown, 1, j%15));
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickGray, 1, j), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidGray, 1, j));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickGray, 1, (j+1)%15), new ItemStack(ModBlocks.ColouredBrickGray, 1, j%15));
+    	   }
+  	   	   if ( i < 10){
+  	   	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickCyan, 1, i), ModItems.PressColouredBrick, new ItemStack(ModBlocks.SolidCyan, 1, i));
+  	   		GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColouredBrickCyan, 1, (i+1)%10), new ItemStack(ModBlocks.ColouredBrickCyan, 1, i%10));
   	   	   }
        }
     	

@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/dottedgray-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/dotted/dottedgray-14"}}]
   }
 }

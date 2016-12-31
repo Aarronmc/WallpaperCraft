@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/fancytilesyellow-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/fancytiles/fancytilesyellow-14"}}]
   }
 }

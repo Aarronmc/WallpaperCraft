@@ -32,6 +32,7 @@ item.pressdamask.name=Damask Pattern Press
 item.pressjewel.name=Jewel Pattern Press
 item.pressauralamp.name=Aura Lamp Pattern Press
 item.pressfancytiles.name=Fancy Tiles Pattern Press
+item.presscolouredbrick.name=Colored Brick Pattern Press
 
 
 
@@ -2478,6 +2479,165 @@ tile.StoneBrickGray_11.name=Stone Brick Cool Gray
 tile.StoneBrickGray_12.name=Stone Brick Dark Cool Gray
 tile.StoneBrickGray_13.name=Stone Brick Cool Blue Gray
 tile.StoneBrickGray_14.name=Stone Brick Cool Dark Blue Gray
+
+
+
+
+
+
+
+
+######################################################################
+###########												   ###########
+###########   STARTING NAMING OF COLOURED BRICK BLOCKS     ###########
+###########									     	       ###########
+######################################################################
+
+
+#Coloured Brick Red Colours
+tile.ColouredBrickRed_0.name=Colored Brick Light Warm Pink
+tile.ColouredBrickRed_1.name=Colored Brick Light Red
+tile.ColouredBrickRed_2.name=Colored Brick Bright Red
+tile.ColouredBrickRed_3.name=Colored Brick Red
+tile.ColouredBrickRed_4.name=Colored Brick Blood Red
+tile.ColouredBrickRed_5.name=Colored Brick Light Cool Pink
+tile.ColouredBrickRed_6.name=Colored Brick Pink
+tile.ColouredBrickRed_7.name=Colored Brick Hot Pink
+tile.ColouredBrickRed_8.name=Colored Brick Dark Pink
+tile.ColouredBrickRed_9.name=Colored Brick Fuchsia
+tile.ColouredBrickRed_10.name=Colored Brick Baby Pink
+tile.ColouredBrickRed_11.name=Colored Brick Light Salmon Red
+tile.ColouredBrickRed_12.name=Colored Brick Salmon Red
+tile.ColouredBrickRed_13.name=Colored Brick Brown Red
+tile.ColouredBrickRed_14.name=Colored Brick Dark Brown Red
+
+
+
+#Coloured Brick Purple Colours
+tile.ColouredBrickPurple_0.name=Colored Brick Light Magenta
+tile.ColouredBrickPurple_1.name=Colored Brick Magenta
+tile.ColouredBrickPurple_2.name=Colored Brick Dark Magenta
+tile.ColouredBrickPurple_3.name=Colored Brick Violet
+tile.ColouredBrickPurple_4.name=Colored Brick Dark Violet
+tile.ColouredBrickPurple_5.name=Colored Brick Light Violet
+tile.ColouredBrickPurple_6.name=Colored Brick Light Purple
+tile.ColouredBrickPurple_7.name=Colored Brick Purple
+tile.ColouredBrickPurple_8.name=Colored Brick Dark Purple
+tile.ColouredBrickPurple_9.name=Colored Brick Royal Blue
+tile.ColouredBrickPurple_10.name=Colored Brick Light Lavender
+tile.ColouredBrickPurple_11.name=Colored Brick Lavender
+tile.ColouredBrickPurple_12.name=Colored Brick Azure Blue
+tile.ColouredBrickPurple_13.name=Colored Brick Dark Blue
+tile.ColouredBrickPurple_14.name=Colored Brick Midnight Blue
+
+
+
+#Coloured Brick Blue Colours
+tile.ColouredBrickBlue_0.name=Colored Brick Light Blue
+tile.ColouredBrickBlue_1.name=Colored Brick Light Sky Blue
+tile.ColouredBrickBlue_2.name=Colored Brick Sky Blue
+tile.ColouredBrickBlue_3.name=Colored Brick Dark Sky Blue
+tile.ColouredBrickBlue_4.name=Colored Brick Navy Blue
+tile.ColouredBrickBlue_5.name=Colored Brick Light Baby Blue
+tile.ColouredBrickBlue_6.name=Colored Brick Baby Blue
+tile.ColouredBrickBlue_7.name=Colored Brick Bright Blue
+tile.ColouredBrickBlue_8.name=Colored Brick Medium Blue
+tile.ColouredBrickBlue_9.name=Colored Brick Deep Blue
+tile.ColouredBrickBlue_10.name=Colored Brick Light Aqua Blue
+tile.ColouredBrickBlue_11.name=Colored Brick Aqua Blue
+tile.ColouredBrickBlue_12.name=Colored Brick Dark Aqua Blue
+tile.ColouredBrickBlue_13.name=Colored Brick Ocean Blue
+tile.ColouredBrickBlue_14.name=Colored Brick Midnight Blue
+
+
+
+#Coloured Brick Brown Colours
+tile.ColouredBrickBrown_0.name=Colored Brick Soft Orange
+tile.ColouredBrickBrown_1.name=Colored Brick Sienna brown
+tile.ColouredBrickBrown_2.name=Colored Brick Burnt Sienna Brown
+tile.ColouredBrickBrown_3.name=Colored Brick Earth Brown
+tile.ColouredBrickBrown_4.name=Colored Brick Soil Brown
+tile.ColouredBrickBrown_5.name=Colored Brick Light Beige
+tile.ColouredBrickBrown_6.name=Colored Brick Beige
+tile.ColouredBrickBrown_7.name=Colored Brick Terracotta Red
+tile.ColouredBrickBrown_8.name=Colored Brick Brown
+tile.ColouredBrickBrown_9.name=Colored Brick Saddle Brown
+tile.ColouredBrickBrown_10.name=Colored Brick Light Gray Brown
+tile.ColouredBrickBrown_11.name=Colored Brick Gray Brown
+tile.ColouredBrickBrown_12.name=Colored Brick Middle Gray Brown
+tile.ColouredBrickBrown_13.name=Colored Brick Gray Brown
+tile.ColouredBrickBrown_14.name=Colored Brick Dark Gray Brown
+
+
+
+#Coloured Brick Cyan Colours
+tile.ColouredBrickCyan_0.name=Colored Brick Light Green Blue
+tile.ColouredBrickCyan_1.name=Colored Brick Light Turquoise Blue
+tile.ColouredBrickCyan_2.name=Colored Brick Turquoise Blue
+tile.ColouredBrickCyan_3.name=Colored Brick Teal Blue
+tile.ColouredBrickCyan_4.name=Colored Brick Dark Teal Blue
+tile.ColouredBrickCyan_5.name=Colored Brick Light Seafoam Blue Green
+tile.ColouredBrickCyan_6.name=Colored Brick Seafoam Blue Green
+tile.ColouredBrickCyan_7.name=Colored Brick Blue Green
+tile.ColouredBrickCyan_8.name=Colored Brick Dark Blue Green
+tile.ColouredBrickCyan_9.name=Colored Brick Dark Pine Blue Green
+
+
+
+#Coloured Brick Green Colours
+tile.ColouredBrickGreen_0.name=Colored Brick Light Green
+tile.ColouredBrickGreen_1.name=Colored Brick Light Spring Green
+tile.ColouredBrickGreen_2.name=Colored Brick Spring Green
+tile.ColouredBrickGreen_3.name=Colored Brick Green
+tile.ColouredBrickGreen_4.name=Colored Brick Dark Green
+tile.ColouredBrickGreen_5.name=Colored Brick Light Summer Green
+tile.ColouredBrickGreen_6.name=Colored Brick Summer Green
+tile.ColouredBrickGreen_7.name=Colored Brick Lush Green
+tile.ColouredBrickGreen_8.name=Colored Brick Deep Lush Green
+tile.ColouredBrickGreen_9.name=Colored Brick Dark Lush Green
+tile.ColouredBrickGreen_10.name=Colored Brick Light Spring Green
+tile.ColouredBrickGreen_11.name=Colored Brick Spring Green
+tile.ColouredBrickGreen_12.name=Colored Brick Light Olive Green
+tile.ColouredBrickGreen_13.name=Colored Brick Olive Green
+tile.ColouredBrickGreen_14.name=Colored Brick Moss Green
+
+
+
+#Coloured Brick Yellow Colours
+tile.ColouredBrickYellow_0.name=Colored Brick Light Lemon Yellow
+tile.ColouredBrickYellow_1.name=Colored Brick Lemon Yellow
+tile.ColouredBrickYellow_2.name=Colored Brick Sunny Yellow
+tile.ColouredBrickYellow_3.name=Colored Brick Soft Yellow
+tile.ColouredBrickYellow_4.name=Colored Brick Orange Yellow
+tile.ColouredBrickYellow_5.name=Colored Brick Light Sand Yellow
+tile.ColouredBrickYellow_6.name=Colored Brick Light Yellow
+tile.ColouredBrickYellow_7.name=Colored Brick Yellow
+tile.ColouredBrickYellow_8.name=Colored Brick Gold Yellow
+tile.ColouredBrickYellow_9.name=Colored Brick Dark Orange
+tile.ColouredBrickYellow_10.name=Colored Brick Light Orange
+tile.ColouredBrickYellow_11.name=Colored Brick Sunny Orange
+tile.ColouredBrickYellow_12.name=Colored Brick Orange
+tile.ColouredBrickYellow_13.name=Colored Brick Deep Orange
+tile.ColouredBrickYellow_14.name=Colored Brick Orange Red
+
+
+
+#Coloured Brick Gray Colours
+tile.ColouredBrickGray_0.name=Colored Brick White Gray
+tile.ColouredBrickGray_1.name=Colored Brick Light Gray
+tile.ColouredBrickGray_2.name=Colored Brick Gray
+tile.ColouredBrickGray_3.name=Colored Brick Dark Gray
+tile.ColouredBrickGray_4.name=Colored Brick Gray Black
+tile.ColouredBrickGray_5.name=Colored Brick Light Warm Gray
+tile.ColouredBrickGray_6.name=Colored Brick Warm Gray
+tile.ColouredBrickGray_7.name=Colored Brick Middle Warm Gray
+tile.ColouredBrickGray_8.name=Colored Brick Dark Warm Gray
+tile.ColouredBrickGray_9.name=Colored Brick Warm Black Gray
+tile.ColouredBrickGray_10.name=Colored Brick Light Cool gray
+tile.ColouredBrickGray_11.name=Colored Brick Cool Gray
+tile.ColouredBrickGray_12.name=Colored Brick Dark Cool Gray
+tile.ColouredBrickGray_13.name=Colored Brick Cool Blue Gray
+tile.ColouredBrickGray_14.name=Colored Brick Cool Dark Blue Gray
 
 
 

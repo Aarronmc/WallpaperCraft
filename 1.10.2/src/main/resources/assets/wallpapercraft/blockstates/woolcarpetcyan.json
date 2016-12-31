@@ -7,15 +7,15 @@
     "variants": {
 		"inventory": [{}],
 		"normal": [{}],
-    	"type=0": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-0", "particle": "#wool" } }],
-    	"type=1": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-1", "particle": "#wool" } }],
-    	"type=2": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-2", "particle": "#wool" } }],
-    	"type=3": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-3", "particle": "#wool" } }],
-    	"type=4": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-4", "particle": "#wool" } }],
-    	"type=5": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-5", "particle": "#wool" } }],
-    	"type=6": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-6", "particle": "#wool" } }],
-		"type=7": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-7", "particle": "#wool" } }],
-		"type=8": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-8", "particle": "#wool" } }],
-		"type=9": [{ "textures": { "wool": "wallpapercraft:blocks/woolcyan-9", "particle": "#wool" } }]
+    	"type=0": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-0", "particle": "#wool" } }],
+    	"type=1": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-1", "particle": "#wool" } }],
+    	"type=2": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-2", "particle": "#wool" } }],
+    	"type=3": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-3", "particle": "#wool" } }],
+    	"type=4": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-4", "particle": "#wool" } }],
+    	"type=5": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-5", "particle": "#wool" } }],
+    	"type=6": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-6", "particle": "#wool" } }],
+		"type=7": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-7", "particle": "#wool" } }],
+		"type=8": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-8", "particle": "#wool" } }],
+		"type=9": [{ "textures": { "wool": "wallpapercraft:blocks/wool/woolcyan-9", "particle": "#wool" } }]
     	}
 } 

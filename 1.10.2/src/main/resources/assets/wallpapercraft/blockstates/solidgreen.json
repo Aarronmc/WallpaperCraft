@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/solidgreen-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/solid/solidgreen-14"}}]
   }
 }

@@ -1,0 +1,24 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/colouredbrick/colouredbrickyellow-14"}}]
+  }
+}

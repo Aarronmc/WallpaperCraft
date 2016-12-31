@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/rippledpurple-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledpurple-14"}}]
   }
 }

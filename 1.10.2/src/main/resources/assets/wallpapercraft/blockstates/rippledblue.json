@@ -5,20 +5,20 @@
     "transform": "forge:default-block"
   },
   "variants": {
-      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-0" }}],
-      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-1"}}],
-      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-2"}}],
-      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-3"}}],
-      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-4"}}],
-      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-5"}}],
-      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-6"}}],
-      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-7"}}],
-      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-8"}}],
-      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-9"}}],
-      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-10"}}],
-      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-11"}}],
-      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-12"}}],
-      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-13"}}],
-      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/rippledblue-14"}}]
+      "type=0": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-0" }}],
+      "type=1": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-1"}}],
+      "type=2": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-2"}}],
+      "type=3": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-3"}}],
+      "type=4": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-4"}}],
+      "type=5": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-5"}}],
+      "type=6": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-6"}}],
+      "type=7": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-7"}}],
+      "type=8": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-8"}}],
+      "type=9": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-9"}}],
+      "type=10": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-10"}}],
+      "type=11": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-11"}}],
+      "type=12": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-12"}}],
+      "type=13": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-13"}}],
+      "type=14": [{ "textures": { "all":  "wallpapercraft:blocks/rippled/rippledblue-14"}}]
   }
 }

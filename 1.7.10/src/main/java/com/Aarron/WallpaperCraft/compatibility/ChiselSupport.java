@@ -147,6 +147,15 @@ public class ChiselSupport {
 		addToChisle("Stone Brick Brown Blocks", ModBlocks.StoneBrickBrown, 14);
 		addToChisle("Stone Brick Gray Blocks", ModBlocks.StoneBrickGray, 14);
 		
+		addToChisle("Coloured Brick Red Blocks", ModBlocks.ColouredBrickRed, 14);
+		addToChisle("Coloured Brick Purple Blocks", ModBlocks.ColouredBrickPurple, 14);
+		addToChisle("Coloured Brick Blue Blocks", ModBlocks.ColouredBrickBlue, 14);
+		addToChisle("Coloured Brick Cyan Blocks", ModBlocks.ColouredBrickCyan, 9);
+		addToChisle("Coloured Brick Green Blocks", ModBlocks.ColouredBrickGreen, 14);
+		addToChisle("Coloured Brick Yellow Blocks", ModBlocks.ColouredBrickYellow, 14);
+		addToChisle("Coloured Brick Brown Blocks", ModBlocks.ColouredBrickBrown, 14);
+		addToChisle("Coloured Brick Gray Blocks", ModBlocks.ColouredBrickGray, 14);
+		
 		addToChisle("Stone Lamp Red Blocks", ModBlocks.StoneLampRed, 14);
 		addToChisle("Stone Lamp Purple Blocks", ModBlocks.StoneLampPurple, 14);
 		addToChisle("Stone Lamp Blue Blocks", ModBlocks.StoneLampBlue, 14);
