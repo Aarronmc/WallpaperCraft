@@ -12,6 +12,7 @@ public class ConfigHandler {
 
     // This values below you can access elsewhere in your mod:
     public static boolean enableChisel = true;
+  //  public static boolean enableForestry = true;
     public static boolean hidefromJEI = false;
     
 /*	Enable once you have time to stop blocks being registered.
@@ -46,6 +47,7 @@ public class ConfigHandler {
         cfg.addCustomCategoryComment(MOD_INTEGRATION, "These options will allow you to decide how WallpaperCraft interacts with other mods.");
         // cfg.getBoolean() will get the value in the config if it is already specified there. If not it will create the value.
         enableChisel = cfg.getBoolean("enableChisel", MOD_INTEGRATION, true, "Setting this to false will dissable Chisel integration.");
+   //     enableForestry = cfg.getBoolean("enableForestry", MOD_INTEGRATION, true, "Setting this to false will disable all of the Forestry decorative blocks WallpaperCraft added.");
         hidefromJEI = cfg.getBoolean("hidefromJEI", MOD_INTEGRATION, false, "Setting this to true will hide all WallpaperCraft sub colours and will"
       + " only show the first colour option for each block(note these will still be available in the creative inventory and will still be craftable).");
         

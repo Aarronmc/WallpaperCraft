@@ -14,7 +14,7 @@ import Aarron.WallpaperCraft.handler.EventHandler;
 import Aarron.WallpaperCraft.handler.PacketHandler;
 import Aarron.WallpaperCraft.init.ModBlocks;
 import Aarron.WallpaperCraft.init.ModItems;
-import Aarron.WallpaperCraft.init.Recipies;
+import Aarron.WallpaperCraft.recipes.Recipies;
 
 public class CommonProxy {
 	
@@ -30,6 +30,12 @@ public class CommonProxy {
 	    			ChiselSupport.init();}
 	        else System.out.print("Install Chisel and set 'enableChisel' to true in the WallpaperCraft config file to enable Chisel intergration ");    			   		
 	    		}
+	    
+	//    if (ConfigHandler.enableForestry == true){
+    //		if (Loader.isModLoaded("forestry")){
+    //			ChiselSupport.init();}
+    //    else System.out.print("Install Chisel and set 'enableChisel' to true in the WallpaperCraft config file to enable Chisel intergration ");    			   		
+    //		}
 				
 		ModBlocks.init();
 		ModItems.init();

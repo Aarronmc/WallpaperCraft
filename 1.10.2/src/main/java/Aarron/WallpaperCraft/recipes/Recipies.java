@@ -1,4 +1,4 @@
-package Aarron.WallpaperCraft.init;
+package Aarron.WallpaperCraft.recipes;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
@@ -776,7 +776,15 @@ public class Recipies {
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGreen, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampGreen, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidYellow, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampYellow, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBrown, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampBrown, 1, j));
-    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampGray, 1, j)
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.AuraLampGray, 1, j));
+    	
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidRed, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickRed, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidPurple, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickPurple, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBlue, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickBlue, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGreen, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickGreen, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidYellow, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickYellow, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidBrown, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickBrown, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidGray, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickGray, 1, j)
     	
     			);}
     	
@@ -788,6 +796,7 @@ public class Recipies {
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.DamaskCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ClayCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.BrickCyan, 1, j));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.ColouredBrickCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.StoneBrickCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.StoneLampCyan, 1, j));
     	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.SolidCyan, 1, j), new ItemStack (ModItems.PressBlank.setContainerItem(ModItems.PressBlank)), new ItemStack(ModBlocks.RippledCyan, 1, j));

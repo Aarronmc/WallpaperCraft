@@ -1,4 +1,4 @@
-package Aarron.WallpaperCraft.blocks.FancyTiles;
+package Aarron.WallpaperCraft.blocks.fancytiles;
 
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
