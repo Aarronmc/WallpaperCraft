@@ -16,7 +16,7 @@ public class PressBlank extends Item {
     public PressBlank() {
         setRegistryName("pressblank");
         setUnlocalizedName("pressblank");
-        setContainerItem(this);
+       // setContainerItem(this);
         GameRegistry.register(this);
     }
 

@@ -1,21 +1,12 @@
 package Aarron.WallpaperCraft.init;
 
 
-import net.minecraft.block.Block;
-import net.minecraft.block.material.Material;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.oredict.OreDictionary;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesBlue;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesBrown;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesCyan;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesGray;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesGreen;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesPurple;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesRed;
-import Aarron.WallpaperCraft.blocks.FancyTiles.FancyTilesYellow;
+import Aarron.WallpaperCraft.blocks.FancyTiles.*;
 import Aarron.WallpaperCraft.blocks.bricks.*;
 import Aarron.WallpaperCraft.blocks.carpets.*;
 import Aarron.WallpaperCraft.blocks.clay.*;
@@ -23,7 +14,7 @@ import Aarron.WallpaperCraft.blocks.damask.*;
 import Aarron.WallpaperCraft.blocks.dotted.*;
 import Aarron.WallpaperCraft.blocks.floral.*;
 import Aarron.WallpaperCraft.blocks.glass.*;
-import Aarron.WallpaperCraft.blocks.jewel.*;
+import Aarron.WallpaperCraft.blocks.jewel.Jewel;
 import Aarron.WallpaperCraft.blocks.lamps.*;
 import Aarron.WallpaperCraft.blocks.planks.*;
 import Aarron.WallpaperCraft.blocks.rippled.*;
@@ -31,7 +22,6 @@ import Aarron.WallpaperCraft.blocks.solid.*;
 import Aarron.WallpaperCraft.blocks.stamp.Stamp;
 import Aarron.WallpaperCraft.blocks.striped.*;
 import Aarron.WallpaperCraft.blocks.wool.*;
-
 
 
 public class ModBlocks {
@@ -240,12 +230,7 @@ public class ModBlocks {
 	public static CheckeredCarpetYellow CheckeredCarpetYellow = new CheckeredCarpetYellow();
 	public static CheckeredCarpetBrown CheckeredCarpetBrown = new CheckeredCarpetBrown();
 	public static CheckeredCarpetGray CheckeredCarpetGray = new CheckeredCarpetGray();
-	
-	
-
-
-	
-	
+		
 	
 
 
@@ -453,6 +438,7 @@ public class ModBlocks {
 		CheckeredCarpetYellow.initModel();
 		CheckeredCarpetBrown.initModel();
 		CheckeredCarpetGray.initModel();
+		
 
 		
 
@@ -662,8 +648,7 @@ public class ModBlocks {
 		GameRegistry.register(CheckeredCarpetGray);
 		
 				
-		
-		
+				
 		
 		//OreDict Registration.
         OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidRed, 1, OreDictionary.WILDCARD_VALUE));
@@ -676,6 +661,7 @@ public class ModBlocks {
         OreDictionary.registerOre("solidWPBlocks", new ItemStack(SolidGray, 1, OreDictionary.WILDCARD_VALUE));
 
 		
+        
 
 	}
 }
